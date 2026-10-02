@@ -1,0 +1,522 @@
+{
+  "passed": 103,
+  "total": 103,
+  "checks": [
+    {
+      "check": "Unique CAD item identifiers",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Hand heater absent by project requirement",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Fabric flap has no rigid arch",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "All 24 R04 exterior/lining source grids retained",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "STEP round-trip: STEP_cavity",
+      "pass": true,
+      "detail": "24 solids, 352 faces; surfaces are also present"
+    },
+    {
+      "check": "STEP round-trip: STEP_closed",
+      "pass": true,
+      "detail": "135 solids, 917 faces; surfaces are also present"
+    },
+    {
+      "check": "STEP round-trip: STEP_exit",
+      "pass": true,
+      "detail": "133 solids, 904 faces; surfaces are also present"
+    },
+    {
+      "check": "STEP round-trip: STEP_frame",
+      "pass": true,
+      "detail": "23 solids, 305 faces; surfaces are also present"
+    },
+    {
+      "check": "STEP round-trip: STEP_interior",
+      "pass": true,
+      "detail": "122 solids, 845 faces; surfaces are also present"
+    },
+    {
+      "check": "STEP round-trip: STEP_rolled",
+      "pass": true,
+      "detail": "135 solids, 917 faces; surfaces are also present"
+    },
+    {
+      "check": "STEP round-trip: STEP_sleep",
+      "pass": true,
+      "detail": "3 solids, 56 faces; surfaces are also present"
+    },
+    {
+      "check": "DXF R05_NEW_PANELS_REVIEW_LAYOUT.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF P01_BACK_TOP_LINING.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF P02_PELVIS_TOP_LINING.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF P03_LEG_TOP_LINING.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF Q01_CENTRE_BATTING.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF Q01_CENTRE_LINING.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF Q01_CENTRE_OUTER.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF Q01_WING_L_BATTING.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF Q01_WING_L_LINING.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF Q01_WING_L_OUTER.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF Q01_WING_R_BATTING.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF Q01_WING_R_LINING.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF Q01_WING_R_OUTER.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF Q02_SIDE_L_BATTING.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF Q02_SIDE_L_LINING.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF Q02_SIDE_L_OUTER.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF Q02_SIDE_R_BATTING.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF Q02_SIDE_R_LINING.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF Q02_SIDE_R_OUTER.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF Q03_KEYBOARD_FLAP_BATTING.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF Q03_KEYBOARD_FLAP_LINING.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF Q03_KEYBOARD_FLAP_OUTER.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF Q04_LOWER_QUILT_BATTING.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF Q04_LOWER_QUILT_LINING.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF Q04_LOWER_QUILT_OUTER.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF SLEEVE_C1_UPPER.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF SLEEVE_C1_UPRIGHT.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF SLEEVE_C2_UPPER.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF SLEEVE_C2_UPRIGHT.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF SLEEVE_F_BACK_CROSS.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF SLEEVE_F_BACK_LOWER_LINK_-1.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF SLEEVE_F_BACK_LOWER_LINK_1.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF SLEEVE_F_BACK_LOWER_STUB_-1.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF SLEEVE_F_BACK_LOWER_STUB_1.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF SLEEVE_F_BACK_PROP_-1.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF SLEEVE_F_BACK_PROP_1.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF SLEEVE_F_BACK_RAIL_-1.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "DXF SLEEVE_F_BACK_RAIL_1.dxf",
+      "pass": true,
+      "detail": "units mm; no audit errors or automatic fixes"
+    },
+    {
+      "check": "SVG parse main_wrap_layout.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse P01_BACK_TOP_LINING.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse P02_PELVIS_TOP_LINING.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse P03_LEG_TOP_LINING.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse Q01_CENTRE_BATTING.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse Q01_CENTRE_LINING.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse Q01_CENTRE_OUTER.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse Q01_WING_L_BATTING.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse Q01_WING_L_LINING.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse Q01_WING_L_OUTER.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse Q01_WING_R_BATTING.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse Q01_WING_R_LINING.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse Q01_WING_R_OUTER.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse Q02_SIDE_L_BATTING.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse Q02_SIDE_L_LINING.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse Q02_SIDE_L_OUTER.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse Q02_SIDE_R_BATTING.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse Q02_SIDE_R_LINING.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse Q02_SIDE_R_OUTER.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse Q03_KEYBOARD_FLAP_BATTING.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse Q03_KEYBOARD_FLAP_LINING.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse Q03_KEYBOARD_FLAP_OUTER.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse Q04_LOWER_QUILT_BATTING.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse Q04_LOWER_QUILT_LINING.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse Q04_LOWER_QUILT_OUTER.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse SLEEVE_C1_UPPER.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse SLEEVE_C1_UPRIGHT.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse SLEEVE_C2_UPPER.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse SLEEVE_C2_UPRIGHT.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse SLEEVE_F_BACK_CROSS.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse SLEEVE_F_BACK_LOWER_LINK_-1.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse SLEEVE_F_BACK_LOWER_LINK_1.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse SLEEVE_F_BACK_LOWER_STUB_-1.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse SLEEVE_F_BACK_LOWER_STUB_1.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse SLEEVE_F_BACK_PROP_-1.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse SLEEVE_F_BACK_PROP_1.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse SLEEVE_F_BACK_RAIL_-1.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG parse SLEEVE_F_BACK_RAIL_1.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Reference gaze: flap rolled",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Reference gaze: flap closed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Nine static bare-body/rigid clearance samples positive",
+      "pass": true,
+      "detail": "Not swept continuous motion, padding clearance, or an ability-to-stand proof"
+    },
+    {
+      "check": "C top connections originate on occupant left",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "No C upright on occupant right",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Rigid axes confined to central x region",
+      "pass": true,
+      "detail": "Bounds concern member axes, not the full padded or fabric envelope"
+    },
+    {
+      "check": "Seam S1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Seam S2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Seam S3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Seam S4",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Seam S5",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Discrete developable edge metric",
+      "pass": true,
+      "detail": "Discrete numerical metric only, not an actual fabric or sewing tolerance"
+    },
+    {
+      "check": "Old outer shell patterns NOT released",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Gravity projection, parked, laptop 0 kg",
+      "pass": true,
+      "detail": "On rigid flat support polygon, not on deforming cushion"
+    },
+    {
+      "check": "Gravity projection, parked, laptop 2.5 kg",
+      "pass": true,
+      "detail": "On rigid flat support polygon, not on deforming cushion"
+    },
+    {
+      "check": "Rear/keyboard flap no electrical parts",
+      "pass": true,
+      "detail": ""
+    }
+  ],
+  "scope": "Digital output consistency only; no load, thermal, clinical, filler, or sewing trial."
+}

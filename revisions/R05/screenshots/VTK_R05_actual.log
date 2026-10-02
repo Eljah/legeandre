@@ -1,0 +1,2 @@
+/tmp/tmp8oz0iw7p/R05/source/render_r05.py:27: DeprecationWarning: Call to deprecated method AddActor2D. (Use AddViewProp() instead.) -- Deprecated since version 9.5.0.
+  t=vtk.vtkTextActor();t.SetInput(txt);p=t.GetTextProperty();p.SetFontFamily(vtk.VTK_FONT_FILE);p.SetFontFile(FONT);p.SetFontSize(size);p.SetColor(*color);t.SetPosition(x,y);r.AddActor2D(t);return t
