@@ -1,0 +1,16 @@
+{
+  "part_ids": [
+    "Q01_SHOULDER_BODY",
+    "Q02_SHOULDER_BODY",
+    "Q03_SHOULDER_BODY",
+    "Q04_KEYBOARD_CLOSED",
+    "Q05_LEG_CONTINUATION",
+    "Q06_LEG_CONTINUATION",
+    "Q07_LEG_CONTINUATION",
+    "Q08_LEG_CONTINUATION"
+  ],
+  "valid_after_import": true,
+  "solids": 9,
+  "faces": 54,
+  "file_bytes": 9673780
+}

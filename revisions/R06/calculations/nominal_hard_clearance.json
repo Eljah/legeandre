@@ -1,0 +1,25 @@
+{
+  "minimum_body_to_frame_or_tray_mm": 46.260668737949544,
+  "body_parts": [
+    "M_TORSO",
+    "M_PELVIS",
+    "M_HEAD",
+    "M_THIGH-1",
+    "M_SHIN-1",
+    "M_THIGH1",
+    "M_SHIN1"
+  ],
+  "hard_parts": [
+    "TRAY_VENTED",
+    "D_BASE_LONG_-1",
+    "D_BASE_LONG_1",
+    "D_BASE_CROSS_955.0",
+    "D_BASE_CROSS_1565.0",
+    "D_BASE_CROSS_1120",
+    "D_C1_LEFT_COLUMN",
+    "D_C1_CANTILEVER",
+    "D_C2_LEFT_COLUMN",
+    "D_C2_CANTILEVER"
+  ],
+  "scope": "Single nominal posture only; excludes hands on keyboard, deformed filler, joints under load and exit motion."
+}

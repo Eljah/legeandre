@@ -1,0 +1,71 @@
+[
+  {
+    "height_mm": 1600,
+    "population_percentile": "not asserted",
+    "hip_angle_deg": 120.0,
+    "elbow_angle_deg": 103.27014295042045,
+    "forearm_up_deg": 16.0,
+    "keyboard_wrist_plane_z_mm": 429.1917518495145,
+    "tabletop_at_wrist_z_mm": 393.1917518495145,
+    "eye_to_screen_center_mm": 572.1448683619177,
+    "screen_down_from_horizontal_deg": 20.675909120412843,
+    "screen_down_from_neutral_head_deg": 35.67590912041284,
+    "head_forward_rotation_relative_torso_deg": 20.0,
+    "eyes_mm": [
+      834.719227758252,
+      0.0,
+      813.0525834298636
+    ],
+    "wrist_mm": [
+      1114.636010582203,
+      0.0,
+      429.1917518495145
+    ]
+  },
+  {
+    "height_mm": 1800,
+    "population_percentile": "not asserted",
+    "hip_angle_deg": 120.0,
+    "elbow_angle_deg": 103.27014295042045,
+    "forearm_up_deg": 16.0,
+    "keyboard_wrist_plane_z_mm": 457.2157208307037,
+    "tabletop_at_wrist_z_mm": 421.2157208307037,
+    "eye_to_screen_center_mm": 622.6733679963885,
+    "screen_down_from_horizontal_deg": 23.671281969609232,
+    "screen_down_from_neutral_head_deg": 38.67128196960923,
+    "head_forward_rotation_relative_torso_deg": 20.0,
+    "eyes_mm": [
+      807.8091312280335,
+      0.0,
+      889.0591563585964
+    ],
+    "wrist_mm": [
+      1122.7155119049783,
+      0.0,
+      457.2157208307037
+    ]
+  },
+  {
+    "height_mm": 2000,
+    "population_percentile": "not asserted",
+    "hip_angle_deg": 120.0,
+    "elbow_angle_deg": 103.27014295042045,
+    "forearm_up_deg": 16.0,
+    "keyboard_wrist_plane_z_mm": 485.2396898118931,
+    "tabletop_at_wrist_z_mm": 449.2396898118931,
+    "eye_to_screen_center_mm": 674.6463521802053,
+    "screen_down_from_horizontal_deg": 26.211231734963857,
+    "screen_down_from_neutral_head_deg": 41.21123173496386,
+    "head_forward_rotation_relative_torso_deg": 20.0,
+    "eyes_mm": [
+      780.8990346978151,
+      0.0,
+      965.0657292873295
+    ],
+    "wrist_mm": [
+      1130.7950132277535,
+      0.0,
+      485.2396898118931
+    ]
+  }
+]

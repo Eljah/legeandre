@@ -1,0 +1,35 @@
+[
+  {
+    "mass_kg": 60,
+    "assumed_torso_fraction": 0.6,
+    "back_normal_N": 202.56425426173547,
+    "pelvis_and_lower_support_vertical_N": 472.4139169084466,
+    "pelvic_horizontal_resistance_N": 165.93092297837572,
+    "back_tangential_transfer_N": 289.29173596110036,
+    "back_mean_pressure_kPa": 0.8769015336005864,
+    "pelvis_mean_pressure_kPa": 2.959986948047911,
+    "scope": "Simplified static partition, no measured pressure map. Some leg load is conservatively assigned to pelvis."
+  },
+  {
+    "mass_kg": 90,
+    "assumed_torso_fraction": 0.6,
+    "back_normal_N": 303.8463813926032,
+    "pelvis_and_lower_support_vertical_N": 708.62087536267,
+    "pelvic_horizontal_resistance_N": 248.89638446756356,
+    "back_tangential_transfer_N": 433.93760394165054,
+    "back_mean_pressure_kPa": 1.3153523004008796,
+    "pelvis_mean_pressure_kPa": 4.439980422071867,
+    "scope": "Simplified static partition, no measured pressure map. Some leg load is conservatively assigned to pelvis."
+  },
+  {
+    "mass_kg": 120,
+    "assumed_torso_fraction": 0.6,
+    "back_normal_N": 405.12850852347094,
+    "pelvis_and_lower_support_vertical_N": 944.8278338168932,
+    "pelvic_horizontal_resistance_N": 331.86184595675144,
+    "back_tangential_transfer_N": 578.5834719222007,
+    "back_mean_pressure_kPa": 1.7538030672011728,
+    "pelvis_mean_pressure_kPa": 5.919973896095822,
+    "scope": "Simplified static partition, no measured pressure map. Some leg load is conservatively assigned to pelvis."
+  }
+]
