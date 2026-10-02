@@ -1,0 +1,48 @@
+{
+  "method": "VTK triangle intersection of nominal uncompressed sleeve surfaces and tucked-arm mannequin",
+  "poses": [
+    {
+      "lateral_shift_mm": 0,
+      "intersecting_surface_pairs": []
+    },
+    {
+      "lateral_shift_mm": 100,
+      "intersecting_surface_pairs": []
+    },
+    {
+      "lateral_shift_mm": 200,
+      "intersecting_surface_pairs": []
+    },
+    {
+      "lateral_shift_mm": 300,
+      "intersecting_surface_pairs": [
+        [
+          "PAD_F_BACK_LOWER_LINK_1",
+          "EXIT_PELVIS"
+        ]
+      ]
+    },
+    {
+      "lateral_shift_mm": 400,
+      "intersecting_surface_pairs": []
+    },
+    {
+      "lateral_shift_mm": 500,
+      "intersecting_surface_pairs": []
+    },
+    {
+      "lateral_shift_mm": 600,
+      "intersecting_surface_pairs": []
+    },
+    {
+      "lateral_shift_mm": 700,
+      "intersecting_surface_pairs": []
+    },
+    {
+      "lateral_shift_mm": 800,
+      "intersecting_surface_pairs": []
+    }
+  ],
+  "status": "Only positive intersection findings are established. Absence of contacts is not a continuous swept-volume or a physiological validation.",
+  "requires": "Real padding compression / folding / clearance fit check"
+}

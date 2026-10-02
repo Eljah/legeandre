@@ -1,0 +1,14 @@
+/opt/pyvenv/lib/python3.13/site-packages/cadquery/utils.py:82: FutureWarning: save will be removed in the next release.
+  warn(f"{f.__name__} will be removed in the next release.", FutureWarning)
+{
+  "harnesses": 20,
+  "individual_terminated_wires": 32,
+  "all_routes_from_CAD_datums": true,
+  "sleep_routes_recomputed": true,
+  "cut_length_basis": "maximum work/sleep length + 5% + 230 mm",
+  "all_cut_lengths_ge_geometric": true,
+  "minimum_measured_channel_datum_separation_mm": 40.01182843619807,
+  "routing_status": "polyline planning routes; bend radius, shielding, connector SKU, strain relief and wet tests pending",
+  "usb": "buy complete shielded USB/PD cables; do not cut these to the CSV length. Select next longer qualified cable.",
+  "body_battery_status": "retained R01 battery and power boxes moved outside insulation onto floor; not a hot textile pocket"
+}

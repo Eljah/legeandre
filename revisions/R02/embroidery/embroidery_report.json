@@ -1,0 +1,38 @@
+{
+  "source": "approved_logo_crop.png from prior user-approved generated sheet",
+  "nominal_width_mm": 160.0,
+  "actual_sewn_bbox_mm": [
+    158.89999999999998,
+    160.60000000000002
+  ],
+  "thread_colors": 8,
+  "color_changes": 7,
+  "vector_regions": 236,
+  "needle_penetrations": 52197,
+  "trim_requests": 470,
+  "max_stitch_length_limit_mm": 3.5,
+  "tatami_row_spacing_mm": 0.43,
+  "compensation_mm": 0.1,
+  "hoop_required": "usable field at least 170 x 175 mm; nominal 200 x 200 only if machine supports it",
+  "roundtrip": {
+    "dst": {
+      "read_back_ok": true,
+      "needle_positions_identical": true,
+      "needle_penetrations": 52197,
+      "color_changes": 7
+    },
+    "exp": {
+      "read_back_ok": true,
+      "needle_positions_identical": true,
+      "needle_penetrations": 52197,
+      "color_changes": 7
+    }
+  },
+  "physical_sew_out_performed": false,
+  "formats": [
+    "DST",
+    "EXP"
+  ],
+  "inkstitch_extension_executed": false,
+  "notice": "Binary files produced by supplied deterministic digitizer/codec, not by renaming an image. Inkscape SVG edit sources included. DST trim behavior and colors require machine setup."
+}

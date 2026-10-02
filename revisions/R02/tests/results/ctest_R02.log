@@ -1,0 +1,8 @@
+Internal ctest changing into directory: /mnt/data/lezhandr-r02/tests/build
+Test project /mnt/data/lezhandr-r02/tests/build
+    Start 1: safety_core
+1/1 Test #1: safety_core ......................   Passed    0.01 sec
+
+100% tests passed, 0 tests failed out of 1
+
+Total Test time (real) =   0.01 sec

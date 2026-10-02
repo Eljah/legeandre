@@ -1,0 +1,23 @@
+Export closed 164
+/opt/pyvenv/lib/python3.13/site-packages/cadquery/utils.py:82: FutureWarning: save will be removed in the next release.
+  warn(f"{f.__name__} will be removed in the next release.", FutureWarning)
+Export rolled 164
+Export interior 122
+Export frame 21
+Export cavity 49
+Export exit 155
+Export sleep 27
+Egress clearance 0.0 4.945721195970523 ['EXIT_TORSO', 'TRAY_VENTED']
+Egress clearance 40.0 4.945721195970523 ['EXIT_TORSO', 'TRAY_VENTED']
+Egress clearance 80.0 4.945721195970523 ['EXIT_TORSO', 'TRAY_VENTED']
+Egress clearance 120.0 4.945721195970523 ['EXIT_TORSO', 'TRAY_VENTED']
+Egress clearance 160.0 4.945721195970523 ['EXIT_TORSO', 'TRAY_VENTED']
+Egress clearance 200.0 4.945721195970523 ['EXIT_TORSO', 'TRAY_VENTED']
+Egress clearance 240.0 4.945721195970523 ['EXIT_TORSO', 'TRAY_VENTED']
+Egress clearance 280.0 4.945721195970523 ['EXIT_TORSO', 'TRAY_VENTED']
+Egress clearance 320.0 4.950976105598185 ['EXIT_TORSO', 'TRAY_VENTED']
+Egress clearance 360.0 7.271173288979979 ['EXIT_TORSO', 'TRAY_VENTED']
+Egress clearance 400.0 13.89352894835382 ['EXIT_TORSO', 'TRAY_VENTED']
+Egress clearance 440.0 18.343823432193016 ['EXIT_HAND_-1', 'TRAY_VENTED']
+Egress clearance 480.0 19.833942457665902 ['EXIT_HAND_-1', 'TRAY_VENTED']
+Egress clearance 520.0 34.5269986208338 ['EXIT_HAND_-1', 'TRAY_VENTED']

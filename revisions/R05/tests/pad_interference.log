@@ -1,0 +1,11 @@
+0 []
+100 []
+200 []
+300 []
+2026-10-01 09:41:25.603 (   1.256s) [    7FD09508E780]            vtkMath.cxx:778   WARN| vtkMath::Jacobi: Error extracting eigenfunctions
+400 []
+2026-10-01 09:41:25.688 (   1.340s) [    7FD09508E780]            vtkMath.cxx:778   WARN| vtkMath::Jacobi: Error extracting eigenfunctions
+500 []
+600 []
+700 []
+800 []

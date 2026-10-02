@@ -1,0 +1,65 @@
+﻿board,connector,pin,net,function
+A1_4zone_power,J1,1,H12,12V: SAFE / GND / RAW
+A1_4zone_power,J1,2,PGND,12V: SAFE / GND / RAW
+A1_4zone_power,J1,3,RAW12,12V: SAFE / GND / RAW
+A1_4zone_power,J2,1,PWM0,PWM0..3 / GND
+A1_4zone_power,J2,2,PWM1,PWM0..3 / GND
+A1_4zone_power,J2,3,PWM2,PWM0..3 / GND
+A1_4zone_power,J2,4,PWM3,PWM0..3 / GND
+A1_4zone_power,J2,5,GND,PWM0..3 / GND
+A1_4zone_power,JH1,1,HEAT0,Heater Z0
+A1_4zone_power,JH1,2,DRAIN0,Heater Z0
+A1_4zone_power,JH2,1,HEAT1,Heater Z1
+A1_4zone_power,JH2,2,DRAIN1,Heater Z1
+A1_4zone_power,JH3,1,HEAT2,Heater Z2
+A1_4zone_power,JH3,2,DRAIN2,Heater Z2
+A1_4zone_power,JH4,1,HEAT3,Heater Z3
+A1_4zone_power,JH4,2,DRAIN3,Heater Z3
+A2_sensor_watchdog,JN1,1,NTC0,10k B3950 NTC
+A2_sensor_watchdog,JN1,2,GND,10k B3950 NTC
+A2_sensor_watchdog,JA1,1,ADC0,ESP ADC 0
+A2_sensor_watchdog,JA1,2,GND,ESP ADC 0
+A2_sensor_watchdog,JN2,1,NTC1,10k B3950 NTC
+A2_sensor_watchdog,JN2,2,GND,10k B3950 NTC
+A2_sensor_watchdog,JA2,1,ADC1,ESP ADC 1
+A2_sensor_watchdog,JA2,2,GND,ESP ADC 1
+A2_sensor_watchdog,JN3,1,NTC2,10k B3950 NTC
+A2_sensor_watchdog,JN3,2,GND,10k B3950 NTC
+A2_sensor_watchdog,JA3,1,ADC2,ESP ADC 2
+A2_sensor_watchdog,JA3,2,GND,ESP ADC 2
+A2_sensor_watchdog,JN4,1,NTC3,10k B3950 NTC
+A2_sensor_watchdog,JN4,2,GND,10k B3950 NTC
+A2_sensor_watchdog,JA4,1,ADC3,ESP ADC 3
+A2_sensor_watchdog,JA4,2,GND,ESP ADC 3
+A2_sensor_watchdog,JN5,1,NTC4,10k B3950 NTC
+A2_sensor_watchdog,JN5,2,GND,10k B3950 NTC
+A2_sensor_watchdog,JA5,1,ADC4,ESP ADC 4
+A2_sensor_watchdog,JA5,2,GND,ESP ADC 4
+A2_sensor_watchdog,JN6,1,NTC5,10k B3950 NTC
+A2_sensor_watchdog,JN6,2,GND,10k B3950 NTC
+A2_sensor_watchdog,JA6,1,ADC5,ESP ADC 5
+A2_sensor_watchdog,JA6,2,GND,ESP ADC 5
+A2_sensor_watchdog,JN7,1,NTC6,10k B3950 NTC
+A2_sensor_watchdog,JN7,2,GND,10k B3950 NTC
+A2_sensor_watchdog,JA7,1,ADC6,ESP ADC 6
+A2_sensor_watchdog,JA7,2,GND,ESP ADC 6
+A2_sensor_watchdog,JN8,1,NTC7,10k B3950 NTC
+A2_sensor_watchdog,JN8,2,GND,10k B3950 NTC
+A2_sensor_watchdog,JA8,1,ADC7,ESP ADC 7
+A2_sensor_watchdog,JA8,2,GND,ESP ADC 7
+A2_sensor_watchdog,JP1,1,3V3,3V3 / GND / WD / PERMIT
+A2_sensor_watchdog,JP1,2,GND,3V3 / GND / WD / PERMIT
+A2_sensor_watchdog,JP1,3,WD,3V3 / GND / WD / PERMIT
+A2_sensor_watchdog,JP1,4,PERMIT,3V3 / GND / WD / PERMIT
+A2_sensor_watchdog,JK1,1,COIL_PLUS,External K1 coil after NC chain
+A2_sensor_watchdog,JK1,2,COIL_MINUS,External K1 coil after NC chain
+A2_sensor_watchdog,JP2,1,RAW12,RAW12 / GND
+A2_sensor_watchdog,JP2,2,GND,RAW12 / GND
+A2_sensor_watchdog,JV1,1,BAT24,Sense IN / GND
+A2_sensor_watchdog,JV1,2,GND,Sense IN / GND
+A2_sensor_watchdog,JO1,1,BAT_ADC,ESP voltage ADC / GND
+A2_sensor_watchdog,JO1,2,GND,ESP voltage ADC / GND
+A2_sensor_watchdog,JV2,1,RAW12,Sense IN / GND
+A2_sensor_watchdog,JV2,2,GND,Sense IN / GND
+A2_sensor_watchdog,JO2,1,H12_ADC,ESP voltage ADC / GND
+A2_sensor_watchdog,JO2,2,GND,ESP voltage ADC / GND

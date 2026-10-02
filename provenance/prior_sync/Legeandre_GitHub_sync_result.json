@@ -1,0 +1,25 @@
+{
+  "status": "PARTIAL_GITHUB_UPLOAD",
+  "repository": "Eljah/legeandre",
+  "branch": "sync/r01-r06-20261002",
+  "pull_request_url": "https://github.com/Eljah/legeandre/pull/1",
+  "remote_commit": "58e41ccf59d600797559f154038b58cd840c0312",
+  "main_unchanged_commit": "3c057f9c933b3ba29bcdbb439dac2691c2a3780c",
+  "uploaded_files": 14,
+  "full_snapshot_files": 1422,
+  "source_mappings_verified": 1808,
+  "force_push": false,
+  "binary_assets_uploaded": false,
+  "engineering_tests_rerun": false,
+  "powershell_tested_on_windows": false,
+  "complete_zip_bytes": 307687260,
+  "complete_zip_sha256": "8134f9caf39c341baaaef9fe82225f40a9933a5e7410a770a9fb08443e8da29c",
+  "zip_entries": 1429,
+  "zip_integrity_verified": true,
+  "package_manifest_files_verified": 1421,
+  "local_git_staging": {
+    "tracked_files": 1422,
+    "byte_exact_blobs_verified": 1422,
+    "incomplete_snapshot_test_failed_as_expected": true
+  }
+}

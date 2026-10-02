@@ -1,0 +1,21 @@
+Export closed 169
+/opt/pyvenv/lib/python3.13/site-packages/cadquery/utils.py:82: FutureWarning: save will be removed in the next release.
+  warn(f"{f.__name__} will be removed in the next release.", FutureWarning)
+Export rolled 169
+Export interior 125
+Export frame 23
+Export cavity 51
+Export exit 156
+Export sleep 27
+Egress clearance 0.0 44.35999244252314 ['EXIT_PELVIS', 'F_BASE_CROSS_1110']
+Egress clearance 100.0 44.35999244252314 ['EXIT_PELVIS', 'F_BASE_CROSS_1110']
+Egress clearance 200.0 44.35999244252314 ['EXIT_PELVIS', 'F_BASE_CROSS_1110']
+Egress clearance 300.0 37.52851349750873 ['EXIT_PELVIS', 'F_BACK_LOWER_LINK_1']
+Egress clearance 400.0 38.90024746922683 ['EXIT_PELVIS', 'F_BASE_LONG_1']
+Egress clearance 500.0 39.81808276050029 ['EXIT_PELVIS', 'F_BASE_LONG_1']
+Egress clearance 600.0 59.6036430037718 ['EXIT_THIGH_-1', 'F_BASE_LONG_1']
+Egress clearance 700.0 103.34231300985307 ['EXIT_THIGH_-1', 'F_BASE_LONG_1']
+Egress clearance 800.0 179.03763677225533 ['EXIT_THIGH_-1', 'F_BASE_LONG_1']
+ERGO [{'height_mm': 1600, 'population_percentile': 'not asserted', 'hip_angle_deg': 120.0, 'elbow_angle_deg': 103.27014295042045, 'forearm_up_deg': 16.0, 'keyboard_wrist_plane_z_mm': 429.1917518495145, 'tabletop_at_wrist_z_mm': 393.1917518495145, 'eye_to_screen_center_mm': 572.1448683619177, 'screen_down_from_horizontal_deg': 20.675909120412843, 'screen_down_from_neutral_head_deg': 35.67590912041284, 'head_forward_rotation_relative_torso_deg': 20.0, 'eyes_mm': [834.719227758252, 0.0, 813.0525834298636], 'wrist_mm': [1114.636010582203, 0.0, 429.1917518495145]}, {'height_mm': 1800, 'population_percentile': 'not asserted', 'hip_angle_deg': 120.0, 'elbow_angle_deg': 103.27014295042045, 'forearm_up_deg': 16.0, 'keyboard_wrist_plane_z_mm': 457.2157208307037, 'tabletop_at_wrist_z_mm': 421.2157208307037, 'eye_to_screen_center_mm': 622.6733679963885, 'screen_down_from_horizontal_deg': 23.671281969609232, 'screen_down_from_neutral_head_deg': 38.67128196960923, 'head_forward_rotation_relative_torso_deg': 20.0, 'eyes_mm': [807.8091312280335, 0.0, 889.0591563585964], 'wrist_mm': [1122.7155119049783, 0.0, 457.2157208307037]}, {'height_mm': 2000, 'population_percentile': 'not asserted', 'hip_angle_deg': 120.0, 'elbow_angle_deg': 103.27014295042045, 'forearm_up_deg': 16.0, 'keyboard_wrist_plane_z_mm': 485.2396898118931, 'tabletop_at_wrist_z_mm': 449.2396898118931, 'eye_to_screen_center_mm': 674.6463521802053, 'screen_down_from_horizontal_deg': 26.211231734963857, 'screen_down_from_neutral_head_deg': 41.21123173496386, 'head_forward_rotation_relative_torso_deg': 20.0, 'eyes_mm': [780.8990346978151, 0.0, 965.0657292873295], 'wrist_mm': [1130.7950132277535, 0.0, 485.2396898118931]}]
+VIS {'tested_keys': 140, 'reference_height_mm': 2000, 'closed_blocked': 140, 'rolled_blocked': 0, 'scope': 'Wrap + flap only; reference eyes, not dynamic gaze or all users', 'flap_flat_length_mm': 216.77520449330677, 'no_hard_flap_arch': True}
+STABILITY [{'laptop_mass_kg': 0, 'module_mass_kg': 10.108000586243586, 'cg_mm': [1008.7832335162841, -67.61423164838885, 288.43218287205144], 'minimum_gravity_margin_mm': np.float64(377.38576835161115), 'side_margins_mm': [np.float64(398.7832335162841), np.float64(441.2167664837159), np.float64(377.38576835161115), np.float64(512.6142316483888)], 'horizontal_tip_force_N_at_600mm': np.float64(62.36896453251748), 'sliding_force_N_mu_0_2': 19.83189715020992, 'sliding_force_N_mu_0_4': 39.66379430041984, 'vertical_gravity_stable_on_rigid_level_floor': np.True_, 'caveat': 'Floor-pad contact must be measured; this polygon is nominal, not valid on a soft mattress. Not a handrail.'}, {'laptop_mass_kg': 2.5, 'module_mass_kg': 12.608000586243586, 'cg_mm': [1050.6647287301587, -54.207222506479035, 344.2633622890249], 'minimum_gravity_margin_mm': np.float64(390.792777493521), 'side_margins_mm': [np.float64(440.6647287301587), np.float64(399.3352712698413), np.float64(390.792777493521), np.float64(499.207222506479)], 'horizontal_tip_force_N_at_600mm': np.float64(80.55833953251746), 'sliding_force_N_mu_0_2': 24.736897150209916, 'sliding_force_N_mu_0_4': 49.47379430041983, 'vertical_gravity_stable_on_rigid_level_floor': np.True_, 'caveat': 'Floor-pad contact must be measured; this polygon is nominal, not valid on a soft mattress. Not a handrail.'}]
