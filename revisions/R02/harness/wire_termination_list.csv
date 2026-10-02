@@ -1,0 +1,33 @@
+﻿harness,from_pin,to_pin,net,copper_mm2,wire_cut_length_mm,note
+HP0,A1.JH1.1,Z0.P1,HEAT0,0.5,1740,thermal fuse in P1; no splice in pressure zone
+HP0,A1.JH1.2,Z0.P2,DRAIN0,0.5,1740,thermal fuse in P1; no splice in pressure zone
+NTC00,A2.JN1.1,Z0.NTC1.1,NTC0,0.14,1860,twisted pair; check EMI under PWM
+NTC00,A2.JN1.2,Z0.NTC1.2,GND,0.14,1860,twisted pair; check EMI under PWM
+NTC01,A2.JN2.1,Z0.NTC2.1,NTC1,0.14,1790,twisted pair; check EMI under PWM
+NTC01,A2.JN2.2,Z0.NTC2.2,GND,0.14,1790,twisted pair; check EMI under PWM
+TH0,NC_CHAIN.T0.1,Z0.THERMOSTAT.1,NC_CHAIN_IN,0.25,1840,series safety chain; opens K1 coil; not a GPIO input
+TH0,NC_CHAIN.T0.2,Z0.THERMOSTAT.2,NC_CHAIN_OUT,0.25,1840,series safety chain; opens K1 coil; not a GPIO input
+HP1,A1.JH2.1,Z1.P1,HEAT1,0.5,1270,thermal fuse in P1; no splice in pressure zone
+HP1,A1.JH2.2,Z1.P2,DRAIN1,0.5,1270,thermal fuse in P1; no splice in pressure zone
+NTC10,A2.JN3.1,Z1.NTC1.1,NTC2,0.14,1240,twisted pair; check EMI under PWM
+NTC10,A2.JN3.2,Z1.NTC1.2,GND,0.14,1240,twisted pair; check EMI under PWM
+NTC11,A2.JN4.1,Z1.NTC2.1,NTC3,0.14,1310,twisted pair; check EMI under PWM
+NTC11,A2.JN4.2,Z1.NTC2.2,GND,0.14,1310,twisted pair; check EMI under PWM
+TH1,NC_CHAIN.T1.1,Z1.THERMOSTAT.1,NC_CHAIN_IN,0.25,1300,series safety chain; opens K1 coil; not a GPIO input
+TH1,NC_CHAIN.T1.2,Z1.THERMOSTAT.2,NC_CHAIN_OUT,0.25,1300,series safety chain; opens K1 coil; not a GPIO input
+HP2,A1.JH3.1,Z2.P1,HEAT2,0.5,1930,thermal fuse in P1; no splice in pressure zone
+HP2,A1.JH3.2,Z2.P2,DRAIN2,0.5,1930,thermal fuse in P1; no splice in pressure zone
+NTC20,A2.JN5.1,Z2.NTC1.1,NTC4,0.14,1880,twisted pair; check EMI under PWM
+NTC20,A2.JN5.2,Z2.NTC1.2,GND,0.14,1880,twisted pair; check EMI under PWM
+NTC21,A2.JN6.1,Z2.NTC2.1,NTC5,0.14,1930,twisted pair; check EMI under PWM
+NTC21,A2.JN6.2,Z2.NTC2.2,GND,0.14,1930,twisted pair; check EMI under PWM
+TH2,NC_CHAIN.T2.1,Z2.THERMOSTAT.1,NC_CHAIN_IN,0.25,1930,series safety chain; opens K1 coil; not a GPIO input
+TH2,NC_CHAIN.T2.2,Z2.THERMOSTAT.2,NC_CHAIN_OUT,0.25,1930,series safety chain; opens K1 coil; not a GPIO input
+HP3,A1.JH4.1,Z3.P1,HEAT3,0.5,1150,thermal fuse in P1; no splice in pressure zone
+HP3,A1.JH4.2,Z3.P2,DRAIN3,0.5,1150,thermal fuse in P1; no splice in pressure zone
+NTC30,A2.JN7.1,Z3.NTC1.1,NTC6,0.14,1240,twisted pair; check EMI under PWM
+NTC30,A2.JN7.2,Z3.NTC1.2,GND,0.14,1240,twisted pair; check EMI under PWM
+NTC31,A2.JN8.1,Z3.NTC2.1,NTC7,0.14,1210,twisted pair; check EMI under PWM
+NTC31,A2.JN8.2,Z3.NTC2.2,GND,0.14,1210,twisted pair; check EMI under PWM
+TH3,NC_CHAIN.T3.1,Z3.THERMOSTAT.1,NC_CHAIN_IN,0.25,1230,series safety chain; opens K1 coil; not a GPIO input
+TH3,NC_CHAIN.T3.2,Z3.THERMOSTAT.2,NC_CHAIN_OUT,0.25,1230,series safety chain; opens K1 coil; not a GPIO input

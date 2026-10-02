@@ -1,0 +1,12 @@
+{
+  "closure_segments": 24,
+  "zipper_geometric_length_mm": 2623.66,
+  "binding_head_opening_length_mm": 847.7,
+  "patch_frame_inside_OHEAD": true,
+  "patch_frame_mm": [
+    170,
+    175
+  ],
+  "patch_CAD_plane": "X=0; Y=-85..85; Z=25..200",
+  "closure_hardware_selection": "pending mockup; values are seam lengths, not purchase lengths"
+}

@@ -1,0 +1,21 @@
+﻿id,kind,source,target,geometric_length_mm,service_and_termination_allowance_mm,cut_length_mm,conductors,conductor_mm2,route_panels,design_current_A,pair_drop_V_at_20C_assumed,active_in_sleep,sleep_geometric_length_mm
+HP0,POWER,A1 JH1,Z0 keyed 2-pin + thermal fuse,1430.5,309.5,1740,2,0.5,O03,1.6666666666666667,0.203,True,1421.0
+NTC00,SENSOR,A2 JN1,Z0 NTC 1,1551.8,308.2,1860,2,0.14,O02,,,True,1412.1
+NTC01,SENSOR,A2 JN2,Z0 NTC 2,1485.6,304.4,1790,2,0.14,O02,,,True,1378.3
+TH0,SAFETY,K1 NC chain T0 IN/OUT,Z0 NC thermostat,1533.0,307.0,1840,2,0.25,O02,,,True,1416.8
+HP1,POWER,A1 JH2,Z1 keyed 2-pin + thermal fuse,990.1,279.9,1270,2,0.5,O03,1.6666666666666667,0.148,True,990.1
+NTC10,SENSOR,A2 JN3,Z1 NTC 1,958.8,281.2,1240,2,0.14,O02,,,True,958.8
+NTC11,SENSOR,A2 JN4,Z1 NTC 2,1027.0,283.0,1310,2,0.14,O02,,,True,1027.0
+TH1,SAFETY,K1 NC chain T1 IN/OUT,Z1 NC thermostat,1012.9,287.1,1300,2,0.25,O02,,,True,1012.9
+HP2,POWER,A1 JH3,Z2 keyed 2-pin + thermal fuse,1614.5,315.5,1930,2,0.5,O03,1.0,0.135,True,1614.5
+NTC20,SENSOR,A2 JN5,Z2 NTC 1,1565.3,314.7,1880,2,0.14,O02,,,True,1565.3
+NTC21,SENSOR,A2 JN6,Z2 NTC 2,1614.7,315.3,1930,2,0.14,O02,,,True,1614.7
+TH2,SAFETY,K1 NC chain T2 IN/OUT,Z2 NC thermostat,1612.1,317.9,1930,2,0.25,O02,,,True,1612.1
+HP3,POWER,A1 JH4,Z3 keyed 2-pin + thermal fuse,870.6,279.4,1150,2,0.5,O03,0.6666666666666666,0.054,False,
+NTC30,SENSOR,A2 JN7,Z3 NTC 1,961.2,278.8,1240,2,0.14,O02,,,False,
+NTC31,SENSOR,A2 JN8,Z3 NTC 2,926.7,283.3,1210,2,0.14,O02,,,False,
+TH3,SAFETY,K1 NC chain T3 IN/OUT,Z3 NC thermostat,943.2,286.8,1230,2,0.25,O02,,,False,
+BAT_MAIN,POWER,external BMS fuse F0,external power module,356.5,253.5,610,2,1.5,,8,0.114,True,356.5
+USB_DATA,USB,ESP32-S3 native USB,laptop DATA port,1004.5,285.5,1290,0,0,O03,,,False,
+USB_PD,USB,external USB-C PD SOURCE,laptop power port,1045.5,284.5,1330,0,0,O03,,,False,
+ARM_PANEL,CONTROL,MCU GPIO / ARM / display,E11 accessible local controller,819.6,280.4,1100,6,0.14,O02,,,True,819.6

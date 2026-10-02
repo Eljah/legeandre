@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="480.454mm" height="364.092mm" viewBox="0 0 480.454 364.092"><title>OHEAD / outer / QTY 1</title>
+<g id="CUT"><polygon points="407.268,344.092 73.186,344.092 37.161,293.713 20.000,240.353 20.697,184.822 39.186,131.820 73.780,85.716 121.504,50.114 178.477,27.666 240.227,20.000 301.977,27.666 358.950,50.114 406.674,85.716 441.268,131.820 459.757,184.822 460.454,240.353 443.293,293.713" fill="none" stroke="#151e25" stroke-width=".5"/></g>
+<g id="SEW"><polygon points="401.096,332.092 432.442,288.257 448.430,238.545 447.783,186.928 430.552,137.532 398.113,94.301 353.060,60.691 298.991,39.388 240.227,32.092 181.463,39.388 127.394,60.691 82.341,94.301 49.902,137.532 32.671,186.928 32.024,238.545 48.012,288.257 79.358,332.092" fill="none" stroke="#36566b" stroke-width=".45" stroke-dasharray="4 2"/></g>
+<text x="20" y="15" font-family="sans-serif" font-size="8">OHEAD / outer / QTY 1; SA 12 mm; 1:1</text>
+<path d="M 120.114,182.046 H 360.341" stroke="#29694d" stroke-width=".6"/><text x="168.159" y="177.046" font-family="sans-serif" font-size="7">GRAIN</text>
+</svg>
