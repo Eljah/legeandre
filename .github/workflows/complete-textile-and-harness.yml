@@ -1,0 +1,104 @@
+name: Complete textile harness and early documents
+on:
+  push:
+    branches: [sync/r01-r06-20261002]
+    paths: [.github/workflows/complete-textile-and-harness.yml]
+permissions:
+  contents: write
+concurrency:
+  group: legeandre-material-completion
+  cancel-in-progress: false
+jobs:
+  restore:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    env:
+      LIBGL_ALWAYS_SOFTWARE: '1'
+      PYTHONUNBUFFERED: '1'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: sync/r01-r06-20261002
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install processing tools
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y xvfb xauth fonts-dejavu-core
+          python -m pip install -r revisions/R06/requirements.txt opencv-python-headless PyMuPDF
+      - name: Rebuild missing files without overwriting published revisions
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import datetime,hashlib,json,os,shutil,subprocess,sys,tempfile,time
+          import fitz,ezdxf
+          from PIL import ImageGrab,Image
+          root=Path.cwd(); report={'groups':[],'added':[],'failed':[],'existing_files_overwritten':False,'engineering_tests_rerun':False,'workflow_run_id':os.getenv('GITHUB_RUN_ID')}
+          expected={'revisions/R02/textile/build_patterns.py':'5d3057c6db56b9813f61edb66c77f5045ac3ced33f9ead06dafd941df3132374','revisions/R02/harness/build_harness.py':'42c4d92b15f6b7f7fbac53f71f20c6198e321465ad9cfc95c04c946cc6323a48'}
+          for p,h in expected.items():
+            if hashlib.sha256(Path(p).read_bytes()).hexdigest()!=h:raise ValueError('Original source mismatch: '+p)
+          def run(script,where):subprocess.run([sys.executable,str(script)],cwd=where,check=True,timeout=420)
+          with tempfile.TemporaryDirectory() as td:
+            tmp=Path(td)
+            for rev in ['R01','R02']:shutil.copytree(root/'revisions'/rev,tmp/rev)
+            r=tmp/'R02'
+            for p in ['textile/pieces','textile/markers','harness','tests/results']:(r/p).mkdir(parents=True,exist_ok=True)
+            try:
+              run(r/'textile/build_patterns.py',r)
+              run(r/'harness/build_harness.py',r)
+              run(r/'docs/derive_closures_and_patch.py',r)
+              report['groups'].append('R02 textile and harness')
+            except Exception as e:report['failed'].append({'group':'R02','error':str(e)})
+            r=tmp/'R01'
+            try:
+              for p in ['docs/assets','tests/results']:(r/p).mkdir(parents=True,exist_ok=True)
+              run(r/'tools/calculations.py',r)
+              run(r/'electronics/build_boards.py',r)
+              run(r/'tools/check_pcbs.py',r);run(r/'tools/check_connectivity.py',r)
+              x=subprocess.Popen(['Xvfb',':93','-screen','0','1400x950x24']);time.sleep(1)
+              app=subprocess.Popen(['java','-jar',str(r/'dist/lezhandr-desktop-demo.jar')],env={**os.environ,'DISPLAY':':93'},stdout=subprocess.DEVNULL,stderr=subprocess.DEVNULL)
+              time.sleep(5)
+              if app.poll() is not None:raise RuntimeError('Desktop application did not start')
+              ImageGrab.grab(xdisplay=':93').save(r/'docs/desktop-running.png');app.terminate();x.terminate()
+              run(r/'tools/build_documents.py',r)
+              report['groups'].append('R01 electronics plots and PDF albums')
+            except Exception as e:report['failed'].append({'group':'R01','error':str(e)})
+            for rev in ['R01','R02']:
+              if any(x['group']==rev for x in report['failed']):continue
+              for p in sorted((tmp/rev).rglob('*')):
+                if not p.is_file() or '__pycache__' in p.parts or p.suffix in ['.zip','.pyc']:continue
+                target=root/'revisions'/rev/p.relative_to(tmp/rev)
+                if target.exists():continue
+                if p.suffix=='.pdf':
+                  with fitz.open(p) as d:
+                    if not d.page_count:raise ValueError('Empty PDF')
+                    d[0].get_pixmap(matrix=fitz.Matrix(.15,.15))
+                if p.suffix=='.dxf':
+                  a=ezdxf.readfile(p).audit()
+                  if a.errors or a.fixes:raise ValueError('DXF audit failed '+str(p))
+                if p.suffix=='.png':
+                  with Image.open(p) as im:im.verify()
+                target.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(p,target)
+                report['added'].append({'path':target.relative_to(root).as_posix(),'bytes':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest(),'origin':'Rebuilt from preserved source, not a byte-identical historical export claim'})
+          out=Path('provenance/TEXTILE_HARNESS_DOCUMENTS_COMPLETION.json');out.write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
+          paths=[x['path'] for x in report['added']]+[str(out)]
+          for i in range(0,len(paths),100):subprocess.run(['git','add','-f','--',*paths[i:i+100]],check=True)
+          subprocess.run(['git','config','user.name','github-actions[bot]'],check=True);subprocess.run(['git','config','user.email','41898282+github-actions[bot]@users.noreply.github.com'],check=True)
+          subprocess.run(['git','commit','-m',f'Add {len(report["added"])} missing textile, harness and document files'],check=True)
+          subprocess.run(['git','pull','--rebase','origin','sync/r01-r06-20261002'],check=True)
+          subprocess.run(['git','push','origin','HEAD:refs/heads/sync/r01-r06-20261002'],check=True)
+          print('ADDED',len(report['added']),'FAILURES',report['failed'])
+          if report['failed']:sys.exit(1)
+          PY
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: textile-harness-completion
+          path: |
+            provenance/TEXTILE_HARNESS_DOCUMENTS_COMPLETION.json
+            revisions/R01/docs/Lezhandr_R01_engineering_album.pdf
+            revisions/R01/docs/Lezhandr_R01_patterns_A0.pdf
+            revisions/R02/textile/Lezhandr_R02_patterns_1to1.pdf
+          retention-days: 7
