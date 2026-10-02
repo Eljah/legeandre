@@ -1,0 +1,93 @@
+﻿ID,description,material,length_mm,solid_volume_mm3,valid
+B01,Base longitudinal rail,metal,2060,543840.0,True
+B02,Base longitudinal rail,metal,2060,543840.0,True
+B10,Base cross rail,metal,725,191400.0,True
+B200,Leg,metal,130,34320.0,True
+B300,Foot pad,base,,194400.0,True
+B201,Leg,metal,130,34320.0,True
+B301,Foot pad,base,,194400.0,True
+B11,Base cross rail,metal,725,191400.0,True
+B210,Leg,metal,130,34320.0,True
+B310,Foot pad,base,,194400.0,True
+B211,Leg,metal,130,34320.0,True
+B311,Foot pad,base,,194400.0,True
+B12,Base cross rail,metal,725,191400.0,True
+B220,Leg,metal,130,34320.0,True
+B320,Foot pad,base,,194400.0,True
+B221,Leg,metal,130,34320.0,True
+B321,Foot pad,base,,194400.0,True
+B60,Anchor base crossmember,metal,725,191400.0,True
+B61,Anchor base crossmember,metal,725,191400.0,True
+B62,Anchor base crossmember,metal,725,191400.0,True
+B63,Anchor base crossmember,metal,725,191400.0,True
+B64,Anchor base crossmember,metal,725,191400.0,True
+B400,Seat stanchion,metal,230,60720.0,True
+B401,Seat stanchion,metal,230,60720.0,True
+B50,Seat support,metal,700,184800.0,True
+B410,Seat stanchion,metal,230,60720.0,True
+B411,Seat stanchion,metal,230,60720.0,True
+B51,Seat support,metal,700,184800.0,True
+R010,Segment side rail,metal,820,216480.0,True
+R011,Segment side rail,metal,820,216480.0,True
+R020,Segment crossrail,metal,645,170280.0,True
+R021,Segment crossrail,metal,645,170280.0,True
+R1000,Curved spring slat (plywood),wood,,353925.0,True
+R1001,Curved spring slat (plywood),wood,,353925.0,True
+R1002,Curved spring slat (plywood),wood,,353925.0,True
+R1003,Curved spring slat (plywood),wood,,353925.0,True
+R1004,Curved spring slat (plywood),wood,,353925.0,True
+R1005,Curved spring slat (plywood),wood,,353925.0,True
+R1006,Curved spring slat (plywood),wood,,353925.0,True
+R1007,Curved spring slat (plywood),wood,,353925.0,True
+R200,Segment removable cushion,foam,,37727444.68,True
+S010,Segment side rail,metal,520,137280.0,True
+S011,Segment side rail,metal,520,137280.0,True
+S020,Segment crossrail,metal,645,170280.0,True
+S021,Segment crossrail,metal,645,170280.0,True
+S1000,Curved spring slat (plywood),wood,,353925.0,True
+S1001,Curved spring slat (plywood),wood,,353925.0,True
+S1002,Curved spring slat (plywood),wood,,353925.0,True
+S1003,Curved spring slat (plywood),wood,,353925.0,True
+S1004,Curved spring slat (plywood),wood,,353925.0,True
+S200,Segment removable cushion,foam,,24077444.68,True
+L010,Segment side rail,metal,770,203280.0,True
+L011,Segment side rail,metal,770,203280.0,True
+L020,Segment crossrail,metal,645,170280.0,True
+L021,Segment crossrail,metal,645,170280.0,True
+L1000,Curved spring slat (plywood),wood,,353925.0,True
+L1001,Curved spring slat (plywood),wood,,353925.0,True
+L1002,Curved spring slat (plywood),wood,,353925.0,True
+L1003,Curved spring slat (plywood),wood,,353925.0,True
+L1004,Curved spring slat (plywood),wood,,353925.0,True
+L1005,Curved spring slat (plywood),wood,,353925.0,True
+L1006,Curved spring slat (plywood),wood,,353925.0,True
+L1007,Curved spring slat (plywood),wood,,353925.0,True
+L200,Segment removable cushion,foam,,35452444.68,True
+H000,Hinge cheek / drilled pivot,hinge,,34128.25,True
+H100,M12 pivot,metal,,2488.14,True
+H001,Hinge cheek / drilled pivot,hinge,,34128.25,True
+H101,M12 pivot,metal,,2488.14,True
+H010,Hinge cheek / drilled pivot,hinge,,34128.25,True
+H110,M12 pivot,metal,,2488.14,True
+H011,Hinge cheek / drilled pivot,hinge,,34128.25,True
+H111,M12 pivot,metal,,2488.14,True
+T00,Pinned telescopic support envelope,hinge,,45416.7,True
+T01,Pinned telescopic support envelope,hinge,,45416.7,True
+T10,Pinned telescopic support envelope,hinge,,45229.95,True
+T11,Pinned telescopic support envelope,hinge,,45229.95,True
+C1,Removable insulated textile envelope,cover,,10225651.62,True
+C2,Removable insulated textile envelope,cover,,8221771.75,True
+C3,Removable insulated textile envelope,cover,,10552196.83,True
+C31,Textile foot-end cap,cover,,1880830.22,True
+C40,Soft side bolster,cover,,7756513.2,True
+C41,Soft side bolster,cover,,7756513.2,True
+EH0,Curved removable heater; area 0.4 m2,heat,,1555548.2,True
+EH1,Curved removable heater; area 0.45 m2,heat,,1723417.98,True
+EH2,Curved removable heater; area 0.18 m2,heat,,689367.19,True
+D20,Tray parked for sleep,wood,,3312000.0,True
+E09,"Power module cradle, straps required",wood,,735000.0,True
+E10,External power module ENVELOPE - vendor TBD,device,,9720000.0,True
+E12,Main electronics enclosure ENVELOPE,device,,3933000.0,True
+E13,A2 PCB envelope,base,,51200.0,True
+E14,A1 PCB envelope,base,,28304.0,True
+E11,Controller housing,device,,1122000.0,True
