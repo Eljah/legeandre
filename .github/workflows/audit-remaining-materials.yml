@@ -1,0 +1,37 @@
+name: Audit remaining project materials
+on:
+  push:
+    branches: [sync/r01-r06-20261002]
+    paths: [.github/workflows/audit-remaining-materials.yml]
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: sync/r01-r06-20261002
+      - name: Inventory exact bytes and collect small source files
+        run: |
+          python - <<'PY'
+          import hashlib,json,subprocess,zipfile
+          from pathlib import Path
+          out=Path('_material_audit');out.mkdir()
+          rows=[]
+          with zipfile.ZipFile(out/'source_files.zip','w',zipfile.ZIP_DEFLATED) as z:
+            for raw in subprocess.check_output(['git','ls-files','-s','-z']).split(b'\0'):
+              if not raw:continue
+              meta,name=raw.split(b'\t',1);p=Path(name.decode());data=p.read_bytes()
+              rows.append({'path':p.as_posix(),'bytes':len(data),'sha256':hashlib.sha256(data).hexdigest(),'git_blob_sha1':meta.split()[1].decode()})
+              if p.suffix in {'.py','.sh','.yml','.md','.txt','.ini','.cpp','.hpp','.java','.gradle'} or p.parts[0] in {'provenance','tools'}:
+                if len(data)<2000000:z.writestr(p.as_posix(),data)
+          (out/'tree.json').write_text(json.dumps({'commit':subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip(),'files':rows}))
+          print('AUDITED',len(rows),'files',sum(x['bytes'] for x in rows),'bytes')
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: material-audit
+          path: _material_audit/
+          retention-days: 7
