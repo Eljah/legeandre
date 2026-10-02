@@ -1,0 +1,21 @@
+{
+  "DST_EXP_equal": true,
+  "stitches": 50691,
+  "colors": 8,
+  "color_changes": 12,
+  "editable_tatami": 61,
+  "editable_satin": 108,
+  "rails_equal_node_counts": true,
+  "consecutive_repeated_needles": 0,
+  "nominal_canvas_mm": [
+    144,
+    159
+  ],
+  "physical_sewout": false,
+  "inkstitch_run": false,
+  "files": {
+    "Spim_s_haski_R03_140x156.dst": "87b06ec047d55e03d9141cea0d9cc3323407142a0da7f18701724d18658ab86d",
+    "Spim_s_haski_R03_140x156.exp": "438f3a5f7f957bea8804472331bd1de953a416b5155518a04151643ff22916bd",
+    "Spim_s_haski_R03_editable.svg": "0b4fc7743414606d18ff7a7b01b4fe089d3fe1504b7310a6f35d129502ac4e1f"
+  }
+}

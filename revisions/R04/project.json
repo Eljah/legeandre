@@ -1,0 +1,199 @@
+{
+  "project": "Спим с хаски / ЛЕЖАНДР",
+  "revision": "R04 cloth/hinged-cover study",
+  "date": "2026-10-01",
+  "occupant_design_height_mm": 2000,
+  "occupant_design_mass_kg": 120,
+  "sections_mm": {
+    "back": 850,
+    "seat": 550,
+    "leg": 800
+  },
+  "clear_body_width_mm": 600,
+  "deck_width_mm": 650,
+  "outer_width_mm": 1000,
+  "work_angles_deg": {
+    "back": 35.2,
+    "leg": 0
+  },
+  "sleep_angles_deg": {
+    "back": 0,
+    "leg": 0
+  },
+  "deck_height_mm": 120,
+  "tray_mm": [
+    460,
+    720,
+    12
+  ],
+  "tray_height_mm": 416,
+  "tray_load_kg": 5,
+  "battery": {
+    "chemistry": "LiFePO4",
+    "series": 8,
+    "nominal_voltage": 25.6,
+    "capacity_Ah": 20,
+    "energy_Wh": 512,
+    "external": true
+  },
+  "heater_supply_V": 12.0,
+  "heater_supply_allowed_V": [
+    10.8,
+    13.2
+  ],
+  "zones": [
+    {
+      "id": 0,
+      "name": "Туловище",
+      "watts": 20,
+      "ohms": 7.2,
+      "area_m2": 0.4
+    },
+    {
+      "id": 1,
+      "name": "Ноги",
+      "watts": 20,
+      "ohms": 7.2,
+      "area_m2": 0.45
+    },
+    {
+      "id": 2,
+      "name": "Стопы",
+      "watts": 12,
+      "ohms": 12,
+      "area_m2": 0.18
+    }
+  ],
+  "control": {
+    "work_target_C": 34,
+    "max_target_C": 37,
+    "software_trip_C": 40,
+    "hardware_thermostat_nominal_C": 43,
+    "thermal_fuse_nominal_C": 60,
+    "remote_lease_ms": 5000,
+    "session_max_ms": 1800000,
+    "sleep_heating_enabled": false
+  },
+  "ports": [
+    "USB-C PD SOURCE <=100 W (external qualified module)",
+    "USB-C DATA (ESP32-S3 native)",
+    "12 V DC HEATER (keyed)",
+    "AC only on external certified power station; not in textile"
+  ],
+  "release": "DIGITAL PROTOTYPE. Not validated for human heating, load, sew-out or production.",
+  "electronics_case_mm": [
+    230,
+    190,
+    90
+  ],
+  "soft_cocoon": {
+    "length_mm": 2360,
+    "floor_z_mm": 0,
+    "seam_allowance_mm": 12,
+    "lining_inset_mm": 18,
+    "circumferential_gores": 16,
+    "stations_mm": [
+      0,
+      80,
+      150,
+      250,
+      350,
+      500,
+      650,
+      800,
+      950,
+      1100,
+      1250,
+      1400,
+      1550,
+      1725,
+      1900,
+      2050,
+      2200,
+      2280,
+      2360
+    ],
+    "profile_controls": [
+      [
+        0,
+        420,
+        300
+      ],
+      [
+        150,
+        800,
+        720
+      ],
+      [
+        350,
+        1000,
+        920
+      ],
+      [
+        650,
+        1000,
+        820
+      ],
+      [
+        950,
+        1000,
+        690
+      ],
+      [
+        1250,
+        1000,
+        620
+      ],
+      [
+        1550,
+        960,
+        560
+      ],
+      [
+        1900,
+        880,
+        500
+      ],
+      [
+        2200,
+        620,
+        390
+      ],
+      [
+        2360,
+        320,
+        230
+      ]
+    ],
+    "crown_start_mm": 650,
+    "work_open_to_mm": 1550,
+    "wedge": {
+      "x_mm": 260,
+      "length_mm": 850,
+      "width_mm": 560,
+      "rise_mm": 600
+    },
+    "pattern_basis": "triangulated sewing mid-surfaces; rigid triangle unfolding; no cloth FEM",
+    "sleep_conversion": "remove the soft back wedge and the rigid removable laptop insert; close the detachable crown quilt; no heating while asleep"
+  },
+  "hand_heater": {
+    "installed": false,
+    "power_W": 0,
+    "wiring": false
+  },
+  "hood": {
+    "type": "passive fabric flip-up canopy",
+    "x_limits_mm": [
+      965,
+      1325
+    ],
+    "half_width_mm": 335,
+    "rise_mm": 165,
+    "hinge_z_mm": 545,
+    "open_angle_deg": 105,
+    "hinge_side": "+Y",
+    "electrical_parts": 0,
+    "unheated": true
+  },
+  "model_status": "Nominal surface model + uncalibrated cloth drape experiment. No CLO/Rhino/Blender run."
+}

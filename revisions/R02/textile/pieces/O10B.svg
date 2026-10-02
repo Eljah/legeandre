@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="970.960mm" height="201.699mm" viewBox="0 0 970.960 201.699"><title>O10B / outer / QTY 1</title>
+<g id="CUT"><polygon points="24.840,181.699 20.000,27.570 209.508,23.667 387.501,20.000 549.424,33.230 710.867,46.409 825.544,58.268 950.960,71.229 950.352,137.524 825.897,146.555 712.185,154.812 551.600,158.737 391.468,162.660 214.352,171.857" fill="none" stroke="#151e25" stroke-width=".5"/></g>
+<g id="SEW"><polygon points="36.449,169.080 213.730,159.874 391.010,150.668 551.307,146.741 711.604,142.822 825.029,134.587 938.454,126.356 938.860,82.043 824.310,70.205 709.761,58.358 548.448,45.190 387.135,32.010 209.755,35.664 32.375,39.318" fill="none" stroke="#36566b" stroke-width=".45" stroke-dasharray="4 2"/></g>
+<circle cx="36.449" cy="169.080" r="1.5" stroke="#a13737" fill="none" stroke-width=".4"/>
+<circle cx="213.730" cy="159.874" r="1.5" stroke="#a13737" fill="none" stroke-width=".4"/>
+<circle cx="391.010" cy="150.668" r="1.5" stroke="#a13737" fill="none" stroke-width=".4"/>
+<circle cx="551.307" cy="146.741" r="1.5" stroke="#a13737" fill="none" stroke-width=".4"/>
+<circle cx="711.604" cy="142.822" r="1.5" stroke="#a13737" fill="none" stroke-width=".4"/>
+<circle cx="825.029" cy="134.587" r="1.5" stroke="#a13737" fill="none" stroke-width=".4"/>
+<circle cx="938.454" cy="126.356" r="1.5" stroke="#a13737" fill="none" stroke-width=".4"/>
+<circle cx="938.860" cy="82.043" r="1.5" stroke="#a13737" fill="none" stroke-width=".4"/>
+<circle cx="824.310" cy="70.205" r="1.5" stroke="#a13737" fill="none" stroke-width=".4"/>
+<circle cx="709.761" cy="58.358" r="1.5" stroke="#a13737" fill="none" stroke-width=".4"/>
+<circle cx="548.448" cy="45.190" r="1.5" stroke="#a13737" fill="none" stroke-width=".4"/>
+<circle cx="387.135" cy="32.010" r="1.5" stroke="#a13737" fill="none" stroke-width=".4"/>
+<circle cx="209.755" cy="35.664" r="1.5" stroke="#a13737" fill="none" stroke-width=".4"/>
+<circle cx="32.375" cy="39.318" r="1.5" stroke="#a13737" fill="none" stroke-width=".4"/>
+<text x="20" y="15" font-family="sans-serif" font-size="8">O10B / outer / QTY 1; SA 12 mm; 1:1</text>
+<path d="M 242.740,100.850 H 728.220" stroke="#29694d" stroke-width=".6"/><text x="339.836" y="95.850" font-family="sans-serif" font-size="7">GRAIN</text>
+</svg>

@@ -1,0 +1,8 @@
+{
+  "routed_connections": 114,
+  "unrouted_connections": 0,
+  "tracks": 828,
+  "vias": 4,
+  "formal_KiCad_DRC": false,
+  "warning": "Grid router is not a substitute for DRC; do not fabricate."
+}

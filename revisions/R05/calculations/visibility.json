@@ -1,0 +1,9 @@
+{
+  "tested_keys": 140,
+  "reference_height_mm": 2000,
+  "closed_blocked": 140,
+  "rolled_blocked": 0,
+  "scope": "Wrap + flap only; reference eyes, not dynamic gaze or all users",
+  "flap_flat_length_mm": 216.77520449330677,
+  "no_hard_flap_arch": true
+}

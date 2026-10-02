@@ -1,0 +1,23 @@
+{
+  "passed": 34,
+  "total": 34,
+  "physical_tessellated_bounds_mm_approx": [
+    [
+      51.060656578979064,
+      -559.5856455222527,
+      0.0
+    ],
+    [
+      2364.9936398581463,
+      559.5856455222527,
+      940.0
+    ]
+  ],
+  "physical_tessellated_dimensions_mm_approx": [
+    2313.9329832791673,
+    1119.1712910445053,
+    940.0
+  ],
+  "table_tube_mass_kg": 4.279302462113088,
+  "all_checks_passed": true
+}

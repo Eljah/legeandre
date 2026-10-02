@@ -1,0 +1,6 @@
+(footprint "Husky_HEADER_2" (layer "F.Cu") (at 0 0) (uuid 12c970e4-95a6-4393-ad85-8c78172903cb)
+(fp_text reference "JA3" (at 0 -7) (layer "F.SilkS") (effects (font (size 1.1 1.1) (thickness 0.15))))
+(fp_text value "ESP ADC 2" (at 0 7) (layer "F.SilkS") hide (effects (font (size 1 1) (thickness 0.15))))
+(pad "1" thru_hole rect (at 1.27 0) (size 1.6 1.6) (drill 0.85) (layers "*.Cu" "*.Mask") (net 8 "ADC2"))
+(pad "2" thru_hole circle (at -1.27 0) (size 1.6 1.6) (drill 0.85) (layers "*.Cu" "*.Mask") (net 2 "GND"))
+)

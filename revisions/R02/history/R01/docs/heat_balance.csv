@@ -1,0 +1,4 @@
+﻿ambient_C,assumed_gap_loss_W,envelope_loss_W,useful_body_heat_assumed_W,needed_electric_W,available_W
+10,10,65.0,60,5.0,60
+0,15,97.5,60,37.5,60
+-10,40,150.0,60,90.0,60

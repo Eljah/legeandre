@@ -1,0 +1,19 @@
+
+(inkscape:2592): dbind-WARNING **: 09:29:41.543: AT-SPI: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+CMSSystem::load_profiles: ICC profile with duplicate name: Artifex PS CMYK Profile:
+   /usr/share/color/icc/ghostscript/gray_to_k.icc
+   /usr/share/color/icc/ghostscript/ps_cmyk.icc
+CMSSystem::load_profiles: ICC profile with duplicate name: Artifex Software sGray ICC Profile:
+   /usr/share/color/icc/ghostscript/default_gray.icc
+   /usr/share/color/icc/ghostscript/sgray.icc
+CMSSystem::load_profiles: ICC profile with duplicate name: Artifex Software sRGB ICC Profile:
+   /usr/share/color/icc/ghostscript/default_rgb.icc
+   /usr/share/color/icc/ghostscript/srgb.icc
+
+** (org.inkscape.Inkscape:2592): WARNING **: 09:29:41.854: Can't open file: /home/oai/.config/inkscape/cphistory.xml (doesn't exist)
+
+(org.inkscape.Inkscape:2592): Gtk-CRITICAL **: 09:29:42.780: invalid accelerator string ''
+
+(org.inkscape.Inkscape:2592): Gtk-CRITICAL **: 09:29:42.781: gtk_application_accels_get_actions_for_accel: assertion 'accel_key.key != 0' failed
+
+(org.inkscape.Inkscape:2592): Gtk-WARNING **: 09:29:42.781: Unable to parse accelerator '': ignored request to install 1 accelerators

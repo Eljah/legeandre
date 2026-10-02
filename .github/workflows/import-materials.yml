@@ -1,0 +1,32 @@
+name: Import individual project files
+on:
+  push:
+    branches: [sync/r01-r06-20261002]
+    paths:
+      - .github/workflows/import-materials.yml
+      - tools/import_request.json
+permissions:
+  contents: write
+  issues: read
+concurrency:
+  group: legeandre-file-import
+  cancel-in-progress: false
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: sync/r01-r06-20261002
+      - name: Check runner and import request
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git status --short
+          if [ -f tools/import_request.json ]; then
+            python tools/import_materials.py
+          else
+            echo 'Transfer runner ready; no import request yet.'
+          fi

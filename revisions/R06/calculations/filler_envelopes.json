@@ -1,0 +1,16 @@
+[
+  {
+    "state": "WORK",
+    "forming_envelope_litre": 125.71901499319041,
+    "contact_envelope_litre": 18.259912898025775,
+    "fill_fraction": "not assigned",
+    "same_charge_kinematics": "not validated"
+  },
+  {
+    "state": "RELAX",
+    "forming_envelope_litre": 104.40534261502525,
+    "contact_envelope_litre": 18.259912888231167,
+    "fill_fraction": "not assigned",
+    "same_charge_kinematics": "not validated"
+  }
+]

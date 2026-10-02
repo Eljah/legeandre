@@ -1,0 +1,44 @@
+name: Restore exact history paths
+on:
+  push:
+    branches: [sync/r01-r06-20261002]
+    paths: [.github/workflows/restore-exact-history.yml]
+permissions:
+  contents: write
+concurrency:
+  group: legeandre-material-completion
+  cancel-in-progress: false
+jobs:
+  history:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: sync/r01-r06-20261002
+          fetch-depth: 0
+      - run: python tools/restore_exact_history_copies.py
+      - name: Inspect candidate numerical logo transfer without executing it
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import urllib.request,json,base64,hashlib,os
+          sha='4b6250665e46d02d7719f4329b3b967953e825d3'
+          req=urllib.request.Request('https://api.github.com/repos/Eljah/legeandre/git/blobs/'+sha,headers={'Authorization':'Bearer '+os.environ['GH_TOKEN'],'Accept':'application/vnd.github+json'})
+          with urllib.request.urlopen(req,timeout=30) as f:record=json.load(f)
+          data=base64.b64decode(record['content'],validate=False)
+          if len(data)>100000:raise ValueError('Unexpected transfer size')
+          if hashlib.sha1(b'blob '+str(len(data)).encode()+b'\0'+data).hexdigest()!=sha:raise ValueError('Blob identity mismatch')
+          Path('_transfer_inspection').mkdir()
+          Path('_transfer_inspection/logo_candidate.bin').write_bytes(data)
+          print('Numerical-data candidate fetched for checksum comparison only; not committed as project data.')
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: exact-history-and-transfer-inspection
+          path: |
+            provenance/EXACT_HISTORY_COPIES.json
+            _transfer_inspection/logo_candidate.bin
+          retention-days: 2

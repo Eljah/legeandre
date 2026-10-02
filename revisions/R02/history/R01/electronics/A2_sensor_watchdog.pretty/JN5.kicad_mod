@@ -1,0 +1,6 @@
+(footprint "Husky_HEADER_2" (layer "F.Cu") (at 0 0) (uuid e5d9ff34-1a62-4af8-bc8e-d672479d1899)
+(fp_text reference "JN5" (at 0 -7) (layer "F.SilkS") (effects (font (size 1.1 1.1) (thickness 0.15))))
+(fp_text value "10k B3950 NTC" (at 0 7) (layer "F.SilkS") hide (effects (font (size 1 1) (thickness 0.15))))
+(pad "1" thru_hole rect (at 1.27 0) (size 1.6 1.6) (drill 0.85) (layers "*.Cu" "*.Mask") (net 11 "NTC4"))
+(pad "2" thru_hole circle (at -1.27 0) (size 1.6 1.6) (drill 0.85) (layers "*.Cu" "*.Mask") (net 2 "GND"))
+)

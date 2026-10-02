@@ -1,0 +1,234 @@
+[
+  {
+    "bar": 1,
+    "stock": "Al_20x20x2",
+    "used_mm": 205.8,
+    "cuts": [
+      {
+        "ID": "D10",
+        "start_mm": 0,
+        "length_mm": 99.9
+      },
+      {
+        "ID": "D11",
+        "start_mm": 102.9,
+        "length_mm": 99.9
+      }
+    ]
+  },
+  {
+    "bar": 2,
+    "stock": "Al_25x25x2",
+    "used_mm": 586.0,
+    "cuts": [
+      {
+        "ID": "D00",
+        "start_mm": 0,
+        "length_mm": 290.0
+      },
+      {
+        "ID": "D01",
+        "start_mm": 293.0,
+        "length_mm": 290.0
+      }
+    ]
+  },
+  {
+    "bar": 3,
+    "stock": "Al_35x35x2",
+    "used_mm": 5905.0,
+    "cuts": [
+      {
+        "ID": "B01",
+        "start_mm": 0,
+        "length_mm": 2060.0
+      },
+      {
+        "ID": "B02",
+        "start_mm": 2063.0,
+        "length_mm": 2060.0
+      },
+      {
+        "ID": "R010",
+        "start_mm": 4126.0,
+        "length_mm": 820.0
+      },
+      {
+        "ID": "R011",
+        "start_mm": 4949.0,
+        "length_mm": 820.0
+      },
+      {
+        "ID": "B200",
+        "start_mm": 5772.0,
+        "length_mm": 130.0
+      }
+    ]
+  },
+  {
+    "bar": 4,
+    "stock": "Al_35x35x2",
+    "used_mm": 5914.0,
+    "cuts": [
+      {
+        "ID": "L010",
+        "start_mm": 0,
+        "length_mm": 770.0
+      },
+      {
+        "ID": "L011",
+        "start_mm": 773.0,
+        "length_mm": 770.0
+      },
+      {
+        "ID": "B10",
+        "start_mm": 1546.0,
+        "length_mm": 725.0
+      },
+      {
+        "ID": "B11",
+        "start_mm": 2274.0,
+        "length_mm": 725.0
+      },
+      {
+        "ID": "B12",
+        "start_mm": 3002.0,
+        "length_mm": 725.0
+      },
+      {
+        "ID": "B60",
+        "start_mm": 3730.0,
+        "length_mm": 725.0
+      },
+      {
+        "ID": "B61",
+        "start_mm": 4458.0,
+        "length_mm": 725.0
+      },
+      {
+        "ID": "B62",
+        "start_mm": 5186.0,
+        "length_mm": 725.0
+      }
+    ]
+  },
+  {
+    "bar": 5,
+    "stock": "Al_35x35x2",
+    "used_mm": 5977.0,
+    "cuts": [
+      {
+        "ID": "B63",
+        "start_mm": 0,
+        "length_mm": 725.0
+      },
+      {
+        "ID": "B64",
+        "start_mm": 728.0,
+        "length_mm": 725.0
+      },
+      {
+        "ID": "B50",
+        "start_mm": 1456.0,
+        "length_mm": 700.0
+      },
+      {
+        "ID": "B51",
+        "start_mm": 2159.0,
+        "length_mm": 700.0
+      },
+      {
+        "ID": "R020",
+        "start_mm": 2862.0,
+        "length_mm": 645.0
+      },
+      {
+        "ID": "R021",
+        "start_mm": 3510.0,
+        "length_mm": 645.0
+      },
+      {
+        "ID": "S020",
+        "start_mm": 4158.0,
+        "length_mm": 645.0
+      },
+      {
+        "ID": "S021",
+        "start_mm": 4806.0,
+        "length_mm": 645.0
+      },
+      {
+        "ID": "S010",
+        "start_mm": 5454.0,
+        "length_mm": 520.0
+      }
+    ]
+  },
+  {
+    "bar": 6,
+    "stock": "Al_35x35x2",
+    "used_mm": 3416.0,
+    "cuts": [
+      {
+        "ID": "L020",
+        "start_mm": 0,
+        "length_mm": 645.0
+      },
+      {
+        "ID": "L021",
+        "start_mm": 648.0,
+        "length_mm": 645.0
+      },
+      {
+        "ID": "S011",
+        "start_mm": 1296.0,
+        "length_mm": 520.0
+      },
+      {
+        "ID": "B400",
+        "start_mm": 1819.0,
+        "length_mm": 230.0
+      },
+      {
+        "ID": "B401",
+        "start_mm": 2052.0,
+        "length_mm": 230.0
+      },
+      {
+        "ID": "B410",
+        "start_mm": 2285.0,
+        "length_mm": 230.0
+      },
+      {
+        "ID": "B411",
+        "start_mm": 2518.0,
+        "length_mm": 230.0
+      },
+      {
+        "ID": "B201",
+        "start_mm": 2751.0,
+        "length_mm": 130.0
+      },
+      {
+        "ID": "B210",
+        "start_mm": 2884.0,
+        "length_mm": 130.0
+      },
+      {
+        "ID": "B211",
+        "start_mm": 3017.0,
+        "length_mm": 130.0
+      },
+      {
+        "ID": "B220",
+        "start_mm": 3150.0,
+        "length_mm": 130.0
+      },
+      {
+        "ID": "B221",
+        "start_mm": 3283.0,
+        "length_mm": 130.0
+      }
+    ]
+  }
+]

@@ -1,0 +1,103 @@
+name: Final original snapshot audit and exact-copy recovery
+on:
+  push:
+    branches: [sync/r01-r06-20261002]
+    paths: [.github/workflows/final-snapshot-audit.yml]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: legeandre-material-completion
+  cancel-in-progress: false
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: sync/r01-r06-20261002
+          fetch-depth: 0
+      - name: Restore exact duplicate originals and publish current inventory
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PYTHONUNBUFFERED: '1'
+        shell: python
+        run: |
+          import base64, concurrent.futures, datetime, hashlib, json, lzma, os, pathlib, subprocess, urllib.request, urllib.error
+          from collections import Counter, defaultdict
+          root=pathlib.Path.cwd(); branch='sync/r01-r06-20261002'; repo='Eljah/legeandre'
+          def git(*args): return subprocess.check_output(['git',*args],text=True).strip()
+          def h(b): return hashlib.sha256(b).hexdigest()
+          def gs(b): return hashlib.sha1(b'blob '+str(len(b)).encode()+b'\0'+b).hexdigest()
+          def api_blob(sha,optional=False):
+              req=urllib.request.Request(f'https://api.github.com/repos/{repo}/git/blobs/{sha}',headers={'Authorization':'Bearer '+os.environ['GH_TOKEN'],'Accept':'application/vnd.github+json','User-Agent':'legeandre-exact-audit'})
+              try:
+                  with urllib.request.urlopen(req,timeout=45) as f: obj=json.load(f)
+              except urllib.error.HTTPError as e:
+                  if optional and e.code==404:return None
+                  raise
+              data=base64.b64decode(obj['content'])
+              if gs(data)!=sha:raise RuntimeError('Corrupt Git blob')
+              return data
+          if os.environ['GITHUB_REPOSITORY']!=repo or git('branch','--show-current')!=branch:raise RuntimeError('Wrong checkout')
+          if git('status','--porcelain'):raise RuntimeError('Dirty checkout')
+          parent=git('rev-parse','HEAD'); main=git('ls-remote','origin','refs/heads/main').split()[0]
+          preserve={str(p):h(p.read_bytes()) for p in pathlib.Path('revisions/R06').rglob('*') if p.is_file()}
+          packed=b''.join(api_blob(s) for s in ['91f7254bf8ba10192016746b23b728b9bc036768','eabf0fdbe83c1c4812ae0b6c43c1fe8b30f1130b','8aae80336cc6f3b45308ba7eea52bd9e9c9a3985'])
+          if h(packed)!='04e25f3eee0d759a135538b8254c1620b7a5763de3b797b795058df2c7e82256':raise RuntimeError('Wrong source inventory')
+          text=lzma.decompress(packed).decode(); expected=[]
+          for line in text.splitlines():
+              sha,size,name=line.split(' ',2); p=pathlib.PurePosixPath(name)
+              if p.is_absolute() or '..' in p.parts or '.git' in p.parts or '\\' in name or p.suffix.lower()=='.zip':raise RuntimeError('Unsafe original path')
+              expected.append({'path':name,'bytes':int(size),'git_blob_sha1':sha})
+          if len(expected)!=1551:raise RuntimeError('Wrong source inventory count')
+          pathlib.Path('provenance').mkdir(exist_ok=True)
+          pathlib.Path('provenance/EXPECTED_ORIGINAL_FILES.tsv').write_text(text,encoding='utf-8')
+          paths=[p for p in subprocess.check_output(['git','ls-files','-z']).decode().split('\0') if p and pathlib.Path(p).is_file()]
+          bysha=defaultdict(list)
+          for p in paths:bysha[gs(pathlib.Path(p).read_bytes())].append(p)
+          original_remote={}; lookups=sorted(set(r['git_blob_sha1'] for r in expected if r['git_blob_sha1'] not in bysha)); lookup_errors=[]
+          def try_blob(s):
+              try:return s,api_blob(s,True),None
+              except Exception as e:return s,None,type(e).__name__
+          with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
+              for sha,data,error in pool.map(try_blob,lookups):
+                  if data is not None:original_remote[sha]=data
+                  if error:lookup_errors.append({'sha':sha,'error':error})
+          added=[]; rows=[]
+          for r in expected:
+              sha=r['git_blob_sha1']; p=pathlib.Path(r['path']); same=bysha.get(sha,[])
+              data=pathlib.Path(same[0]).read_bytes() if same else original_remote.get(sha)
+              if data is not None and (not p.exists() or gs(p.read_bytes())!=sha):
+                  dest=p if not p.exists() else pathlib.Path('variants/original_snapshot')/p
+                  if dest.exists() and dest.read_bytes()!=data:raise RuntimeError('Existing variant differs')
+                  if not dest.exists():
+                      dest.parent.mkdir(parents=True,exist_ok=True);dest.write_bytes(data);added.append(str(dest));bysha[sha].append(str(dest))
+              same=bysha.get(sha,[])
+              status='EXACT_AT_ORIGINAL_PATH' if p.is_file() and gs(p.read_bytes())==sha else ('EXACT_ORIGINAL_ELSEWHERE' if same else ('PRESENT_NONIDENTICAL_EXPORT' if p.is_file() else 'MISSING_ORIGINAL'))
+              row=dict(r,status=status)
+              if same:row['exact_locations']=same
+              rows.append(row)
+          for p,sha in preserve.items():
+              if h(pathlib.Path(p).read_bytes())!=sha:raise RuntimeError('Previously published R06 changed')
+          counts=dict(Counter(r['status'] for r in rows)); missing=[r for r in rows if r['status']=='MISSING_ORIGINAL']
+          report={'status':'COMPLETE_ORIGINAL_BYTES' if not missing and not counts.get('PRESENT_NONIDENTICAL_EXPORT') else 'AUDITED_WITH_EXPLICIT_ORIGINAL_GAPS','parent_commit':parent,'workflow_run_id':os.environ['GITHUB_RUN_ID'],'verified_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'expected_original_files':1551,'classification_counts':counts,'added_exact_original_paths':added,'existing_R06_unchanged':len(preserve),'optional_original_blob_lookup_errors':lookup_errors,'rows':rows,'main_unchanged_from':main,'force_push':False,'engineering_tests_rerun':False}
+          pathlib.Path('provenance/FINAL_ORIGINAL_AUDIT.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          md=['# Проверка исходных материалов R01–R06','',f'Исходный реестр: **1551 файл**. Проверка Actions: `{os.environ["GITHUB_RUN_ID"]}`.','',f'Точные оригиналы на своих местах: {counts.get("EXACT_AT_ORIGINAL_PATH",0)}.',f'Точные оригиналы сохранены в другом пути: {counts.get("EXACT_ORIGINAL_ELSEWHERE",0)}.',f'По исходному пути находится непобайтный восстановленный экспорт: {counts.get("PRESENT_NONIDENTICAL_EXPORT",0)}.',f'Исходные файлы, всё ещё отсутствующие: **{len(missing)}**.','',f'В этом запуске восстановлено {len(added)} точных оригинальных копий. {len(preserve)} существующих файлов R06 не изменены.','', 'Восстановленные экспорты не объявляются точными копиями исторических вложений. Оригинальные журналы не являются новым запуском инженерных тестов.','', '| Размер, байт | Отсутствующий исходный файл |','|---:|---|']+[f'| {r["bytes"]} | `{r["path"]}` |' for r in missing]
+          pathlib.Path('provenance/REMAINING_ORIGINALS.md').write_text('\n'.join(md)+'\n',encoding='utf-8')
+          status=['# Состояние синхронизации','', 'CAD опубликован отдельными файлами; общая полнота проверяется по исходному реестру, а не по количеству созданных workflow.','', '[CAD и модели](CAD_INDEX.md) · [Полный отчёт проверки](provenance/FINAL_ORIGINAL_AUDIT.json) · [Отсутствующие исходные вложения](provenance/REMAINING_ORIGINALS.md)','', f'Текущая классификация 1551 исходного файла: `{counts}`.','', 'Ветка `main` не изменяется. Старые архивы в дерево проекта не добавляются.','', 'Последний дизайн R06 сохранён; механические и электрические испытания этой синхронизацией не выполнялись.']
+          pathlib.Path('TRANSFER_STATUS.md').write_text('\n'.join(status)+'\n',encoding='utf-8')
+          publish=added+['provenance/EXPECTED_ORIGINAL_FILES.tsv','provenance/FINAL_ORIGINAL_AUDIT.json','provenance/REMAINING_ORIGINALS.md','TRANSFER_STATUS.md']
+          for i in range(0,len(publish),80):subprocess.run(['git','add','-f','--',*publish[i:i+80]],check=True)
+          for name in added:
+              if git('rev-parse',':'+name)!=gs(pathlib.Path(name).read_bytes()):raise RuntimeError('Index modified original bytes')
+          git('config','user.name','github-actions[bot]');git('config','user.email','41898282+github-actions[bot]@users.noreply.github.com')
+          if not subprocess.run(['git','diff','--cached','--quiet']).returncode:print('No changes');raise SystemExit(0)
+          git('commit','-m',f'Complete 1551-file audit, restore {len(added)} exact original copies and publish explicit remaining gaps')
+          git('push','origin','HEAD:refs/heads/'+branch)
+          commit=git('rev-parse','HEAD')
+          if git('ls-remote','origin','refs/heads/'+branch).split()[0]!=commit:raise RuntimeError('Push readback failed')
+          if git('ls-remote','origin','refs/heads/main').split()[0]!=main:raise RuntimeError('Main changed concurrently')
+          print('SUCCESS',commit,counts,'new_exact_originals',len(added))
+          with open(os.environ['GITHUB_STEP_SUMMARY'],'a') as f:f.write(f'# Source inventory audited\n\nCommit `{commit}`.\n\n{counts}\n\nNew original copies: {len(added)}. Existing R06 files unchanged: {len(preserve)}.\n')

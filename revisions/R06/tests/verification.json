@@ -1,0 +1,284 @@
+{
+  "checks": [
+    {
+      "check": "STEP Lezhandr_R06_empty.step",
+      "passed": true,
+      "detail": {
+        "solids": 133,
+        "faces": 1355
+      }
+    },
+    {
+      "check": "STEP Lezhandr_R06_folded.step",
+      "passed": true,
+      "detail": {
+        "solids": 142,
+        "faces": 1409
+      }
+    },
+    {
+      "check": "STEP Lezhandr_R06_interior.step",
+      "passed": true,
+      "detail": {
+        "solids": 120,
+        "faces": 1312
+      }
+    },
+    {
+      "check": "STEP Lezhandr_R06_layers.step",
+      "passed": true,
+      "detail": {
+        "solids": 9,
+        "faces": 54
+      }
+    },
+    {
+      "check": "STEP Lezhandr_R06_occupied_interior.step",
+      "passed": true,
+      "detail": {
+        "solids": 136,
+        "faces": 1346
+      }
+    },
+    {
+      "check": "STEP Lezhandr_R06_relax.step",
+      "passed": true,
+      "detail": {
+        "solids": 146,
+        "faces": 1382
+      }
+    },
+    {
+      "check": "STEP Lezhandr_R06_small.step",
+      "passed": true,
+      "detail": {
+        "solids": 131,
+        "faces": 1353
+      }
+    },
+    {
+      "check": "STEP Lezhandr_R06_table.step",
+      "passed": true,
+      "detail": {
+        "solids": 94,
+        "faces": 847
+      }
+    },
+    {
+      "check": "STEP Lezhandr_R06_work.step",
+      "passed": true,
+      "detail": {
+        "solids": 142,
+        "faces": 1409
+      }
+    },
+    {
+      "check": "Unique component IDs",
+      "passed": true,
+      "detail": 229
+    },
+    {
+      "check": "No inclined spinal frame",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local desk frame only",
+      "passed": true,
+      "detail": [
+        955.0,
+        1565.0
+      ]
+    },
+    {
+      "check": "No heater in keyboard flap",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Padded closed volume Q01_SHOULDER_BODY",
+      "passed": true,
+      "detail": 4.214901716506494
+    },
+    {
+      "check": "Padded closed volume Q02_SHOULDER_BODY",
+      "passed": true,
+      "detail": 4.414644554613844
+    },
+    {
+      "check": "Padded closed volume Q03_SHOULDER_BODY",
+      "passed": true,
+      "detail": 4.29437458680729
+    },
+    {
+      "check": "Padded closed volume Q04_KEYBOARD_CLOSED",
+      "passed": true,
+      "detail": 7.950724178174574
+    },
+    {
+      "check": "Padded closed volume Q04_KEYBOARD_FOLDED",
+      "passed": true,
+      "detail": 7.172916276400865
+    },
+    {
+      "check": "Padded closed volume Q05_LEG_CONTINUATION",
+      "passed": true,
+      "detail": 8.021514636886378
+    },
+    {
+      "check": "Padded closed volume Q06_LEG_CONTINUATION",
+      "passed": true,
+      "detail": 6.602584767688895
+    },
+    {
+      "check": "Padded closed volume Q07_LEG_CONTINUATION",
+      "passed": true,
+      "detail": 6.058774882742598
+    },
+    {
+      "check": "Padded closed volume Q08_LEG_CONTINUATION",
+      "passed": true,
+      "detail": 3.2164356831904786
+    },
+    {
+      "check": "Same outer cloth color",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Ordered height stations",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Foot range 220 mm",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Four nominal self-weight cases",
+      "passed": true,
+      "detail": [
+        279.7473490338309,
+        275.87840136099135,
+        297.3877906947698,
+        300.12120865368
+      ]
+    },
+    {
+      "check": "Draft DXF Q02_SHOULDER_BODY_OUTER_DRAFT.dxf",
+      "passed": true,
+      "detail": {
+        "file": "Q02_SHOULDER_BODY_OUTER_DRAFT.dxf",
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "check": "Draft DXF Q04_KEYBOARD_CLOSED_OUTER_DRAFT.dxf",
+      "passed": true,
+      "detail": {
+        "file": "Q04_KEYBOARD_CLOSED_OUTER_DRAFT.dxf",
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "check": "Draft DXF Q02_SHOULDER_BODY_INNER_DRAFT.dxf",
+      "passed": true,
+      "detail": {
+        "file": "Q02_SHOULDER_BODY_INNER_DRAFT.dxf",
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "check": "Draft DXF Q04_KEYBOARD_CLOSED_INNER_DRAFT.dxf",
+      "passed": true,
+      "detail": {
+        "file": "Q04_KEYBOARD_CLOSED_INNER_DRAFT.dxf",
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "check": "Draft DXF Q06_LEG_CONTINUATION_OUTER_DRAFT.dxf",
+      "passed": true,
+      "detail": {
+        "file": "Q06_LEG_CONTINUATION_OUTER_DRAFT.dxf",
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "check": "Draft DXF Q06_LEG_CONTINUATION_INNER_DRAFT.dxf",
+      "passed": true,
+      "detail": {
+        "file": "Q06_LEG_CONTINUATION_INNER_DRAFT.dxf",
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "check": "No table padding below floor",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No nominal torso/leg intersection with bare desk frame",
+      "passed": true,
+      "detail": {
+        "minimum_body_to_frame_or_tray_mm": 46.260668737949544,
+        "body_parts": [
+          "M_TORSO",
+          "M_PELVIS",
+          "M_HEAD",
+          "M_THIGH-1",
+          "M_SHIN-1",
+          "M_THIGH1",
+          "M_SHIN1"
+        ],
+        "hard_parts": [
+          "TRAY_VENTED",
+          "D_BASE_LONG_-1",
+          "D_BASE_LONG_1",
+          "D_BASE_CROSS_955.0",
+          "D_BASE_CROSS_1565.0",
+          "D_BASE_CROSS_1120",
+          "D_C1_LEFT_COLUMN",
+          "D_C1_CANTILEVER",
+          "D_C2_LEFT_COLUMN",
+          "D_C2_CANTILEVER"
+        ],
+        "scope": "Single nominal posture only; excludes hands on keyboard, deformed filler, joints under load and exit motion."
+      }
+    }
+  ],
+  "passed": 34,
+  "total": 34,
+  "physical_tessellated_bounds_mm_approx": [
+    [
+      51.060656578979064,
+      -559.5856455222527,
+      0.0
+    ],
+    [
+      2364.9936398581463,
+      559.5856455222527,
+      940.0
+    ]
+  ],
+  "physical_tessellated_dimensions_mm_approx": [
+    2313.9329832791673,
+    1119.1712910445053,
+    940.0
+  ],
+  "table_tube_mass_kg": 4.279302462113088,
+  "all_checks_passed": true
+}

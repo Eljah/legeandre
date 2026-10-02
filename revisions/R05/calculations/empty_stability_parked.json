@@ -1,0 +1,46 @@
+[
+  {
+    "laptop_mass_kg": 0,
+    "module_mass_kg": 10.108000586243586,
+    "cg_mm": [
+      1021.0507436872626,
+      -67.61423164838885,
+      288.43218287205144
+    ],
+    "minimum_gravity_margin_mm": 377.38576835161115,
+    "side_margins_mm": [
+      411.05074368726264,
+      428.94925631273736,
+      377.38576835161115,
+      512.6142316483888
+    ],
+    "horizontal_tip_force_N_at_600mm": 62.36896453251748,
+    "sliding_force_N_mu_0_2": 19.83189715020992,
+    "sliding_force_N_mu_0_4": 39.66379430041984,
+    "vertical_gravity_stable_on_rigid_level_floor": true,
+    "caveat": "Floor-pad contact must be measured; this polygon is nominal, not valid on a soft mattress. Not a handrail.",
+    "table_slide_mm": 80.0
+  },
+  {
+    "laptop_mass_kg": 2.5,
+    "module_mass_kg": 12.608000586243586,
+    "cg_mm": [
+      1076.3626970784082,
+      -54.207222506479035,
+      344.2633622890249
+    ],
+    "minimum_gravity_margin_mm": 373.63730292159175,
+    "side_margins_mm": [
+      466.36269707840825,
+      373.63730292159175,
+      390.792777493521,
+      499.207222506479
+    ],
+    "horizontal_tip_force_N_at_600mm": 77.02189611544368,
+    "sliding_force_N_mu_0_2": 24.736897150209916,
+    "sliding_force_N_mu_0_4": 49.47379430041983,
+    "vertical_gravity_stable_on_rigid_level_floor": true,
+    "caveat": "Floor-pad contact must be measured; this polygon is nominal, not valid on a soft mattress. Not a handrail.",
+    "table_slide_mm": 80.0
+  }
+]

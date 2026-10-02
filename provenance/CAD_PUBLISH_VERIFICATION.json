@@ -1,0 +1,556 @@
+{
+  "status": "CAD_ASSEMBLIES_PUBLISHED_AND_READBACK_VERIFIED",
+  "repository": "Eljah/legeandre",
+  "branch": "sync/r01-r06-20261002",
+  "parent_commit": "a33b022238f3539fc35f17fc698266ee5b950e25",
+  "workflow_run_id": "37036217417",
+  "verified_utc": "2026-10-02T16:53:27.456464+00:00",
+  "step_counts": {
+    "R01": 2,
+    "R02": 2,
+    "R04": 3,
+    "R05": 7,
+    "R06": 9
+  },
+  "step_total": 23,
+  "step_files": [
+    {
+      "path": "revisions/R01/cad/step/lezhandr_sleep.step",
+      "valid": true,
+      "solids": 92,
+      "faces": 1799,
+      "bounds_mm": [
+        -840.0,
+        1340.0,
+        -435.0,
+        456.0,
+        6.0,
+        760.0
+      ],
+      "bytes": 6661163,
+      "sha256": "1626bc2386259c129470802a50d11ae53b8c14e0139d2c86013a601e89c60cdb"
+    },
+    {
+      "path": "revisions/R01/cad/step/lezhandr_work.step",
+      "valid": true,
+      "solids": 100,
+      "faces": 1971,
+      "bounds_mm": [
+        -780.0,
+        1353.8568802786326,
+        -435.0,
+        425.0,
+        6.0,
+        1154.8853734940815
+      ],
+      "bytes": 7567101,
+      "sha256": "b02abbcc89779bbfc44cc233e572eb352265dcac4141fab3cafc344245d00881"
+    },
+    {
+      "path": "revisions/R02/cad/step/lezhandr_sleep.step",
+      "valid": true,
+      "solids": 7,
+      "faces": 1350,
+      "bounds_mm": [
+        -9.420375590707408e-11,
+        2360.000000000063,
+        -940.0,
+        495.72243068695735,
+        -9.865175343293231e-11,
+        820.0000000000043
+      ],
+      "bytes": 3721291,
+      "sha256": "b565d4ddf917abf8b07741f1a3c8186e1302ee439f46c75e216e9fee90ee4d84"
+    },
+    {
+      "path": "revisions/R02/cad/step/lezhandr_work.step",
+      "valid": true,
+      "solids": 13,
+      "faces": 1409,
+      "bounds_mm": [
+        -9.420375590707408e-11,
+        2360.000000000063,
+        -940.0,
+        495.72243068695735,
+        -9.865175343293231e-11,
+        830.5965912949009
+      ],
+      "bytes": 3896020,
+      "sha256": "4661985e045ef2629e0334984b4e7f374eca9c0daa19ff54d23edb4e3a3b8f1f"
+    },
+    {
+      "path": "revisions/R04/cad/Lezhandr_R04_sleep.step",
+      "valid": true,
+      "solids": 3,
+      "faces": 58,
+      "bounds_mm": [
+        -0.012812366661421212,
+        2360.0,
+        -556.9887593027818,
+        556.9887593028349,
+        -0.004759463489675843,
+        880.001482746839
+      ],
+      "bytes": 436989,
+      "sha256": "31933abb6542ff2cfa31f7d72ae4c96157ddb332d2a391ab8c581ecb695e855f"
+    },
+    {
+      "path": "revisions/R04/cad/Lezhandr_R04_work_closed.step",
+      "valid": true,
+      "solids": 13,
+      "faces": 183,
+      "bounds_mm": [
+        -0.012812366661421212,
+        2360.0,
+        -556.9887593027818,
+        556.9887593028349,
+        -0.004759463489675843,
+        880.001482746839
+      ],
+      "bytes": 871932,
+      "sha256": "98c3ed1ef6d3312029be11f277bf8c6d93e1acfd0a107132c9a6c30d188565d6"
+    },
+    {
+      "path": "revisions/R04/cad/Lezhandr_R04_work_open.step",
+      "valid": true,
+      "solids": 13,
+      "faces": 183,
+      "bounds_mm": [
+        -0.012812366661421212,
+        2360.0,
+        -556.9887593027818,
+        603.1457196890586,
+        -0.004759463489675843,
+        1194.5924252616821
+      ],
+      "bytes": 878599,
+      "sha256": "60725ff98cb98441b14982da5d276350f10381d5764f1583a84d8e4942e2a32e"
+    },
+    {
+      "path": "revisions/R05/cad/Lezhandr_R05_cavity.step",
+      "valid": true,
+      "solids": 24,
+      "faces": 352,
+      "bounds_mm": [
+        0.0,
+        2360.0,
+        -557.0055932184979,
+        557.0055932185398,
+        -0.005279981956504994,
+        880.001199254593
+      ],
+      "bytes": 1728991,
+      "sha256": "fc5a25e115a931a64a7c3ff0ba0b00e2f0ecd69e3c54d7e6c2b1c1d24ff776f2"
+    },
+    {
+      "path": "revisions/R05/cad/Lezhandr_R05_closed.step",
+      "valid": true,
+      "solids": 135,
+      "faces": 917,
+      "bounds_mm": [
+        0.0,
+        2360.0,
+        -557.0055932184979,
+        557.0055932185398,
+        -12.0,
+        1043.9645791811352
+      ],
+      "bytes": 3861436,
+      "sha256": "99624733733260c0a300e3ae15878a76c148fd0e89b048033988a7d9b81dd232"
+    },
+    {
+      "path": "revisions/R05/cad/Lezhandr_R05_exit.step",
+      "valid": true,
+      "solids": 133,
+      "faces": 904,
+      "bounds_mm": [
+        0.0,
+        2360.0,
+        -557.0055932184979,
+        1089.0,
+        -12.0,
+        1043.9645791811352
+      ],
+      "bytes": 3667436,
+      "sha256": "8980977e6ee03cedb03169d9c57737ecc16f9bef450b50e9aa63fae6d9b13bc1"
+    },
+    {
+      "path": "revisions/R05/cad/Lezhandr_R05_frame.step",
+      "valid": true,
+      "solids": 23,
+      "faces": 305,
+      "bounds_mm": [
+        546.1237396867293,
+        1460.0,
+        -475.0,
+        455.0,
+        22.5,
+        589.53290255947
+      ],
+      "bytes": 1285680,
+      "sha256": "4998611d7d8ba4c41c44de5531a1eed193784c0316b40d2be28c798d027a4680"
+    },
+    {
+      "path": "revisions/R05/cad/Lezhandr_R05_interior.step",
+      "valid": true,
+      "solids": 122,
+      "faces": 845,
+      "bounds_mm": [
+        0.0,
+        2360.0,
+        -545.0,
+        545.0,
+        0.0,
+        1043.9645791811352
+      ],
+      "bytes": 3228764,
+      "sha256": "bb7404865f8f5db38276b11d2877f1d7d4be97c9fa05f38b702e15fb60289097"
+    },
+    {
+      "path": "revisions/R05/cad/Lezhandr_R05_rolled.step",
+      "valid": true,
+      "solids": 135,
+      "faces": 917,
+      "bounds_mm": [
+        0.0,
+        2360.0,
+        -557.0055932184979,
+        557.0055932185398,
+        -12.0,
+        1043.9645791811352
+      ],
+      "bytes": 3866668,
+      "sha256": "4f529a84b6a4fa4a52259f0685ff79fd36b1299529ead693fbe22856e931e269"
+    },
+    {
+      "path": "revisions/R05/cad/Lezhandr_R05_sleep.step",
+      "valid": true,
+      "solids": 3,
+      "faces": 56,
+      "bounds_mm": [
+        0.0,
+        2360.0,
+        -557.0055932184979,
+        557.0055932185398,
+        -0.005279981956504994,
+        880.001199254593
+      ],
+      "bytes": 429773,
+      "sha256": "25c6ee18a16621652d8915b4446e7212ed80f5c8ee310ad7e111af3a3d36e09b"
+    },
+    {
+      "path": "revisions/R06/cad/Lezhandr_R06_empty.step",
+      "valid": true,
+      "solids": 133,
+      "faces": 1355,
+      "bounds_mm": [
+        50.99721823327166,
+        2365.0000001000003,
+        -545.1197192158013,
+        548.7921187364027,
+        -1e-07,
+        867.7940176801338
+      ],
+      "bytes": 8302814,
+      "sha256": "c3264791f49123c5d7658af807be00a72aac830c39715ef2d33be322e265add3"
+    },
+    {
+      "path": "revisions/R06/cad/Lezhandr_R06_folded.step",
+      "valid": true,
+      "solids": 142,
+      "faces": 1409,
+      "bounds_mm": [
+        50.99721823327166,
+        2365.0000001000003,
+        -588.0000001000002,
+        588.0000001000005,
+        -1e-07,
+        903.7543605897301
+      ],
+      "bytes": 17807253,
+      "sha256": "9abf76bcaf41d9ce7bb7dd033bd7bca869af62b17dee02412ea3e260c15ce661"
+    },
+    {
+      "path": "revisions/R06/cad/Lezhandr_R06_interior.step",
+      "valid": true,
+      "solids": 120,
+      "faces": 1312,
+      "bounds_mm": [
+        50.99721823327166,
+        2346.102269292542,
+        -545.0335790935022,
+        545.0335790935167,
+        -1e-07,
+        820.31334263206
+      ],
+      "bytes": 5542887,
+      "sha256": "d2795f22e442b1553c6be48bd937c1c49edab33e2c702ca7aa71b05589abc99b"
+    },
+    {
+      "path": "revisions/R06/cad/Lezhandr_R06_layers.step",
+      "valid": true,
+      "solids": 9,
+      "faces": 54,
+      "bounds_mm": [
+        619.9999998999999,
+        2290.0000001000003,
+        -535.000156584746,
+        535.0001565847464,
+        290.9999998999773,
+        901.7566126525663
+      ],
+      "bytes": 9673780,
+      "sha256": "c9deccee2982658c66505b9bcd82512e87fb0b18263a82b671008c86394fe194"
+    },
+    {
+      "path": "revisions/R06/cad/Lezhandr_R06_occupied_interior.step",
+      "valid": true,
+      "solids": 136,
+      "faces": 1346,
+      "bounds_mm": [
+        50.99721823327166,
+        2346.102269292542,
+        -545.0335790935022,
+        545.0335790935167,
+        -1e-07,
+        1060.366474895031
+      ],
+      "bytes": 5941912,
+      "sha256": "94be52d2930210e325a2ca2840f0be6be8c9caa8e3cd47703665aa6eb667e139"
+    },
+    {
+      "path": "revisions/R06/cad/Lezhandr_R06_relax.step",
+      "valid": true,
+      "solids": 146,
+      "faces": 1382,
+      "bounds_mm": [
+        50.99721823327166,
+        2365.0000001000003,
+        -545.1197192158013,
+        548.7921187364027,
+        -1e-07,
+        880.0211101324365
+      ],
+      "bytes": 8403888,
+      "sha256": "aa10d94555a6d240f59c9651eb8ab3862cc5a016abb3fa3a5b6e617a3edcd1ca"
+    },
+    {
+      "path": "revisions/R06/cad/Lezhandr_R06_small.step",
+      "valid": true,
+      "solids": 131,
+      "faces": 1353,
+      "bounds_mm": [
+        50.99721823327166,
+        2365.0000001000003,
+        -545.1197192158013,
+        548.7921187364027,
+        -1e-07,
+        867.7940176801338
+      ],
+      "bytes": 8276641,
+      "sha256": "419eb2c022dff7d7cc28b220af7645ccfd17eb670a816df62a0b0332deab06cc"
+    },
+    {
+      "path": "revisions/R06/cad/Lezhandr_R06_table.step",
+      "valid": true,
+      "solids": 94,
+      "faces": 847,
+      "bounds_mm": [
+        887.5,
+        1632.5,
+        -507.5,
+        507.5,
+        -8.881784197001e-16,
+        820.31334263206
+      ],
+      "bytes": 2795644,
+      "sha256": "b85a78930760b88fe4746368b777d25387c4d6f75748c1bd8c84cb247253b3d8"
+    },
+    {
+      "path": "revisions/R06/cad/Lezhandr_R06_work.step",
+      "valid": true,
+      "solids": 142,
+      "faces": 1409,
+      "bounds_mm": [
+        50.99721823327166,
+        2365.0000001000003,
+        -545.1197192158013,
+        548.7921187364027,
+        -1e-07,
+        903.7543605897301
+      ],
+      "bytes": 18298669,
+      "sha256": "eeecc1c3572443ea1e2ce9a3e4dc2aad8a07deeedbf08471799e1e44e6bb1c65"
+    }
+  ],
+  "dxf_files_audited": [
+    "revisions/R01/cad/dxf/sleep_side.dxf",
+    "revisions/R01/cad/dxf/work_side.dxf",
+    "revisions/R01/cad/dxf/work_top.dxf",
+    "revisions/R01/cad/dxf/work_front.dxf",
+    "revisions/R01/cad/dxf/sleep_front.dxf",
+    "revisions/R01/cad/dxf/sleep_top.dxf",
+    "revisions/R02/cad/dxf/sleep_side.dxf",
+    "revisions/R02/cad/dxf/work_side.dxf",
+    "revisions/R02/cad/dxf/work_top.dxf",
+    "revisions/R02/cad/dxf/work_front.dxf",
+    "revisions/R02/cad/dxf/sleep_front.dxf",
+    "revisions/R02/cad/dxf/sleep_top.dxf",
+    "revisions/R06/cad/section_Q04_outer_inner_mm.dxf"
+  ],
+  "source_sha256": {
+    "revisions/R01/cad/source/build_cad.py": "3c629a814287ecb280a97240bb8c5f3a962d8f637b1ff02dc8897a84d7d37da8",
+    "revisions/R02/cad/source/build_cad.py": "2113db7313510d02ecec5f72d44bc7a6dc27ac48800e751ba88caa4f55d144c6",
+    "revisions/R04/source/build_study.py": "9062651179d9dfd2d9238bff1effe6310415980fad2ae2875302a198510cc326",
+    "revisions/R04/source/cloth_solver.py": "e957a35a90c150c01cd2f8dbff31daeed50268cb052ffcbb93bca743f04d8fc9",
+    "revisions/R04/source/render_model.py": "1080c4cfaf39529aba5c8c07fb9f5ad0b7f536765f1aa49ff28e65230238eeca"
+  },
+  "original_signature_comparisons": [
+    {
+      "path": "revisions/R01/cad/step/lezhandr_sleep.step",
+      "topology_and_bounds_match": true,
+      "max_bounds_delta_mm": 0.0,
+      "original_sha256": "71e8f8bbd8f79ba1f70b65c50c43a3196b9143d990dae31ca0c5869dbb0fe716",
+      "published_sha256": "1626bc2386259c129470802a50d11ae53b8c14e0139d2c86013a601e89c60cdb",
+      "byte_exact_original": false
+    },
+    {
+      "path": "revisions/R01/cad/step/lezhandr_work.step",
+      "topology_and_bounds_match": true,
+      "max_bounds_delta_mm": 0.0,
+      "original_sha256": "75b046d3e80180d81d69b6deea4830787aa89da0d45b3697ac537a86ee5ee638",
+      "published_sha256": "b02abbcc89779bbfc44cc233e572eb352265dcac4141fab3cafc344245d00881",
+      "byte_exact_original": false
+    },
+    {
+      "path": "revisions/R02/cad/step/lezhandr_sleep.step",
+      "topology_and_bounds_match": true,
+      "max_bounds_delta_mm": 0.0,
+      "original_sha256": "c925bd516651446cab80f35fbb130224aa1cabb188a7d3dfe1caaf2bb572efe3",
+      "published_sha256": "b565d4ddf917abf8b07741f1a3c8186e1302ee439f46c75e216e9fee90ee4d84",
+      "byte_exact_original": false
+    },
+    {
+      "path": "revisions/R02/cad/step/lezhandr_work.step",
+      "topology_and_bounds_match": true,
+      "max_bounds_delta_mm": 0.0,
+      "original_sha256": "2e05658be6ff51e1b5d6783fbd80825af50e0b19707bed6579bb2cd438d50937",
+      "published_sha256": "4661985e045ef2629e0334984b4e7f374eca9c0daa19ff54d23edb4e3a3b8f1f",
+      "byte_exact_original": false
+    },
+    {
+      "path": "revisions/R04/cad/Lezhandr_R04_sleep.step",
+      "topology_and_bounds_match": true,
+      "max_bounds_delta_mm": 0.0,
+      "original_sha256": "88f98605afbe95d87429815abb0c12a98dd8a80e42cef8b6ef3bdeec06d2ab82",
+      "published_sha256": "31933abb6542ff2cfa31f7d72ae4c96157ddb332d2a391ab8c581ecb695e855f",
+      "byte_exact_original": false
+    },
+    {
+      "path": "revisions/R04/cad/Lezhandr_R04_work_closed.step",
+      "topology_and_bounds_match": true,
+      "max_bounds_delta_mm": 0.0,
+      "original_sha256": "4da8fc8c0cbc2f07db291230485b89d20d7abfcc432c9016bfec7208c8a4c257",
+      "published_sha256": "98c3ed1ef6d3312029be11f277bf8c6d93e1acfd0a107132c9a6c30d188565d6",
+      "byte_exact_original": false
+    },
+    {
+      "path": "revisions/R04/cad/Lezhandr_R04_work_open.step",
+      "topology_and_bounds_match": true,
+      "max_bounds_delta_mm": 0.0,
+      "original_sha256": "f9d5757e693ed037a45e1c90b1a7597fe09e26491679d4ed958dc5025f194d97",
+      "published_sha256": "60725ff98cb98441b14982da5d276350f10381d5764f1583a84d8e4942e2a32e",
+      "byte_exact_original": false
+    }
+  ],
+  "existing_R05_R06_files_preserved": 120,
+  "changed_payload_files": [
+    "revisions/R01/cad/dxf/sleep_front.dxf",
+    "revisions/R01/cad/dxf/sleep_side.dxf",
+    "revisions/R01/cad/dxf/sleep_top.dxf",
+    "revisions/R01/cad/dxf/work_front.dxf",
+    "revisions/R01/cad/dxf/work_side.dxf",
+    "revisions/R01/cad/dxf/work_top.dxf",
+    "revisions/R01/cad/parts_sleep.csv",
+    "revisions/R01/cad/parts_work.csv",
+    "revisions/R01/cad/renders/sleep_front.png",
+    "revisions/R01/cad/renders/sleep_iso.png",
+    "revisions/R01/cad/renders/sleep_side.png",
+    "revisions/R01/cad/renders/sleep_top.png",
+    "revisions/R01/cad/renders/work_frame.png",
+    "revisions/R01/cad/renders/work_front.png",
+    "revisions/R01/cad/renders/work_iso.png",
+    "revisions/R01/cad/renders/work_section.png",
+    "revisions/R01/cad/renders/work_side.png",
+    "revisions/R01/cad/renders/work_top.png",
+    "revisions/R01/cad/step/lezhandr_sleep.step",
+    "revisions/R01/cad/step/lezhandr_work.step",
+    "revisions/R01/cad/stl/lezhandr_sleep.stl",
+    "revisions/R01/cad/stl/lezhandr_work.stl",
+    "revisions/R01/tests/results/cad_sleep.json",
+    "revisions/R01/tests/results/cad_work.json",
+    "revisions/R02/cad/dxf/sleep_front.dxf",
+    "revisions/R02/cad/dxf/sleep_side.dxf",
+    "revisions/R02/cad/dxf/sleep_top.dxf",
+    "revisions/R02/cad/dxf/work_front.dxf",
+    "revisions/R02/cad/dxf/work_side.dxf",
+    "revisions/R02/cad/dxf/work_top.dxf",
+    "revisions/R02/cad/parts_sleep.csv",
+    "revisions/R02/cad/parts_work.csv",
+    "revisions/R02/cad/renders/sleep_head.png",
+    "revisions/R02/cad/renders/sleep_iso.png",
+    "revisions/R02/cad/renders/sleep_section.png",
+    "revisions/R02/cad/renders/sleep_side.png",
+    "revisions/R02/cad/renders/sleep_top.png",
+    "revisions/R02/cad/renders/work_head.png",
+    "revisions/R02/cad/renders/work_iso.png",
+    "revisions/R02/cad/renders/work_section.png",
+    "revisions/R02/cad/renders/work_side.png",
+    "revisions/R02/cad/renders/work_top.png",
+    "revisions/R02/cad/sewing_surfaces.json",
+    "revisions/R02/cad/step/lezhandr_sleep.step",
+    "revisions/R02/cad/step/lezhandr_work.step",
+    "revisions/R02/cad/stl/lezhandr_sleep.stl",
+    "revisions/R02/cad/stl/lezhandr_work.stl",
+    "revisions/R02/harness/routes_R02.json",
+    "revisions/R02/project.json",
+    "revisions/R02/tests/results/cad_R02.json",
+    "revisions/R04/cad/Lezhandr_R04_sleep.step",
+    "revisions/R04/cad/Lezhandr_R04_work_closed.step",
+    "revisions/R04/cad/Lezhandr_R04_work_open.step",
+    "revisions/R04/cad/model_R04.json",
+    "revisions/R04/exchange/Lezhandr_R04_sleep_mm.obj",
+    "revisions/R04/exchange/Lezhandr_R04_work_closed_mm.obj",
+    "revisions/R04/exchange/Lezhandr_R04_work_open_mm.obj",
+    "revisions/R04/patterns/surfaces_R04.json",
+    "revisions/R04/renders/keyboard_closed.png",
+    "revisions/R04/renders/keyboard_open.png",
+    "revisions/R04/renders/sleep.png",
+    "revisions/R04/renders/technical.png",
+    "revisions/R04/renders/work_closed.png",
+    "revisions/R04/renders/work_foot.png",
+    "revisions/R04/renders/work_open.png",
+    "revisions/R04/renders/work_side.png",
+    "revisions/R04/renders/work_top.png",
+    "revisions/R04/simulation/filler_sensitivity.json",
+    "revisions/R04/simulation/foot_quilt_drape.npz",
+    "revisions/R04/simulation/foot_quilt_metrics.json",
+    "revisions/R04/simulation/hood_drape.npz",
+    "revisions/R04/simulation/hood_history.csv",
+    "revisions/R04/simulation/hood_metrics.json",
+    "revisions/R04/simulation/sleep_quilt_drape.npz",
+    "revisions/R04/simulation/sleep_quilt_metrics.json",
+    "revisions/R04/source/build_study.py",
+    "revisions/R04/source/cloth_solver.py",
+    "revisions/R04/source/render_model.py",
+    "revisions/R04/tests/STEP_sleep.json",
+    "revisions/R04/tests/STEP_work_closed.json",
+    "revisions/R04/tests/STEP_work_open.json",
+    "revisions/R04/tests/hood_clearances.json"
+  ],
+  "project_zip_files_added": 0,
+  "export_provenance": "Missing exports rebuilt from byte-verified original sources in Actions; existing R05/R06 not changed. Export timestamps and raster encoders may differ from old attachments.",
+  "scope": "CAD and CAD-related views only. Full historical PDF/embroidery/software synchronization is a separate task.",
+  "force_push": false,
+  "main_before": "3c057f9c933b3ba29bcdbb439dac2691c2a3780c"
+}

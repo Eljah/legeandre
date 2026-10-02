@@ -1,0 +1,112 @@
+Reusing computed, matching simulation: hood
+Reusing computed, matching simulation: foot_quilt
+Computing simulation: sleep_quilt
+/opt/pyvenv/lib/python3.13/site-packages/cadquery/utils.py:82: FutureWarning: save will be removed in the next release.
+  warn(f"{f.__name__} will be removed in the next release.", FutureWarning)
+{
+  "hood": {
+    "vertices": 1225,
+    "triangles": 2304,
+    "distance_constraints": 6982,
+    "steps": 240,
+    "iterations_per_step": 32,
+    "dt_s": 0.008333333333333333,
+    "time_s": 2.0,
+    "areal_density_kg_m2": 0.35,
+    "area_m2": 0.2909235142434001,
+    "model_mass_kg": 0.10182322998519004,
+    "max_displacement_mm": 34.154817607407914,
+    "mean_displacement_mm": 12.929219055022296,
+    "last_step_motion_mm": 0.0042980766525227716,
+    "last_max_speed_m_s": 0.0005028749683451643,
+    "structural_strain_p95_pct": 1.9800351345085312,
+    "structural_strain_max_pct": 5.028210591910698,
+    "max_pin_error_mm": 0.0,
+    "note": "Uncalibrated XPBD distance network. No calibrated fabric bending law, foam/DEM, self-collision or thermal solve."
+  },
+  "quilt": {
+    "vertices": 1247,
+    "triangles": 2352,
+    "distance_constraints": 7124,
+    "steps": 300,
+    "iterations_per_step": 32,
+    "dt_s": 0.008333333333333333,
+    "time_s": 2.5,
+    "areal_density_kg_m2": 0.5,
+    "area_m2": 0.49331328813069597,
+    "model_mass_kg": 0.24665664406534799,
+    "max_displacement_mm": 139.66375176517863,
+    "mean_displacement_mm": 41.13685323613976,
+    "last_step_motion_mm": 0.010521622999510764,
+    "last_max_speed_m_s": 0.0012310298909427593,
+    "structural_strain_p95_pct": 1.914838334396372,
+    "structural_strain_max_pct": 4.238071052275139,
+    "max_pin_error_mm": 0.0,
+    "note": "Uncalibrated XPBD distance network. No calibrated fabric bending law, foam/DEM, self-collision or thermal solve."
+  },
+  "clearance": {
+    "hood_electrical_power_W": 0,
+    "hood_heater_count": 0,
+    "hood_cable_count": 0,
+    "hinge_axis_mm": [
+      [
+        965,
+        335,
+        545
+      ],
+      [
+        1325,
+        335,
+        545
+      ]
+    ],
+    "open_angle_deg": 105,
+    "closed_bbox_mm": [
+      [
+        965.0,
+        -339.49292615464174,
+        545.0
+      ],
+      [
+        1325.0,
+        339.17210242371164,
+        710.0
+      ]
+    ],
+    "open_bbox_mm": [
+      [
+        965.0,
+        335.0,
+        536.3614136409552
+      ],
+      [
+        1325.0,
+        603.0817602807549,
+        1193.9230438961536
+      ]
+    ],
+    "sampled_sweep_bbox_mm": [
+      [
+        965.0,
+        -339.49292615464174,
+        536.3614136409552
+      ],
+      [
+        1325.0,
+        603.0817602807549,
+        1219.4929261546417
+      ]
+    ],
+    "eye_point_mm": [
+      460.0,
+      0.0,
+      1000.0
+    ],
+    "keyboard_samples": 120,
+    "canopy_occluded_samples_closed": 34,
+    "canopy_occluded_samples_open": 0,
+    "hood_screen_x_gap_mm": 34.131114295596944,
+    "laptop_bottom_to_tray_top_mm": 16.0,
+    "caveat": "Single reference eye point and canopy only; no anthropometric certification, airflow, CFD or measured laptop heat."
+  }
+}

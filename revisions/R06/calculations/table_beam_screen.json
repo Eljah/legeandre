@@ -1,0 +1,18 @@
+{
+  "E_MPa_assumption": 69000,
+  "I_mm4": 83177.08333333333,
+  "checks": [
+    {
+      "load_per_cantilever_N": 37.5,
+      "stress_MPa": 7.861615529117095,
+      "tip_mm": 1.0138234733603768,
+      "scope": "one ideal cantilever, no joint stiffness/torsion/whole-frame check"
+    },
+    {
+      "load_per_cantilever_N": 75,
+      "stress_MPa": 15.72323105823419,
+      "tip_mm": 2.0276469467207536,
+      "scope": "one ideal cantilever, no joint stiffness/torsion/whole-frame check"
+    }
+  ]
+}

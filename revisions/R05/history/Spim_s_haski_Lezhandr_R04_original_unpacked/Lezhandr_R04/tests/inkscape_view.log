@@ -1,0 +1,15 @@
+CMSSystem::load_profiles: ICC profile with duplicate name: Artifex PS CMYK Profile:
+   /usr/share/color/icc/ghostscript/gray_to_k.icc
+   /usr/share/color/icc/ghostscript/ps_cmyk.icc
+CMSSystem::load_profiles: ICC profile with duplicate name: Artifex Software sGray ICC Profile:
+   /usr/share/color/icc/ghostscript/default_gray.icc
+   /usr/share/color/icc/ghostscript/sgray.icc
+CMSSystem::load_profiles: ICC profile with duplicate name: Artifex Software sRGB ICC Profile:
+   /usr/share/color/icc/ghostscript/default_rgb.icc
+   /usr/share/color/icc/ghostscript/srgb.icc
+
+(org.inkscape.Inkscape:2601): Gtk-CRITICAL **: 08:13:03.329: invalid accelerator string ''
+
+(org.inkscape.Inkscape:2601): Gtk-CRITICAL **: 08:13:03.329: gtk_application_accels_get_actions_for_accel: assertion 'accel_key.key != 0' failed
+
+(org.inkscape.Inkscape:2601): Gtk-WARNING **: 08:13:03.330: Unable to parse accelerator '': ignored request to install 1 accelerators

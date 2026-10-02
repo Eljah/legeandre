@@ -1,0 +1,6 @@
+software/desktop/src/main/java/ru/spimshaski/lezhandr/DesktopApp.java
+software/desktop/src/main/java/ru/spimshaski/lezhandr/DemoTransport.java
+software/desktop/src/main/java/ru/spimshaski/lezhandr/SelfTest.java
+software/desktop/src/main/java/ru/spimshaski/lezhandr/Protocol.java
+software/desktop/src/main/java/ru/spimshaski/lezhandr/IntegrationTest.java
+software/desktop/src/main/java/ru/spimshaski/lezhandr/Transport.java

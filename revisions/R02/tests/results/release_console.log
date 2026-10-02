@@ -1,0 +1,26 @@
+{
+  "status": "passed digital release checks",
+  "pattern_files": 103,
+  "dxf_files_checked": 119,
+  "svg_xml_parsed": 114,
+  "embroidery_decoded_positions_equal": true,
+  "needle_penetrations": 52197,
+  "max_decoded_normal_stitch_mm": 3.1016,
+  "source_preserved_files": 144,
+  "software_tests": [
+    {
+      "suite": "core",
+      "passed": 50
+    },
+    {
+      "suite": "java",
+      "passed": 12
+    },
+    {
+      "suite": "integration",
+      "passed": 25
+    }
+  ],
+  "hardware_or_fabric_tests": false,
+  "proprietary_CAD_or_embroidery_app_used": false
+}

@@ -1,0 +1,70 @@
+{
+  "status": "EMBROIDERY_REBUILT_AND_VERIFIED",
+  "workflow_run_id": "37002300944",
+  "sources_sha256": {
+    "artwork.py": "eb12b333d41eaac16836292c470122fc45965ba18ca5756c273a156dd5cf1dda",
+    "build_embroidery.py": "26338785ef9b3ff47aa92a7b887fe978ab8c1a551125efc4df614817a2688391",
+    "build_coupon.py": "27c9093598839e0805716add3604b8187de7d85b2db2440de9e2a2886dd1aeff",
+    "machine_formats.py": "751ea58ef9bd8d989b7296f9b62bb72cb289f24f1c41ab2c8ff5e080509c177c",
+    "validate.py": "43ebe32ff4e11064dbeac6254b49bf356449850b4757f31dc1d4086cbc10d2d9"
+  },
+  "outputs_compared_to_originals": [
+    {
+      "path": "machine/Spim_s_haski_R03_140x156.dst",
+      "sha256": "87b06ec047d55e03d9141cea0d9cc3323407142a0da7f18701724d18658ab86d",
+      "original_sha256": "87b06ec047d55e03d9141cea0d9cc3323407142a0da7f18701724d18658ab86d",
+      "byte_exact_original": true
+    },
+    {
+      "path": "machine/Spim_s_haski_R03_140x156.exp",
+      "sha256": "438f3a5f7f957bea8804472331bd1de953a416b5155518a04151643ff22916bd",
+      "original_sha256": "438f3a5f7f957bea8804472331bd1de953a416b5155518a04151643ff22916bd",
+      "byte_exact_original": true
+    },
+    {
+      "path": "Spim_s_haski_R03_editable.svg",
+      "sha256": "0b4fc7743414606d18ff7a7b01b4fe089d3fe1504b7310a6f35d129502ac4e1f",
+      "original_sha256": "0b4fc7743414606d18ff7a7b01b4fe089d3fe1504b7310a6f35d129502ac4e1f",
+      "byte_exact_original": true
+    }
+  ],
+  "validation": {
+    "consecutive_duplicate_needles": 0,
+    "design": "Спим с хаски R03",
+    "method": "manual semantic object redigitizing; custom Python engine, Inkscape-compatible SVG; no physical sewout",
+    "needle_points": 50691,
+    "colors": 8,
+    "color_blocks": 13,
+    "color_changes": 12,
+    "trim_requests": 347,
+    "dimensions_mm": [
+      140.0,
+      155.0
+    ],
+    "tatami_objects": 61,
+    "satin_columns": 108,
+    "stitch_types": {
+      "tie_in": 1436,
+      "edge_underlay": 1930,
+      "buried_travel": 2755,
+      "mesh_underlay": 4090,
+      "tatami": 23422,
+      "tie_off": 495,
+      "center_underlay": 3008,
+      "satin": 13054,
+      "zigzag_underlay": 501
+    },
+    "max_stitch_mm": 3.7643,
+    "zero_length_points": 359,
+    "percent_under_0_3mm": 1.35,
+    "DST_EXP_identical_needle_points": true,
+    "row_spacing_mm": 0.42,
+    "tatami_max_stitch_mm": 3,
+    "satin_peak_to_peak_mm": 0.4,
+    "satin_width_compensation_per_side_mm": 0.12,
+    "physical_sewout": false,
+    "inkstitch_engine_executed": false
+  },
+  "physical_sewout": false,
+  "full_original_snapshot_uploaded": false
+}

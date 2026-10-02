@@ -1,0 +1,7 @@
+(footprint "Husky_TO220_3" (layer "F.Cu") (at 0 0) (uuid ed24e6e6-d448-4d59-bff1-4ebf798eb59a)
+(fp_text reference "Q1" (at 0 -7) (layer "F.SilkS") (effects (font (size 1.1 1.1) (thickness 0.15))))
+(fp_text value "STP55NF06L" (at 0 7) (layer "F.SilkS") hide (effects (font (size 1 1) (thickness 0.15))))
+(pad "1" thru_hole rect (at -2.54 0) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (net 34 "RELAY_GATE"))
+(pad "2" thru_hole circle (at 0 0) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (net 35 "COIL_MINUS"))
+(pad "3" thru_hole circle (at 2.54 0) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (net 2 "GND"))
+)

@@ -1,0 +1,30 @@
+{
+  "part_ids": [
+    "F_BASE_LONG_-1",
+    "F_BASE_LONG_1",
+    "F_BASE_CROSS_610.0",
+    "F_BASE_CROSS_1450.0",
+    "F_BASE_CROSS_1110",
+    "C1_UPRIGHT",
+    "C1_UPPER",
+    "JOINT_BLOCK_0",
+    "C2_UPRIGHT",
+    "C2_UPPER",
+    "JOINT_BLOCK_1",
+    "F_BACK_RAIL_-1",
+    "F_BACK_PROP_-1",
+    "F_BACK_BASE_LINK_-1",
+    "F_BACK_LOWER_STUB_-1",
+    "F_BACK_LOWER_LINK_-1",
+    "F_BACK_RAIL_1",
+    "F_BACK_PROP_1",
+    "F_BACK_BASE_LINK_1",
+    "F_BACK_LOWER_STUB_1",
+    "F_BACK_LOWER_LINK_1",
+    "F_BACK_CROSS",
+    "TRAY_VENTED"
+  ],
+  "valid_after_reimport": true,
+  "solids": 23,
+  "faces": 305
+}

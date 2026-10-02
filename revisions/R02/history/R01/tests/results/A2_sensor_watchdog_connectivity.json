@@ -1,0 +1,6 @@
+{
+  "board": "A2_sensor_watchdog",
+  "method": "copper geometry continuity including plated holes/vias, 1e-6 mm tolerance; NOT KiCad DRC",
+  "nets": 39,
+  "disconnected_nets": {}
+}

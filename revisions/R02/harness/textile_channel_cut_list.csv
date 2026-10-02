@@ -1,0 +1,3 @@
+﻿id,CAD_datum_panel,cut_length_mm,cut_width_mm,finished_channel_width_mm,note
+HC_POWER,O03,2658,60,40,10 mm stitch margin per side; two open ends; not a tight drawcord
+HC_SENSOR,O02,2589,60,40,10 mm stitch margin per side; two open ends; not a tight drawcord

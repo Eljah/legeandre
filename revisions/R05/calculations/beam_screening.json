@@ -1,0 +1,50 @@
+[
+  {
+    "case": "centred laptop + accessories, 75 N total",
+    "total_N": 75,
+    "per_upper_beam_N": 37.5,
+    "section_mm": [
+      45.0,
+      25.0,
+      2.5
+    ],
+    "I_mm4": 83177.08333333333,
+    "sigma_MPa": 7.861615529117095,
+    "tip_deflection_mm": 1.0138234733603768,
+    "assumed_allowable_MPa": 80,
+    "local_member_screen_pass": true,
+    "not_included": "upright flex, joint rotation, torsion, local buckling, fatigue"
+  },
+  {
+    "case": "centred screening 150 N total",
+    "total_N": 150,
+    "per_upper_beam_N": 75.0,
+    "section_mm": [
+      45.0,
+      25.0,
+      2.5
+    ],
+    "I_mm4": 83177.08333333333,
+    "sigma_MPa": 15.72323105823419,
+    "tip_deflection_mm": 2.0276469467207536,
+    "assumed_allowable_MPa": 80,
+    "local_member_screen_pass": true,
+    "not_included": "upright flex, joint rotation, torsion, local buckling, fatigue"
+  },
+  {
+    "case": "equivalent 150 N on ONE upper beam",
+    "total_N": 300,
+    "per_upper_beam_N": 150.0,
+    "section_mm": [
+      45.0,
+      25.0,
+      2.5
+    ],
+    "I_mm4": 83177.08333333333,
+    "sigma_MPa": 31.44646211646838,
+    "tip_deflection_mm": 4.055293893441507,
+    "assumed_allowable_MPa": 80,
+    "local_member_screen_pass": true,
+    "not_included": "upright flex, joint rotation, torsion, local buckling, fatigue"
+  }
+]

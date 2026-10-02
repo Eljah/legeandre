@@ -1,0 +1,16 @@
+{
+  "cadquery": "2.8.0",
+  "vtk": "9.6.2",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "shapely": "2.1.2",
+  "ezdxf": "1.4.4",
+  "opencv-python": "4.13.0.92",
+  "Pillow": "12.3.0",
+  "reportlab": "4.4.9",
+  "Inkscape": "1.4",
+  "Java": "OpenJDK 21.0.11; javac --release 17",
+  "SolidWorks": "not installed / not used",
+  "InkStitch": "extension not installed / not executed",
+  "embroiderer": "supplied Python digitizer and DST/EXP codecs"
+}

@@ -1,0 +1,122 @@
+{
+  "heater_estimate": [
+    {
+      "id": 0,
+      "name": "Туловище",
+      "watts": 20,
+      "ohms": 7.2,
+      "area_m2": 0.4,
+      "parallel_branches": 10,
+      "branch_R_ohm": 72,
+      "branch_length_m": 1.1672890134897855,
+      "total_wire_m": 11.672890134897855,
+      "current_A": 1.6666666666666665,
+      "W_per_m2": 50.0,
+      "full_power_at_13_2V_W": 24.199999999999996
+    },
+    {
+      "id": 1,
+      "name": "Ноги",
+      "watts": 20,
+      "ohms": 7.2,
+      "area_m2": 0.45,
+      "parallel_branches": 10,
+      "branch_R_ohm": 72,
+      "branch_length_m": 1.1672890134897855,
+      "total_wire_m": 11.672890134897855,
+      "current_A": 1.6666666666666665,
+      "W_per_m2": 44.44444444444444,
+      "full_power_at_13_2V_W": 24.199999999999996
+    },
+    {
+      "id": 2,
+      "name": "Стопы",
+      "watts": 12,
+      "ohms": 12,
+      "area_m2": 0.18,
+      "parallel_branches": 6,
+      "branch_R_ohm": 72,
+      "branch_length_m": 1.1672890134897855,
+      "total_wire_m": 7.003734080938713,
+      "current_A": 1.0,
+      "W_per_m2": 66.66666666666667,
+      "full_power_at_13_2V_W": 14.519999999999998
+    },
+    {
+      "id": 3,
+      "name": "Руки",
+      "watts": 8,
+      "ohms": 18,
+      "area_m2": 0.18,
+      "parallel_branches": 4,
+      "branch_R_ohm": 72,
+      "branch_length_m": 1.1672890134897855,
+      "total_wire_m": 4.669156053959142,
+      "current_A": 0.6666666666666666,
+      "W_per_m2": 44.44444444444444,
+      "full_power_at_13_2V_W": 9.68
+    }
+  ],
+  "beam_screening": {
+    "section_mm": "35x35x2",
+    "model": "simply supported single rail, one central force, conservative whole occupant shared by 2 rails; not assembly FEA",
+    "span_m": 0.82,
+    "force_N": 882.9000000000001,
+    "I_m4": 4.809200000000005e-08,
+    "max_moment_Nm": 180.99450000000002,
+    "stress_MPa": 65.86134388255837,
+    "deflection_mm": 3.056257255116096,
+    "yield_strength": "not assumed; material/temper certificates required",
+    "pin_hinge_welds_fatigue_tip_stability": "NOT VALIDATED"
+  },
+  "battery_scenarios": [
+    {
+      "case": "Light",
+      "heat_W": 25,
+      "laptop_W": 30,
+      "battery_input_W": 62.507246376811594,
+      "hours": 6.55284025040575
+    },
+    {
+      "case": "Typical_assumption",
+      "heat_W": 40,
+      "laptop_W": 45,
+      "battery_input_W": 95.47826086956522,
+      "hours": 4.289981785063753
+    },
+    {
+      "case": "Maximum",
+      "heat_W": 60,
+      "laptop_W": 100,
+      "battery_input_W": 178.32850241545896,
+      "hours": 2.2968846508099907
+    }
+  ],
+  "heat_balance_scenarios": [
+    {
+      "ambient_C": 10,
+      "assumed_gap_loss_W": 10,
+      "envelope_loss_W": 65.0,
+      "useful_body_heat_assumed_W": 60,
+      "needed_electric_W": 5.0,
+      "available_W": 60
+    },
+    {
+      "ambient_C": 0,
+      "assumed_gap_loss_W": 15,
+      "envelope_loss_W": 97.5,
+      "useful_body_heat_assumed_W": 60,
+      "needed_electric_W": 37.5,
+      "available_W": 60
+    },
+    {
+      "ambient_C": -10,
+      "assumed_gap_loss_W": 40,
+      "envelope_loss_W": 150.0,
+      "useful_body_heat_assumed_W": 60,
+      "needed_electric_W": 90.0,
+      "available_W": 60
+    }
+  ],
+  "model_limitations": "No FEM/CFD, no clothing comfort model, no skin temperature validation. Wire geometry is a procurement/bench specification, NOT instructions to sew bare wire into clothing."
+}

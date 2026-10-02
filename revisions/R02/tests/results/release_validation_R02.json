@@ -1,0 +1,742 @@
+{
+  "status": "passed digital release checks",
+  "pattern_files": 103,
+  "dxf_files_checked": 119,
+  "dxf_audits": [
+    {
+      "file": "cad/dxf/sleep_side.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "cad/dxf/sleep_front.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "cad/dxf/work_side.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "cad/dxf/work_top.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "cad/dxf/sleep_top.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "cad/dxf/work_front.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/embroidery_placement_on_OHEAD.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/L12.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/L07A.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/O03.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/O08B.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/H01.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/O01.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/ARM_RIGHT_TOP.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/I12.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/L14.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/WBACK.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/OFOOT.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/I14.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/ARM_RIGHT_OUT.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/O15.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/OHEAD.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/HZ3.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/I09A.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/WLEFT.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/O14.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/ARM_RIGHT_IN.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/O07A.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/L07B.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/O10B.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/I03.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/L10A.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/O04.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/MB.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/O10A.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/O09A.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/L16.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/O07B.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/L09B.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/WSLOPE.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/LF.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/H02.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/I10A.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/ARM_LEFT_BOTTOM.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/LFOOT.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/TRAY_TOP.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/I01.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/ARM_RIGHT_FOOT.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/I13.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/O11A.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/HZ1.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/O16.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/O09B.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/L04.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/ARM_RIGHT_BOTTOM.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/O05.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/ARM_LEFT_TOP.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/ARM_LEFT_FOOT.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/I06A.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/ARM_RIGHT_HEAD.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/MG_RIGHT.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/L11B.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/I02.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/I07B.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/L01.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/O11B.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/L15.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/O12.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/MG_LEFT.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/I11A.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/I08A.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/L02.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/L10B.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/I07A.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/LHEAD.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/I10B.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/TRAY_BOTTOM.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/I06B.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/I09B.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/HZ2.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/IFOOT.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/ARM_LEFT_IN.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/L05.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/O02.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/L03.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/L11A.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/L06A.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/I08B.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/I16.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/MT.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/I11B.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/I15.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/L08A.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/I04.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/O08A.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/L09A.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/L13.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/O06A.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/OF.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/L06B.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/WBASE.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/WRIGHT.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/I05.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/O13.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/HZ0.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/ARM_LEFT_HEAD.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/L08B.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/ARM_LEFT_OUT.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/IHEAD.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/pieces/O06B.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/markers/lining_1500.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/markers/heater_carrier_1500.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/markers/insulation_1500.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/markers/floor_1500.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/markers/outer_1500.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/markers/cushion_1500.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "textile/markers/mesh_1500.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "harness/SENSOR_CHANNEL_on_O02.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    },
+    {
+      "file": "harness/POWER_CHANNEL_on_O03.dxf",
+      "errors": 0,
+      "fixes": 0,
+      "units_mm": true
+    }
+  ],
+  "svg_xml_parsed": 114,
+  "embroidery_decoded_positions_equal": true,
+  "needle_penetrations": 52197,
+  "max_decoded_normal_stitch_mm": 3.1016,
+  "source_preserved_files": 144,
+  "software_tests": [
+    {
+      "suite": "core",
+      "passed": 50
+    },
+    {
+      "suite": "java",
+      "passed": 12
+    },
+    {
+      "suite": "integration",
+      "passed": 25
+    }
+  ],
+  "hardware_or_fabric_tests": false,
+  "proprietary_CAD_or_embroidery_app_used": false
+}

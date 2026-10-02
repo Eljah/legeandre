@@ -1,0 +1,41 @@
+[
+  {
+    "scenario_height_mm": 1600,
+    "heel_point_mm": [
+      1828.6934045986598,
+      0.0,
+      209.60919558073635
+    ],
+    "toe_reference_x_mm": 1960.6934045986598,
+    "stop_front_x_mm": 1980,
+    "table_delta_z_mm": -56.04793796237857,
+    "table_delta_x_mm": -16.159002645550572,
+    "population_fit": "Not verified; nominal proportional manikins only"
+  },
+  {
+    "scenario_height_mm": 1800,
+    "heel_point_mm": [
+      1926.0300801734923,
+      0.0,
+      207.0603450283284
+    ],
+    "toe_reference_x_mm": 2074.530080173492,
+    "stop_front_x_mm": 2090,
+    "table_delta_z_mm": -28.023968981189398,
+    "table_delta_x_mm": -8.079501322775286,
+    "population_fit": "Not verified; nominal proportional manikins only"
+  },
+  {
+    "scenario_height_mm": 2000,
+    "heel_point_mm": [
+      2023.3667557483247,
+      0.0,
+      204.51149447592044
+    ],
+    "toe_reference_x_mm": 2188.366755748325,
+    "stop_front_x_mm": 2200,
+    "table_delta_z_mm": 0.0,
+    "table_delta_x_mm": 0.0,
+    "population_fit": "Not verified; nominal proportional manikins only"
+  }
+]

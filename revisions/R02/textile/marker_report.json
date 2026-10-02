@@ -1,0 +1,58 @@
+{
+  "outer": {
+    "pieces": 25,
+    "width_mm": 1500,
+    "length_mm": 7923.5,
+    "area_m2": 5.567,
+    "utilization_percent": 46.84,
+    "algorithm": "irregular raster nesting, 8 mm grid, 10 mm buffer, 90/270 deg; exact polygon collision check; not global optimum"
+  },
+  "floor": {
+    "pieces": 1,
+    "width_mm": 1500,
+    "length_mm": 2434.0,
+    "area_m2": 1.666,
+    "utilization_percent": 45.64,
+    "algorithm": "irregular raster nesting, 8 mm grid, 10 mm buffer, 90/270 deg; exact polygon collision check; not global optimum"
+  },
+  "lining": {
+    "pieces": 26,
+    "width_mm": 1500,
+    "length_mm": 8603.2,
+    "area_m2": 6.908,
+    "utilization_percent": 53.53,
+    "algorithm": "irregular raster nesting, 8 mm grid, 10 mm buffer, 90/270 deg; exact polygon collision check; not global optimum"
+  },
+  "cushion": {
+    "pieces": 21,
+    "width_mm": 1500,
+    "length_mm": 6256.2,
+    "area_m2": 6.501,
+    "utilization_percent": 69.28,
+    "algorithm": "irregular raster nesting, 8 mm grid, 10 mm buffer, 90/270 deg; exact polygon collision check; not global optimum"
+  },
+  "mesh": {
+    "pieces": 2,
+    "width_mm": 1500,
+    "length_mm": 794.0,
+    "area_m2": 0.72,
+    "utilization_percent": 60.47,
+    "algorithm": "irregular raster nesting, 8 mm grid, 10 mm buffer, 90/270 deg; exact polygon collision check; not global optimum"
+  },
+  "heater_carrier": {
+    "pieces": 4,
+    "width_mm": 1500,
+    "length_mm": 1441.4,
+    "area_m2": 1.322,
+    "utilization_percent": 61.15,
+    "algorithm": "irregular raster nesting, 8 mm grid, 10 mm buffer, 90/270 deg; exact polygon collision check; not global optimum"
+  },
+  "insulation": {
+    "pieces": 24,
+    "width_mm": 1500,
+    "length_mm": 5694.5,
+    "area_m2": 3.607,
+    "utilization_percent": 42.22,
+    "algorithm": "irregular raster nesting, 8 mm grid, 10 mm buffer, 90/270 deg; exact polygon collision check; not global optimum"
+  }
+}

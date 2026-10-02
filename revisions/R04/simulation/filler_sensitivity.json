@@ -1,0 +1,26 @@
+[
+  {
+    "assumed_modulus_Pa": 10000,
+    "hypothetical_force_N": 400,
+    "assumed_contact_area_m2": 0.12,
+    "unloaded_thickness_mm": 100,
+    "computed_compression_mm": 19.064017897278625,
+    "not_measured_material": true
+  },
+  {
+    "assumed_modulus_Pa": 20000,
+    "hypothetical_force_N": 400,
+    "assumed_contact_area_m2": 0.12,
+    "unloaded_thickness_mm": 100,
+    "computed_compression_mm": 12.146774570683093,
+    "not_measured_material": true
+  },
+  {
+    "assumed_modulus_Pa": 40000,
+    "hypothetical_force_N": 400,
+    "assumed_contact_area_m2": 0.12,
+    "unloaded_thickness_mm": 100,
+    "computed_compression_mm": 7.0578963247851085,
+    "not_measured_material": true
+  }
+]
