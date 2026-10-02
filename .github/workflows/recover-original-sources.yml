@@ -1,0 +1,24 @@
+name: Restore verified original source files
+on:
+  push:
+    branches: [sync/r01-r06-20261002]
+    paths: [tools/recover_original_sources.py, .github/workflows/recover-original-sources.yml]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: legeandre-source-recovery
+  cancel-in-progress: false
+jobs:
+  restore:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: sync/r01-r06-20261002
+          fetch-depth: 1
+      - name: Restore and verify original files, without running them
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python tools/recover_original_sources.py
