@@ -1,0 +1,65 @@
+name: Rebuild preserved CAD and PDF
+on:
+  push:
+    branches: [sync/r01-r06-20261002]
+    paths:
+      - .github/workflows/rebuild-preserved-cad.yml
+      - tools/rebuild_cad_recovery.py
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: legeandre-cad-recovery
+  cancel-in-progress: false
+jobs:
+  rebuild:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 50
+    env:
+      PYTHONUNBUFFERED: '1'
+      LIBGL_ALWAYS_SOFTWARE: '1'
+      OMP_NUM_THREADS: '2'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: sync/r01-r06-20261002
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install CAD and rendering dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y xvfb xauth libgl1 libegl1 libgl1-mesa-dri fonts-dejavu-core
+          python -m pip install -r revisions/R06/requirements.txt PyMuPDF
+      - name: Rebuild original design and verify exports
+        run: python tools/rebuild_cad_recovery.py
+      - name: Commit individual generated files without archives or force push
+        run: |
+          python - <<'PY'
+          import subprocess
+          from pathlib import Path
+          paths=[]
+          for root in ['revisions/R05','revisions/R06']:
+              for p in Path(root).rglob('*'):
+                  if p.is_file() and '__pycache__' not in p.parts and p.suffix not in ['.pyc','.zip']:
+                      if p.stat().st_size > 99*1024*1024: raise RuntimeError('Oversized output '+str(p))
+                      paths.append(str(p))
+          paths.append('provenance/CAD_REBUILD_RECOVERY.json')
+          for i in range(0,len(paths),100):subprocess.run(['git','add','-f','--',*paths[i:i+100]],check=True)
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Restore R05 and R06 CAD assemblies, renders, patterns and PDF as individual files'
+          git pull --rebase origin sync/r01-r06-20261002
+          git push origin HEAD:refs/heads/sync/r01-r06-20261002
+          echo "Published commit $(git rev-parse HEAD)" >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: cad-recovery-checks
+          path: |
+            provenance/CAD_REBUILD_RECOVERY.json
+            revisions/R06/tests/
+            revisions/R06/docs/Lezhandr_R06_CAD_review.pdf
+          retention-days: 14
