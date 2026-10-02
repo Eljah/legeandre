@@ -1,0 +1,7 @@
+(footprint "Husky_TERM_3" (layer "F.Cu") (at 0 0) (uuid 1be325a8-793b-4544-ac21-b1dc6945b27f)
+(fp_text reference "J1" (at 0 -7) (layer "F.SilkS") (effects (font (size 1.1 1.1) (thickness 0.15))))
+(fp_text value "12V: SAFE / GND / RAW" (at 0 7) (layer "F.SilkS") hide (effects (font (size 1 1) (thickness 0.15))))
+(pad "1" thru_hole rect (at -5.08 0) (size 2.4 2.4) (drill 1.2) (layers "*.Cu" "*.Mask") (net 1 "H12"))
+(pad "2" thru_hole circle (at 0.0 0) (size 2.4 2.4) (drill 1.2) (layers "*.Cu" "*.Mask") (net 2 "PGND"))
+(pad "3" thru_hole circle (at 5.08 0) (size 2.4 2.4) (drill 1.2) (layers "*.Cu" "*.Mask") (net 3 "RAW12"))
+)

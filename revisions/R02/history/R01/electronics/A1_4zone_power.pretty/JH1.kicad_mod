@@ -1,0 +1,6 @@
+(footprint "Husky_TERM_2" (layer "F.Cu") (at 0 0) (uuid 4d92fa41-7af6-4ae1-b143-64e377da3ca8)
+(fp_text reference "JH1" (at 0 -7) (layer "F.SilkS") (effects (font (size 1.1 1.1) (thickness 0.15))))
+(fp_text value "Heater Z0" (at 0 7) (layer "F.SilkS") hide (effects (font (size 1 1) (thickness 0.15))))
+(pad "1" thru_hole rect (at -2.54 0) (size 2.4 2.4) (drill 1.2) (layers "*.Cu" "*.Mask") (net 19 "HEAT0"))
+(pad "2" thru_hole circle (at 2.54 0) (size 2.4 2.4) (drill 1.2) (layers "*.Cu" "*.Mask") (net 18 "DRAIN0"))
+)

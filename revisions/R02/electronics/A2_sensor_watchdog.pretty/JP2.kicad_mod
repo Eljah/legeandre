@@ -1,0 +1,6 @@
+(footprint "Husky_TERM_2" (layer "F.Cu") (at 0 0) (uuid b24873c2-d708-4dbf-851a-b217646b1bbc)
+(fp_text reference "JP2" (at 0 -7) (layer "F.SilkS") (effects (font (size 1.1 1.1) (thickness 0.15))))
+(fp_text value "RAW12 / GND" (at 0 7) (layer "F.SilkS") hide (effects (font (size 1 1) (thickness 0.15))))
+(pad "1" thru_hole rect (at -2.54 0) (size 2.4 2.4) (drill 1.2) (layers "*.Cu" "*.Mask") (net 32 "RAW12"))
+(pad "2" thru_hole circle (at 2.54 0) (size 2.4 2.4) (drill 1.2) (layers "*.Cu" "*.Mask") (net 2 "GND"))
+)

@@ -1,0 +1,6 @@
+(footprint "Husky_R_2" (layer "F.Cu") (at 0 0) (uuid 939b84d2-f4bc-4bc1-bf77-d10313bb740d)
+(fp_text reference "RPD2" (at 0 -7) (layer "F.SilkS") (effects (font (size 1.1 1.1) (thickness 0.15))))
+(fp_text value "100k" (at 0 7) (layer "F.SilkS") hide (effects (font (size 1 1) (thickness 0.15))))
+(pad "1" thru_hole rect (at 0 -3.81) (size 1.7 1.7) (drill 0.8) (layers "*.Cu" "*.Mask") (net 19 "WD"))
+(pad "2" thru_hole circle (at 0 3.81) (size 1.7 1.7) (drill 0.8) (layers "*.Cu" "*.Mask") (net 2 "GND"))
+)

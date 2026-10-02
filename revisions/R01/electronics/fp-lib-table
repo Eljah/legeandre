@@ -1,0 +1,4 @@
+(fp_lib_table
+ (lib (name "A2_sensor_watchdog")(type "KiCad")(uri "${KIPRJMOD}/A2_sensor_watchdog.pretty")(options "")(descr "R01 custom footprints - verify before production"))
+ (lib (name "A1_4zone_power")(type "KiCad")(uri "${KIPRJMOD}/A1_4zone_power.pretty")(options "")(descr "R01 custom footprints - verify before production"))
+)
