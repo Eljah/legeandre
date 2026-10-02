@@ -1,0 +1,50 @@
+name: Publish and verify all CAD assemblies
+on:
+  push:
+    branches: [sync/r01-r06-20261002]
+    paths:
+      - .github/workflows/publish-cad-files.yml
+      - tools/publish_cad_files.py
+      - provenance/CAD_ORIGINAL_SIGNATURES.json
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: legeandre-cad-publish
+  cancel-in-progress: false
+jobs:
+  cad:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    env:
+      PYTHONUNBUFFERED: '1'
+      LIBGL_ALWAYS_SOFTWARE: '1'
+      OMP_NUM_THREADS: '2'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: sync/r01-r06-20261002
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install CAD tools
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y xvfb xauth libgl1 libegl1 libgl1-mesa-dri fonts-dejavu-core
+          python -m pip install -r revisions/R06/requirements.txt numba
+      - name: Recover CAD sources, export and commit individual files
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python tools/publish_cad_files.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: cad-publication-verification
+          path: |
+            provenance/CAD_PUBLISH_VERIFICATION.json
+            revisions/R01/tests/results/cad_*.json
+            revisions/R02/tests/results/cad_R02.json
+            revisions/R04/tests/
+          retention-days: 7
+          if-no-files-found: warn
