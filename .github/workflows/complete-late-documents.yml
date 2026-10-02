@@ -1,0 +1,47 @@
+name: Complete R04 R05 patterns and PDF reports
+on:
+  push:
+    branches: [sync/r01-r06-20261002]
+    paths:
+      - .github/workflows/complete-late-documents.yml
+      - tools/complete_late_documents.py
+permissions:
+  contents: write
+concurrency:
+  group: legeandre-material-completion
+  cancel-in-progress: false
+jobs:
+  documents:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    env:
+      PYTHONUNBUFFERED: '1'
+      LIBGL_ALWAYS_SOFTWARE: '1'
+      OMP_NUM_THREADS: '2'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: sync/r01-r06-20261002
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install CAD and document tools
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y xvfb xauth libgl1 libegl1 fonts-dejavu-core inkscape xdotool openbox
+          python -m pip install -r revisions/R06/requirements.txt numba PyMuPDF lxml
+      - name: Restore absent outputs only
+        run: python tools/complete_late_documents.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: late-document-checks
+          path: |
+            provenance/LATE_DOCUMENT_COMPLETION.json
+            revisions/R04/docs/Lezhandr_R04_modeling_report.pdf
+            revisions/R05/docs/Lezhandr_R05_design_report.pdf
+            revisions/R05/patterns/Lezhandr_R05_new_patterns_1to1.pdf
+            revisions/R04/screenshots/
+            revisions/R05/screenshots/
+          retention-days: 7
