@@ -1,0 +1,33 @@
+name: Restore remaining original project files
+on:
+  push:
+    branches: [sync/r01-r06-20261002]
+    paths:
+      - .github/workflows/restore-remaining-originals.yml
+      - tools/restore_remaining_originals.py
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: legeandre-original-remainder
+  cancel-in-progress: false
+jobs:
+  restore:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: sync/r01-r06-20261002
+          fetch-depth: 0
+      - name: Restore exact bytes and commit individual files
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python tools/restore_remaining_originals.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: original-remainder-verification
+          path: provenance/ORIGINAL_REMAINDER_SEED.json
+          if-no-files-found: warn
+          retention-days: 7
