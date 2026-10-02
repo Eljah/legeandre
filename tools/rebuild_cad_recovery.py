@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Rebuild R05/R06 from verified preserved sources. No redesign or external uploads.
-Generated exports are explicitly labelled rebuilt, not byte-exact original PDFs/STEP.
-The R04 input surface file is reproduced byte-for-byte from its original formula.
+Exports are labelled rebuilt, not byte-exact original PDF/STEP. Original source
+hashes are enforced. Input grid coordinates are verified to 1e-8 mm, accommodating
+only last-bit libm differences between the original container and Actions runner.
 """
 from pathlib import Path
 import hashlib,json,math,os,shutil,subprocess,sys
@@ -34,9 +35,15 @@ def main():
    ss=np.linspace(2*math.pi*k/12,2*math.pi*(k+1)/12,11);qq=np.linspace(q0,q1,17)
    grid=np.array([[ring(s,q) for q in qq] for s in ss]).tolist()
    patches.append({'id':f'{typ}{k+1:02}','grid_mm':grid,'material':kind,'seam_allowance_mm':12,'method':'approximate flattening; distortion reported separately'})
+ canonical=[]
+ for patch in patches:
+  a=np.round(np.array(patch['grid_mm']),8);a[np.abs(a)<.5e-8]=0
+  canonical.append({'id':patch['id'],'grid_mm':a.tolist()})
+ fingerprint=hashlib.sha256(json.dumps(canonical,sort_keys=True,separators=(',',':')).encode()).hexdigest()
+ if fingerprint!='752172ec224091a877c9a31b27031d874a8c6b17e935f40358b8956a8ff718c7':raise RuntimeError('R04 geometry differs from original pinned grid')
  p=r05/'history/R04/surfaces_R04.json';p.parent.mkdir(parents=True,exist_ok=True);p.write_text(json.dumps(patches,ensure_ascii=False,indent=2))
- expected='7106784c8bbdc5f675e4b81e4b915ae376d15274728c09154de43e13edbd04f1'
- if digest(p)!=expected:raise RuntimeError('R04 surfaces do not match original exact bytes')
+ exact_input=digest(p)=='7106784c8bbdc5f675e4b81e4b915ae376d15274728c09154de43e13edbd04f1'
+ print('INPUT_GEOMETRY_VERIFIED precision_mm=1e-8 exact_serialized_bytes=',exact_input,flush=True)
  run(sys.executable,str(r05/'source/build_r05.py'))
  (r06/'history/R05').mkdir(exist_ok=True)
  shutil.copyfile(r05/'cad/Lezhandr_R05_rolled.step',r06/'history/R05/Lezhandr_R05_rolled.step')
@@ -59,7 +66,7 @@ def main():
   for p in sorted(root.rglob('*')):
    if p.is_file() and '__pycache__' not in p.parts and p.suffix not in ['.pyc','.zip']:
     files.append({'path':p.relative_to(ROOT).as_posix(),'bytes':p.stat().st_size,'sha256':digest(p)})
- report={'status':'R05_R06_REBUILT_FROM_ORIGINAL_VERIFIED_SOURCES','workflow_run_id':os.getenv('GITHUB_RUN_ID'),'source_hashes':HASHES,'r04_surface_bytes_match_original':True,'r06_step_files':len(list((r06/'cad').glob('*.step'))),'r06_checks_passed':checks['passed'],'r06_checks_total':checks['total'],'r06_pdf_pages':14,'files':files,'original_full_snapshot_count':1551,'full_original_snapshot_uploaded':False,'note':'New exports from original code; not a claim of byte-identical original PDF/STEP timestamps or complete historical file transfer. Original files are preserved in the conversation recovery inventory.'}
+ report={'status':'R05_R06_REBUILT_FROM_ORIGINAL_VERIFIED_SOURCES','workflow_run_id':os.getenv('GITHUB_RUN_ID'),'source_hashes':HASHES,'r04_surface_bytes_match_original':exact_input,'r04_grid_fingerprint_1e8mm':fingerprint,'r06_step_files':len(list((r06/'cad').glob('*.step'))),'r06_checks_passed':checks['passed'],'r06_checks_total':checks['total'],'r06_pdf_pages':14,'files':files,'original_full_snapshot_count':1551,'full_original_snapshot_uploaded':False,'note':'New exports from original code; not a claim of byte-identical original PDF/STEP timestamps or complete historical file transfer. Original files are preserved in the conversation recovery inventory.'}
  out=ROOT/'provenance/CAD_REBUILD_RECOVERY.json';out.parent.mkdir(exist_ok=True);out.write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
  print('CAD_RECOVERY_OK',len(files),'files')
 if __name__=='__main__':main()
