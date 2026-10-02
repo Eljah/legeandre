@@ -35,3 +35,4 @@ jobs:
           name: material-audit
           path: _material_audit/
           retention-days: 7
+# Audit iteration 2: after textile/harness and late PDF recovery.
