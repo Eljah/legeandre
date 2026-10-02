@@ -1,0 +1,6 @@
+{
+  "board": "A2_sensor_watchdog",
+  "check": "Independent Shapely copper geometry check, min 0.3 mm; NOT KiCad DRC",
+  "issues": [],
+  "unrouted": 0
+}
