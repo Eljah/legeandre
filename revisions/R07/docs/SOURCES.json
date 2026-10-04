@@ -1,0 +1,13 @@
+[
+{"id":"S1","title":"Copper Development Association — C11000 properties","url":"https://alloys.copper.org/alloy/C11000","used_for":"Cu thermal conductivity 226 BTU/(ft h F), converted to about 391 W/(m K); density 8.91 g/cm3."},
+{"id":"S2","title":"Kanthal — Nikrothal 80 Wire datasheet","url":"https://www.kanthal.com/products/datasheets/material-datasheets/wire/resistance-heating-wire-and-resistance-wire/nikrothal-80/","used_for":"NiCr80 conductivity 15 W/(m K) at 20 C, density 8.30 g/cm3. Not a textile safety specification."},
+{"id":"S3","title":"Metalitec / Zriha — Aluminum 6061-T6 material data","url":"https://metalitec.zriha.com/en/raw-materials/al-6061-t6","used_for":"Typical aluminum conductivity 167 W/(m K). Used as a screening property, not a certificate for purchased sheet."},
+{"id":"S4","title":"Apple — Keep your Mac laptop within acceptable operating temperatures","url":"https://support.apple.com/en-au/102336","used_for":"Ventilation, no keyboard covering / use under bedding; operating ambient 10–35 C, no condensation. Specific model manual controls."},
+{"id":"S5","title":"Advanced Cooling Technologies — Heat Pipe Design Guide","url":"https://www.1-act.com/thermal-solutions/passive/heat-pipes/heat-pipe-design-guide/","used_for":"Heat-pipe operating principles and constraints; no commercial unit is asserted to satisfy the modeled conductance."},
+{"id":"S6","title":"Climashield — APEX continuous-filament insulation","url":"https://climashield.com/products/apex/","used_for":"Insulation candidate for sleep systems. No numeric R or packed thickness inferred from name."},
+{"id":"S7","title":"3M — Thinsulate Type G150","url":"https://www.3mindia.in/3M/en_IN/p/d/v100603302/","used_for":"150 g/m2, 2.8 clo manufacturer value. 0.434 m2 K/W conversion; layering estimate before seam/compression losses."},
+{"id":"S8","title":"Термопол — Холлофайбер materials","url":"https://hollowfiber.ru/","used_for":"SOFT and VOLUMETRIC insulation candidates; not a claim of an unmeasured package resistance."},
+{"id":"S9","title":"IEC 60335-2-17:2022 scope","url":"https://webstore.iec.ch/en/publication/70369","used_for":"Safety scope includes flexible body heaters and DC/battery products. Compliance not demonstrated."},
+{"id":"S10","title":"Теплодом — Емеля УК 2","url":"https://teplodom.ru/cat/emelya-uk-2.htm","used_for":"37 x 29 cm mats, up to 70 W per seat; four mats/two controllers. Not a drop-in replacement for 20/20/12 W scenario."},
+{"id":"S11","title":"Zotefoams — Plastazote closed-cell foam family","url":"https://www.zotefoams.com/our-materials/azote/plastazote/","used_for":"Candidate segmented floor insulation; no exact grade conductivity used in numerical model."}
+]
