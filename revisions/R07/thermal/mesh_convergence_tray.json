@@ -1,0 +1,50 @@
+[
+  {
+    "laptop_heat_W": 35,
+    "ambient_C": 10,
+    "assumed_heat_into_tray_W": 5.25,
+    "tray_min_C": 16.73230316344437,
+    "tray_mean_C": 17.56325640961716,
+    "tray_max_C": 19.63742827316578,
+    "tray_pickup_C": 19.040071101864655,
+    "net_to_pad31C_W": -0.7793887002604843,
+    "loss_to_outside_W": 11.865107864610692,
+    "net_to_inner_air_W": -5.835719164349861,
+    "balance_residual_W": -3.4716673980028645e-13,
+    "cells": 170,
+    "iterations": 5,
+    "link_connected": true
+  },
+  {
+    "laptop_heat_W": 35,
+    "ambient_C": 10,
+    "assumed_heat_into_tray_W": 5.25,
+    "tray_min_C": 16.85380239889282,
+    "tray_mean_C": 17.55003502347376,
+    "tray_max_C": 19.500319370731738,
+    "tray_pickup_C": 19.500319370731738,
+    "net_to_pad31C_W": -0.7493958547239711,
+    "loss_to_outside_W": 11.844260288889004,
+    "net_to_inner_air_W": -5.8448644341651335,
+    "balance_residual_W": 1.0091927293842673e-13,
+    "cells": 714,
+    "iterations": 5,
+    "link_connected": true
+  },
+  {
+    "laptop_heat_W": 35,
+    "ambient_C": 10,
+    "assumed_heat_into_tray_W": 5.249999999999999,
+    "tray_min_C": 16.844467273928586,
+    "tray_mean_C": 17.54426552341517,
+    "tray_max_C": 19.701415921487218,
+    "tray_pickup_C": 19.701415921487218,
+    "net_to_pad31C_W": -0.7362910628263691,
+    "loss_to_outside_W": 11.835146276341543,
+    "net_to_inner_air_W": -5.8488552135102605,
+    "balance_residual_W": -4.9146242631081805e-12,
+    "cells": 2788,
+    "iterations": 5,
+    "link_connected": true
+  }
+]

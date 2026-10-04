@@ -1,0 +1,8 @@
+{
+  "all_energy_balances_pass": true,
+  "cases": 18,
+  "max_abs_residual_W": 4.707345624410664e-14,
+  "direct_heat_link_removed": true,
+  "hardware_control_updated": false,
+  "physiological_validation": false
+}

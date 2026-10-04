@@ -1,0 +1,386 @@
+[
+  {
+    "part": "EH08_BACK_CASSETTE",
+    "body": "M_TORSO",
+    "distance_mm": 15.00000000000433,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_BACK_CASSETTE",
+    "body": "M_PELVIS",
+    "distance_mm": 15.854610267234579,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_BACK_CASSETTE",
+    "body": "M_NECK",
+    "distance_mm": 105.47607071745206,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_BACK_CASSETTE",
+    "body": "M_HEAD",
+    "distance_mm": 233.3574003855143,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_BACK_CASSETTE",
+    "body": "M_ARM-1",
+    "distance_mm": 61.56656999813403,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_BACK_CASSETTE",
+    "body": "M_FOREARM-1",
+    "distance_mm": 70.56656999809502,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_BACK_CASSETTE",
+    "body": "M_HAND-1",
+    "distance_mm": 341.2453352699307,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_BACK_CASSETTE",
+    "body": "M_THIGH-1",
+    "distance_mm": 53.78606605895035,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_BACK_CASSETTE",
+    "body": "M_SHIN-1",
+    "distance_mm": 566.6651631060844,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_BACK_CASSETTE",
+    "body": "M_FOOT-1",
+    "distance_mm": 1041.488495444521,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_BACK_CASSETTE",
+    "body": "M_ARM1",
+    "distance_mm": 61.56656999813403,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_BACK_CASSETTE",
+    "body": "M_FOREARM1",
+    "distance_mm": 70.56656999809506,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_BACK_CASSETTE",
+    "body": "M_HAND1",
+    "distance_mm": 341.2453352699306,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_BACK_CASSETTE",
+    "body": "M_THIGH1",
+    "distance_mm": 53.786066058950354,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_BACK_CASSETTE",
+    "body": "M_SHIN1",
+    "distance_mm": 566.6651631060845,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_BACK_CASSETTE",
+    "body": "M_FOOT1",
+    "distance_mm": 1041.4884954445215,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_SEAT_CASSETTE",
+    "body": "M_TORSO",
+    "distance_mm": 75.42873413586092,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_SEAT_CASSETTE",
+    "body": "M_PELVIS",
+    "distance_mm": 14.5,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_SEAT_CASSETTE",
+    "body": "M_NECK",
+    "distance_mm": 634.2540247903061,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_SEAT_CASSETTE",
+    "body": "M_HEAD",
+    "distance_mm": 751.8657474129635,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_SEAT_CASSETTE",
+    "body": "M_ARM-1",
+    "distance_mm": 289.20765353889783,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_SEAT_CASSETTE",
+    "body": "M_FOREARM-1",
+    "distance_mm": 298.2076535388979,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_SEAT_CASSETTE",
+    "body": "M_HAND-1",
+    "distance_mm": 387.13951669081524,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_SEAT_CASSETTE",
+    "body": "M_THIGH-1",
+    "distance_mm": 36.5,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_SEAT_CASSETTE",
+    "body": "M_SHIN-1",
+    "distance_mm": 235.74536761226287,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_SEAT_CASSETTE",
+    "body": "M_FOOT-1",
+    "distance_mm": 672.4434612224045,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_SEAT_CASSETTE",
+    "body": "M_ARM1",
+    "distance_mm": 289.2076535388978,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_SEAT_CASSETTE",
+    "body": "M_FOREARM1",
+    "distance_mm": 298.2076535388978,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_SEAT_CASSETTE",
+    "body": "M_HAND1",
+    "distance_mm": 387.13951669081524,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_SEAT_CASSETTE",
+    "body": "M_THIGH1",
+    "distance_mm": 36.5,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_SEAT_CASSETTE",
+    "body": "M_SHIN1",
+    "distance_mm": 235.74536761226275,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "EH08_SEAT_CASSETTE",
+    "body": "M_FOOT1",
+    "distance_mm": 672.4434612224046,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "J08_SERVICE_BLOCK",
+    "body": "M_TORSO",
+    "distance_mm": 441.6473733354169,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "J08_SERVICE_BLOCK",
+    "body": "M_PELVIS",
+    "distance_mm": 436.37940913428343,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "J08_SERVICE_BLOCK",
+    "body": "M_NECK",
+    "distance_mm": 757.4479588730906,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "J08_SERVICE_BLOCK",
+    "body": "M_HEAD",
+    "distance_mm": 844.3328790018144,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "J08_SERVICE_BLOCK",
+    "body": "M_ARM-1",
+    "distance_mm": 374.50431122044034,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "J08_SERVICE_BLOCK",
+    "body": "M_FOREARM-1",
+    "distance_mm": 383.5043112204405,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "J08_SERVICE_BLOCK",
+    "body": "M_HAND-1",
+    "distance_mm": 583.5075332132433,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "J08_SERVICE_BLOCK",
+    "body": "M_THIGH-1",
+    "distance_mm": 433.2016660329651,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "J08_SERVICE_BLOCK",
+    "body": "M_SHIN-1",
+    "distance_mm": 776.9604392463542,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "J08_SERVICE_BLOCK",
+    "body": "M_FOOT-1",
+    "distance_mm": 1198.5520112480103,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "J08_SERVICE_BLOCK",
+    "body": "M_ARM1",
+    "distance_mm": 825.0192914686274,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "J08_SERVICE_BLOCK",
+    "body": "M_FOREARM1",
+    "distance_mm": 814.4694900798038,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "J08_SERVICE_BLOCK",
+    "body": "M_HAND1",
+    "distance_mm": 830.5877651031348,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "J08_SERVICE_BLOCK",
+    "body": "M_THIGH1",
+    "distance_mm": 650.5984173802946,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "J08_SERVICE_BLOCK",
+    "body": "M_SHIN1",
+    "distance_mm": 926.9764057966855,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "J08_SERVICE_BLOCK",
+    "body": "M_FOOT1",
+    "distance_mm": 1305.949799964191,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "T07_AL_PERFORATED_TRAY",
+    "body": "M_TORSO",
+    "distance_mm": 80.9412094613284,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "T07_AL_PERFORATED_TRAY",
+    "body": "M_PELVIS",
+    "distance_mm": 144.54678584991416,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "T07_AL_PERFORATED_TRAY",
+    "body": "M_NECK",
+    "distance_mm": 472.7957955589488,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "T07_AL_PERFORATED_TRAY",
+    "body": "M_HEAD",
+    "distance_mm": 544.0181134030549,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "T07_AL_PERFORATED_TRAY",
+    "body": "M_ARM-1",
+    "distance_mm": 125.20245763833736,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "T07_AL_PERFORATED_TRAY",
+    "body": "M_FOREARM-1",
+    "distance_mm": 10.372991329380074,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "T07_AL_PERFORATED_TRAY",
+    "body": "M_HAND-1",
+    "distance_mm": 24.372991329591507,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "T07_AL_PERFORATED_TRAY",
+    "body": "M_THIGH-1",
+    "distance_mm": 138.9921541768756,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "T07_AL_PERFORATED_TRAY",
+    "body": "M_SHIN-1",
+    "distance_mm": 236.23540512866458,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "T07_AL_PERFORATED_TRAY",
+    "body": "M_FOOT-1",
+    "distance_mm": 624.7942914785103,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "T07_AL_PERFORATED_TRAY",
+    "body": "M_ARM1",
+    "distance_mm": 125.20245763833736,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "T07_AL_PERFORATED_TRAY",
+    "body": "M_FOREARM1",
+    "distance_mm": 10.372991329380074,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "T07_AL_PERFORATED_TRAY",
+    "body": "M_HAND1",
+    "distance_mm": 24.372991329591507,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "T07_AL_PERFORATED_TRAY",
+    "body": "M_THIGH1",
+    "distance_mm": 138.99215417686713,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "T07_AL_PERFORATED_TRAY",
+    "body": "M_SHIN1",
+    "distance_mm": 236.23540512866458,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "T07_AL_PERFORATED_TRAY",
+    "body": "M_FOOT1",
+    "distance_mm": 624.7942914785103,
+    "intersection_cm3": 0.0
+  }
+]

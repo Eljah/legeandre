@@ -1,0 +1,56 @@
+[
+  {
+    "yaw_deg": -60,
+    "pitch_deg": -15,
+    "hood_gap_mm": 176.62202380529985,
+    "hood_collision_mm3": 0
+  },
+  {
+    "yaw_deg": -60,
+    "pitch_deg": 0,
+    "hood_gap_mm": 151.6102341946403,
+    "hood_collision_mm3": 0
+  },
+  {
+    "yaw_deg": -60,
+    "pitch_deg": 15,
+    "hood_gap_mm": 134.5856063657639,
+    "hood_collision_mm3": 0
+  },
+  {
+    "yaw_deg": 0,
+    "pitch_deg": -15,
+    "hood_gap_mm": 182.15425439848408,
+    "hood_collision_mm3": 0
+  },
+  {
+    "yaw_deg": 0,
+    "pitch_deg": 0,
+    "hood_gap_mm": 156.69305599166677,
+    "hood_collision_mm3": 0
+  },
+  {
+    "yaw_deg": 0,
+    "pitch_deg": 15,
+    "hood_gap_mm": 137.556476346935,
+    "hood_collision_mm3": 0
+  },
+  {
+    "yaw_deg": 60,
+    "pitch_deg": -15,
+    "hood_gap_mm": 176.6220238053036,
+    "hood_collision_mm3": 0
+  },
+  {
+    "yaw_deg": 60,
+    "pitch_deg": 0,
+    "hood_gap_mm": 151.61023419464976,
+    "hood_collision_mm3": 0
+  },
+  {
+    "yaw_deg": 60,
+    "pitch_deg": 15,
+    "hood_gap_mm": 134.58560636576385,
+    "hood_collision_mm3": 0
+  }
+]

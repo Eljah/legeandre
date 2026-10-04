@@ -1,0 +1,80 @@
+[
+  {
+    "zone": "back",
+    "ambient_C": 0,
+    "recovered_heat_W": 0.973262032085561,
+    "electric_heat_W": 14.693404634581094,
+    "Tmin_C": 30.692654151321683,
+    "Tmean_C": 31.0,
+    "Tmax_C": 33.031002060986935,
+    "heat_from_skin_W": 5.0,
+    "loss_to_backing_W": 20.666666666666664,
+    "balance_residual_W": -7.105427357601002e-15,
+    "cells": 480
+  },
+  {
+    "zone": "seat",
+    "ambient_C": 0,
+    "recovered_heat_W": 0.973262032085561,
+    "electric_heat_W": 10.776737967914425,
+    "Tmin_C": 30.590205540408995,
+    "Tmean_C": 31.0,
+    "Tmax_C": 33.92857745924736,
+    "heat_from_skin_W": 3.75,
+    "loss_to_backing_W": 15.500000000000004,
+    "balance_residual_W": -1.7763568394002505e-14,
+    "cells": 360
+  },
+  {
+    "zone": "back",
+    "ambient_C": 10,
+    "recovered_heat_W": 1.1336898395721917,
+    "electric_heat_W": 7.866310160427806,
+    "Tmin_C": 30.641992747693394,
+    "Tmean_C": 31.0,
+    "Tmax_C": 33.36578262049029,
+    "heat_from_skin_W": 4.9999999999999964,
+    "loss_to_backing_W": 14.0,
+    "balance_residual_W": -7.105427357601002e-15,
+    "cells": 480
+  },
+  {
+    "zone": "seat",
+    "ambient_C": 10,
+    "recovered_heat_W": 1.1336898395721917,
+    "electric_heat_W": 5.616310160427809,
+    "Tmin_C": 30.52265700311378,
+    "Tmean_C": 31.00000000000001,
+    "Tmax_C": 34.41131000747497,
+    "heat_from_skin_W": 3.7499999999999893,
+    "loss_to_backing_W": 10.500000000000005,
+    "balance_residual_W": -1.5987211554602254e-14,
+    "cells": 360
+  },
+  {
+    "zone": "back",
+    "ambient_C": 20,
+    "recovered_heat_W": 1.2941176470588243,
+    "electric_heat_W": 1.039215686274505,
+    "Tmin_C": 30.5913313440651,
+    "Tmean_C": 31.0,
+    "Tmax_C": 33.70056317999362,
+    "heat_from_skin_W": 4.999999999999996,
+    "loss_to_backing_W": 7.333333333333334,
+    "balance_residual_W": -8.881784197001252e-15,
+    "cells": 480
+  },
+  {
+    "zone": "seat",
+    "ambient_C": 20,
+    "recovered_heat_W": 1.2941176470588243,
+    "electric_heat_W": 0.45588235294116075,
+    "Tmin_C": 30.455108465818554,
+    "Tmean_C": 31.0,
+    "Tmax_C": 34.89404255570255,
+    "heat_from_skin_W": 3.7499999999999982,
+    "loss_to_backing_W": 5.500000000000002,
+    "balance_residual_W": -1.865174681370263e-14,
+    "cells": 360
+  }
+]

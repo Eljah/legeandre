@@ -1,0 +1,2558 @@
+[
+  {
+    "id": "O08_SMOOTH_LOWER_W3",
+    "material": "insulation",
+    "x_mm": 15,
+    "y_mm": 15,
+    "width_mm": 295.74565968647175,
+    "height_mm": 2294.072678788155,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W4",
+    "material": "insulation",
+    "x_mm": 335.74565968647175,
+    "y_mm": 15,
+    "width_mm": 250.22810061802102,
+    "height_mm": 2294.014757261392,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W1_B",
+    "material": "insulation",
+    "x_mm": 610.9737603044928,
+    "y_mm": 15,
+    "width_mm": 564.9580256528956,
+    "height_mm": 1561.8200671643613,
+    "rotation_deg": 0
+  },
+  {
+    "id": "L08_CONTINUOUS_COVER_W1",
+    "material": "insulation",
+    "x_mm": 15,
+    "y_mm": 2334.072678788155,
+    "width_mm": 449.6106768917623,
+    "height_mm": 1490.6713466751053,
+    "rotation_deg": 0
+  },
+  {
+    "id": "L08_CONTINUOUS_COVER_W4",
+    "material": "insulation",
+    "x_mm": 489.6106768917623,
+    "y_mm": 2334.072678788155,
+    "width_mm": 337.9792686005578,
+    "height_mm": 1461.5205042313787,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W2_B",
+    "material": "insulation",
+    "x_mm": 852.5899454923201,
+    "y_mm": 2334.072678788155,
+    "width_mm": 335.55645440940947,
+    "height_mm": 1418.4444879235873,
+    "rotation_deg": 0
+  },
+  {
+    "id": "L08_CONTINUOUS_COVER_W2",
+    "material": "insulation",
+    "x_mm": 15,
+    "y_mm": 3849.74402546326,
+    "width_mm": 341.5157378618574,
+    "height_mm": 1394.3536347384968,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W5_B",
+    "material": "insulation",
+    "x_mm": 381.5157378618574,
+    "y_mm": 3849.74402546326,
+    "width_mm": 243.4198657668197,
+    "height_mm": 1393.1175670036864,
+    "rotation_deg": 0
+  },
+  {
+    "id": "L08_CONTINUOUS_COVER_W3",
+    "material": "insulation",
+    "x_mm": 649.9356036286772,
+    "y_mm": 3849.74402546326,
+    "width_mm": 266.3554674261427,
+    "height_mm": 1374.4979485178603,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_BACK_-1_W1",
+    "material": "insulation",
+    "x_mm": 941.2910710548199,
+    "y_mm": 3849.74402546326,
+    "width_mm": 276.67183969572346,
+    "height_mm": 1310.9680107265854,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_BACK_1_W1",
+    "material": "insulation",
+    "x_mm": 15,
+    "y_mm": 5269.097660201757,
+    "width_mm": 276.67183969572346,
+    "height_mm": 1310.9680107265854,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_W4_A",
+    "material": "insulation",
+    "x_mm": 316.67183969572346,
+    "y_mm": 5269.097660201757,
+    "width_mm": 389.0539705017131,
+    "height_mm": 1103.2868350013518,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_W1_A",
+    "material": "insulation",
+    "x_mm": 730.7258101974365,
+    "y_mm": 5269.097660201757,
+    "width_mm": 612.1807026321092,
+    "height_mm": 1003.9541336081794,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_W3_A_A",
+    "material": "insulation",
+    "x_mm": 15,
+    "y_mm": 6605.065670928343,
+    "width_mm": 245.93551291123887,
+    "height_mm": 732.6747365055128,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_W2_A_A",
+    "material": "insulation",
+    "x_mm": 285.9355129112389,
+    "y_mm": 6605.065670928343,
+    "width_mm": 303.78275806736787,
+    "height_mm": 678.155898940844,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W1_A_B_A",
+    "material": "insulation",
+    "x_mm": 614.7182709786068,
+    "y_mm": 6605.065670928343,
+    "width_mm": 573.9200302745373,
+    "height_mm": 660.7423809454206,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W6_B_A",
+    "material": "insulation",
+    "x_mm": 15,
+    "y_mm": 7362.740407433856,
+    "width_mm": 492.80266531068384,
+    "height_mm": 659.2955021495417,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W6_A_B_B",
+    "material": "insulation",
+    "x_mm": 532.8026653106838,
+    "y_mm": 7362.740407433856,
+    "width_mm": 630.9056438862633,
+    "height_mm": 624.8305002852131,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W2_A_A",
+    "material": "insulation",
+    "x_mm": 1188.708309196947,
+    "y_mm": 7362.740407433856,
+    "width_mm": 186.36766950653507,
+    "height_mm": 607.8151182904741,
+    "rotation_deg": 0
+  },
+  {
+    "id": "S08_WRAP_1_W1",
+    "material": "insulation",
+    "x_mm": 15,
+    "y_mm": 8047.035909583397,
+    "width_mm": 287.0746922011929,
+    "height_mm": 579.7785731590499,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W1_A_A_B_A",
+    "material": "insulation",
+    "x_mm": 327.0746922011929,
+    "y_mm": 8047.035909583397,
+    "width_mm": 176.8298737932456,
+    "height_mm": 572.9980641042955,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W5_A_A",
+    "material": "insulation",
+    "x_mm": 528.9045659944385,
+    "y_mm": 8047.035909583397,
+    "width_mm": 184.93841500829396,
+    "height_mm": 562.7323374168492,
+    "rotation_deg": 0
+  },
+  {
+    "id": "S08_WRAP_-1_W1",
+    "material": "insulation",
+    "x_mm": 738.8429810027325,
+    "y_mm": 8047.035909583397,
+    "width_mm": 297.5467979085618,
+    "height_mm": 555.1698803977308,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W5_A_B",
+    "material": "insulation",
+    "x_mm": 1061.3897789112943,
+    "y_mm": 8047.035909583397,
+    "width_mm": 253.87551304723297,
+    "height_mm": 538.0913491109422,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_W3_A_B_B",
+    "material": "insulation",
+    "x_mm": 15,
+    "y_mm": 8651.814482742448,
+    "width_mm": 240.5074518043312,
+    "height_mm": 537.6889488621753,
+    "rotation_deg": 0
+  },
+  {
+    "id": "S08_WRAP_-1_W2",
+    "material": "insulation",
+    "x_mm": 280.5074518043312,
+    "y_mm": 8651.814482742448,
+    "width_mm": 298.47976765013385,
+    "height_mm": 529.8313920456535,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_W2_A_B_A",
+    "material": "insulation",
+    "x_mm": 603.987219454465,
+    "y_mm": 8651.814482742448,
+    "width_mm": 191.82922272797205,
+    "height_mm": 506.1927189170587,
+    "rotation_deg": 0
+  },
+  {
+    "id": "S08_WRAP_1_W2",
+    "material": "insulation",
+    "x_mm": 820.8164421824371,
+    "y_mm": 8651.814482742448,
+    "width_mm": 331.3814812633382,
+    "height_mm": 506.07413431511395,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W6_A_A_B_B",
+    "material": "insulation",
+    "x_mm": 15,
+    "y_mm": 9214.503431604622,
+    "width_mm": 405.3370429149917,
+    "height_mm": 452.0814299032413,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_W3_A_B_A",
+    "material": "insulation",
+    "x_mm": 445.3370429149917,
+    "y_mm": 9214.503431604622,
+    "width_mm": 184.17319257829718,
+    "height_mm": 442.0502542673405,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_W2_A_B_B",
+    "material": "insulation",
+    "x_mm": 654.5102354932889,
+    "y_mm": 9214.503431604622,
+    "width_mm": 227.07606193966262,
+    "height_mm": 433.73309059984706,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W1_A_A_A",
+    "material": "insulation",
+    "x_mm": 906.5862974329515,
+    "y_mm": 9214.503431604622,
+    "width_mm": 145.63891403937288,
+    "height_mm": 431.57639451761946,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W6_A_A_A",
+    "material": "insulation",
+    "x_mm": 1077.2252114723244,
+    "y_mm": 9214.503431604622,
+    "width_mm": 192.47055972717115,
+    "height_mm": 393.94290626083546,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_FOREARM_GUSSET_-1_W1",
+    "material": "insulation",
+    "x_mm": 15,
+    "y_mm": 9691.584861507863,
+    "width_mm": 350.0947797736697,
+    "height_mm": 366.0984945282497,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_W1_B_B",
+    "material": "insulation",
+    "x_mm": 390.0947797736697,
+    "y_mm": 9691.584861507863,
+    "width_mm": 368.5661023531064,
+    "height_mm": 365.03611197274773,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W1_A_A_B_B",
+    "material": "insulation",
+    "x_mm": 783.6608821267761,
+    "y_mm": 9691.584861507863,
+    "width_mm": 159.77836020120716,
+    "height_mm": 363.25978913758865,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_FOREARM_GUSSET_1_W1",
+    "material": "insulation",
+    "x_mm": 968.4392423279833,
+    "y_mm": 9691.584861507863,
+    "width_mm": 350.14441235891866,
+    "height_mm": 355.5077954685962,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_W4_B_A_B_B",
+    "material": "insulation",
+    "x_mm": 15,
+    "y_mm": 10082.683356036112,
+    "width_mm": 159.40595924989563,
+    "height_mm": 339.2259206457808,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W6_B_B_A",
+    "material": "insulation",
+    "x_mm": 199.40595924989563,
+    "y_mm": 10082.683356036112,
+    "width_mm": 333.2016312918544,
+    "height_mm": 337.02490941766956,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_W2_B_B",
+    "material": "insulation",
+    "x_mm": 557.60759054175,
+    "y_mm": 10082.683356036112,
+    "width_mm": 376.92345885322936,
+    "height_mm": 306.10004171873334,
+    "rotation_deg": 0
+  },
+  {
+    "id": "K08_FLAP_INSULATION",
+    "material": "insulation",
+    "x_mm": 15,
+    "y_mm": 10446.909276681892,
+    "width_mm": 532.3055354907997,
+    "height_mm": 303.7735416839863,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_W1_B_A_A_A",
+    "material": "insulation",
+    "x_mm": 572.3055354907997,
+    "y_mm": 10446.909276681892,
+    "width_mm": 144.59635947473095,
+    "height_mm": 290.8469567768085,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W6_A_A_B_A",
+    "material": "insulation",
+    "x_mm": 741.9018949655306,
+    "y_mm": 10446.909276681892,
+    "width_mm": 139.2171152618343,
+    "height_mm": 288.2929853606363,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_W4_B_A_B_A",
+    "material": "insulation",
+    "x_mm": 906.1190102273649,
+    "y_mm": 10446.909276681892,
+    "width_mm": 110.15898740308381,
+    "height_mm": 276.66346455687744,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W1_A_B_B_A",
+    "material": "insulation",
+    "x_mm": 1041.2779976304487,
+    "y_mm": 10446.909276681892,
+    "width_mm": 266.35838824610084,
+    "height_mm": 275.2555044022141,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_W1_B_A_B_A",
+    "material": "insulation",
+    "x_mm": 1332.6363858765494,
+    "y_mm": 10446.909276681892,
+    "width_mm": 98.14945165731545,
+    "height_mm": 272.2826033946553,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W2_A_B_B_B_B",
+    "material": "insulation",
+    "x_mm": 15,
+    "y_mm": 10775.682818365878,
+    "width_mm": 182.87239131682676,
+    "height_mm": 271.687590976277,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_W1_B_A_B_B",
+    "material": "insulation",
+    "x_mm": 222.87239131682676,
+    "y_mm": 10775.682818365878,
+    "width_mm": 146.23911156534754,
+    "height_mm": 266.49918523076434,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W1_A_B_B_B_B_B_A",
+    "material": "insulation",
+    "x_mm": 394.1115028821743,
+    "y_mm": 10775.682818365878,
+    "width_mm": 247.66443354541326,
+    "height_mm": 256.3389189001565,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W2_A_B_A",
+    "material": "insulation",
+    "x_mm": 666.7759364275876,
+    "y_mm": 10775.682818365878,
+    "width_mm": 194.51193832827522,
+    "height_mm": 252.07468484909845,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_W3_B_B",
+    "material": "insulation",
+    "x_mm": 886.2878747558627,
+    "y_mm": 10775.682818365878,
+    "width_mm": 391.14010529349116,
+    "height_mm": 251.81193585345466,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_W1_B_A_A_B",
+    "material": "insulation",
+    "x_mm": 1302.427980049354,
+    "y_mm": 10775.682818365878,
+    "width_mm": 164.76512080017702,
+    "height_mm": 250.25387454464013,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_W4_B_B",
+    "material": "insulation",
+    "x_mm": 15,
+    "y_mm": 11072.370409342155,
+    "width_mm": 411.6380805913158,
+    "height_mm": 240.68773954834967,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_W2_B_A_A",
+    "material": "insulation",
+    "x_mm": 451.6380805913158,
+    "y_mm": 11072.370409342155,
+    "width_mm": 196.3117959765139,
+    "height_mm": 238.29353854572827,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W6_B_B_B_B_B",
+    "material": "insulation",
+    "x_mm": 672.9498765678297,
+    "y_mm": 11072.370409342155,
+    "width_mm": 273.5495180066034,
+    "height_mm": 215.6690265812092,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_W3_B_A_B_B",
+    "material": "insulation",
+    "x_mm": 971.4993945744332,
+    "y_mm": 11072.370409342155,
+    "width_mm": 152.80093350061404,
+    "height_mm": 212.84128133441092,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W6_A_B_A_B_B_B_A",
+    "material": "insulation",
+    "x_mm": 1149.3003280750472,
+    "y_mm": 11072.370409342155,
+    "width_mm": 172.13138032422336,
+    "height_mm": 205.4740948537782,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_W2_B_A_B",
+    "material": "insulation",
+    "x_mm": 15,
+    "y_mm": 11338.058148890505,
+    "width_mm": 233.05351280617992,
+    "height_mm": 199.89245687189867,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_W3_B_A_B_A",
+    "material": "insulation",
+    "x_mm": 273.0535128061799,
+    "y_mm": 11338.058148890505,
+    "width_mm": 96.38724920217868,
+    "height_mm": 190.3935556033019,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W6_B_B_B_A",
+    "material": "insulation",
+    "x_mm": 394.4407620083586,
+    "y_mm": 11338.058148890505,
+    "width_mm": 319.78069088273617,
+    "height_mm": 188.2477048103262,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_W3_B_A_A",
+    "material": "insulation",
+    "x_mm": 739.2214528910947,
+    "y_mm": 11338.058148890505,
+    "width_mm": 184.76230907795824,
+    "height_mm": 181.80814165780066,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_W4_B_A_A_A",
+    "material": "insulation",
+    "x_mm": 948.9837619690529,
+    "y_mm": 11338.058148890505,
+    "width_mm": 206.0940791925365,
+    "height_mm": 172.06704071660806,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_W4_B_A_A_B",
+    "material": "insulation",
+    "x_mm": 1180.0778411615895,
+    "y_mm": 11338.058148890505,
+    "width_mm": 195.5519047783599,
+    "height_mm": 163.65314843785598,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W2_A_B_B_A",
+    "material": "insulation",
+    "x_mm": 15,
+    "y_mm": 11562.950605762404,
+    "width_mm": 160.657349872375,
+    "height_mm": 163.24989716207435,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W6_B_B_B_B_A",
+    "material": "insulation",
+    "x_mm": 200.657349872375,
+    "y_mm": 11562.950605762404,
+    "width_mm": 306.49731948729385,
+    "height_mm": 149.32243416976078,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W6_A_B_A_A_B",
+    "material": "insulation",
+    "x_mm": 532.1546693596688,
+    "y_mm": 11562.950605762404,
+    "width_mm": 171.47622885873804,
+    "height_mm": 132.73911183561017,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W6_A_B_A_B_A",
+    "material": "insulation",
+    "x_mm": 728.6308982184069,
+    "y_mm": 11562.950605762404,
+    "width_mm": 174.51808718111204,
+    "height_mm": 131.4171884950093,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W1_A_B_B_B_A",
+    "material": "insulation",
+    "x_mm": 928.1489853995189,
+    "y_mm": 11562.950605762404,
+    "width_mm": 268.10666222746335,
+    "height_mm": 124.83995038665323,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W6_A_B_A_A_A",
+    "material": "insulation",
+    "x_mm": 1221.2556476269822,
+    "y_mm": 11562.950605762404,
+    "width_mm": 164.77665636343175,
+    "height_mm": 109.34396724396748,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W1_A_B_B_B_B_B_B",
+    "material": "insulation",
+    "x_mm": 15,
+    "y_mm": 11751.200502924477,
+    "width_mm": 181.53211798366257,
+    "height_mm": 100.11891730608717,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W2_A_B_B_B_A",
+    "material": "insulation",
+    "x_mm": 221.53211798366257,
+    "y_mm": 11751.200502924477,
+    "width_mm": 145.44834552515192,
+    "height_mm": 91.24061790630948,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W6_A_B_A_B_B_B_B",
+    "material": "insulation",
+    "x_mm": 391.9804635088145,
+    "y_mm": 11751.200502924477,
+    "width_mm": 133.1613664766973,
+    "height_mm": 57.570554993486326,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W6_A_B_A_B_B_A",
+    "material": "insulation",
+    "x_mm": 550.1418299855118,
+    "y_mm": 11751.200502924477,
+    "width_mm": 174.14932004421863,
+    "height_mm": 57.37996747471519,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_W1_A_B_B_B_B_A",
+    "material": "insulation",
+    "x_mm": 749.2911500297304,
+    "y_mm": 11751.200502924477,
+    "width_mm": 267.5920262570606,
+    "height_mm": 48.94329635247715,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_LEFT",
+    "material": "lining",
+    "x_mm": 15,
+    "y_mm": 15,
+    "width_mm": 551.4605636399453,
+    "height_mm": 2971.2845075148225,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_RIGHT",
+    "material": "lining",
+    "x_mm": 591.4605636399453,
+    "y_mm": 15,
+    "width_mm": 551.4605636399453,
+    "height_mm": 2971.2845075148225,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I5",
+    "material": "lining",
+    "x_mm": 15,
+    "y_mm": 3011.2845075148225,
+    "width_mm": 448.58108483740574,
+    "height_mm": 2317.890499920579,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I3",
+    "material": "lining",
+    "x_mm": 488.58108483740574,
+    "y_mm": 3011.2845075148225,
+    "width_mm": 309.5545740382597,
+    "height_mm": 2316.9059626875537,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I4",
+    "material": "lining",
+    "x_mm": 823.1356588756655,
+    "y_mm": 3011.2845075148225,
+    "width_mm": 265.2952183719673,
+    "height_mm": 2316.7963594026182,
+    "rotation_deg": 0
+  },
+  {
+    "id": "Z01_MAIN_RIGHT_GUARD",
+    "material": "lining",
+    "x_mm": 1113.430877247633,
+    "y_mm": 3011.2845075148225,
+    "width_mm": 89.0,
+    "height_mm": 1700.058422996721,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I1_B",
+    "material": "lining",
+    "x_mm": 15,
+    "y_mm": 5354.175007435401,
+    "width_mm": 565.653404205528,
+    "height_mm": 1576.266731365422,
+    "rotation_deg": 0
+  },
+  {
+    "id": "L08_CONTINUOUS_COVER_LEFT",
+    "material": "lining",
+    "x_mm": 605.653404205528,
+    "y_mm": 5354.175007435401,
+    "width_mm": 135.57752936069355,
+    "height_mm": 1531.606236861177,
+    "rotation_deg": 0
+  },
+  {
+    "id": "L08_CONTINUOUS_COVER_RIGHT",
+    "material": "lining",
+    "x_mm": 766.2309335662216,
+    "y_mm": 5354.175007435401,
+    "width_mm": 135.57752936069355,
+    "height_mm": 1531.606236861177,
+    "rotation_deg": 0
+  },
+  {
+    "id": "L08_CONTINUOUS_COVER_I1",
+    "material": "lining",
+    "x_mm": 926.8084629269151,
+    "y_mm": 5354.175007435401,
+    "width_mm": 492.7155755349921,
+    "height_mm": 1527.7975570919864,
+    "rotation_deg": 0
+  },
+  {
+    "id": "L08_CONTINUOUS_COVER_I4",
+    "material": "lining",
+    "x_mm": 15,
+    "y_mm": 6955.441738800823,
+    "width_mm": 381.0830141522226,
+    "height_mm": 1483.2148274025853,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I2_B",
+    "material": "lining",
+    "x_mm": 421.0830141522226,
+    "y_mm": 6955.441738800823,
+    "width_mm": 348.00181412139534,
+    "height_mm": 1441.105405259406,
+    "rotation_deg": 0
+  },
+  {
+    "id": "L08_CONTINUOUS_COVER_I2",
+    "material": "lining",
+    "x_mm": 794.0848282736179,
+    "y_mm": 6955.441738800823,
+    "width_mm": 368.8326865566947,
+    "height_mm": 1417.5064117913525,
+    "rotation_deg": 0
+  },
+  {
+    "id": "L08_CONTINUOUS_COVER_I3",
+    "material": "lining",
+    "x_mm": 1187.9175148303125,
+    "y_mm": 6955.441738800823,
+    "width_mm": 288.80315000783185,
+    "height_mm": 1393.3694870400848,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_BACK_-1_I1",
+    "material": "lining",
+    "x_mm": 15,
+    "y_mm": 8463.656566203408,
+    "width_mm": 300.70671108514136,
+    "height_mm": 1344.9873877232644,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_BACK_1_I1",
+    "material": "lining",
+    "x_mm": 340.70671108514136,
+    "y_mm": 8463.656566203408,
+    "width_mm": 300.70671108514136,
+    "height_mm": 1344.9873877232644,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_LEFT",
+    "material": "lining",
+    "x_mm": 666.4134221702827,
+    "y_mm": 8463.656566203408,
+    "width_mm": 340.25785283513835,
+    "height_mm": 1235.6853829623612,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_RIGHT",
+    "material": "lining",
+    "x_mm": 1031.6712750054212,
+    "y_mm": 8463.656566203408,
+    "width_mm": 340.25785283513835,
+    "height_mm": 1235.6853829623612,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_BACK_-1_LEFT",
+    "material": "lining",
+    "x_mm": 15,
+    "y_mm": 9833.643953926672,
+    "width_mm": 331.55907481289717,
+    "height_mm": 1235.076285663269,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_BACK_1_LEFT",
+    "material": "lining",
+    "x_mm": 371.55907481289717,
+    "y_mm": 9833.643953926672,
+    "width_mm": 331.55907481289717,
+    "height_mm": 1235.076285663269,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_BACK_-1_RIGHT",
+    "material": "lining",
+    "x_mm": 728.1181496257943,
+    "y_mm": 9833.643953926672,
+    "width_mm": 331.5590210694737,
+    "height_mm": 1235.0762784711521,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_BACK_1_RIGHT",
+    "material": "lining",
+    "x_mm": 1084.6771706952682,
+    "y_mm": 9833.643953926672,
+    "width_mm": 331.5590210694737,
+    "height_mm": 1235.0762784711521,
+    "rotation_deg": 0
+  },
+  {
+    "id": "Z02_HOOD_SERVICE_GUARD",
+    "material": "lining",
+    "x_mm": 15,
+    "y_mm": 11093.72023958994,
+    "width_mm": 88.99999999999999,
+    "height_mm": 1136.4111165319218,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_I4_A",
+    "material": "lining",
+    "x_mm": 129.0,
+    "y_mm": 11093.72023958994,
+    "width_mm": 407.30984424368916,
+    "height_mm": 1128.160581208674,
+    "rotation_deg": 0
+  },
+  {
+    "id": "L08_CONTINUOUS_COVER_START",
+    "material": "lining",
+    "x_mm": 561.3098442436892,
+    "y_mm": 11093.72023958994,
+    "width_mm": 266.31412884833446,
+    "height_mm": 1068.0000000697348,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_I1_A",
+    "material": "lining",
+    "x_mm": 852.6239730920237,
+    "y_mm": 11093.72023958994,
+    "width_mm": 624.5147161198943,
+    "height_mm": 1029.3022421507171,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_END",
+    "material": "lining",
+    "x_mm": 15,
+    "y_mm": 12255.131356121863,
+    "width_mm": 439.0117136518773,
+    "height_mm": 845.0575496744032,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_I3_A_A",
+    "material": "lining",
+    "x_mm": 479.0117136518773,
+    "y_mm": 12255.131356121863,
+    "width_mm": 253.5941290612473,
+    "height_mm": 763.5428713394351,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_I2_A_A",
+    "material": "lining",
+    "x_mm": 757.6058427131245,
+    "y_mm": 12255.131356121863,
+    "width_mm": 313.1152007787908,
+    "height_mm": 710.1924186943309,
+    "rotation_deg": 0
+  },
+  {
+    "id": "Z03_FILL_SERVICE_GUARD",
+    "material": "lining",
+    "x_mm": 1095.7210434919152,
+    "y_mm": 12255.131356121863,
+    "width_mm": 89.00000000000003,
+    "height_mm": 701.0244667031208,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I6_B_A",
+    "material": "lining",
+    "x_mm": 15,
+    "y_mm": 13125.188905796265,
+    "width_mm": 494.13885364999817,
+    "height_mm": 684.1521896481856,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I1_A_B_A",
+    "material": "lining",
+    "x_mm": 534.1388536499982,
+    "y_mm": 13125.188905796265,
+    "width_mm": 597.9454203018895,
+    "height_mm": 677.8564385515166,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I2_A_A",
+    "material": "lining",
+    "x_mm": 1157.0842739518876,
+    "y_mm": 13125.188905796265,
+    "width_mm": 208.982712977539,
+    "height_mm": 644.4507077434952,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I6_A_B_B",
+    "material": "lining",
+    "x_mm": 15,
+    "y_mm": 13834.341095444452,
+    "width_mm": 641.2594350780838,
+    "height_mm": 636.3993081270913,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I1_A_A_B_A",
+    "material": "lining",
+    "x_mm": 681.2594350780838,
+    "y_mm": 13834.341095444452,
+    "width_mm": 196.95877133927954,
+    "height_mm": 632.5155705792401,
+    "rotation_deg": 0
+  },
+  {
+    "id": "S08_WRAP_-1_RIGHT",
+    "material": "lining",
+    "x_mm": 903.2182064173634,
+    "y_mm": 13834.341095444452,
+    "width_mm": 93.0731529189259,
+    "height_mm": 616.4215953848656,
+    "rotation_deg": 0
+  },
+  {
+    "id": "S08_WRAP_1_LEFT",
+    "material": "lining",
+    "x_mm": 1021.2913593362892,
+    "y_mm": 13834.341095444452,
+    "width_mm": 93.0731529189259,
+    "height_mm": 616.4215953848656,
+    "rotation_deg": 0
+  },
+  {
+    "id": "S08_WRAP_1_I1",
+    "material": "lining",
+    "x_mm": 1139.3645122552152,
+    "y_mm": 13834.341095444452,
+    "width_mm": 316.725353184202,
+    "height_mm": 616.0552707222273,
+    "rotation_deg": 0
+  },
+  {
+    "id": "S08_WRAP_-1_END",
+    "material": "lining",
+    "x_mm": 15,
+    "y_mm": 14495.740403571543,
+    "width_mm": 123.84118259022637,
+    "height_mm": 604.6032789810531,
+    "rotation_deg": 0
+  },
+  {
+    "id": "S08_WRAP_1_END",
+    "material": "lining",
+    "x_mm": 163.84118259022637,
+    "y_mm": 14495.740403571543,
+    "width_mm": 123.84118268379436,
+    "height_mm": 604.6032789218622,
+    "rotation_deg": 0
+  },
+  {
+    "id": "S08_WRAP_-1_I1",
+    "material": "lining",
+    "x_mm": 312.68236527402075,
+    "y_mm": 14495.740403571543,
+    "width_mm": 327.0411993997071,
+    "height_mm": 589.1949325987839,
+    "rotation_deg": 0
+  },
+  {
+    "id": "S08_WRAP_-1_LEFT",
+    "material": "lining",
+    "x_mm": 664.7235646737279,
+    "y_mm": 14495.740403571543,
+    "width_mm": 195.59005694242126,
+    "height_mm": 577.9563468298483,
+    "rotation_deg": 0
+  },
+  {
+    "id": "S08_WRAP_1_RIGHT",
+    "material": "lining",
+    "x_mm": 885.3136216161491,
+    "y_mm": 14495.740403571543,
+    "width_mm": 195.59005694242126,
+    "height_mm": 577.9563468298483,
+    "rotation_deg": 0
+  },
+  {
+    "id": "S08_WRAP_-1_I2",
+    "material": "lining",
+    "x_mm": 1105.9036785585704,
+    "y_mm": 14495.740403571543,
+    "width_mm": 323.7235561849979,
+    "height_mm": 562.0052742268917,
+    "rotation_deg": 0
+  },
+  {
+    "id": "S08_WRAP_1_I2",
+    "material": "lining",
+    "x_mm": 15,
+    "y_mm": 15125.343682552595,
+    "width_mm": 355.1516381071196,
+    "height_mm": 538.2470653996945,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_I3_A_B_A",
+    "material": "lining",
+    "x_mm": 395.1516381071196,
+    "y_mm": 15125.343682552595,
+    "width_mm": 348.77418521077016,
+    "height_mm": 502.0589120080683,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I6_A_A_B_B",
+    "material": "lining",
+    "x_mm": 768.9258233178898,
+    "y_mm": 15125.343682552595,
+    "width_mm": 439.1154069619691,
+    "height_mm": 496.0355838521026,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I1_A_A_A",
+    "material": "lining",
+    "x_mm": 1233.0412302798588,
+    "y_mm": 15125.343682552595,
+    "width_mm": 165.28745956590774,
+    "height_mm": 478.1587336239862,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I6_A_A_A",
+    "material": "lining",
+    "x_mm": 15,
+    "y_mm": 15688.59074795229,
+    "width_mm": 211.01032189500432,
+    "height_mm": 436.6104704295523,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_FOREARM_GUSSET_-1_END",
+    "material": "lining",
+    "x_mm": 251.01032189500432,
+    "y_mm": 15688.59074795229,
+    "width_mm": 38.31323645329576,
+    "height_mm": 417.07781970870775,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_FOREARM_GUSSET_1_END",
+    "material": "lining",
+    "x_mm": 314.3235583483001,
+    "y_mm": 15688.59074795229,
+    "width_mm": 38.313236474905764,
+    "height_mm": 417.0778197052417,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_I2_A_B_A",
+    "material": "lining",
+    "x_mm": 377.63679482320583,
+    "y_mm": 15688.59074795229,
+    "width_mm": 398.7367208087089,
+    "height_mm": 411.4320476258269,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I1_A_A_B_B",
+    "material": "lining",
+    "x_mm": 801.3735156319148,
+    "y_mm": 15688.59074795229,
+    "width_mm": 181.69021954391562,
+    "height_mm": 410.9996299595778,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_FOREARM_GUSSET_-1_I1",
+    "material": "lining",
+    "x_mm": 1008.0637351758304,
+    "y_mm": 15688.59074795229,
+    "width_mm": 377.6959593682226,
+    "height_mm": 394.912785869296,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_I1_B_B",
+    "material": "lining",
+    "x_mm": 15,
+    "y_mm": 16150.201218381842,
+    "width_mm": 384.17051717779236,
+    "height_mm": 392.472057584389,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_FOREARM_GUSSET_1_I1",
+    "material": "lining",
+    "x_mm": 424.17051717779236,
+    "y_mm": 16150.201218381842,
+    "width_mm": 377.2790283240334,
+    "height_mm": 383.52549621416574,
+    "rotation_deg": 0
+  },
+  {
+    "id": "Z04_ELECTRIC_SERVICE_GUARD",
+    "material": "lining",
+    "x_mm": 826.4495455018257,
+    "y_mm": 16150.201218381842,
+    "width_mm": 88.99999999999999,
+    "height_mm": 379.96213508747167,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_FOREARM_GUSSET_-1_LEFT",
+    "material": "lining",
+    "x_mm": 940.4495455018257,
+    "y_mm": 16150.201218381842,
+    "width_mm": 61.64767023018314,
+    "height_mm": 376.6793107670884,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_FOREARM_GUSSET_1_RIGHT",
+    "material": "lining",
+    "x_mm": 1027.0972157320089,
+    "y_mm": 16150.201218381842,
+    "width_mm": 61.64767023018314,
+    "height_mm": 376.6793107670884,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I6_B_B_B_B",
+    "material": "lining",
+    "x_mm": 1113.744885962192,
+    "y_mm": 16150.201218381842,
+    "width_mm": 301.8089082517841,
+    "height_mm": 363.1414109101904,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I6_B_B_A",
+    "material": "lining",
+    "x_mm": 15,
+    "y_mm": 16567.67327596623,
+    "width_mm": 327.81282140111733,
+    "height_mm": 362.4273654109527,
+    "rotation_deg": 0
+  },
+  {
+    "id": "S08_WRAP_1_START",
+    "material": "lining",
+    "x_mm": 367.81282140111733,
+    "y_mm": 16567.67327596623,
+    "width_mm": 105.54863910646719,
+    "height_mm": 360.1199790550413,
+    "rotation_deg": 0
+  },
+  {
+    "id": "S08_WRAP_-1_START",
+    "material": "lining",
+    "x_mm": 498.3614605075845,
+    "y_mm": 16567.67327596623,
+    "width_mm": 105.54863910575304,
+    "height_mm": 360.1199790525283,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_I1_B_A_A_A",
+    "material": "lining",
+    "x_mm": 628.9100996133376,
+    "y_mm": 16567.67327596623,
+    "width_mm": 168.54992569499993,
+    "height_mm": 353.2829891354302,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_FOREARM_GUSSET_-1_RIGHT",
+    "material": "lining",
+    "x_mm": 822.4600253083375,
+    "y_mm": 16567.67327596623,
+    "width_mm": 42.556244887699464,
+    "height_mm": 351.34966953217616,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_FOREARM_GUSSET_1_LEFT",
+    "material": "lining",
+    "x_mm": 890.016270196037,
+    "y_mm": 16567.67327596623,
+    "width_mm": 42.556244887699464,
+    "height_mm": 351.34966953217616,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_I4_B_A_B_A",
+    "material": "lining",
+    "x_mm": 957.5725150837364,
+    "y_mm": 16567.67327596623,
+    "width_mm": 261.21050696146875,
+    "height_mm": 343.13806344898296,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_I2_B_B",
+    "material": "lining",
+    "x_mm": 15,
+    "y_mm": 16955.100641377183,
+    "width_mm": 391.2005360276591,
+    "height_mm": 331.62605740360584,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_I3_A_B_B",
+    "material": "lining",
+    "x_mm": 431.2005360276591,
+    "y_mm": 16955.100641377183,
+    "width_mm": 410.4539936021132,
+    "height_mm": 328.5861262299938,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I6_A_A_B_A",
+    "material": "lining",
+    "x_mm": 866.6545296297722,
+    "y_mm": 16955.100641377183,
+    "width_mm": 165.58722401821544,
+    "height_mm": 328.5027584127782,
+    "rotation_deg": 0
+  },
+  {
+    "id": "K08_FLAP_LINING",
+    "material": "lining",
+    "x_mm": 15,
+    "y_mm": 17311.72669878079,
+    "width_mm": 556.3055354907997,
+    "height_mm": 327.92447714949526,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_I1_B_A_B_A",
+    "material": "lining",
+    "x_mm": 596.3055354907997,
+    "y_mm": 17311.72669878079,
+    "width_mm": 123.48739390256293,
+    "height_mm": 315.19016981182864,
+    "rotation_deg": 0
+  },
+  {
+    "id": "L08_CONTINUOUS_COVER_END",
+    "material": "lining",
+    "x_mm": 744.7929293933626,
+    "y_mm": 17311.72669878079,
+    "width_mm": 109.17364188920112,
+    "height_mm": 314.00000000034424,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I1_A_B_B_A",
+    "material": "lining",
+    "x_mm": 878.9665712825637,
+    "y_mm": 17311.72669878079,
+    "width_mm": 286.79139221432166,
+    "height_mm": 302.9680185523574,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_I1_B_A_B_B",
+    "material": "lining",
+    "x_mm": 1190.7579634968854,
+    "y_mm": 17311.72669878079,
+    "width_mm": 168.80135452651942,
+    "height_mm": 301.7690254412502,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_FOREARM_GUSSET_1_START",
+    "material": "lining",
+    "x_mm": 1384.5593180234048,
+    "y_mm": 17311.72669878079,
+    "width_mm": 42.79526038586149,
+    "height_mm": 298.4819585143972,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_FOREARM_GUSSET_-1_START",
+    "material": "lining",
+    "x_mm": 15,
+    "y_mm": 17664.651175930285,
+    "width_mm": 42.79526041195652,
+    "height_mm": 298.48195851045404,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I2_A_B_B_B_B",
+    "material": "lining",
+    "x_mm": 82.79526041195652,
+    "y_mm": 17664.651175930285,
+    "width_mm": 202.78382128993894,
+    "height_mm": 296.4624713946382,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_I1_B_A_A_B",
+    "material": "lining",
+    "x_mm": 310.57908170189546,
+    "y_mm": 17664.651175930285,
+    "width_mm": 187.1807591925417,
+    "height_mm": 293.5224160056148,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I2_A_B_A",
+    "material": "lining",
+    "x_mm": 522.7598408944372,
+    "y_mm": 17664.651175930285,
+    "width_mm": 215.0099179118861,
+    "height_mm": 279.66621162471307,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_I3_B_B",
+    "material": "lining",
+    "x_mm": 762.7697588063232,
+    "y_mm": 17664.651175930285,
+    "width_mm": 406.08220900323334,
+    "height_mm": 276.4292400443378,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I1_A_B_B_B_B_B_A",
+    "material": "lining",
+    "x_mm": 1193.8519678095565,
+    "y_mm": 17664.651175930285,
+    "width_mm": 271.1443497011667,
+    "height_mm": 275.4269331517211,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_I2_A_B_B",
+    "material": "lining",
+    "x_mm": 15,
+    "y_mm": 17988.133134440737,
+    "width_mm": 427.76604382641784,
+    "height_mm": 267.8659166987192,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_I2_B_A_A",
+    "material": "lining",
+    "x_mm": 467.76604382641784,
+    "y_mm": 17988.133134440737,
+    "width_mm": 215.33818361318612,
+    "height_mm": 265.89009404709986,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_I4_B_B",
+    "material": "lining",
+    "x_mm": 708.104227439604,
+    "y_mm": 17988.133134440737,
+    "width_mm": 429.6194416607128,
+    "height_mm": 265.375257546636,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_I4_B_A_B_B",
+    "material": "lining",
+    "x_mm": 1162.7236691003168,
+    "y_mm": 17988.133134440737,
+    "width_mm": 266.5050797129628,
+    "height_mm": 262.6564773819304,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_REAR_I",
+    "material": "lining",
+    "x_mm": 15,
+    "y_mm": 18280.999051139457,
+    "width_mm": 168.0,
+    "height_mm": 244.0,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_I3_B_A_B_B",
+    "material": "lining",
+    "x_mm": 208.0,
+    "y_mm": 18280.999051139457,
+    "width_mm": 173.78098907907062,
+    "height_mm": 239.45248793445924,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I6_A_B_A_B_B_B_A",
+    "material": "lining",
+    "x_mm": 406.78098907907065,
+    "y_mm": 18280.999051139457,
+    "width_mm": 193.65067648164856,
+    "height_mm": 234.5893097176376,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_I2_B_A_B",
+    "material": "lining",
+    "x_mm": 625.4316655607192,
+    "y_mm": 18280.999051139457,
+    "width_mm": 247.33327614118167,
+    "height_mm": 223.07417843916664,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_I3_B_A_B_A",
+    "material": "lining",
+    "x_mm": 897.7649417019009,
+    "y_mm": 18280.999051139457,
+    "width_mm": 116.70408263110775,
+    "height_mm": 215.78289786439194,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I6_B_B_B_A",
+    "material": "lining",
+    "x_mm": 1039.4690243330085,
+    "y_mm": 18280.999051139457,
+    "width_mm": 314.7149422440575,
+    "height_mm": 214.90486273752936,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_I3_B_A_A",
+    "material": "lining",
+    "x_mm": 15,
+    "y_mm": 18549.999051139457,
+    "width_mm": 201.37852645854338,
+    "height_mm": 206.42981242700537,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_I4_B_A_A_A",
+    "material": "lining",
+    "x_mm": 241.37852645854338,
+    "y_mm": 18549.999051139457,
+    "width_mm": 231.27084110846573,
+    "height_mm": 203.9470485388499,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I2_A_B_B_A",
+    "material": "lining",
+    "x_mm": 497.6493675670091,
+    "y_mm": 18549.999051139457,
+    "width_mm": 179.7233161721235,
+    "height_mm": 193.03177351283864,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_I4_B_A_A_B",
+    "material": "lining",
+    "x_mm": 702.3726837391326,
+    "y_mm": 18549.999051139457,
+    "width_mm": 217.90391441395352,
+    "height_mm": 192.87707445610488,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_START",
+    "material": "lining",
+    "x_mm": 945.2765981530862,
+    "y_mm": 18549.999051139457,
+    "width_mm": 56.999999999990926,
+    "height_mm": 164.73600751691023,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_START",
+    "material": "lining",
+    "x_mm": 1027.2765981530772,
+    "y_mm": 18549.999051139457,
+    "width_mm": 214.0634546133194,
+    "height_mm": 164.34713211211124,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I6_A_B_A_A_B",
+    "material": "lining",
+    "x_mm": 1266.3400527663966,
+    "y_mm": 18549.999051139457,
+    "width_mm": 191.38946795583877,
+    "height_mm": 159.50194762123294,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I6_A_B_A_B_A",
+    "material": "lining",
+    "x_mm": 15,
+    "y_mm": 18781.428863566463,
+    "width_mm": 194.09482879652617,
+    "height_mm": 157.92619136952487,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_END",
+    "material": "lining",
+    "x_mm": 234.09482879652617,
+    "y_mm": 18781.428863566463,
+    "width_mm": 139.00000000022598,
+    "height_mm": 154.19397622330854,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I1_A_B_B_B_A",
+    "material": "lining",
+    "x_mm": 398.09482879675215,
+    "y_mm": 18781.428863566463,
+    "width_mm": 286.3589075495091,
+    "height_mm": 149.5800017260516,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I6_A_B_A_A_A",
+    "material": "lining",
+    "x_mm": 709.4537363462613,
+    "y_mm": 18781.428863566463,
+    "width_mm": 185.94920958077861,
+    "height_mm": 133.93554939729574,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I1_A_B_B_B_B_B_B",
+    "material": "lining",
+    "x_mm": 920.4029459270399,
+    "y_mm": 18781.428863566463,
+    "width_mm": 197.1410371162367,
+    "height_mm": 127.67826487130104,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I2_A_B_B_B_A",
+    "material": "lining",
+    "x_mm": 1142.5439830432765,
+    "y_mm": 18781.428863566463,
+    "width_mm": 164.6185582450216,
+    "height_mm": 121.40859055142201,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_BACK_-1_START",
+    "material": "lining",
+    "x_mm": 1332.1625412882981,
+    "y_mm": 18781.428863566463,
+    "width_mm": 32.00000000000048,
+    "height_mm": 94.00000000000016,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_BACK_-1_END",
+    "material": "lining",
+    "x_mm": 1389.1625412882986,
+    "y_mm": 18781.428863566463,
+    "width_mm": 32.00000000000048,
+    "height_mm": 94.00000000000016,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_BACK_1_START",
+    "material": "lining",
+    "x_mm": 1446.162541288299,
+    "y_mm": 18781.428863566463,
+    "width_mm": 32.00000000000048,
+    "height_mm": 94.00000000000016,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_BACK_1_END",
+    "material": "lining",
+    "x_mm": 15,
+    "y_mm": 18964.35505493599,
+    "width_mm": 32.00000000000048,
+    "height_mm": 94.00000000000016,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I6_A_B_A_B_B_A",
+    "material": "lining",
+    "x_mm": 72.00000000000048,
+    "y_mm": 18964.35505493599,
+    "width_mm": 193.53667519439463,
+    "height_mm": 84.04992186255839,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I6_A_B_A_B_B_B_B",
+    "material": "lining",
+    "x_mm": 290.5366751943951,
+    "y_mm": 18964.35505493599,
+    "width_mm": 151.02460774628508,
+    "height_mm": 82.05150228053267,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_I1_A_B_B_B_B_A",
+    "material": "lining",
+    "x_mm": 466.5612829406802,
+    "y_mm": 18964.35505493599,
+    "width_mm": 285.0888085891064,
+    "height_mm": 73.67198566089536,
+    "rotation_deg": 0
+  },
+  {
+    "id": "F08_EDGE_LEFT",
+    "material": "outer",
+    "x_mm": 15,
+    "y_mm": 15,
+    "width_mm": 86.00000321720027,
+    "height_mm": 2825.4193177146403,
+    "rotation_deg": 0
+  },
+  {
+    "id": "F08_EDGE_RIGHT",
+    "material": "outer",
+    "x_mm": 126.00000321720027,
+    "y_mm": 15,
+    "width_mm": 86.00000321720027,
+    "height_mm": 2825.4193177146403,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O3",
+    "material": "outer",
+    "x_mm": 237.00000643440055,
+    "y_mm": 15,
+    "width_mm": 330.0218897848539,
+    "height_mm": 2326.5803467797386,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O4",
+    "material": "outer",
+    "x_mm": 592.0218962192545,
+    "y_mm": 15,
+    "width_mm": 283.20192127049853,
+    "height_mm": 2326.520504974746,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O1_B",
+    "material": "outer",
+    "x_mm": 15,
+    "y_mm": 2865.4193177146403,
+    "width_mm": 617.0291890489541,
+    "height_mm": 1610.7493504902463,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O2_B",
+    "material": "outer",
+    "x_mm": 657.0291890489541,
+    "y_mm": 2865.4193177146403,
+    "width_mm": 376.65826423638504,
+    "height_mm": 1464.3866628693736,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O5_B",
+    "material": "outer",
+    "x_mm": 1058.6874532853392,
+    "y_mm": 2865.4193177146403,
+    "width_mm": 293.337064222195,
+    "height_mm": 1433.2788637307112,
+    "rotation_deg": 0
+  },
+  {
+    "id": "L08_CONTINUOUS_COVER_O2",
+    "material": "outer",
+    "x_mm": 15,
+    "y_mm": 4501.168668204887,
+    "width_mm": 364.4801517639506,
+    "height_mm": 1425.9374575573595,
+    "rotation_deg": 0
+  },
+  {
+    "id": "L08_CONTINUOUS_COVER_O3",
+    "material": "outer",
+    "x_mm": 404.4801517639506,
+    "y_mm": 4501.168668204887,
+    "width_mm": 292.64114187835185,
+    "height_mm": 1405.9741218765441,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_BACK_-1_O1",
+    "material": "outer",
+    "x_mm": 722.1212936423024,
+    "y_mm": 4501.168668204887,
+    "width_mm": 300.70671108514136,
+    "height_mm": 1344.9873877232644,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_BACK_1_O1",
+    "material": "outer",
+    "x_mm": 1047.8280047274438,
+    "y_mm": 4501.168668204887,
+    "width_mm": 300.70671108514136,
+    "height_mm": 1344.9873877232644,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_O4_A",
+    "material": "outer",
+    "x_mm": 15,
+    "y_mm": 5952.106125762246,
+    "width_mm": 419.20390830000736,
+    "height_mm": 1152.4722539012982,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_O1_A",
+    "material": "outer",
+    "x_mm": 459.20390830000736,
+    "y_mm": 5952.106125762246,
+    "width_mm": 656.328118533325,
+    "height_mm": 1044.2762751771363,
+    "rotation_deg": 0
+  },
+  {
+    "id": "L08_CONTINUOUS_COVER_O1_B",
+    "material": "outer",
+    "x_mm": 1140.5320268333323,
+    "y_mm": 5952.106125762246,
+    "width_mm": 339.69671208972335,
+    "height_mm": 830.3699342575134,
+    "rotation_deg": 0
+  },
+  {
+    "id": "L08_CONTINUOUS_COVER_O4_B",
+    "material": "outer",
+    "x_mm": 15,
+    "y_mm": 7129.578379663544,
+    "width_mm": 287.56073630830434,
+    "height_mm": 794.0823246697113,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_O3_A_A",
+    "material": "outer",
+    "x_mm": 327.56073630830434,
+    "y_mm": 7129.578379663544,
+    "width_mm": 288.83956839461075,
+    "height_mm": 790.8688125236536,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_O2_A_A",
+    "material": "outer",
+    "x_mm": 641.400304702915,
+    "y_mm": 7129.578379663544,
+    "width_mm": 353.67682111316196,
+    "height_mm": 726.6959755922258,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O1_A_B_A",
+    "material": "outer",
+    "x_mm": 15,
+    "y_mm": 7948.660704333255,
+    "width_mm": 618.3075149953396,
+    "height_mm": 696.6643989909808,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O6_B_A",
+    "material": "outer",
+    "x_mm": 658.3075149953396,
+    "y_mm": 7948.660704333255,
+    "width_mm": 554.3110784659648,
+    "height_mm": 685.4318696088662,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O2_A_A",
+    "material": "outer",
+    "x_mm": 1237.6185934613045,
+    "y_mm": 7948.660704333255,
+    "width_mm": 218.87184662273665,
+    "height_mm": 664.7585171950386,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O6_A_B_B",
+    "material": "outer",
+    "x_mm": 15,
+    "y_mm": 8670.325103324236,
+    "width_mm": 679.0803077975248,
+    "height_mm": 662.3220594181215,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O1_A_A_B_A",
+    "material": "outer",
+    "x_mm": 719.0803077975248,
+    "y_mm": 8670.325103324236,
+    "width_mm": 208.43966615780434,
+    "height_mm": 651.0733295227874,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O5_A_A",
+    "material": "outer",
+    "x_mm": 952.5199739553292,
+    "y_mm": 8670.325103324236,
+    "width_mm": 219.17495990806054,
+    "height_mm": 610.8793529526687,
+    "rotation_deg": 0
+  },
+  {
+    "id": "S08_WRAP_1_O1",
+    "material": "outer",
+    "x_mm": 15,
+    "y_mm": 9357.647162742358,
+    "width_mm": 319.5779589178177,
+    "height_mm": 609.1603428773763,
+    "rotation_deg": 0
+  },
+  {
+    "id": "S08_WRAP_-1_O1",
+    "material": "outer",
+    "x_mm": 359.5779589178177,
+    "y_mm": 9357.647162742358,
+    "width_mm": 329.95357822175674,
+    "height_mm": 589.0643163414496,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_O3_A_B_B",
+    "material": "outer",
+    "x_mm": 714.5315371395744,
+    "y_mm": 9357.647162742358,
+    "width_mm": 271.86932761927153,
+    "height_mm": 587.9967999805982,
+    "rotation_deg": 0
+  },
+  {
+    "id": "S08_WRAP_-1_O2",
+    "material": "outer",
+    "x_mm": 1011.400864758846,
+    "y_mm": 9357.647162742358,
+    "width_mm": 324.8978146733834,
+    "height_mm": 554.2742653556721,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_O2_A_B_A",
+    "material": "outer",
+    "x_mm": 15,
+    "y_mm": 9991.807505619734,
+    "width_mm": 221.60268517311678,
+    "height_mm": 553.1798246417892,
+    "rotation_deg": 0
+  },
+  {
+    "id": "S08_WRAP_1_O2",
+    "material": "outer",
+    "x_mm": 261.6026851731168,
+    "y_mm": 9991.807505619734,
+    "width_mm": 361.1811590561464,
+    "height_mm": 533.1728465903964,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O6_A_A_B_B",
+    "material": "outer",
+    "x_mm": 647.7838442292632,
+    "y_mm": 9991.807505619734,
+    "width_mm": 465.21979479173524,
+    "height_mm": 506.70414395386086,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O1_A_A_A",
+    "material": "outer",
+    "x_mm": 1138.0036390209984,
+    "y_mm": 9991.807505619734,
+    "width_mm": 199.48265107410788,
+    "height_mm": 488.342439478847,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_O3_A_B_A",
+    "material": "outer",
+    "x_mm": 15,
+    "y_mm": 10569.987330261523,
+    "width_mm": 218.0897401949244,
+    "height_mm": 477.98588076986016,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_O2_A_B_B",
+    "material": "outer",
+    "x_mm": 258.0897401949244,
+    "y_mm": 10569.987330261523,
+    "width_mm": 262.87036724937985,
+    "height_mm": 469.2199618265349,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O6_A_A_A",
+    "material": "outer",
+    "x_mm": 545.9601074443042,
+    "y_mm": 10569.987330261523,
+    "width_mm": 261.23442527524236,
+    "height_mm": 434.28605325570567,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O1_A_A_B_B",
+    "material": "outer",
+    "x_mm": 832.1945327195465,
+    "y_mm": 10569.987330261523,
+    "width_mm": 192.0163528554319,
+    "height_mm": 419.0042381497385,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_O1_B_B",
+    "material": "outer",
+    "x_mm": 1049.2108855749784,
+    "y_mm": 10569.987330261523,
+    "width_mm": 410.76090449323397,
+    "height_mm": 404.257603856347,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_O4_B_A_B_B",
+    "material": "outer",
+    "x_mm": 15,
+    "y_mm": 11072.973211031383,
+    "width_mm": 199.23052341119387,
+    "height_mm": 400.0762141169627,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_FOREARM_GUSSET_-1_O1",
+    "material": "outer",
+    "x_mm": 239.23052341119387,
+    "y_mm": 11072.973211031383,
+    "width_mm": 377.6959593682226,
+    "height_mm": 394.912785869296,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_FOREARM_GUSSET_1_O1",
+    "material": "outer",
+    "x_mm": 641.9264827794165,
+    "y_mm": 11072.973211031383,
+    "width_mm": 377.2790283240334,
+    "height_mm": 383.52549621416574,
+    "rotation_deg": 0
+  },
+  {
+    "id": "L08_CONTINUOUS_COVER_O1_A_B",
+    "material": "outer",
+    "x_mm": 1044.20551110345,
+    "y_mm": 11072.973211031383,
+    "width_mm": 294.1444710057898,
+    "height_mm": 380.78300266228126,
+    "rotation_deg": 0
+  },
+  {
+    "id": "L08_CONTINUOUS_COVER_O4_A_B",
+    "material": "outer",
+    "x_mm": 15,
+    "y_mm": 11498.049425148347,
+    "width_mm": 293.7158508085978,
+    "height_mm": 379.9786139388797,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O6_B_B_A",
+    "material": "outer",
+    "x_mm": 333.7158508085978,
+    "y_mm": 11498.049425148347,
+    "width_mm": 387.8922404984941,
+    "height_mm": 363.77579724574883,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_O1_B_A_A_A",
+    "material": "outer",
+    "x_mm": 746.6080913070919,
+    "y_mm": 11498.049425148347,
+    "width_mm": 174.72414577125357,
+    "height_mm": 362.9107856030372,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_O2_B_B",
+    "material": "outer",
+    "x_mm": 946.3322370783454,
+    "y_mm": 11498.049425148347,
+    "width_mm": 420.4536844509498,
+    "height_mm": 340.4553946935981,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O6_A_A_B_A",
+    "material": "outer",
+    "x_mm": 15,
+    "y_mm": 11903.028039087227,
+    "width_mm": 174.83772517794083,
+    "height_mm": 330.81870420807087,
+    "rotation_deg": 0
+  },
+  {
+    "id": "K08_FLAP_OUTER",
+    "material": "outer",
+    "x_mm": 214.83772517794083,
+    "y_mm": 11903.028039087227,
+    "width_mm": 556.3055354907997,
+    "height_mm": 327.92447714949526,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_O4_B_A_B_A",
+    "material": "outer",
+    "x_mm": 796.1432606687405,
+    "y_mm": 11903.028039087227,
+    "width_mm": 143.52291086430938,
+    "height_mm": 326.6790511388436,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_O1_B_A_B_A",
+    "material": "outer",
+    "x_mm": 964.6661715330499,
+    "y_mm": 11903.028039087227,
+    "width_mm": 128.02792330491116,
+    "height_mm": 321.4086646203896,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O2_A_B_B_B_B",
+    "material": "outer",
+    "x_mm": 1117.694094837961,
+    "y_mm": 11903.028039087227,
+    "width_mm": 219.4052345064268,
+    "height_mm": 318.14586112795774,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_O1_B_A_B_B",
+    "material": "outer",
+    "x_mm": 15,
+    "y_mm": 12258.846743295298,
+    "width_mm": 175.65704160929084,
+    "height_mm": 310.14896802723985,
+    "rotation_deg": 0
+  },
+  {
+    "id": "L08_CONTINUOUS_COVER_O1_A_A_A",
+    "material": "outer",
+    "x_mm": 215.65704160929084,
+    "y_mm": 12258.846743295298,
+    "width_mm": 344.8586487963598,
+    "height_mm": 310.0325759176553,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O1_A_B_B_A",
+    "material": "outer",
+    "x_mm": 585.5156904056506,
+    "y_mm": 12258.846743295298,
+    "width_mm": 300.22031880722363,
+    "height_mm": 305.566122169973,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_O1_B_A_A_B",
+    "material": "outer",
+    "x_mm": 910.7360092128743,
+    "y_mm": 12258.846743295298,
+    "width_mm": 196.37342600692452,
+    "height_mm": 301.5572943849499,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O1_A_B_B_B_B_B_A",
+    "material": "outer",
+    "x_mm": 1132.1094352197988,
+    "y_mm": 12258.846743295298,
+    "width_mm": 281.58357476395895,
+    "height_mm": 301.15081695509815,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O5_A_B_B_B_B",
+    "material": "outer",
+    "x_mm": 15,
+    "y_mm": 12593.99571132254,
+    "width_mm": 233.22380659952427,
+    "height_mm": 291.04549107654884,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O2_A_B_A",
+    "material": "outer",
+    "x_mm": 273.22380659952427,
+    "y_mm": 12593.99571132254,
+    "width_mm": 227.75753112465782,
+    "height_mm": 282.6827076916157,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_O3_B_B",
+    "material": "outer",
+    "x_mm": 525.9813377241821,
+    "y_mm": 12593.99571132254,
+    "width_mm": 436.38374839012755,
+    "height_mm": 279.6854831554381,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_O2_B_A_A",
+    "material": "outer",
+    "x_mm": 987.3650861143096,
+    "y_mm": 12593.99571132254,
+    "width_mm": 226.59596027073712,
+    "height_mm": 275.12990859665354,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O5_A_B_A",
+    "material": "outer",
+    "x_mm": 1238.9610463850468,
+    "y_mm": 12593.99571132254,
+    "width_mm": 232.1639869755152,
+    "height_mm": 267.8645154307876,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_O4_B_B",
+    "material": "outer",
+    "x_mm": 15,
+    "y_mm": 12910.041202399088,
+    "width_mm": 458.51186971305344,
+    "height_mm": 267.32895160012276,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O6_B_B_B_B_B",
+    "material": "outer",
+    "x_mm": 498.51186971305344,
+    "y_mm": 12910.041202399088,
+    "width_mm": 337.7662636172903,
+    "height_mm": 257.7746513836436,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_O3_B_A_B_B",
+    "material": "outer",
+    "x_mm": 861.2781333303437,
+    "y_mm": 12910.041202399088,
+    "width_mm": 184.0608572036122,
+    "height_mm": 246.09184837179055,
+    "rotation_deg": 0
+  },
+  {
+    "id": "G08_REAR_O",
+    "material": "outer",
+    "x_mm": 1070.338990533956,
+    "y_mm": 12910.041202399088,
+    "width_mm": 168.0,
+    "height_mm": 244.0,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O6_A_B_A_B_B_B_A",
+    "material": "outer",
+    "x_mm": 1263.338990533956,
+    "y_mm": 12910.041202399088,
+    "width_mm": 204.72316818293356,
+    "height_mm": 238.60146678426128,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_O2_B_A_B",
+    "material": "outer",
+    "x_mm": 15,
+    "y_mm": 13202.37015399921,
+    "width_mm": 267.0738031888775,
+    "height_mm": 230.00089146838417,
+    "rotation_deg": 0
+  },
+  {
+    "id": "L08_CONTINUOUS_COVER_O1_A_A_B",
+    "material": "outer",
+    "x_mm": 307.0738031888775,
+    "y_mm": 13202.37015399921,
+    "width_mm": 299.0671340996363,
+    "height_mm": 228.7634021516597,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_O3_B_A_B_A",
+    "material": "outer",
+    "x_mm": 631.1409372885138,
+    "y_mm": 13202.37015399921,
+    "width_mm": 124.96612524429095,
+    "height_mm": 219.09541319807425,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O6_B_B_B_A",
+    "material": "outer",
+    "x_mm": 781.1070625328048,
+    "y_mm": 13202.37015399921,
+    "width_mm": 374.752908532199,
+    "height_mm": 217.4568227080015,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_O4_B_A_A_A",
+    "material": "outer",
+    "x_mm": 1180.8599710650037,
+    "y_mm": 13202.37015399921,
+    "width_mm": 239.01647458114996,
+    "height_mm": 217.19413870783828,
+    "rotation_deg": 0
+  },
+  {
+    "id": "L08_CONTINUOUS_COVER_O4_A_A_A",
+    "material": "outer",
+    "x_mm": 15,
+    "y_mm": 13457.371045467595,
+    "width_mm": 366.4937602979275,
+    "height_mm": 214.6525827466492,
+    "rotation_deg": 0
+  },
+  {
+    "id": "L08_CONTINUOUS_COVER_O4_A_A_B",
+    "material": "outer",
+    "x_mm": 406.4937602979275,
+    "y_mm": 13457.371045467595,
+    "width_mm": 300.4881493033177,
+    "height_mm": 211.01850082657958,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_O3_B_A_A",
+    "material": "outer",
+    "x_mm": 731.9819096012452,
+    "y_mm": 13457.371045467595,
+    "width_mm": 216.6262404634881,
+    "height_mm": 206.80989832598394,
+    "rotation_deg": 0
+  },
+  {
+    "id": "H08_CANOPY_O4_B_A_A_B",
+    "material": "outer",
+    "x_mm": 973.6081500647333,
+    "y_mm": 13457.371045467595,
+    "width_mm": 229.26907624128333,
+    "height_mm": 199.99175704531493,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O2_A_B_B_A",
+    "material": "outer",
+    "x_mm": 1227.8772263060166,
+    "y_mm": 13457.371045467595,
+    "width_mm": 191.81898397108975,
+    "height_mm": 197.82798765592764,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O6_B_B_B_B_A",
+    "material": "outer",
+    "x_mm": 15,
+    "y_mm": 13697.023628214243,
+    "width_mm": 362.60411669641763,
+    "height_mm": 181.4840668090174,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O5_A_B_B_A",
+    "material": "outer",
+    "x_mm": 402.60411669641763,
+    "y_mm": 13697.023628214243,
+    "width_mm": 200.30916450734534,
+    "height_mm": 174.78356238212294,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O6_A_B_A_A_B",
+    "material": "outer",
+    "x_mm": 627.913281203763,
+    "y_mm": 13697.023628214243,
+    "width_mm": 200.83082760024885,
+    "height_mm": 161.11338494914128,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O6_A_B_A_B_A",
+    "material": "outer",
+    "x_mm": 853.7441088040118,
+    "y_mm": 13697.023628214243,
+    "width_mm": 203.44590238414713,
+    "height_mm": 159.6488055632671,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O1_A_B_B_B_A",
+    "material": "outer",
+    "x_mm": 1082.190011188159,
+    "y_mm": 13697.023628214243,
+    "width_mm": 299.91235331942875,
+    "height_mm": 149.6538668807461,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O6_A_B_A_A_A",
+    "material": "outer",
+    "x_mm": 15,
+    "y_mm": 13903.507695023261,
+    "width_mm": 195.63813610418597,
+    "height_mm": 134.22095704654856,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O1_A_B_B_B_B_B_B",
+    "material": "outer",
+    "x_mm": 235.63813610418597,
+    "y_mm": 13903.507695023261,
+    "width_mm": 218.05699479230262,
+    "height_mm": 133.15133907805142,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O2_A_B_B_B_A",
+    "material": "outer",
+    "x_mm": 478.6951308964886,
+    "y_mm": 13903.507695023261,
+    "width_mm": 176.41287491420024,
+    "height_mm": 126.74514059402995,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O5_A_B_B_B_A",
+    "material": "outer",
+    "x_mm": 680.1080058106888,
+    "y_mm": 13903.507695023261,
+    "width_mm": 183.1068177091775,
+    "height_mm": 103.28374930535242,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O6_A_B_A_B_B_A",
+    "material": "outer",
+    "x_mm": 888.2148235198663,
+    "y_mm": 13903.507695023261,
+    "width_mm": 202.859740158691,
+    "height_mm": 86.0197592732724,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O6_A_B_A_B_B_B_B",
+    "material": "outer",
+    "x_mm": 1116.0745636785573,
+    "y_mm": 13903.507695023261,
+    "width_mm": 166.40214164714203,
+    "height_mm": 82.49314397870742,
+    "rotation_deg": 0
+  },
+  {
+    "id": "O08_SMOOTH_LOWER_O1_A_B_B_B_B_A",
+    "material": "outer",
+    "x_mm": 15,
+    "y_mm": 14062.72865206981,
+    "width_mm": 298.5556181784067,
+    "height_mm": 75.09448063707636,
+    "rotation_deg": 0
+  },
+  {
+    "id": "F08_BOTTOM",
+    "material": "technical",
+    "x_mm": 15,
+    "y_mm": 15,
+    "width_mm": 1122.790126569661,
+    "height_mm": 2314.2999907061576,
+    "rotation_deg": 0
+  },
+  {
+    "id": "F08_TOP",
+    "material": "technical",
+    "x_mm": 15,
+    "y_mm": 2354.2999907061576,
+    "width_mm": 1122.790126569661,
+    "height_mm": 2314.2999907061576,
+    "rotation_deg": 0
+  },
+  {
+    "id": "Z01_MAIN_RIGHT_TAPE",
+    "material": "technical",
+    "x_mm": 1162.790126569661,
+    "y_mm": 2354.2999907061576,
+    "width_mm": 54.00000000000002,
+    "height_mm": 1700.0584229967214,
+    "rotation_deg": 0
+  },
+  {
+    "id": "Z02_HOOD_SERVICE_TAPE",
+    "material": "technical",
+    "x_mm": 1241.790126569661,
+    "y_mm": 2354.2999907061576,
+    "width_mm": 54.0,
+    "height_mm": 1136.4111165319218,
+    "rotation_deg": 0
+  },
+  {
+    "id": "W02_USB_DATA_CHANNEL",
+    "material": "technical",
+    "x_mm": 1320.790126569661,
+    "y_mm": 2354.2999907061576,
+    "width_mm": 74.0,
+    "height_mm": 926.8585199193244,
+    "rotation_deg": 0
+  },
+  {
+    "id": "W01_POWER_TO_DESK_CHANNEL",
+    "material": "technical",
+    "x_mm": 15,
+    "y_mm": 4693.599981412315,
+    "width_mm": 74.0,
+    "height_mm": 882.0272029795593,
+    "rotation_deg": 0
+  },
+  {
+    "id": "W03_BACK_HEATER_CHANNEL",
+    "material": "technical",
+    "x_mm": 114.0,
+    "y_mm": 4693.599981412315,
+    "width_mm": 74.0,
+    "height_mm": 840.5578990511307,
+    "rotation_deg": 0
+  },
+  {
+    "id": "Z03_FILL_SERVICE_TAPE",
+    "material": "technical",
+    "x_mm": 213.0,
+    "y_mm": 4693.599981412315,
+    "width_mm": 54.000000000000014,
+    "height_mm": 701.0244667031208,
+    "rotation_deg": 0
+  },
+  {
+    "id": "W05_BACK_NTC_CHANNEL",
+    "material": "technical",
+    "x_mm": 292.0,
+    "y_mm": 4693.599981412315,
+    "width_mm": 74.0,
+    "height_mm": 625.6380530162857,
+    "rotation_deg": 0
+  },
+  {
+    "id": "W04_SEAT_HEATER_CHANNEL",
+    "material": "technical",
+    "x_mm": 391.0,
+    "y_mm": 4693.599981412315,
+    "width_mm": 74.0,
+    "height_mm": 569.1535935969217,
+    "rotation_deg": 0
+  },
+  {
+    "id": "W06_SEAT_NTC_CHANNEL",
+    "material": "technical",
+    "x_mm": 490.0,
+    "y_mm": 4693.599981412315,
+    "width_mm": 73.99999999999999,
+    "height_mm": 561.6038542600272,
+    "rotation_deg": 0
+  },
+  {
+    "id": "Z04_ELECTRIC_SERVICE_TAPE",
+    "material": "technical",
+    "x_mm": 589.0,
+    "y_mm": 4693.599981412315,
+    "width_mm": 54.000000000000014,
+    "height_mm": 379.9621350874718,
+    "rotation_deg": 0
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "revision": "R07",
+  "date": "2026-10-04",
+  "source_revision": "R06",
+  "geometry_changes": [
+    "leg blanket root X=965 under desk",
+    "thicker quilts",
+    "left side rolling keyboard-only flap",
+    "enlarged soft overhead hood and U-neck",
+    "metal tray and illustrative thermal hardware"
+  ],
+  "units": "mm",
+  "default_view": "open",
+  "hand_heater": false,
+  "source_inputs_known": {
+    "laptop_model": null,
+    "laptop_power_W": null,
+    "ambient_conditions": null,
+    "actual_user_height_mm": null
+  },
+  "reference_mannequin_height_mm": 2000,
+  "roll_radius_mm": 37.89098673297138,
+  "thermal_candidate": "passive metal braid evaluated; isolated low-R link optional, not proven hardware",
+  "unchanged_subsystems": [
+    "legacy MCU boards",
+    "deployed firmware",
+    "desktop/Android apps",
+    "embroidery"
+  ],
+  "limitations": [
+    "nominal cloth/filler forms",
+    "no physical trials",
+    "not production patterns",
+    "no transient cloth folding solver",
+    "no human thermoregulation model"
+  ]
+}
