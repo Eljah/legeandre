@@ -1,0 +1,34 @@
+{
+  "status": "DIGITAL_SAMPLE_CUT_SET_BUILT_AND_CHECKED",
+  "workflow_run_id": "37224481559",
+  "workflow_commit": "fd1931761883e58d420690190c2a158e001b788e",
+  "verified_utc": "2026-10-04T18:29:33.414053+00:00",
+  "summary": {
+    "source_revision": "R08 at a40b3730fcb924dd086d1c2088c60cb4972a96c2",
+    "digital_set": "P1 - complete assembly definitions, sample sewing required",
+    "pattern_types": 655,
+    "cut_pieces": 656,
+    "internal_envelopes": 16,
+    "seam_segments": 8355,
+    "seam_chains": 1289,
+    "unclassified_physical_edges": 0,
+    "intentionally_finished_accessory_or_insert_edges": 2732,
+    "max_metric_strain_pct": 1.8386444406379427,
+    "max_seam_segment_mismatch_mm": 0.0015582886034906096,
+    "max_seam_chain_mismatch_mm": 0.011160758572032137,
+    "fabric_calibrated": false,
+    "physical_fit_tested": false,
+    "production_approved": false,
+    "scope": "complete digital cut set and operation registry; not a production release or tested ergonomic/thermal product"
+  },
+  "checks_passed": 676,
+  "checks_total": 676,
+  "pdf_pages": {
+    "Lezhandr_R09_Pattern_Completion.pdf": 9,
+    "Lezhandr_R09_Patterns_P1_1to1.pdf": 655
+  },
+  "preserved_R08_files": 624,
+  "R08_unchanged": true,
+  "manufacturing_approved": false,
+  "engineering_scope": "Geometry, cut outlines, seam graph, copies and exports; no physical sew-out, fabric calibration or product certification"
+}

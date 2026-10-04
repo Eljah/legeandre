@@ -1,0 +1,370 @@
+[
+  {
+    "id": "G08_BACK_-1_START",
+    "sew_dimensions_mm": [
+      70.0,
+      8.000000000000004
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "G08_BACK_-1_END",
+    "sew_dimensions_mm": [
+      70.0,
+      8.000000000000004
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "G08_BACK_1_START",
+    "sew_dimensions_mm": [
+      70.0,
+      8.000000000000004
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "G08_BACK_1_END",
+    "sew_dimensions_mm": [
+      70.0,
+      8.000000000000004
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "G08_FOREARM_GUSSET_-1_START",
+    "sew_dimensions_mm": [
+      270.66844478336884,
+      18.795260385734554
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "G08_FOREARM_GUSSET_-1_END",
+    "sew_dimensions_mm": [
+      364.2675421226025,
+      14.313236451162924
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "G08_FOREARM_GUSSET_-1_RIGHT",
+    "sew_dimensions_mm": [
+      321.4957321278483,
+      18.556244867396828
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "G08_FOREARM_GUSSET_1_START",
+    "sew_dimensions_mm": [
+      270.66844478336884,
+      18.795260385734572
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "G08_FOREARM_GUSSET_1_END",
+    "sew_dimensions_mm": [
+      364.26754212260255,
+      14.31323645116262
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "G08_FOREARM_GUSSET_1_LEFT",
+    "sew_dimensions_mm": [
+      321.4957321278483,
+      18.556244867396828
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "K09_FLAP_EDGE_LEFT",
+    "sew_dimensions_mm": [
+      305.27757411374364,
+      14.64966700057645
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "K09_FLAP_EDGE_RIGHT",
+    "sew_dimensions_mm": [
+      305.27757411374364,
+      14.64966700057645
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_PAD_D_C1_CANTILEVER_G1",
+    "sew_dimensions_mm": [
+      866.6150254050275,
+      13.079366105777849
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_PAD_D_C1_CANTILEVER_G5",
+    "sew_dimensions_mm": [
+      889.3237434657461,
+      19.09494739888491
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_PAD_D_C1_CANTILEVER_G6",
+    "sew_dimensions_mm": [
+      888.9729173549963,
+      17.63282229063056
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_PAD_D_C1_CANTILEVER_G7",
+    "sew_dimensions_mm": [
+      888.6032515743943,
+      16.34371679847275
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_PAD_D_C1_CANTILEVER_G8",
+    "sew_dimensions_mm": [
+      888.1407093746195,
+      15.720211289199082
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_PAD_D_C1_CANTILEVER_G9",
+    "sew_dimensions_mm": [
+      888.1407093746193,
+      15.720220109233122
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_PAD_D_C1_CANTILEVER_G10",
+    "sew_dimensions_mm": [
+      888.6032515743764,
+      16.34386177345126
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_PAD_D_C1_CANTILEVER_G11",
+    "sew_dimensions_mm": [
+      888.9729173547655,
+      17.63339118471785
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_PAD_D_C1_CANTILEVER_G12",
+    "sew_dimensions_mm": [
+      889.3237434635355,
+      19.096554176688063
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_PAD_D_C1_CANTILEVER_G16",
+    "sew_dimensions_mm": [
+      866.6150254050276,
+      13.079366105740982
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_PAD_D_C2_CANTILEVER_G1",
+    "sew_dimensions_mm": [
+      866.6150254050272,
+      13.079366105915659
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_PAD_D_C2_CANTILEVER_G5",
+    "sew_dimensions_mm": [
+      889.3237434657457,
+      19.094947398808216
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_PAD_D_C2_CANTILEVER_G6",
+    "sew_dimensions_mm": [
+      888.9729173549957,
+      17.63282229035887
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_PAD_D_C2_CANTILEVER_G7",
+    "sew_dimensions_mm": [
+      888.603251574394,
+      16.34371679851152
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_PAD_D_C2_CANTILEVER_G8",
+    "sew_dimensions_mm": [
+      888.1407093746187,
+      15.72021128879061
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_PAD_D_C2_CANTILEVER_G9",
+    "sew_dimensions_mm": [
+      888.1407093746188,
+      15.720220108822772
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_PAD_D_C2_CANTILEVER_G10",
+    "sew_dimensions_mm": [
+      888.6032515743759,
+      16.343861773113964
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_PAD_D_C2_CANTILEVER_G11",
+    "sew_dimensions_mm": [
+      888.9729173547652,
+      17.633391184522672
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_PAD_D_C2_CANTILEVER_G12",
+    "sew_dimensions_mm": [
+      889.3237434635346,
+      19.096554176255147
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_PAD_D_C2_CANTILEVER_G16",
+    "sew_dimensions_mm": [
+      866.6150254050272,
+      13.079366105887626
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_B04_CONTACT_WORK_CAP_A",
+    "sew_dimensions_mm": [
+      58.787507681763415,
+      14.908598506154863
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_B04_CONTACT_WORK_CAP_B",
+    "sew_dimensions_mm": [
+      58.408710068059094,
+      14.806546061486914
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_L01_CALF_CONTACT_CAP_A",
+    "sew_dimensions_mm": [
+      86.76377476682015,
+      14.824521741874754
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_L01_CALF_CONTACT_CAP_B",
+    "sew_dimensions_mm": [
+      58.07862755531819,
+      16.33817946093184
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_A_SOFT_-1_G4",
+    "sew_dimensions_mm": [
+      381.1551279353905,
+      19.797900781060655
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_A_SOFT_-1_G12",
+    "sew_dimensions_mm": [
+      381.3093488334585,
+      19.682312487996796
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_A_SOFT_-1_CAP_A",
+    "sew_dimensions_mm": [
+      25.938360278595475,
+      19.535681327654842
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_A_SOFT_-1_CAP_B",
+    "sew_dimensions_mm": [
+      25.83742289537438,
+      19.526745691469074
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_A_SOFT_1_G5",
+    "sew_dimensions_mm": [
+      381.1708472265441,
+      19.798094994225966
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_A_SOFT_1_G13",
+    "sew_dimensions_mm": [
+      381.29526425928384,
+      19.682125491799802
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_A_SOFT_1_CAP_A",
+    "sew_dimensions_mm": [
+      25.813516523263036,
+      19.596424385275924
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_A_SOFT_1_CAP_B",
+    "sew_dimensions_mm": [
+      25.78146838699972,
+      19.464714923532842
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_O08_TOE_CAP_CAP_A",
+    "sew_dimensions_mm": [
+      51.00385442674029,
+      13.576848377905137
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  },
+  {
+    "id": "B09_O08_TOE_CAP_CAP_B",
+    "sew_dimensions_mm": [
+      50.425040495391116,
+      16.132165903837873
+    ],
+    "note": "small technical seam panel: sample sewing required"
+  }
+]
