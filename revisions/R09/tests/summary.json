@@ -1,0 +1,18 @@
+{
+  "source_revision": "R08 at a40b3730fcb924dd086d1c2088c60cb4972a96c2",
+  "digital_set": "P1 - complete assembly definitions, sample sewing required",
+  "pattern_types": 655,
+  "cut_pieces": 656,
+  "internal_envelopes": 16,
+  "seam_segments": 8355,
+  "seam_chains": 1289,
+  "unclassified_physical_edges": 0,
+  "intentionally_finished_accessory_or_insert_edges": 2732,
+  "max_metric_strain_pct": 1.8386444406379427,
+  "max_seam_segment_mismatch_mm": 0.0015582886034906096,
+  "max_seam_chain_mismatch_mm": 0.011160758572032137,
+  "fabric_calibrated": false,
+  "physical_fit_tested": false,
+  "production_approved": false,
+  "scope": "complete digital cut set and operation registry; not a production release or tested ergonomic/thermal product"
+}

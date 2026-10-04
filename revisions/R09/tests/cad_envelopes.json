@@ -1,0 +1,87 @@
+{
+  "valid_after_import": true,
+  "solids": 16,
+  "items": [
+    {
+      "id": "B09_PAD_D_C1_LEFT_COLUMN",
+      "valid": true,
+      "volume_l": 3.5807865412790973
+    },
+    {
+      "id": "B09_PAD_D_C1_CANTILEVER",
+      "valid": true,
+      "volume_l": 4.914887947999644
+    },
+    {
+      "id": "B09_PAD_D_C2_LEFT_COLUMN",
+      "valid": true,
+      "volume_l": 4.1913163365617105
+    },
+    {
+      "id": "B09_PAD_D_C2_CANTILEVER",
+      "valid": true,
+      "volume_l": 4.91488794799961
+    },
+    {
+      "id": "B09_B01_WORK_GRANULAR",
+      "valid": true,
+      "volume_l": 61.5996010133329
+    },
+    {
+      "id": "B09_B02_WORK_GRANULAR",
+      "valid": true,
+      "volume_l": 43.47674641467444
+    },
+    {
+      "id": "B09_B03_WORK_GRANULAR",
+      "valid": true,
+      "volume_l": 18.23337702975569
+    },
+    {
+      "id": "B09_B04_CONTACT_WORK",
+      "valid": true,
+      "volume_l": 14.175650199948423
+    },
+    {
+      "id": "B09_P01_PELVIS_CHAMBER",
+      "valid": true,
+      "volume_l": 38.67365078986807
+    },
+    {
+      "id": "B09_P02_THIGH_TRANSITION",
+      "valid": true,
+      "volume_l": 13.734138879622522
+    },
+    {
+      "id": "B09_L01_CALF_CONTACT",
+      "valid": true,
+      "volume_l": 22.966385446543768
+    },
+    {
+      "id": "B09_F01_FOOTSTOP_2000",
+      "valid": true,
+      "volume_l": 4.738533471110604
+    },
+    {
+      "id": "B09_A_SOFT_-1",
+      "valid": true,
+      "volume_l": 2.557721320232021
+    },
+    {
+      "id": "B09_A_SOFT_1",
+      "valid": true,
+      "volume_l": 2.55785746913504
+    },
+    {
+      "id": "B09_H08_REMOVABLE_NAPE_PILLOW",
+      "valid": true,
+      "volume_l": 7.300698402986927
+    },
+    {
+      "id": "B09_O08_TOE_CAP",
+      "valid": true,
+      "volume_l": 14.277578458339015
+    }
+  ],
+  "reference": "ruled approximation of R08 soft components, original R08 not overwritten"
+}

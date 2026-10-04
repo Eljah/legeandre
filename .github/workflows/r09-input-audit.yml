@@ -1,0 +1,38 @@
+name: R09 input audit
+on:
+  push:
+    branches: [feature/r09-patterns-20261004]
+    paths: [.github/workflows/r09-input-audit.yml]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  inputs:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feature/r09-patterns-20261004
+      - name: Collect preserved R08 inputs
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import shutil, hashlib, json
+          root=Path('revisions/R08'); output=Path('r09-inputs')
+          paths=list(root.joinpath('source').glob('*'))+list(root.joinpath('patterns').glob('*.json'))+list(root.joinpath('tests').glob('*.json'))+list(root.joinpath('harness').glob('*.json'))+list(root.joinpath('docs').glob('*.md'))+[root/'project.json',root/'cad/model_R08.json',root/'cad/palette.json']
+          paths+=list(root.joinpath('renders').glob('*.png'))
+          rows=[]
+          for p in paths:
+              if not p.is_file(): continue
+              dst=output/p; dst.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(p,dst)
+              rows.append({'path':str(p),'bytes':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest()})
+          (output/'input_manifest.json').write_text(json.dumps(rows,indent=2))
+          print('Input files:',len(rows))
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: r09-pattern-inputs
+          path: r09-inputs/
+          retention-days: 7
+          if-no-files-found: error

@@ -1,0 +1,3388 @@
+{
+  "passed": 676,
+  "total": 676,
+  "all_passed": true,
+  "checks": [
+    {
+      "test": "Unique panel IDs",
+      "passed": true,
+      "detail": 655
+    },
+    {
+      "test": "Every physical boundary segment has exactly two matching members",
+      "passed": true,
+      "detail": 8355
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O1_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O1_A_B_B_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O1_A_B_B_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O1_A_B_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O1_A_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O1_A_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O1_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O1_A_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O1_A_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O1_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I1_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I1_A_B_B_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I1_A_B_B_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I1_A_B_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I1_A_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I1_A_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I1_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I1_A_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I1_A_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I1_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W1_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W1_A_B_B_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W1_A_B_B_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W1_A_B_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W1_A_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W1_A_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W1_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W1_A_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W1_A_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W1_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O2_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O2_A_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O2_A_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O2_A_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O2_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O2_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I2_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I2_A_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I2_A_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I2_A_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I2_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I2_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W2_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W2_A_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W2_A_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W2_A_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W2_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W2_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O5_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O5_A_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O5_A_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O5_A_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O5_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O5_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W5_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W5_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W5_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O6_B_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O6_B_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O6_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O6_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O6_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O6_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O6_A_B_A_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O6_A_B_A_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O6_A_B_A_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O6_A_B_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O6_A_B_A_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O6_A_B_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O6_A_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O6_A_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_O6_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I6_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I6_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I6_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I6_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I6_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I6_A_B_A_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I6_A_B_A_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I6_A_B_A_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I6_A_B_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I6_A_B_A_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I6_A_B_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I6_A_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I6_A_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_I6_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W6_B_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W6_B_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W6_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W6_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W6_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W6_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W6_A_B_A_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W6_A_B_A_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W6_A_B_A_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W6_A_B_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W6_A_B_A_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W6_A_B_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W6_A_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W6_A_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_W6_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_START",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_END",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_LEFT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon O08_SMOOTH_LOWER_RIGHT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_O1_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_O1_B_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_O1_B_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_O1_B_A_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_O1_B_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_O1_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_I1_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_I1_B_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_I1_B_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_I1_B_A_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_I1_B_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_I1_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_W1_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_W1_B_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_W1_B_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_W1_B_A_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_W1_B_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_W1_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_O2_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_O2_B_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_O2_B_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_O2_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_O2_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_O2_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_I2_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_I2_B_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_I2_B_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_I2_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_I2_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_I2_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_W2_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_W2_B_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_W2_B_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_W2_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_W2_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_W2_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_O3_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_O3_B_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_O3_B_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_O3_B_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_O3_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_O3_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_O3_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_I3_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_I3_B_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_I3_B_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_I3_B_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_I3_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_I3_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_I3_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_W3_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_W3_B_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_W3_B_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_W3_B_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_W3_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_W3_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_W3_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_O4_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_O4_B_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_O4_B_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_O4_B_A_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_O4_B_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_O4_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_I4_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_I4_B_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_I4_B_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_I4_B_A_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_I4_B_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_I4_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_W4_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_W4_B_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_W4_B_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_W4_B_A_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_W4_B_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_W4_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_START",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_END",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_LEFT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon H08_CANOPY_RIGHT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon F08_BOTTOM",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon F08_TOP",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon F08_EDGE_LEFT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon F08_EDGE_RIGHT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_BACK_-1_O1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_BACK_-1_I1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_BACK_-1_W1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_BACK_-1_START",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_BACK_-1_END",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_BACK_-1_LEFT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_BACK_-1_RIGHT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_BACK_1_O1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_BACK_1_I1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_BACK_1_W1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_BACK_1_START",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_BACK_1_END",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_BACK_1_LEFT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_BACK_1_RIGHT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_REAR_O",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_REAR_I",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon L08_CONTINUOUS_COVER_O1_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon L08_CONTINUOUS_COVER_O1_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon L08_CONTINUOUS_COVER_O1_A_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon L08_CONTINUOUS_COVER_O1_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon L08_CONTINUOUS_COVER_I1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon L08_CONTINUOUS_COVER_W1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon L08_CONTINUOUS_COVER_O2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon L08_CONTINUOUS_COVER_I2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon L08_CONTINUOUS_COVER_W2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon L08_CONTINUOUS_COVER_O3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon L08_CONTINUOUS_COVER_I3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon L08_CONTINUOUS_COVER_W3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon L08_CONTINUOUS_COVER_O4_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon L08_CONTINUOUS_COVER_O4_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon L08_CONTINUOUS_COVER_O4_A_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon L08_CONTINUOUS_COVER_O4_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon L08_CONTINUOUS_COVER_I4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon L08_CONTINUOUS_COVER_W4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon L08_CONTINUOUS_COVER_START",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon L08_CONTINUOUS_COVER_END",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon L08_CONTINUOUS_COVER_LEFT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon L08_CONTINUOUS_COVER_RIGHT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon S08_WRAP_-1_O1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon S08_WRAP_-1_I1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon S08_WRAP_-1_W1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon S08_WRAP_-1_O2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon S08_WRAP_-1_I2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon S08_WRAP_-1_W2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon S08_WRAP_-1_START",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon S08_WRAP_-1_END",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon S08_WRAP_-1_LEFT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon S08_WRAP_-1_RIGHT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon S08_WRAP_1_O1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon S08_WRAP_1_I1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon S08_WRAP_1_W1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon S08_WRAP_1_O2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon S08_WRAP_1_I2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon S08_WRAP_1_W2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon S08_WRAP_1_START",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon S08_WRAP_1_END",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon S08_WRAP_1_LEFT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon S08_WRAP_1_RIGHT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_FOREARM_GUSSET_-1_O1a",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_FOREARM_GUSSET_-1_O1b",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_FOREARM_GUSSET_-1_I1a",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_FOREARM_GUSSET_-1_I1b",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_FOREARM_GUSSET_-1_W1a",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_FOREARM_GUSSET_-1_W1b",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_FOREARM_GUSSET_-1_START",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_FOREARM_GUSSET_-1_END",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_FOREARM_GUSSET_-1_LEFT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_FOREARM_GUSSET_-1_RIGHT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_FOREARM_GUSSET_1_O1a",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_FOREARM_GUSSET_1_O1b",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_FOREARM_GUSSET_1_I1a",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_FOREARM_GUSSET_1_I1b",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_FOREARM_GUSSET_1_W1a",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_FOREARM_GUSSET_1_W1b",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_FOREARM_GUSSET_1_START",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_FOREARM_GUSSET_1_END",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_FOREARM_GUSSET_1_LEFT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G08_FOREARM_GUSSET_1_RIGHT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon K08_FLAP_OUTER",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon K08_FLAP_LINING",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon K08_FLAP_INSULATION",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon F09_END_START",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon F09_END_END",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G09_REAR_EDGE_START",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G09_REAR_EDGE_END",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G09_REAR_EDGE_LEFT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon G09_REAR_EDGE_RIGHT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon K09_FLAP_EDGE_START",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon K09_FLAP_EDGE_END",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon K09_FLAP_EDGE_LEFT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon K09_FLAP_EDGE_RIGHT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_LEFT_COLUMN_G1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_LEFT_COLUMN_G2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_LEFT_COLUMN_G3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_LEFT_COLUMN_G4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_LEFT_COLUMN_G5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_LEFT_COLUMN_G6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_LEFT_COLUMN_G7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_LEFT_COLUMN_G8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_LEFT_COLUMN_G9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_LEFT_COLUMN_G10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_LEFT_COLUMN_G11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_LEFT_COLUMN_G12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_LEFT_COLUMN_G13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_LEFT_COLUMN_G14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_LEFT_COLUMN_G15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_LEFT_COLUMN_G16",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_LEFT_COLUMN_CAP_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_LEFT_COLUMN_CAP_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_CANTILEVER_G1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_CANTILEVER_G2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_CANTILEVER_G3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_CANTILEVER_G4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_CANTILEVER_G5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_CANTILEVER_G6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_CANTILEVER_G7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_CANTILEVER_G8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_CANTILEVER_G9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_CANTILEVER_G10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_CANTILEVER_G11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_CANTILEVER_G12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_CANTILEVER_G13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_CANTILEVER_G14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_CANTILEVER_G15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_CANTILEVER_G16",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_CANTILEVER_CAP_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_CANTILEVER_CAP_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_LEFT_COLUMN_G1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_LEFT_COLUMN_G2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_LEFT_COLUMN_G3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_LEFT_COLUMN_G4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_LEFT_COLUMN_G5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_LEFT_COLUMN_G6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_LEFT_COLUMN_G7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_LEFT_COLUMN_G8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_LEFT_COLUMN_G9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_LEFT_COLUMN_G10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_LEFT_COLUMN_G11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_LEFT_COLUMN_G12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_LEFT_COLUMN_G13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_LEFT_COLUMN_G14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_LEFT_COLUMN_G15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_LEFT_COLUMN_G16",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_LEFT_COLUMN_CAP_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_LEFT_COLUMN_CAP_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_CANTILEVER_G1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_CANTILEVER_G2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_CANTILEVER_G3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_CANTILEVER_G4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_CANTILEVER_G5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_CANTILEVER_G6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_CANTILEVER_G7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_CANTILEVER_G8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_CANTILEVER_G9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_CANTILEVER_G10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_CANTILEVER_G11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_CANTILEVER_G12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_CANTILEVER_G13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_CANTILEVER_G14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_CANTILEVER_G15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_CANTILEVER_G16",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_CANTILEVER_CAP_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_CANTILEVER_CAP_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B01_WORK_GRANULAR_G1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B01_WORK_GRANULAR_G2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B01_WORK_GRANULAR_G3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B01_WORK_GRANULAR_G4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B01_WORK_GRANULAR_G5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B01_WORK_GRANULAR_G6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B01_WORK_GRANULAR_G7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B01_WORK_GRANULAR_G8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B01_WORK_GRANULAR_G9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B01_WORK_GRANULAR_G10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B01_WORK_GRANULAR_G11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B01_WORK_GRANULAR_G12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B01_WORK_GRANULAR_G13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B01_WORK_GRANULAR_G14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B01_WORK_GRANULAR_G15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B01_WORK_GRANULAR_G16",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B01_WORK_GRANULAR_CAP_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B01_WORK_GRANULAR_CAP_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B02_WORK_GRANULAR_G1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B02_WORK_GRANULAR_G2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B02_WORK_GRANULAR_G3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B02_WORK_GRANULAR_G4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B02_WORK_GRANULAR_G5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B02_WORK_GRANULAR_G6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B02_WORK_GRANULAR_G7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B02_WORK_GRANULAR_G8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B02_WORK_GRANULAR_G9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B02_WORK_GRANULAR_G10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B02_WORK_GRANULAR_G11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B02_WORK_GRANULAR_G12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B02_WORK_GRANULAR_G13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B02_WORK_GRANULAR_G14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B02_WORK_GRANULAR_G15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B02_WORK_GRANULAR_G16",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B02_WORK_GRANULAR_CAP_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B02_WORK_GRANULAR_CAP_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B03_WORK_GRANULAR_G1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B03_WORK_GRANULAR_G2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B03_WORK_GRANULAR_G3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B03_WORK_GRANULAR_G4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B03_WORK_GRANULAR_G5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B03_WORK_GRANULAR_G6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B03_WORK_GRANULAR_G7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B03_WORK_GRANULAR_G8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B03_WORK_GRANULAR_G9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B03_WORK_GRANULAR_G10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B03_WORK_GRANULAR_G11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B03_WORK_GRANULAR_G12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B03_WORK_GRANULAR_G13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B03_WORK_GRANULAR_G14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B03_WORK_GRANULAR_G15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B03_WORK_GRANULAR_G16",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B03_WORK_GRANULAR_CAP_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B03_WORK_GRANULAR_CAP_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B04_CONTACT_WORK_G1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B04_CONTACT_WORK_G2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B04_CONTACT_WORK_G3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B04_CONTACT_WORK_G4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B04_CONTACT_WORK_G5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B04_CONTACT_WORK_G6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B04_CONTACT_WORK_G7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B04_CONTACT_WORK_G8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B04_CONTACT_WORK_G9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B04_CONTACT_WORK_G10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B04_CONTACT_WORK_G11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B04_CONTACT_WORK_G12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B04_CONTACT_WORK_G13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B04_CONTACT_WORK_G14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B04_CONTACT_WORK_G15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B04_CONTACT_WORK_G16",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B04_CONTACT_WORK_CAP_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B04_CONTACT_WORK_CAP_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P01_PELVIS_CHAMBER_G1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P01_PELVIS_CHAMBER_G2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P01_PELVIS_CHAMBER_G3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P01_PELVIS_CHAMBER_G4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P01_PELVIS_CHAMBER_G5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P01_PELVIS_CHAMBER_G6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P01_PELVIS_CHAMBER_G7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P01_PELVIS_CHAMBER_G8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P01_PELVIS_CHAMBER_G9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P01_PELVIS_CHAMBER_G10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P01_PELVIS_CHAMBER_G11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P01_PELVIS_CHAMBER_G12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P01_PELVIS_CHAMBER_G13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P01_PELVIS_CHAMBER_G14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P01_PELVIS_CHAMBER_G15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P01_PELVIS_CHAMBER_G16",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P01_PELVIS_CHAMBER_CAP_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P01_PELVIS_CHAMBER_CAP_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P02_THIGH_TRANSITION_G1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P02_THIGH_TRANSITION_G2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P02_THIGH_TRANSITION_G3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P02_THIGH_TRANSITION_G4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P02_THIGH_TRANSITION_G5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P02_THIGH_TRANSITION_G6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P02_THIGH_TRANSITION_G7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P02_THIGH_TRANSITION_G8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P02_THIGH_TRANSITION_G9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P02_THIGH_TRANSITION_G10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P02_THIGH_TRANSITION_G11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P02_THIGH_TRANSITION_G12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P02_THIGH_TRANSITION_G13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P02_THIGH_TRANSITION_G14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P02_THIGH_TRANSITION_G15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P02_THIGH_TRANSITION_G16",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P02_THIGH_TRANSITION_CAP_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P02_THIGH_TRANSITION_CAP_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_L01_CALF_CONTACT_G1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_L01_CALF_CONTACT_G2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_L01_CALF_CONTACT_G3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_L01_CALF_CONTACT_G4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_L01_CALF_CONTACT_G5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_L01_CALF_CONTACT_G6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_L01_CALF_CONTACT_G7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_L01_CALF_CONTACT_G8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_L01_CALF_CONTACT_G9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_L01_CALF_CONTACT_G10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_L01_CALF_CONTACT_G11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_L01_CALF_CONTACT_G12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_L01_CALF_CONTACT_G13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_L01_CALF_CONTACT_G14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_L01_CALF_CONTACT_G15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_L01_CALF_CONTACT_G16",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_L01_CALF_CONTACT_CAP_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_L01_CALF_CONTACT_CAP_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_F01_FOOTSTOP_2000_G1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_F01_FOOTSTOP_2000_G2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_F01_FOOTSTOP_2000_G3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_F01_FOOTSTOP_2000_G4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_F01_FOOTSTOP_2000_G5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_F01_FOOTSTOP_2000_G6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_F01_FOOTSTOP_2000_G7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_F01_FOOTSTOP_2000_G8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_F01_FOOTSTOP_2000_G9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_F01_FOOTSTOP_2000_G10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_F01_FOOTSTOP_2000_G11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_F01_FOOTSTOP_2000_G12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_F01_FOOTSTOP_2000_G13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_F01_FOOTSTOP_2000_G14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_F01_FOOTSTOP_2000_G15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_F01_FOOTSTOP_2000_G16",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_F01_FOOTSTOP_2000_CAP_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_F01_FOOTSTOP_2000_CAP_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_-1_G1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_-1_G2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_-1_G3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_-1_G4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_-1_G5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_-1_G6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_-1_G7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_-1_G8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_-1_G9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_-1_G10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_-1_G11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_-1_G12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_-1_G13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_-1_G14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_-1_G15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_-1_G16",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_-1_CAP_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_-1_CAP_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_1_G1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_1_G2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_1_G3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_1_G4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_1_G5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_1_G6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_1_G7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_1_G8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_1_G9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_1_G10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_1_G11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_1_G12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_1_G13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_1_G14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_1_G15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_1_G16",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_1_CAP_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_1_CAP_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_H08_REMOVABLE_NAPE_PILLOW_G1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_H08_REMOVABLE_NAPE_PILLOW_G2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_H08_REMOVABLE_NAPE_PILLOW_G3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_H08_REMOVABLE_NAPE_PILLOW_G4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_H08_REMOVABLE_NAPE_PILLOW_G5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_H08_REMOVABLE_NAPE_PILLOW_G6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_H08_REMOVABLE_NAPE_PILLOW_G7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_H08_REMOVABLE_NAPE_PILLOW_G8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_H08_REMOVABLE_NAPE_PILLOW_G9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_H08_REMOVABLE_NAPE_PILLOW_G10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_H08_REMOVABLE_NAPE_PILLOW_G11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_H08_REMOVABLE_NAPE_PILLOW_G12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_H08_REMOVABLE_NAPE_PILLOW_G13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_H08_REMOVABLE_NAPE_PILLOW_G14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_H08_REMOVABLE_NAPE_PILLOW_G15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_H08_REMOVABLE_NAPE_PILLOW_G16",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_H08_REMOVABLE_NAPE_PILLOW_CAP_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_H08_REMOVABLE_NAPE_PILLOW_CAP_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_O08_TOE_CAP_G1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_O08_TOE_CAP_G2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_O08_TOE_CAP_G3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_O08_TOE_CAP_G4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_O08_TOE_CAP_G5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_O08_TOE_CAP_G6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_O08_TOE_CAP_G7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_O08_TOE_CAP_G8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_O08_TOE_CAP_G9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_O08_TOE_CAP_G10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_O08_TOE_CAP_G11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_O08_TOE_CAP_G12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_O08_TOE_CAP_G13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_O08_TOE_CAP_G14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_O08_TOE_CAP_G15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_O08_TOE_CAP_G16",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_O08_TOE_CAP_CAP_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_O08_TOE_CAP_CAP_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon Z01_MAIN_RIGHT_FACING_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon Z01_MAIN_RIGHT_FACING_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon Z01_MAIN_RIGHT_STORM_LAP",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon Z01_MAIN_RIGHT_END_START",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon Z01_MAIN_RIGHT_END_STOP",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon Z02_HOOD_SERVICE_FACING_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon Z02_HOOD_SERVICE_FACING_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon Z02_HOOD_SERVICE_STORM_LAP",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon Z02_HOOD_SERVICE_END_START",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon Z02_HOOD_SERVICE_END_STOP",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon Z03_FILL_SERVICE_FACING_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon Z03_FILL_SERVICE_FACING_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon Z03_FILL_SERVICE_STORM_LAP",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon Z03_FILL_SERVICE_END_START",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon Z03_FILL_SERVICE_END_STOP",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon Z04_ELECTRIC_SERVICE_FACING_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon Z04_ELECTRIC_SERVICE_FACING_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon Z04_ELECTRIC_SERVICE_STORM_LAP",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon Z04_ELECTRIC_SERVICE_END_START",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon Z04_ELECTRIC_SERVICE_END_STOP",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon W01_POWER_TO_DESK_SLEEVE",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon W01_POWER_TO_DESK_STRAIN_RELIEF_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon W01_POWER_TO_DESK_STRAIN_RELIEF_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon W02_USB_DATA_SLEEVE",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon W02_USB_DATA_STRAIN_RELIEF_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon W02_USB_DATA_STRAIN_RELIEF_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon W03_BACK_HEATER_SLEEVE",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon W03_BACK_HEATER_STRAIN_RELIEF_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon W03_BACK_HEATER_STRAIN_RELIEF_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon W04_SEAT_HEATER_SLEEVE",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon W04_SEAT_HEATER_STRAIN_RELIEF_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon W04_SEAT_HEATER_STRAIN_RELIEF_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon W05_BACK_NTC_SLEEVE",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon W05_BACK_NTC_STRAIN_RELIEF_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon W05_BACK_NTC_STRAIN_RELIEF_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon W06_SEAT_NTC_SLEEVE",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon W06_SEAT_NTC_STRAIN_RELIEF_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon W06_SEAT_NTC_STRAIN_RELIEF_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon EH09_BACK_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon EH09_BACK_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon EH09_SEAT_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon EH09_SEAT_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon J09_SERVICE_POCKET_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon J09_SERVICE_POCKET_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon J09_BULKHEAD_REINFORCEMENT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon PULL09_1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon PULL09_2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon PULL09_3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon PULL09_4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon PULL09_5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon PULL09_6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon WEB09_B_TIE_-1_work",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon WEB09_B_TIE_1_work",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon WEB09_F_TIE_2000_-1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon WEB09_F_TIE_2000_1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon WEB09_F_ANCHOR_0_-1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon WEB09_F_ANCHOR_0_1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon WEB09_F_ANCHOR_1_-1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon WEB09_F_ANCHOR_1_1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon WEB09_F_ANCHOR_2_-1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon WEB09_F_ANCHOR_2_1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon WEB09_F_ANCHOR_3_-1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon WEB09_F_ANCHOR_3_1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon WEB09_F_ANCHOR_4_-1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon WEB09_F_ANCHOR_4_1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_LEFT_COLUMN_INNER_FILL_GUARD",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C1_CANTILEVER_INNER_FILL_GUARD",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_LEFT_COLUMN_INNER_FILL_GUARD",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_PAD_D_C2_CANTILEVER_INNER_FILL_GUARD",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B01_WORK_GRANULAR_INNER_FILL_GUARD",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B02_WORK_GRANULAR_INNER_FILL_GUARD",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B03_WORK_GRANULAR_INNER_FILL_GUARD",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_B04_CONTACT_WORK_INNER_FILL_GUARD",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P01_PELVIS_CHAMBER_INNER_FILL_GUARD",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_P02_THIGH_TRANSITION_INNER_FILL_GUARD",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_L01_CALF_CONTACT_INNER_FILL_GUARD",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_F01_FOOTSTOP_2000_INNER_FILL_GUARD",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_-1_INNER_FILL_GUARD",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_A_SOFT_1_INNER_FILL_GUARD",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_H08_REMOVABLE_NAPE_PILLOW_INNER_FILL_GUARD",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Polygon B09_O08_TOE_CAP_INNER_FILL_GUARD",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Metric error <=2% on the triangular surface edges",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "No inverted pattern triangles",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Seam chain mismatch <=2 mm",
+      "passed": true,
+      "detail": 0.011160758572032137
+    },
+    {
+      "test": "No undeclared or double-assigned cut edge",
+      "passed": true,
+      "detail": {
+        "expected": 19442,
+        "declared": 19442
+      }
+    },
+    {
+      "test": "All copies nested",
+      "passed": true,
+      "detail": 656
+    },
+    {
+      "test": "No nesting overlap or roll overrun",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "No rotation against nap",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Preserved R08 input patterns/panel_grids.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Preserved R08 input patterns/patterns_registry.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Preserved R08 input cad/model_R08.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Preserved R08 input harness/zippers.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Preserved R08 input harness/routes.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Every free edge has an explicit operation",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Independent readback cad_envelopes.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "Independent readback dxf_readback.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "test": "duplicate ID rejected",
+      "passed": true
+    },
+    {
+      "test": "missing mating piece rejected",
+      "passed": true
+    },
+    {
+      "test": "damaged seam length rejected",
+      "passed": true
+    },
+    {
+      "test": "overlapping marker rejected",
+      "passed": true
+    }
+  ],
+  "manufacturing_approved": false,
+  "small_panel_count": 46
+}

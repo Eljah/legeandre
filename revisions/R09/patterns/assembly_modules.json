@@ -1,0 +1,1168 @@
+[
+  {
+    "module": "B09_A_SOFT_-1",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_A_SOFT_-1_G1",
+      "B09_A_SOFT_-1_G2",
+      "B09_A_SOFT_-1_G3",
+      "B09_A_SOFT_-1_G4",
+      "B09_A_SOFT_-1_G5",
+      "B09_A_SOFT_-1_G6",
+      "B09_A_SOFT_-1_G7",
+      "B09_A_SOFT_-1_G8",
+      "B09_A_SOFT_-1_G9",
+      "B09_A_SOFT_-1_G10",
+      "B09_A_SOFT_-1_G11",
+      "B09_A_SOFT_-1_G12",
+      "B09_A_SOFT_-1_G13",
+      "B09_A_SOFT_-1_G14",
+      "B09_A_SOFT_-1_G15",
+      "B09_A_SOFT_-1_G16",
+      "B09_A_SOFT_-1_CAP_A",
+      "B09_A_SOFT_-1_CAP_B"
+    ]
+  },
+  {
+    "module": "B09_A_SOFT_-1_SERVICE",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_A_SOFT_-1_INNER_FILL_GUARD"
+    ]
+  },
+  {
+    "module": "B09_A_SOFT_1",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_A_SOFT_1_G1",
+      "B09_A_SOFT_1_G2",
+      "B09_A_SOFT_1_G3",
+      "B09_A_SOFT_1_G4",
+      "B09_A_SOFT_1_G5",
+      "B09_A_SOFT_1_G6",
+      "B09_A_SOFT_1_G7",
+      "B09_A_SOFT_1_G8",
+      "B09_A_SOFT_1_G9",
+      "B09_A_SOFT_1_G10",
+      "B09_A_SOFT_1_G11",
+      "B09_A_SOFT_1_G12",
+      "B09_A_SOFT_1_G13",
+      "B09_A_SOFT_1_G14",
+      "B09_A_SOFT_1_G15",
+      "B09_A_SOFT_1_G16",
+      "B09_A_SOFT_1_CAP_A",
+      "B09_A_SOFT_1_CAP_B"
+    ]
+  },
+  {
+    "module": "B09_A_SOFT_1_SERVICE",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_A_SOFT_1_INNER_FILL_GUARD"
+    ]
+  },
+  {
+    "module": "B09_B01_WORK_GRANULAR",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_B01_WORK_GRANULAR_G1",
+      "B09_B01_WORK_GRANULAR_G2",
+      "B09_B01_WORK_GRANULAR_G3",
+      "B09_B01_WORK_GRANULAR_G4",
+      "B09_B01_WORK_GRANULAR_G5",
+      "B09_B01_WORK_GRANULAR_G6",
+      "B09_B01_WORK_GRANULAR_G7",
+      "B09_B01_WORK_GRANULAR_G8",
+      "B09_B01_WORK_GRANULAR_G9",
+      "B09_B01_WORK_GRANULAR_G10",
+      "B09_B01_WORK_GRANULAR_G11",
+      "B09_B01_WORK_GRANULAR_G12",
+      "B09_B01_WORK_GRANULAR_G13",
+      "B09_B01_WORK_GRANULAR_G14",
+      "B09_B01_WORK_GRANULAR_G15",
+      "B09_B01_WORK_GRANULAR_G16",
+      "B09_B01_WORK_GRANULAR_CAP_A",
+      "B09_B01_WORK_GRANULAR_CAP_B"
+    ]
+  },
+  {
+    "module": "B09_B01_WORK_GRANULAR_SERVICE",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_B01_WORK_GRANULAR_INNER_FILL_GUARD"
+    ]
+  },
+  {
+    "module": "B09_B02_WORK_GRANULAR",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_B02_WORK_GRANULAR_G1",
+      "B09_B02_WORK_GRANULAR_G2",
+      "B09_B02_WORK_GRANULAR_G3",
+      "B09_B02_WORK_GRANULAR_G4",
+      "B09_B02_WORK_GRANULAR_G5",
+      "B09_B02_WORK_GRANULAR_G6",
+      "B09_B02_WORK_GRANULAR_G7",
+      "B09_B02_WORK_GRANULAR_G8",
+      "B09_B02_WORK_GRANULAR_G9",
+      "B09_B02_WORK_GRANULAR_G10",
+      "B09_B02_WORK_GRANULAR_G11",
+      "B09_B02_WORK_GRANULAR_G12",
+      "B09_B02_WORK_GRANULAR_G13",
+      "B09_B02_WORK_GRANULAR_G14",
+      "B09_B02_WORK_GRANULAR_G15",
+      "B09_B02_WORK_GRANULAR_G16",
+      "B09_B02_WORK_GRANULAR_CAP_A",
+      "B09_B02_WORK_GRANULAR_CAP_B"
+    ]
+  },
+  {
+    "module": "B09_B02_WORK_GRANULAR_SERVICE",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_B02_WORK_GRANULAR_INNER_FILL_GUARD"
+    ]
+  },
+  {
+    "module": "B09_B03_WORK_GRANULAR",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_B03_WORK_GRANULAR_G1",
+      "B09_B03_WORK_GRANULAR_G2",
+      "B09_B03_WORK_GRANULAR_G3",
+      "B09_B03_WORK_GRANULAR_G4",
+      "B09_B03_WORK_GRANULAR_G5",
+      "B09_B03_WORK_GRANULAR_G6",
+      "B09_B03_WORK_GRANULAR_G7",
+      "B09_B03_WORK_GRANULAR_G8",
+      "B09_B03_WORK_GRANULAR_G9",
+      "B09_B03_WORK_GRANULAR_G10",
+      "B09_B03_WORK_GRANULAR_G11",
+      "B09_B03_WORK_GRANULAR_G12",
+      "B09_B03_WORK_GRANULAR_G13",
+      "B09_B03_WORK_GRANULAR_G14",
+      "B09_B03_WORK_GRANULAR_G15",
+      "B09_B03_WORK_GRANULAR_G16",
+      "B09_B03_WORK_GRANULAR_CAP_A",
+      "B09_B03_WORK_GRANULAR_CAP_B"
+    ]
+  },
+  {
+    "module": "B09_B03_WORK_GRANULAR_SERVICE",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_B03_WORK_GRANULAR_INNER_FILL_GUARD"
+    ]
+  },
+  {
+    "module": "B09_B04_CONTACT_WORK",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_B04_CONTACT_WORK_G1",
+      "B09_B04_CONTACT_WORK_G2",
+      "B09_B04_CONTACT_WORK_G3",
+      "B09_B04_CONTACT_WORK_G4",
+      "B09_B04_CONTACT_WORK_G5",
+      "B09_B04_CONTACT_WORK_G6",
+      "B09_B04_CONTACT_WORK_G7",
+      "B09_B04_CONTACT_WORK_G8",
+      "B09_B04_CONTACT_WORK_G9",
+      "B09_B04_CONTACT_WORK_G10",
+      "B09_B04_CONTACT_WORK_G11",
+      "B09_B04_CONTACT_WORK_G12",
+      "B09_B04_CONTACT_WORK_G13",
+      "B09_B04_CONTACT_WORK_G14",
+      "B09_B04_CONTACT_WORK_G15",
+      "B09_B04_CONTACT_WORK_G16",
+      "B09_B04_CONTACT_WORK_CAP_A",
+      "B09_B04_CONTACT_WORK_CAP_B"
+    ]
+  },
+  {
+    "module": "B09_B04_CONTACT_WORK_SERVICE",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_B04_CONTACT_WORK_INNER_FILL_GUARD"
+    ]
+  },
+  {
+    "module": "B09_F01_FOOTSTOP_2000",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_F01_FOOTSTOP_2000_G1",
+      "B09_F01_FOOTSTOP_2000_G2",
+      "B09_F01_FOOTSTOP_2000_G3",
+      "B09_F01_FOOTSTOP_2000_G4",
+      "B09_F01_FOOTSTOP_2000_G5",
+      "B09_F01_FOOTSTOP_2000_G6",
+      "B09_F01_FOOTSTOP_2000_G7",
+      "B09_F01_FOOTSTOP_2000_G8",
+      "B09_F01_FOOTSTOP_2000_G9",
+      "B09_F01_FOOTSTOP_2000_G10",
+      "B09_F01_FOOTSTOP_2000_G11",
+      "B09_F01_FOOTSTOP_2000_G12",
+      "B09_F01_FOOTSTOP_2000_G13",
+      "B09_F01_FOOTSTOP_2000_G14",
+      "B09_F01_FOOTSTOP_2000_G15",
+      "B09_F01_FOOTSTOP_2000_G16",
+      "B09_F01_FOOTSTOP_2000_CAP_A",
+      "B09_F01_FOOTSTOP_2000_CAP_B"
+    ]
+  },
+  {
+    "module": "B09_F01_FOOTSTOP_2000_SERVICE",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_F01_FOOTSTOP_2000_INNER_FILL_GUARD"
+    ]
+  },
+  {
+    "module": "B09_H08_REMOVABLE_NAPE_PILLOW",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_H08_REMOVABLE_NAPE_PILLOW_G1",
+      "B09_H08_REMOVABLE_NAPE_PILLOW_G2",
+      "B09_H08_REMOVABLE_NAPE_PILLOW_G3",
+      "B09_H08_REMOVABLE_NAPE_PILLOW_G4",
+      "B09_H08_REMOVABLE_NAPE_PILLOW_G5",
+      "B09_H08_REMOVABLE_NAPE_PILLOW_G6",
+      "B09_H08_REMOVABLE_NAPE_PILLOW_G7",
+      "B09_H08_REMOVABLE_NAPE_PILLOW_G8",
+      "B09_H08_REMOVABLE_NAPE_PILLOW_G9",
+      "B09_H08_REMOVABLE_NAPE_PILLOW_G10",
+      "B09_H08_REMOVABLE_NAPE_PILLOW_G11",
+      "B09_H08_REMOVABLE_NAPE_PILLOW_G12",
+      "B09_H08_REMOVABLE_NAPE_PILLOW_G13",
+      "B09_H08_REMOVABLE_NAPE_PILLOW_G14",
+      "B09_H08_REMOVABLE_NAPE_PILLOW_G15",
+      "B09_H08_REMOVABLE_NAPE_PILLOW_G16",
+      "B09_H08_REMOVABLE_NAPE_PILLOW_CAP_A",
+      "B09_H08_REMOVABLE_NAPE_PILLOW_CAP_B"
+    ]
+  },
+  {
+    "module": "B09_H08_REMOVABLE_NAPE_PILLOW_SERVICE",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_H08_REMOVABLE_NAPE_PILLOW_INNER_FILL_GUARD"
+    ]
+  },
+  {
+    "module": "B09_L01_CALF_CONTACT",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_L01_CALF_CONTACT_G1",
+      "B09_L01_CALF_CONTACT_G2",
+      "B09_L01_CALF_CONTACT_G3",
+      "B09_L01_CALF_CONTACT_G4",
+      "B09_L01_CALF_CONTACT_G5",
+      "B09_L01_CALF_CONTACT_G6",
+      "B09_L01_CALF_CONTACT_G7",
+      "B09_L01_CALF_CONTACT_G8",
+      "B09_L01_CALF_CONTACT_G9",
+      "B09_L01_CALF_CONTACT_G10",
+      "B09_L01_CALF_CONTACT_G11",
+      "B09_L01_CALF_CONTACT_G12",
+      "B09_L01_CALF_CONTACT_G13",
+      "B09_L01_CALF_CONTACT_G14",
+      "B09_L01_CALF_CONTACT_G15",
+      "B09_L01_CALF_CONTACT_G16",
+      "B09_L01_CALF_CONTACT_CAP_A",
+      "B09_L01_CALF_CONTACT_CAP_B"
+    ]
+  },
+  {
+    "module": "B09_L01_CALF_CONTACT_SERVICE",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_L01_CALF_CONTACT_INNER_FILL_GUARD"
+    ]
+  },
+  {
+    "module": "B09_O08_TOE_CAP",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_O08_TOE_CAP_G1",
+      "B09_O08_TOE_CAP_G2",
+      "B09_O08_TOE_CAP_G3",
+      "B09_O08_TOE_CAP_G4",
+      "B09_O08_TOE_CAP_G5",
+      "B09_O08_TOE_CAP_G6",
+      "B09_O08_TOE_CAP_G7",
+      "B09_O08_TOE_CAP_G8",
+      "B09_O08_TOE_CAP_G9",
+      "B09_O08_TOE_CAP_G10",
+      "B09_O08_TOE_CAP_G11",
+      "B09_O08_TOE_CAP_G12",
+      "B09_O08_TOE_CAP_G13",
+      "B09_O08_TOE_CAP_G14",
+      "B09_O08_TOE_CAP_G15",
+      "B09_O08_TOE_CAP_G16",
+      "B09_O08_TOE_CAP_CAP_A",
+      "B09_O08_TOE_CAP_CAP_B"
+    ]
+  },
+  {
+    "module": "B09_O08_TOE_CAP_SERVICE",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_O08_TOE_CAP_INNER_FILL_GUARD"
+    ]
+  },
+  {
+    "module": "B09_P01_PELVIS_CHAMBER",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_P01_PELVIS_CHAMBER_G1",
+      "B09_P01_PELVIS_CHAMBER_G2",
+      "B09_P01_PELVIS_CHAMBER_G3",
+      "B09_P01_PELVIS_CHAMBER_G4",
+      "B09_P01_PELVIS_CHAMBER_G5",
+      "B09_P01_PELVIS_CHAMBER_G6",
+      "B09_P01_PELVIS_CHAMBER_G7",
+      "B09_P01_PELVIS_CHAMBER_G8",
+      "B09_P01_PELVIS_CHAMBER_G9",
+      "B09_P01_PELVIS_CHAMBER_G10",
+      "B09_P01_PELVIS_CHAMBER_G11",
+      "B09_P01_PELVIS_CHAMBER_G12",
+      "B09_P01_PELVIS_CHAMBER_G13",
+      "B09_P01_PELVIS_CHAMBER_G14",
+      "B09_P01_PELVIS_CHAMBER_G15",
+      "B09_P01_PELVIS_CHAMBER_G16",
+      "B09_P01_PELVIS_CHAMBER_CAP_A",
+      "B09_P01_PELVIS_CHAMBER_CAP_B"
+    ]
+  },
+  {
+    "module": "B09_P01_PELVIS_CHAMBER_SERVICE",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_P01_PELVIS_CHAMBER_INNER_FILL_GUARD"
+    ]
+  },
+  {
+    "module": "B09_P02_THIGH_TRANSITION",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_P02_THIGH_TRANSITION_G1",
+      "B09_P02_THIGH_TRANSITION_G2",
+      "B09_P02_THIGH_TRANSITION_G3",
+      "B09_P02_THIGH_TRANSITION_G4",
+      "B09_P02_THIGH_TRANSITION_G5",
+      "B09_P02_THIGH_TRANSITION_G6",
+      "B09_P02_THIGH_TRANSITION_G7",
+      "B09_P02_THIGH_TRANSITION_G8",
+      "B09_P02_THIGH_TRANSITION_G9",
+      "B09_P02_THIGH_TRANSITION_G10",
+      "B09_P02_THIGH_TRANSITION_G11",
+      "B09_P02_THIGH_TRANSITION_G12",
+      "B09_P02_THIGH_TRANSITION_G13",
+      "B09_P02_THIGH_TRANSITION_G14",
+      "B09_P02_THIGH_TRANSITION_G15",
+      "B09_P02_THIGH_TRANSITION_G16",
+      "B09_P02_THIGH_TRANSITION_CAP_A",
+      "B09_P02_THIGH_TRANSITION_CAP_B"
+    ]
+  },
+  {
+    "module": "B09_P02_THIGH_TRANSITION_SERVICE",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_P02_THIGH_TRANSITION_INNER_FILL_GUARD"
+    ]
+  },
+  {
+    "module": "B09_PAD_D_C1_CANTILEVER",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_PAD_D_C1_CANTILEVER_G1",
+      "B09_PAD_D_C1_CANTILEVER_G2",
+      "B09_PAD_D_C1_CANTILEVER_G3",
+      "B09_PAD_D_C1_CANTILEVER_G4",
+      "B09_PAD_D_C1_CANTILEVER_G5",
+      "B09_PAD_D_C1_CANTILEVER_G6",
+      "B09_PAD_D_C1_CANTILEVER_G7",
+      "B09_PAD_D_C1_CANTILEVER_G8",
+      "B09_PAD_D_C1_CANTILEVER_G9",
+      "B09_PAD_D_C1_CANTILEVER_G10",
+      "B09_PAD_D_C1_CANTILEVER_G11",
+      "B09_PAD_D_C1_CANTILEVER_G12",
+      "B09_PAD_D_C1_CANTILEVER_G13",
+      "B09_PAD_D_C1_CANTILEVER_G14",
+      "B09_PAD_D_C1_CANTILEVER_G15",
+      "B09_PAD_D_C1_CANTILEVER_G16",
+      "B09_PAD_D_C1_CANTILEVER_CAP_A",
+      "B09_PAD_D_C1_CANTILEVER_CAP_B"
+    ]
+  },
+  {
+    "module": "B09_PAD_D_C1_CANTILEVER_SERVICE",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_PAD_D_C1_CANTILEVER_INNER_FILL_GUARD"
+    ]
+  },
+  {
+    "module": "B09_PAD_D_C1_LEFT_COLUMN",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_PAD_D_C1_LEFT_COLUMN_G1",
+      "B09_PAD_D_C1_LEFT_COLUMN_G2",
+      "B09_PAD_D_C1_LEFT_COLUMN_G3",
+      "B09_PAD_D_C1_LEFT_COLUMN_G4",
+      "B09_PAD_D_C1_LEFT_COLUMN_G5",
+      "B09_PAD_D_C1_LEFT_COLUMN_G6",
+      "B09_PAD_D_C1_LEFT_COLUMN_G7",
+      "B09_PAD_D_C1_LEFT_COLUMN_G8",
+      "B09_PAD_D_C1_LEFT_COLUMN_G9",
+      "B09_PAD_D_C1_LEFT_COLUMN_G10",
+      "B09_PAD_D_C1_LEFT_COLUMN_G11",
+      "B09_PAD_D_C1_LEFT_COLUMN_G12",
+      "B09_PAD_D_C1_LEFT_COLUMN_G13",
+      "B09_PAD_D_C1_LEFT_COLUMN_G14",
+      "B09_PAD_D_C1_LEFT_COLUMN_G15",
+      "B09_PAD_D_C1_LEFT_COLUMN_G16",
+      "B09_PAD_D_C1_LEFT_COLUMN_CAP_A",
+      "B09_PAD_D_C1_LEFT_COLUMN_CAP_B"
+    ]
+  },
+  {
+    "module": "B09_PAD_D_C1_LEFT_COLUMN_SERVICE",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_PAD_D_C1_LEFT_COLUMN_INNER_FILL_GUARD"
+    ]
+  },
+  {
+    "module": "B09_PAD_D_C2_CANTILEVER",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_PAD_D_C2_CANTILEVER_G1",
+      "B09_PAD_D_C2_CANTILEVER_G2",
+      "B09_PAD_D_C2_CANTILEVER_G3",
+      "B09_PAD_D_C2_CANTILEVER_G4",
+      "B09_PAD_D_C2_CANTILEVER_G5",
+      "B09_PAD_D_C2_CANTILEVER_G6",
+      "B09_PAD_D_C2_CANTILEVER_G7",
+      "B09_PAD_D_C2_CANTILEVER_G8",
+      "B09_PAD_D_C2_CANTILEVER_G9",
+      "B09_PAD_D_C2_CANTILEVER_G10",
+      "B09_PAD_D_C2_CANTILEVER_G11",
+      "B09_PAD_D_C2_CANTILEVER_G12",
+      "B09_PAD_D_C2_CANTILEVER_G13",
+      "B09_PAD_D_C2_CANTILEVER_G14",
+      "B09_PAD_D_C2_CANTILEVER_G15",
+      "B09_PAD_D_C2_CANTILEVER_G16",
+      "B09_PAD_D_C2_CANTILEVER_CAP_A",
+      "B09_PAD_D_C2_CANTILEVER_CAP_B"
+    ]
+  },
+  {
+    "module": "B09_PAD_D_C2_CANTILEVER_SERVICE",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_PAD_D_C2_CANTILEVER_INNER_FILL_GUARD"
+    ]
+  },
+  {
+    "module": "B09_PAD_D_C2_LEFT_COLUMN",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_PAD_D_C2_LEFT_COLUMN_G1",
+      "B09_PAD_D_C2_LEFT_COLUMN_G2",
+      "B09_PAD_D_C2_LEFT_COLUMN_G3",
+      "B09_PAD_D_C2_LEFT_COLUMN_G4",
+      "B09_PAD_D_C2_LEFT_COLUMN_G5",
+      "B09_PAD_D_C2_LEFT_COLUMN_G6",
+      "B09_PAD_D_C2_LEFT_COLUMN_G7",
+      "B09_PAD_D_C2_LEFT_COLUMN_G8",
+      "B09_PAD_D_C2_LEFT_COLUMN_G9",
+      "B09_PAD_D_C2_LEFT_COLUMN_G10",
+      "B09_PAD_D_C2_LEFT_COLUMN_G11",
+      "B09_PAD_D_C2_LEFT_COLUMN_G12",
+      "B09_PAD_D_C2_LEFT_COLUMN_G13",
+      "B09_PAD_D_C2_LEFT_COLUMN_G14",
+      "B09_PAD_D_C2_LEFT_COLUMN_G15",
+      "B09_PAD_D_C2_LEFT_COLUMN_G16",
+      "B09_PAD_D_C2_LEFT_COLUMN_CAP_A",
+      "B09_PAD_D_C2_LEFT_COLUMN_CAP_B"
+    ]
+  },
+  {
+    "module": "B09_PAD_D_C2_LEFT_COLUMN_SERVICE",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "removable inner cover, protected service zip and webbing anchors; no loose granules",
+    "pattern_ids": [
+      "B09_PAD_D_C2_LEFT_COLUMN_INNER_FILL_GUARD"
+    ]
+  },
+  {
+    "module": "EH09_BACK",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "EH09_BACK_A",
+      "EH09_BACK_B"
+    ]
+  },
+  {
+    "module": "EH09_SEAT",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "EH09_SEAT_A",
+      "EH09_SEAT_B"
+    ]
+  },
+  {
+    "module": "F08_FLEXIBLE_SOLE",
+    "mounted_to": "PRODUCT",
+    "operation": "root flexible floor",
+    "pattern_ids": [
+      "F08_BOTTOM",
+      "F08_TOP",
+      "F08_EDGE_LEFT",
+      "F08_EDGE_RIGHT",
+      "F09_END_START",
+      "F09_END_END"
+    ]
+  },
+  {
+    "module": "G08_BACK_-1",
+    "mounted_to": "O08_SMOOTH_LOWER",
+    "operation": "inside overlap guard at hood rail",
+    "pattern_ids": [
+      "G08_BACK_-1_O1",
+      "G08_BACK_-1_I1",
+      "G08_BACK_-1_W1",
+      "G08_BACK_-1_START",
+      "G08_BACK_-1_END",
+      "G08_BACK_-1_LEFT",
+      "G08_BACK_-1_RIGHT"
+    ]
+  },
+  {
+    "module": "G08_BACK_1",
+    "mounted_to": "O08_SMOOTH_LOWER",
+    "operation": "inside overlap guard at hood rail",
+    "pattern_ids": [
+      "G08_BACK_1_O1",
+      "G08_BACK_1_I1",
+      "G08_BACK_1_W1",
+      "G08_BACK_1_START",
+      "G08_BACK_1_END",
+      "G08_BACK_1_LEFT",
+      "G08_BACK_1_RIGHT"
+    ]
+  },
+  {
+    "module": "G08_FOREARM_GUSSET_-1",
+    "mounted_to": "O08_SMOOTH_LOWER",
+    "operation": "left permanent soft join; right release attachment, never a wire crossing",
+    "pattern_ids": [
+      "G08_FOREARM_GUSSET_-1_O1a",
+      "G08_FOREARM_GUSSET_-1_O1b",
+      "G08_FOREARM_GUSSET_-1_I1a",
+      "G08_FOREARM_GUSSET_-1_I1b",
+      "G08_FOREARM_GUSSET_-1_W1a",
+      "G08_FOREARM_GUSSET_-1_W1b",
+      "G08_FOREARM_GUSSET_-1_START",
+      "G08_FOREARM_GUSSET_-1_END",
+      "G08_FOREARM_GUSSET_-1_LEFT",
+      "G08_FOREARM_GUSSET_-1_RIGHT"
+    ]
+  },
+  {
+    "module": "G08_FOREARM_GUSSET_1",
+    "mounted_to": "O08_SMOOTH_LOWER",
+    "operation": "left permanent soft join; right release attachment, never a wire crossing",
+    "pattern_ids": [
+      "G08_FOREARM_GUSSET_1_O1a",
+      "G08_FOREARM_GUSSET_1_O1b",
+      "G08_FOREARM_GUSSET_1_I1a",
+      "G08_FOREARM_GUSSET_1_I1b",
+      "G08_FOREARM_GUSSET_1_W1a",
+      "G08_FOREARM_GUSSET_1_W1b",
+      "G08_FOREARM_GUSSET_1_START",
+      "G08_FOREARM_GUSSET_1_END",
+      "G08_FOREARM_GUSSET_1_LEFT",
+      "G08_FOREARM_GUSSET_1_RIGHT"
+    ]
+  },
+  {
+    "module": "G08_REAR_END",
+    "mounted_to": "O08_SMOOTH_LOWER",
+    "operation": "protected internal sewn mounting",
+    "pattern_ids": [
+      "G08_REAR_O",
+      "G08_REAR_I",
+      "G09_REAR_EDGE_START",
+      "G09_REAR_EDGE_END",
+      "G09_REAR_EDGE_LEFT",
+      "G09_REAR_EDGE_RIGHT"
+    ]
+  },
+  {
+    "module": "H08_CANOPY",
+    "mounted_to": "O08_SMOOTH_LOWER",
+    "operation": "hood at common CAD rail, split detachable service fastening",
+    "pattern_ids": [
+      "H08_CANOPY_O1_B_B",
+      "H08_CANOPY_O1_B_A_B_B",
+      "H08_CANOPY_O1_B_A_B_A",
+      "H08_CANOPY_O1_B_A_A_B",
+      "H08_CANOPY_O1_B_A_A_A",
+      "H08_CANOPY_O1_A",
+      "H08_CANOPY_I1_B_B",
+      "H08_CANOPY_I1_B_A_B_B",
+      "H08_CANOPY_I1_B_A_B_A",
+      "H08_CANOPY_I1_B_A_A_B",
+      "H08_CANOPY_I1_B_A_A_A",
+      "H08_CANOPY_I1_A",
+      "H08_CANOPY_W1_B_B",
+      "H08_CANOPY_W1_B_A_B_B",
+      "H08_CANOPY_W1_B_A_B_A",
+      "H08_CANOPY_W1_B_A_A_B",
+      "H08_CANOPY_W1_B_A_A_A",
+      "H08_CANOPY_W1_A",
+      "H08_CANOPY_O2_B_B",
+      "H08_CANOPY_O2_B_A_B",
+      "H08_CANOPY_O2_B_A_A",
+      "H08_CANOPY_O2_A_B_B",
+      "H08_CANOPY_O2_A_B_A",
+      "H08_CANOPY_O2_A_A",
+      "H08_CANOPY_I2_B_B",
+      "H08_CANOPY_I2_B_A_B",
+      "H08_CANOPY_I2_B_A_A",
+      "H08_CANOPY_I2_A_B_B",
+      "H08_CANOPY_I2_A_B_A",
+      "H08_CANOPY_I2_A_A",
+      "H08_CANOPY_W2_B_B",
+      "H08_CANOPY_W2_B_A_B",
+      "H08_CANOPY_W2_B_A_A",
+      "H08_CANOPY_W2_A_B_B",
+      "H08_CANOPY_W2_A_B_A",
+      "H08_CANOPY_W2_A_A",
+      "H08_CANOPY_O3_B_B",
+      "H08_CANOPY_O3_B_A_B_B",
+      "H08_CANOPY_O3_B_A_B_A",
+      "H08_CANOPY_O3_B_A_A",
+      "H08_CANOPY_O3_A_B_B",
+      "H08_CANOPY_O3_A_B_A",
+      "H08_CANOPY_O3_A_A",
+      "H08_CANOPY_I3_B_B",
+      "H08_CANOPY_I3_B_A_B_B",
+      "H08_CANOPY_I3_B_A_B_A",
+      "H08_CANOPY_I3_B_A_A",
+      "H08_CANOPY_I3_A_B_B",
+      "H08_CANOPY_I3_A_B_A",
+      "H08_CANOPY_I3_A_A",
+      "H08_CANOPY_W3_B_B",
+      "H08_CANOPY_W3_B_A_B_B",
+      "H08_CANOPY_W3_B_A_B_A",
+      "H08_CANOPY_W3_B_A_A",
+      "H08_CANOPY_W3_A_B_B",
+      "H08_CANOPY_W3_A_B_A",
+      "H08_CANOPY_W3_A_A",
+      "H08_CANOPY_O4_B_B",
+      "H08_CANOPY_O4_B_A_B_B",
+      "H08_CANOPY_O4_B_A_B_A",
+      "H08_CANOPY_O4_B_A_A_B",
+      "H08_CANOPY_O4_B_A_A_A",
+      "H08_CANOPY_O4_A",
+      "H08_CANOPY_I4_B_B",
+      "H08_CANOPY_I4_B_A_B_B",
+      "H08_CANOPY_I4_B_A_B_A",
+      "H08_CANOPY_I4_B_A_A_B",
+      "H08_CANOPY_I4_B_A_A_A",
+      "H08_CANOPY_I4_A",
+      "H08_CANOPY_W4_B_B",
+      "H08_CANOPY_W4_B_A_B_B",
+      "H08_CANOPY_W4_B_A_B_A",
+      "H08_CANOPY_W4_B_A_A_B",
+      "H08_CANOPY_W4_B_A_A_A",
+      "H08_CANOPY_W4_A",
+      "H08_CANOPY_START",
+      "H08_CANOPY_END",
+      "H08_CANOPY_LEFT",
+      "H08_CANOPY_RIGHT"
+    ]
+  },
+  {
+    "module": "J09_BULKHEAD",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "J09_BULKHEAD_REINFORCEMENT"
+    ]
+  },
+  {
+    "module": "J09_SERVICE_POCKET",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "J09_SERVICE_POCKET_A",
+      "J09_SERVICE_POCKET_B"
+    ]
+  },
+  {
+    "module": "K07_PASSIVE_FLAP_CLOSED",
+    "mounted_to": "G08_FOREARM_GUSSET_-1",
+    "operation": "left roll-back hinge seam; remains separate from main exit release",
+    "pattern_ids": [
+      "K08_FLAP_OUTER",
+      "K08_FLAP_LINING",
+      "K08_FLAP_INSULATION",
+      "K09_FLAP_EDGE_START",
+      "K09_FLAP_EDGE_END",
+      "K09_FLAP_EDGE_LEFT",
+      "K09_FLAP_EDGE_RIGHT"
+    ]
+  },
+  {
+    "module": "L08_CONTINUOUS_COVER",
+    "mounted_to": "O08_SMOOTH_LOWER",
+    "operation": "left permanent soft join; right release attachment, never a wire crossing",
+    "pattern_ids": [
+      "L08_CONTINUOUS_COVER_O1_B",
+      "L08_CONTINUOUS_COVER_O1_A_B",
+      "L08_CONTINUOUS_COVER_O1_A_A_B",
+      "L08_CONTINUOUS_COVER_O1_A_A_A",
+      "L08_CONTINUOUS_COVER_I1",
+      "L08_CONTINUOUS_COVER_W1",
+      "L08_CONTINUOUS_COVER_O2",
+      "L08_CONTINUOUS_COVER_I2",
+      "L08_CONTINUOUS_COVER_W2",
+      "L08_CONTINUOUS_COVER_O3",
+      "L08_CONTINUOUS_COVER_I3",
+      "L08_CONTINUOUS_COVER_W3",
+      "L08_CONTINUOUS_COVER_O4_B",
+      "L08_CONTINUOUS_COVER_O4_A_B",
+      "L08_CONTINUOUS_COVER_O4_A_A_B",
+      "L08_CONTINUOUS_COVER_O4_A_A_A",
+      "L08_CONTINUOUS_COVER_I4",
+      "L08_CONTINUOUS_COVER_W4",
+      "L08_CONTINUOUS_COVER_START",
+      "L08_CONTINUOUS_COVER_END",
+      "L08_CONTINUOUS_COVER_LEFT",
+      "L08_CONTINUOUS_COVER_RIGHT"
+    ]
+  },
+  {
+    "module": "O08_SMOOTH_LOWER",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "lower shell mounted on flexible floor, hidden attachment seam",
+    "pattern_ids": [
+      "O08_SMOOTH_LOWER_O1_B",
+      "O08_SMOOTH_LOWER_O1_A_B_B_B_B_B_B",
+      "O08_SMOOTH_LOWER_O1_A_B_B_B_B_B_A",
+      "O08_SMOOTH_LOWER_O1_A_B_B_B_B_A",
+      "O08_SMOOTH_LOWER_O1_A_B_B_B_A",
+      "O08_SMOOTH_LOWER_O1_A_B_B_A",
+      "O08_SMOOTH_LOWER_O1_A_B_A",
+      "O08_SMOOTH_LOWER_O1_A_A_B_B",
+      "O08_SMOOTH_LOWER_O1_A_A_B_A",
+      "O08_SMOOTH_LOWER_O1_A_A_A",
+      "O08_SMOOTH_LOWER_I1_B",
+      "O08_SMOOTH_LOWER_I1_A_B_B_B_B_B_B",
+      "O08_SMOOTH_LOWER_I1_A_B_B_B_B_B_A",
+      "O08_SMOOTH_LOWER_I1_A_B_B_B_B_A",
+      "O08_SMOOTH_LOWER_I1_A_B_B_B_A",
+      "O08_SMOOTH_LOWER_I1_A_B_B_A",
+      "O08_SMOOTH_LOWER_I1_A_B_A",
+      "O08_SMOOTH_LOWER_I1_A_A_B_B",
+      "O08_SMOOTH_LOWER_I1_A_A_B_A",
+      "O08_SMOOTH_LOWER_I1_A_A_A",
+      "O08_SMOOTH_LOWER_W1_B",
+      "O08_SMOOTH_LOWER_W1_A_B_B_B_B_B_B",
+      "O08_SMOOTH_LOWER_W1_A_B_B_B_B_B_A",
+      "O08_SMOOTH_LOWER_W1_A_B_B_B_B_A",
+      "O08_SMOOTH_LOWER_W1_A_B_B_B_A",
+      "O08_SMOOTH_LOWER_W1_A_B_B_A",
+      "O08_SMOOTH_LOWER_W1_A_B_A",
+      "O08_SMOOTH_LOWER_W1_A_A_B_B",
+      "O08_SMOOTH_LOWER_W1_A_A_B_A",
+      "O08_SMOOTH_LOWER_W1_A_A_A",
+      "O08_SMOOTH_LOWER_O2_B",
+      "O08_SMOOTH_LOWER_O2_A_B_B_B_B",
+      "O08_SMOOTH_LOWER_O2_A_B_B_B_A",
+      "O08_SMOOTH_LOWER_O2_A_B_B_A",
+      "O08_SMOOTH_LOWER_O2_A_B_A",
+      "O08_SMOOTH_LOWER_O2_A_A",
+      "O08_SMOOTH_LOWER_I2_B",
+      "O08_SMOOTH_LOWER_I2_A_B_B_B_B",
+      "O08_SMOOTH_LOWER_I2_A_B_B_B_A",
+      "O08_SMOOTH_LOWER_I2_A_B_B_A",
+      "O08_SMOOTH_LOWER_I2_A_B_A",
+      "O08_SMOOTH_LOWER_I2_A_A",
+      "O08_SMOOTH_LOWER_W2_B",
+      "O08_SMOOTH_LOWER_W2_A_B_B_B_B",
+      "O08_SMOOTH_LOWER_W2_A_B_B_B_A",
+      "O08_SMOOTH_LOWER_W2_A_B_B_A",
+      "O08_SMOOTH_LOWER_W2_A_B_A",
+      "O08_SMOOTH_LOWER_W2_A_A",
+      "O08_SMOOTH_LOWER_O3",
+      "O08_SMOOTH_LOWER_I3",
+      "O08_SMOOTH_LOWER_W3",
+      "O08_SMOOTH_LOWER_O4",
+      "O08_SMOOTH_LOWER_I4",
+      "O08_SMOOTH_LOWER_W4",
+      "O08_SMOOTH_LOWER_O5_B",
+      "O08_SMOOTH_LOWER_O5_A_B_B_B_B",
+      "O08_SMOOTH_LOWER_O5_A_B_B_B_A",
+      "O08_SMOOTH_LOWER_O5_A_B_B_A",
+      "O08_SMOOTH_LOWER_O5_A_B_A",
+      "O08_SMOOTH_LOWER_O5_A_A",
+      "O08_SMOOTH_LOWER_I5",
+      "O08_SMOOTH_LOWER_W5_B",
+      "O08_SMOOTH_LOWER_W5_A_B",
+      "O08_SMOOTH_LOWER_W5_A_A",
+      "O08_SMOOTH_LOWER_O6_B_B_B_B_B",
+      "O08_SMOOTH_LOWER_O6_B_B_B_B_A",
+      "O08_SMOOTH_LOWER_O6_B_B_B_A",
+      "O08_SMOOTH_LOWER_O6_B_B_A",
+      "O08_SMOOTH_LOWER_O6_B_A",
+      "O08_SMOOTH_LOWER_O6_A_B_B",
+      "O08_SMOOTH_LOWER_O6_A_B_A_B_B_B_B",
+      "O08_SMOOTH_LOWER_O6_A_B_A_B_B_B_A",
+      "O08_SMOOTH_LOWER_O6_A_B_A_B_B_A",
+      "O08_SMOOTH_LOWER_O6_A_B_A_B_A",
+      "O08_SMOOTH_LOWER_O6_A_B_A_A_B",
+      "O08_SMOOTH_LOWER_O6_A_B_A_A_A",
+      "O08_SMOOTH_LOWER_O6_A_A_B_B",
+      "O08_SMOOTH_LOWER_O6_A_A_B_A",
+      "O08_SMOOTH_LOWER_O6_A_A_A",
+      "O08_SMOOTH_LOWER_I6_B_B_B_B",
+      "O08_SMOOTH_LOWER_I6_B_B_B_A",
+      "O08_SMOOTH_LOWER_I6_B_B_A",
+      "O08_SMOOTH_LOWER_I6_B_A",
+      "O08_SMOOTH_LOWER_I6_A_B_B",
+      "O08_SMOOTH_LOWER_I6_A_B_A_B_B_B_B",
+      "O08_SMOOTH_LOWER_I6_A_B_A_B_B_B_A",
+      "O08_SMOOTH_LOWER_I6_A_B_A_B_B_A",
+      "O08_SMOOTH_LOWER_I6_A_B_A_B_A",
+      "O08_SMOOTH_LOWER_I6_A_B_A_A_B",
+      "O08_SMOOTH_LOWER_I6_A_B_A_A_A",
+      "O08_SMOOTH_LOWER_I6_A_A_B_B",
+      "O08_SMOOTH_LOWER_I6_A_A_B_A",
+      "O08_SMOOTH_LOWER_I6_A_A_A",
+      "O08_SMOOTH_LOWER_W6_B_B_B_B_B",
+      "O08_SMOOTH_LOWER_W6_B_B_B_B_A",
+      "O08_SMOOTH_LOWER_W6_B_B_B_A",
+      "O08_SMOOTH_LOWER_W6_B_B_A",
+      "O08_SMOOTH_LOWER_W6_B_A",
+      "O08_SMOOTH_LOWER_W6_A_B_B",
+      "O08_SMOOTH_LOWER_W6_A_B_A_B_B_B_B",
+      "O08_SMOOTH_LOWER_W6_A_B_A_B_B_B_A",
+      "O08_SMOOTH_LOWER_W6_A_B_A_B_B_A",
+      "O08_SMOOTH_LOWER_W6_A_B_A_B_A",
+      "O08_SMOOTH_LOWER_W6_A_B_A_A_B",
+      "O08_SMOOTH_LOWER_W6_A_B_A_A_A",
+      "O08_SMOOTH_LOWER_W6_A_A_B_B",
+      "O08_SMOOTH_LOWER_W6_A_A_B_A",
+      "O08_SMOOTH_LOWER_W6_A_A_A",
+      "O08_SMOOTH_LOWER_START",
+      "O08_SMOOTH_LOWER_END",
+      "O08_SMOOTH_LOWER_LEFT",
+      "O08_SMOOTH_LOWER_RIGHT"
+    ]
+  },
+  {
+    "module": "PULL09",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "PULL09_1",
+      "PULL09_2",
+      "PULL09_3",
+      "PULL09_4",
+      "PULL09_5",
+      "PULL09_6"
+    ]
+  },
+  {
+    "module": "S08_WRAP_-1",
+    "mounted_to": "O08_SMOOTH_LOWER",
+    "operation": "left permanent soft join; right release attachment, never a wire crossing",
+    "pattern_ids": [
+      "S08_WRAP_-1_O1",
+      "S08_WRAP_-1_I1",
+      "S08_WRAP_-1_W1",
+      "S08_WRAP_-1_O2",
+      "S08_WRAP_-1_I2",
+      "S08_WRAP_-1_W2",
+      "S08_WRAP_-1_START",
+      "S08_WRAP_-1_END",
+      "S08_WRAP_-1_LEFT",
+      "S08_WRAP_-1_RIGHT"
+    ]
+  },
+  {
+    "module": "S08_WRAP_1",
+    "mounted_to": "O08_SMOOTH_LOWER",
+    "operation": "left permanent soft join; right release attachment, never a wire crossing",
+    "pattern_ids": [
+      "S08_WRAP_1_O1",
+      "S08_WRAP_1_I1",
+      "S08_WRAP_1_W1",
+      "S08_WRAP_1_O2",
+      "S08_WRAP_1_I2",
+      "S08_WRAP_1_W2",
+      "S08_WRAP_1_START",
+      "S08_WRAP_1_END",
+      "S08_WRAP_1_LEFT",
+      "S08_WRAP_1_RIGHT"
+    ]
+  },
+  {
+    "module": "W01_POWER_TO_DESK",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "W01_POWER_TO_DESK_SLEEVE",
+      "W01_POWER_TO_DESK_STRAIN_RELIEF_A",
+      "W01_POWER_TO_DESK_STRAIN_RELIEF_B"
+    ]
+  },
+  {
+    "module": "W02_USB_DATA",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "W02_USB_DATA_SLEEVE",
+      "W02_USB_DATA_STRAIN_RELIEF_A",
+      "W02_USB_DATA_STRAIN_RELIEF_B"
+    ]
+  },
+  {
+    "module": "W03_BACK_HEATER",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "W03_BACK_HEATER_SLEEVE",
+      "W03_BACK_HEATER_STRAIN_RELIEF_A",
+      "W03_BACK_HEATER_STRAIN_RELIEF_B"
+    ]
+  },
+  {
+    "module": "W04_SEAT_HEATER",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "W04_SEAT_HEATER_SLEEVE",
+      "W04_SEAT_HEATER_STRAIN_RELIEF_A",
+      "W04_SEAT_HEATER_STRAIN_RELIEF_B"
+    ]
+  },
+  {
+    "module": "W05_BACK_NTC",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "W05_BACK_NTC_SLEEVE",
+      "W05_BACK_NTC_STRAIN_RELIEF_A",
+      "W05_BACK_NTC_STRAIN_RELIEF_B"
+    ]
+  },
+  {
+    "module": "W06_SEAT_NTC",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "W06_SEAT_NTC_SLEEVE",
+      "W06_SEAT_NTC_STRAIN_RELIEF_A",
+      "W06_SEAT_NTC_STRAIN_RELIEF_B"
+    ]
+  },
+  {
+    "module": "WEB09_B_TIE_-1_work",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "WEB09_B_TIE_-1_work"
+    ]
+  },
+  {
+    "module": "WEB09_B_TIE_1_work",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "WEB09_B_TIE_1_work"
+    ]
+  },
+  {
+    "module": "WEB09_F_ANCHOR_0_-1",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "WEB09_F_ANCHOR_0_-1"
+    ]
+  },
+  {
+    "module": "WEB09_F_ANCHOR_0_1",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "WEB09_F_ANCHOR_0_1"
+    ]
+  },
+  {
+    "module": "WEB09_F_ANCHOR_1_-1",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "WEB09_F_ANCHOR_1_-1"
+    ]
+  },
+  {
+    "module": "WEB09_F_ANCHOR_1_1",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "WEB09_F_ANCHOR_1_1"
+    ]
+  },
+  {
+    "module": "WEB09_F_ANCHOR_2_-1",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "WEB09_F_ANCHOR_2_-1"
+    ]
+  },
+  {
+    "module": "WEB09_F_ANCHOR_2_1",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "WEB09_F_ANCHOR_2_1"
+    ]
+  },
+  {
+    "module": "WEB09_F_ANCHOR_3_-1",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "WEB09_F_ANCHOR_3_-1"
+    ]
+  },
+  {
+    "module": "WEB09_F_ANCHOR_3_1",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "WEB09_F_ANCHOR_3_1"
+    ]
+  },
+  {
+    "module": "WEB09_F_ANCHOR_4_-1",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "WEB09_F_ANCHOR_4_-1"
+    ]
+  },
+  {
+    "module": "WEB09_F_ANCHOR_4_1",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "WEB09_F_ANCHOR_4_1"
+    ]
+  },
+  {
+    "module": "WEB09_F_TIE_2000_-1",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "WEB09_F_TIE_2000_-1"
+    ]
+  },
+  {
+    "module": "WEB09_F_TIE_2000_1",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "WEB09_F_TIE_2000_1"
+    ]
+  },
+  {
+    "module": "Z01_MAIN_RIGHT",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "Z01_MAIN_RIGHT_FACING_A",
+      "Z01_MAIN_RIGHT_FACING_B",
+      "Z01_MAIN_RIGHT_STORM_LAP",
+      "Z01_MAIN_RIGHT_END_START",
+      "Z01_MAIN_RIGHT_END_STOP"
+    ]
+  },
+  {
+    "module": "Z02_HOOD_SERVICE",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "Z02_HOOD_SERVICE_FACING_A",
+      "Z02_HOOD_SERVICE_FACING_B",
+      "Z02_HOOD_SERVICE_STORM_LAP",
+      "Z02_HOOD_SERVICE_END_START",
+      "Z02_HOOD_SERVICE_END_STOP"
+    ]
+  },
+  {
+    "module": "Z03_FILL_SERVICE",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "Z03_FILL_SERVICE_FACING_A",
+      "Z03_FILL_SERVICE_FACING_B",
+      "Z03_FILL_SERVICE_STORM_LAP",
+      "Z03_FILL_SERVICE_END_START",
+      "Z03_FILL_SERVICE_END_STOP"
+    ]
+  },
+  {
+    "module": "Z04_ELECTRIC_SERVICE",
+    "mounted_to": "F08_FLEXIBLE_SOLE",
+    "operation": "per accessory edge ledger and R08 left-side route; serviceable",
+    "pattern_ids": [
+      "Z04_ELECTRIC_SERVICE_FACING_A",
+      "Z04_ELECTRIC_SERVICE_FACING_B",
+      "Z04_ELECTRIC_SERVICE_STORM_LAP",
+      "Z04_ELECTRIC_SERVICE_END_START",
+      "Z04_ELECTRIC_SERVICE_END_STOP"
+    ]
+  }
+]
