@@ -1,0 +1,113 @@
+name: Complete R09 cutting set and publish individual files
+on:
+  push:
+    branches: [feature/r09-patterns-20261004]
+    paths: [.github/workflows/r09-pattern-completion.yml]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: legeandre-r09-pattern-publication
+  cancel-in-progress: false
+jobs:
+  patterns:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    env:
+      PYTHONUNBUFFERED: '1'
+      LIBGL_ALWAYS_SOFTWARE: '1'
+      OMP_NUM_THREADS: '2'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feature/r09-patterns-20261004
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Restore reviewed source files from this repository's Git objects
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'PY'
+          from pathlib import Path, PurePosixPath
+          import base64, hashlib, json, lzma, os, urllib.request
+          repo='Eljah/legeandre'
+          if os.environ.get('GITHUB_REPOSITORY')!=repo: raise RuntimeError('Wrong repository')
+          expected='214666aa0ee8bbff53e9ff39330afb1da3625e1e65f3089d0ed2389f7e9a61c4'
+          blobs=['131a07cf2379fefc416d912597e97662b55df07a','89f6306403ec77247d8e498e13e62b15dd95ac34','daaed391eb9e35212a0b5fb99ae6048a7f0d45e8','729947fec1ee579903ad61ad4902012778eb1911']
+          parts=[]
+          for sha in blobs:
+              request=urllib.request.Request(f'https://api.github.com/repos/{repo}/git/blobs/{sha}',headers={'Authorization':'Bearer '+os.environ['GH_TOKEN'],'Accept':'application/vnd.github+json','User-Agent':'legeandre-r09-source-bootstrap'})
+              with urllib.request.urlopen(request,timeout=30) as response: obj=json.load(response)
+              data=base64.b64decode(obj['content'])
+              if hashlib.sha1(f'blob {len(data)}\0'.encode()+data).hexdigest()!=sha: raise RuntimeError('Git object mismatch')
+              parts.append(data)
+          packed=b''.join(parts)
+          if len(packed)!=24728 or hashlib.sha256(packed).hexdigest()!=expected: raise RuntimeError('Source bundle checksum')
+          decoder=lzma.LZMADecompressor(memlimit=128*1024*1024)
+          raw=decoder.decompress(packed,max_length=1024*1024)
+          if not decoder.eof or decoder.unused_data: raise RuntimeError('Invalid source transport')
+          bundle=json.loads(raw)
+          if bundle['format']!='legeandre-r09-reviewed-source-v1' or len(bundle['files'])!=9: raise RuntimeError('Wrong source set')
+          root=Path('revisions/R09')
+          for row in bundle['files']:
+              rel=PurePosixPath(row['path'])
+              if rel.is_absolute() or '..' in rel.parts: raise RuntimeError('Unsafe path')
+              if str(rel) not in ['README_RU.md','inputs.lock.json','requirements.txt'] and not (rel.parts[0]=='source' and rel.suffix=='.py'): raise RuntimeError('Unexpected source')
+              data=row['content'].encode('utf-8')
+              if hashlib.sha256(data).hexdigest()!=row['sha256']: raise RuntimeError('Source checksum')
+              dest=root/str(rel);dest.parent.mkdir(parents=True,exist_ok=True)
+              if dest.exists() and dest.read_bytes()!=data: raise RuntimeError('Refusing to overwrite edited source '+str(rel))
+              dest.write_bytes(data)
+          print('Nine individual source and specification files verified and restored from GitHub only')
+          PY
+      - name: Install geometry and PDF dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y xvfb xauth libgl1 libegl1 libgl1-mesa-dri fonts-dejavu-core
+          python -m pip install -r revisions/R09/requirements.txt
+      - name: Build full digital sample cut set, CAD supplement, PDFs and verification
+        run: python revisions/R09/source/run_pipeline.py
+      - name: Publish separate files without changing R08, main or the source branch
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import hashlib,json,subprocess
+          root=Path('revisions/R09')
+          manifest=json.loads((root/'MANIFEST_SHA256.json').read_text())
+          paths=[]
+          for row in manifest['files']:
+              p=root/row['path']
+              if p.stat().st_size!=row['bytes'] or hashlib.sha256(p.read_bytes()).hexdigest()!=row['sha256']: raise RuntimeError('Export mismatch '+str(p))
+              if p.suffix.lower() in ['.zip','.xz','.pickle','.ttf','.otf','.woff','.woff2']: raise RuntimeError('Unexpected packaged/font file')
+              paths.append(str(p))
+          paths.append(str(root/'MANIFEST_SHA256.json'))
+          for i in range(0,len(paths),80): subprocess.run(['git','add','-f','--',*paths[i:i+80]],check=True)
+          changed=subprocess.check_output(['git','diff','--cached','--name-only'],text=True).splitlines()
+          if any(not p.startswith('revisions/R09/') for p in changed): raise RuntimeError('Unexpected staged path')
+          print('Staged individual R09 files:',len(paths))
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          if ! git diff --cached --quiet; then
+            git commit -m 'Complete R09 digital sample cut set: paired seams, inner bags, zippers, DXF SVG STEP and PDFs'
+            git push origin HEAD:refs/heads/feature/r09-patterns-20261004
+          fi
+          local_sha=$(git rev-parse HEAD)
+          remote_sha=$(git ls-remote origin refs/heads/feature/r09-patterns-20261004 | cut -f1)
+          test "$local_sha" = "$remote_sha"
+          echo "## R09 published and verified" >> "$GITHUB_STEP_SUMMARY"
+          echo "Commit: $local_sha" >> "$GITHUB_STEP_SUMMARY"
+          echo "655 pattern types; source R08 preserved. Digital sample set, not production certification." >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: r09-cutting-verification-and-pdfs
+          path: |
+            revisions/R09/tests/
+            revisions/R09/docs/
+            revisions/R09/renders/
+            revisions/R09/MANIFEST_SHA256.json
+          retention-days: 14
+          if-no-files-found: warn
