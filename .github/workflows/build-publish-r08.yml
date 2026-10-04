@@ -1,0 +1,51 @@
+name: Build and publish R08 cloth harness and thermal revision
+on:
+  push:
+    branches: [sync/r01-r06-20261002]
+    paths:
+      - .github/workflows/build-publish-r08.yml
+      - tools/publish_r08_revision.py
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: legeandre-r08-revision
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 40
+    env:
+      PYTHONUNBUFFERED: '1'
+      LIBGL_ALWAYS_SOFTWARE: '1'
+      OMP_NUM_THREADS: '2'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: sync/r01-r06-20261002
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install CAD rendering and PDF tools
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y xvfb xauth libgl1 libegl1 libgl1-mesa-dri fonts-dejavu-core
+          python -m pip install -r revisions/R06/requirements.txt PyMuPDF
+      - name: Restore sources, build and verify R08, commit individual files
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python tools/publish_r08_revision.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: r08-validation-report
+          path: |
+            provenance/R08_SOURCE_IMPORT.json
+            provenance/R08_PUBLICATION.json
+            revisions/R08/tests/CAD_checks.json
+            revisions/R08/tests/pattern_checks.json
+            revisions/R08/tests/verification.json
+            revisions/R08/docs/Lezhandr_R08_CAD_Cutting_Assembly.pdf
+          if-no-files-found: warn
+          retention-days: 14
