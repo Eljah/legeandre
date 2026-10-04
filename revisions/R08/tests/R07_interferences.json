@@ -1,0 +1,56 @@
+[
+  {
+    "part": "HX07_BACK_FLEX_RECEIVER",
+    "body": "M_TORSO",
+    "distance_mm": 0.0,
+    "intersection_cm3": 270.3533810596588
+  },
+  {
+    "part": "HX07_BACK_FLEX_RECEIVER",
+    "body": "M_ARM-1",
+    "distance_mm": 0.0,
+    "intersection_cm3": 8.527668862352108
+  },
+  {
+    "part": "HX07_BACK_FLEX_RECEIVER",
+    "body": "M_FOREARM-1",
+    "distance_mm": 24.517994939940497,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "HX07_BACK_FLEX_RECEIVER",
+    "body": "M_ARM1",
+    "distance_mm": 0.0,
+    "intersection_cm3": 8.52766859934691
+  },
+  {
+    "part": "HX07_BACK_FLEX_RECEIVER",
+    "body": "M_FOREARM1",
+    "distance_mm": 24.51799493994053,
+    "intersection_cm3": 0.0
+  },
+  {
+    "part": "HX07_SEAT_FLEX_RECEIVER",
+    "body": "M_TORSO",
+    "distance_mm": 1.4210854715202004e-14,
+    "intersection_cm3": 11.964105178845882
+  },
+  {
+    "part": "HX07_SEAT_FLEX_RECEIVER",
+    "body": "M_PELVIS",
+    "distance_mm": 2.842170943040401e-14,
+    "intersection_cm3": 318.86343709305464
+  },
+  {
+    "part": "HX07_SEAT_FLEX_RECEIVER",
+    "body": "M_THIGH-1",
+    "distance_mm": 0.0,
+    "intersection_cm3": 204.3920064479247
+  },
+  {
+    "part": "HX07_SEAT_FLEX_RECEIVER",
+    "body": "M_THIGH1",
+    "distance_mm": 0.0,
+    "intersection_cm3": 204.3920064482707
+  }
+]

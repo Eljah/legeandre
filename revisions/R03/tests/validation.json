@@ -1,0 +1,37 @@
+{
+  "consecutive_duplicate_needles": 0,
+  "design": "Спим с хаски R03",
+  "method": "manual semantic object redigitizing; custom Python engine, Inkscape-compatible SVG; no physical sewout",
+  "needle_points": 50691,
+  "colors": 8,
+  "color_blocks": 13,
+  "color_changes": 12,
+  "trim_requests": 347,
+  "dimensions_mm": [
+    140.0,
+    155.0
+  ],
+  "tatami_objects": 61,
+  "satin_columns": 108,
+  "stitch_types": {
+    "tie_in": 1436,
+    "edge_underlay": 1930,
+    "buried_travel": 2755,
+    "mesh_underlay": 4090,
+    "tatami": 23422,
+    "tie_off": 495,
+    "center_underlay": 3008,
+    "satin": 13054,
+    "zigzag_underlay": 501
+  },
+  "max_stitch_mm": 3.7643,
+  "zero_length_points": 359,
+  "percent_under_0_3mm": 1.35,
+  "DST_EXP_identical_needle_points": true,
+  "row_spacing_mm": 0.42,
+  "tatami_max_stitch_mm": 3,
+  "satin_peak_to_peak_mm": 0.4,
+  "satin_width_compensation_per_side_mm": 0.12,
+  "physical_sewout": false,
+  "inkstitch_engine_executed": false
+}

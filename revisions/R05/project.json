@@ -1,0 +1,47 @@
+{
+  "revision": "R05",
+  "base": "R04 supplied archive",
+  "date": "2026-10-01",
+  "units": "mm",
+  "reference_height_mm": 2000,
+  "design_mass_case_kg": 120,
+  "axes": {
+    "X": "head to feet",
+    "Y": "positive = occupant RIGHT; negative = occupant LEFT",
+    "Z": "up from floor"
+  },
+  "working_back_deg_from_floor": 55.0,
+  "thigh_deg_from_floor": 5.0,
+  "hand_heater": false,
+  "keyboard_flap": "rolls towards sitter; main shoulder and forearm wrap remains",
+  "model_status": "Nominal CAD + analytical/kinematic screening, not physiological or fabric/filler contact proof",
+  "materials": {
+    "tube": "6082-T6 candidate, bolted/gusset joints concept; no assumed welded strength",
+    "E_MPa_assumed": 69000,
+    "rho_kg_m3_assumed": 2700,
+    "screening_allowable_MPa_assumed": 80
+  },
+  "frame_floor_support_polygon_mm": [
+    [
+      610.0,
+      -445.0
+    ],
+    [
+      1450.0,
+      -445.0
+    ],
+    [
+      1450.0,
+      445.0
+    ],
+    [
+      610.0,
+      445.0
+    ]
+  ],
+  "neck_open": true,
+  "exit_table_slide_mm": 80.0,
+  "slide_mechanism_status": "80 mm kinematic rail travel; joint lock/hold-down hardware not detailed",
+  "existing_outer_patterns": "R04 DRAFT, NOT production",
+  "pattern_basis": "New developable mid-surface panels. No final shrinkage/drape correction."
+}

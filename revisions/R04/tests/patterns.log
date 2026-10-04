@@ -1,0 +1,73 @@
+/mnt/data/Lezhandr_R04/source/make_patterns.py:42: DeprecationWarning: Arrays of 2-dimensional vectors are deprecated. Use arrays of 3-dimensional vectors instead. (deprecated in NumPy 2.0)
+  signed=np.cross(xy[tri[:,1]]-xy[tri[:,0]],xy[tri[:,2]]-xy[tri[:,0]])
+O01 {'p95_edge_distortion_pct': 5.162786935566233, 'max_edge_distortion_pct': 8.606799824756939, 'polygon_valid': True, 'triangle_orientation_consistent': True, 'area_3d_m2': 0.13749512172705627, 'area_2d_m2': 0.13581531897735566, 'solver_nfev': 29, 'solver_success': True, 'production_release': False}
+/mnt/data/Lezhandr_R04/source/make_patterns.py:42: DeprecationWarning: Arrays of 2-dimensional vectors are deprecated. Use arrays of 3-dimensional vectors instead. (deprecated in NumPy 2.0)
+  signed=np.cross(xy[tri[:,1]]-xy[tri[:,0]],xy[tri[:,2]]-xy[tri[:,0]])
+L01 {'p95_edge_distortion_pct': 3.134116432335579, 'max_edge_distortion_pct': 5.983490245258405, 'polygon_valid': True, 'triangle_orientation_consistent': True, 'area_3d_m2': 0.08369824447075254, 'area_2d_m2': 0.08397972903513468, 'solver_nfev': 33, 'solver_success': True, 'production_release': False}
+/mnt/data/Lezhandr_R04/source/make_patterns.py:42: DeprecationWarning: Arrays of 2-dimensional vectors are deprecated. Use arrays of 3-dimensional vectors instead. (deprecated in NumPy 2.0)
+  signed=np.cross(xy[tri[:,1]]-xy[tri[:,0]],xy[tri[:,2]]-xy[tri[:,0]])
+O02 {'p95_edge_distortion_pct': 1.7859117179179984, 'max_edge_distortion_pct': 3.2792351879920245, 'polygon_valid': True, 'triangle_orientation_consistent': True, 'area_3d_m2': 0.1922517881126169, 'area_2d_m2': 0.19150348044302914, 'solver_nfev': 18, 'solver_success': True, 'production_release': False}
+/mnt/data/Lezhandr_R04/source/make_patterns.py:42: DeprecationWarning: Arrays of 2-dimensional vectors are deprecated. Use arrays of 3-dimensional vectors instead. (deprecated in NumPy 2.0)
+  signed=np.cross(xy[tri[:,1]]-xy[tri[:,0]],xy[tri[:,2]]-xy[tri[:,0]])
+L02 {'p95_edge_distortion_pct': 1.5444956613498513, 'max_edge_distortion_pct': 3.1346953797642407, 'polygon_valid': True, 'triangle_orientation_consistent': True, 'area_3d_m2': 0.16865993941688, 'area_2d_m2': 0.16907839926680224, 'solver_nfev': 16, 'solver_success': True, 'production_release': False}
+/mnt/data/Lezhandr_R04/source/make_patterns.py:42: DeprecationWarning: Arrays of 2-dimensional vectors are deprecated. Use arrays of 3-dimensional vectors instead. (deprecated in NumPy 2.0)
+  signed=np.cross(xy[tri[:,1]]-xy[tri[:,0]],xy[tri[:,2]]-xy[tri[:,0]])
+O03 {'p95_edge_distortion_pct': 0.9368226728464463, 'max_edge_distortion_pct': 1.719929437579748, 'polygon_valid': True, 'triangle_orientation_consistent': True, 'area_3d_m2': 0.25027587977557014, 'area_2d_m2': 0.24979834362950878, 'solver_nfev': 14, 'solver_success': True, 'production_release': False}
+/mnt/data/Lezhandr_R04/source/make_patterns.py:42: DeprecationWarning: Arrays of 2-dimensional vectors are deprecated. Use arrays of 3-dimensional vectors instead. (deprecated in NumPy 2.0)
+  signed=np.cross(xy[tri[:,1]]-xy[tri[:,0]],xy[tri[:,2]]-xy[tri[:,0]])
+L03 {'p95_edge_distortion_pct': 0.9867476782414869, 'max_edge_distortion_pct': 1.7189334697961356, 'polygon_valid': True, 'triangle_orientation_consistent': True, 'area_3d_m2': 0.23408396805326867, 'area_2d_m2': 0.2344090462126247, 'solver_nfev': 8, 'solver_success': True, 'production_release': False}
+/mnt/data/Lezhandr_R04/source/make_patterns.py:42: DeprecationWarning: Arrays of 2-dimensional vectors are deprecated. Use arrays of 3-dimensional vectors instead. (deprecated in NumPy 2.0)
+  signed=np.cross(xy[tri[:,1]]-xy[tri[:,0]],xy[tri[:,2]]-xy[tri[:,0]])
+O04 {'p95_edge_distortion_pct': 0.7337435485331112, 'max_edge_distortion_pct': 1.351151160600561, 'polygon_valid': True, 'triangle_orientation_consistent': True, 'area_3d_m2': 0.2909853467729012, 'area_2d_m2': 0.2906432842760648, 'solver_nfev': 21, 'solver_success': True, 'production_release': False}
+/mnt/data/Lezhandr_R04/source/make_patterns.py:42: DeprecationWarning: Arrays of 2-dimensional vectors are deprecated. Use arrays of 3-dimensional vectors instead. (deprecated in NumPy 2.0)
+  signed=np.cross(xy[tri[:,1]]-xy[tri[:,0]],xy[tri[:,2]]-xy[tri[:,0]])
+L04 {'p95_edge_distortion_pct': 1.1201247040239448, 'max_edge_distortion_pct': 2.114083731782701, 'polygon_valid': True, 'triangle_orientation_consistent': True, 'area_3d_m2': 0.27151284685034516, 'area_2d_m2': 0.27185789438879454, 'solver_nfev': 7, 'solver_success': True, 'production_release': False}
+/mnt/data/Lezhandr_R04/source/make_patterns.py:42: DeprecationWarning: Arrays of 2-dimensional vectors are deprecated. Use arrays of 3-dimensional vectors instead. (deprecated in NumPy 2.0)
+  signed=np.cross(xy[tri[:,1]]-xy[tri[:,0]],xy[tri[:,2]]-xy[tri[:,0]])
+O05 {'p95_edge_distortion_pct': 0.9145801981006507, 'max_edge_distortion_pct': 1.7036571781987586, 'polygon_valid': True, 'triangle_orientation_consistent': True, 'area_3d_m2': 0.3191025753860947, 'area_2d_m2': 0.3184598415602304, 'solver_nfev': 9, 'solver_success': True, 'production_release': False}
+/mnt/data/Lezhandr_R04/source/make_patterns.py:42: DeprecationWarning: Arrays of 2-dimensional vectors are deprecated. Use arrays of 3-dimensional vectors instead. (deprecated in NumPy 2.0)
+  signed=np.cross(xy[tri[:,1]]-xy[tri[:,0]],xy[tri[:,2]]-xy[tri[:,0]])
+L05 {'p95_edge_distortion_pct': 1.2956720383478864, 'max_edge_distortion_pct': 2.085879214438402, 'polygon_valid': True, 'triangle_orientation_consistent': True, 'area_3d_m2': 0.27616798955122546, 'area_2d_m2': 0.27666903605422655, 'solver_nfev': 32, 'solver_success': True, 'production_release': False}
+/mnt/data/Lezhandr_R04/source/make_patterns.py:42: DeprecationWarning: Arrays of 2-dimensional vectors are deprecated. Use arrays of 3-dimensional vectors instead. (deprecated in NumPy 2.0)
+  signed=np.cross(xy[tri[:,1]]-xy[tri[:,0]],xy[tri[:,2]]-xy[tri[:,0]])
+O06 {'p95_edge_distortion_pct': 2.344001016410635, 'max_edge_distortion_pct': 6.013471132756143, 'polygon_valid': True, 'triangle_orientation_consistent': True, 'area_3d_m2': 0.3069114463035336, 'area_2d_m2': 0.3044398581638505, 'solver_nfev': 120, 'solver_success': True, 'production_release': False}
+/mnt/data/Lezhandr_R04/source/make_patterns.py:42: DeprecationWarning: Arrays of 2-dimensional vectors are deprecated. Use arrays of 3-dimensional vectors instead. (deprecated in NumPy 2.0)
+  signed=np.cross(xy[tri[:,1]]-xy[tri[:,0]],xy[tri[:,2]]-xy[tri[:,0]])
+L06 {'p95_edge_distortion_pct': 1.513605265771506, 'max_edge_distortion_pct': 3.5321934738575034, 'polygon_valid': True, 'triangle_orientation_consistent': True, 'area_3d_m2': 0.17594192617238502, 'area_2d_m2': 0.1758238929130052, 'solver_nfev': 160, 'solver_success': False, 'production_release': False}
+/mnt/data/Lezhandr_R04/source/make_patterns.py:42: DeprecationWarning: Arrays of 2-dimensional vectors are deprecated. Use arrays of 3-dimensional vectors instead. (deprecated in NumPy 2.0)
+  signed=np.cross(xy[tri[:,1]]-xy[tri[:,0]],xy[tri[:,2]]-xy[tri[:,0]])
+O07 {'p95_edge_distortion_pct': 2.417065605208504, 'max_edge_distortion_pct': 4.967495281687473, 'polygon_valid': True, 'triangle_orientation_consistent': True, 'area_3d_m2': 0.3069073990672838, 'area_2d_m2': 0.3057550669766429, 'solver_nfev': 103, 'solver_success': True, 'production_release': False}
+/mnt/data/Lezhandr_R04/source/make_patterns.py:42: DeprecationWarning: Arrays of 2-dimensional vectors are deprecated. Use arrays of 3-dimensional vectors instead. (deprecated in NumPy 2.0)
+  signed=np.cross(xy[tri[:,1]]-xy[tri[:,0]],xy[tri[:,2]]-xy[tri[:,0]])
+L07 {'p95_edge_distortion_pct': 1.3245630019877663, 'max_edge_distortion_pct': 3.0007846947807892, 'polygon_valid': True, 'triangle_orientation_consistent': True, 'area_3d_m2': 0.17594324670183695, 'area_2d_m2': 0.1767167016922531, 'solver_nfev': 160, 'solver_success': False, 'production_release': False}
+/mnt/data/Lezhandr_R04/source/make_patterns.py:42: DeprecationWarning: Arrays of 2-dimensional vectors are deprecated. Use arrays of 3-dimensional vectors instead. (deprecated in NumPy 2.0)
+  signed=np.cross(xy[tri[:,1]]-xy[tri[:,0]],xy[tri[:,2]]-xy[tri[:,0]])
+O08 {'p95_edge_distortion_pct': 0.9511470900858576, 'max_edge_distortion_pct': 1.9204265583480762, 'polygon_valid': True, 'triangle_orientation_consistent': True, 'area_3d_m2': 0.3190942552271301, 'area_2d_m2': 0.3184814696112667, 'solver_nfev': 11, 'solver_success': True, 'production_release': False}
+/mnt/data/Lezhandr_R04/source/make_patterns.py:42: DeprecationWarning: Arrays of 2-dimensional vectors are deprecated. Use arrays of 3-dimensional vectors instead. (deprecated in NumPy 2.0)
+  signed=np.cross(xy[tri[:,1]]-xy[tri[:,0]],xy[tri[:,2]]-xy[tri[:,0]])
+L08 {'p95_edge_distortion_pct': 1.1566740879722288, 'max_edge_distortion_pct': 1.9989860915104019, 'polygon_valid': True, 'triangle_orientation_consistent': True, 'area_3d_m2': 0.27617254624144005, 'area_2d_m2': 0.27678310573534964, 'solver_nfev': 27, 'solver_success': True, 'production_release': False}
+/mnt/data/Lezhandr_R04/source/make_patterns.py:42: DeprecationWarning: Arrays of 2-dimensional vectors are deprecated. Use arrays of 3-dimensional vectors instead. (deprecated in NumPy 2.0)
+  signed=np.cross(xy[tri[:,1]]-xy[tri[:,0]],xy[tri[:,2]]-xy[tri[:,0]])
+O09 {'p95_edge_distortion_pct': 0.7441759048086249, 'max_edge_distortion_pct': 1.4279930100354665, 'polygon_valid': True, 'triangle_orientation_consistent': True, 'area_3d_m2': 0.29098333210951893, 'area_2d_m2': 0.29060068024383323, 'solver_nfev': 13, 'solver_success': True, 'production_release': False}
+/mnt/data/Lezhandr_R04/source/make_patterns.py:42: DeprecationWarning: Arrays of 2-dimensional vectors are deprecated. Use arrays of 3-dimensional vectors instead. (deprecated in NumPy 2.0)
+  signed=np.cross(xy[tri[:,1]]-xy[tri[:,0]],xy[tri[:,2]]-xy[tri[:,0]])
+L09 {'p95_edge_distortion_pct': 1.1071788824379758, 'max_edge_distortion_pct': 2.147867885850674, 'polygon_valid': True, 'triangle_orientation_consistent': True, 'area_3d_m2': 0.27151434990741885, 'area_2d_m2': 0.2719956807616387, 'solver_nfev': 15, 'solver_success': True, 'production_release': False}
+/mnt/data/Lezhandr_R04/source/make_patterns.py:42: DeprecationWarning: Arrays of 2-dimensional vectors are deprecated. Use arrays of 3-dimensional vectors instead. (deprecated in NumPy 2.0)
+  signed=np.cross(xy[tri[:,1]]-xy[tri[:,0]],xy[tri[:,2]]-xy[tri[:,0]])
+O10 {'p95_edge_distortion_pct': 0.9771607051175413, 'max_edge_distortion_pct': 1.7714873896504946, 'polygon_valid': True, 'triangle_orientation_consistent': True, 'area_3d_m2': 0.25027584864164837, 'area_2d_m2': 0.2498278635775892, 'solver_nfev': 8, 'solver_success': True, 'production_release': False}
+/mnt/data/Lezhandr_R04/source/make_patterns.py:42: DeprecationWarning: Arrays of 2-dimensional vectors are deprecated. Use arrays of 3-dimensional vectors instead. (deprecated in NumPy 2.0)
+  signed=np.cross(xy[tri[:,1]]-xy[tri[:,0]],xy[tri[:,2]]-xy[tri[:,0]])
+L10 {'p95_edge_distortion_pct': 1.0033787477446405, 'max_edge_distortion_pct': 1.7451300469689457, 'polygon_valid': True, 'triangle_orientation_consistent': True, 'area_3d_m2': 0.23408399131032795, 'area_2d_m2': 0.23444421960398376, 'solver_nfev': 8, 'solver_success': True, 'production_release': False}
+/mnt/data/Lezhandr_R04/source/make_patterns.py:42: DeprecationWarning: Arrays of 2-dimensional vectors are deprecated. Use arrays of 3-dimensional vectors instead. (deprecated in NumPy 2.0)
+  signed=np.cross(xy[tri[:,1]]-xy[tri[:,0]],xy[tri[:,2]]-xy[tri[:,0]])
+O11 {'p95_edge_distortion_pct': 1.7488043189181013, 'max_edge_distortion_pct': 3.2884193109527837, 'polygon_valid': True, 'triangle_orientation_consistent': True, 'area_3d_m2': 0.19225178741695242, 'area_2d_m2': 0.19150709171755073, 'solver_nfev': 15, 'solver_success': True, 'production_release': False}
+/mnt/data/Lezhandr_R04/source/make_patterns.py:42: DeprecationWarning: Arrays of 2-dimensional vectors are deprecated. Use arrays of 3-dimensional vectors instead. (deprecated in NumPy 2.0)
+  signed=np.cross(xy[tri[:,1]]-xy[tri[:,0]],xy[tri[:,2]]-xy[tri[:,0]])
+L11 {'p95_edge_distortion_pct': 1.5370123260233348, 'max_edge_distortion_pct': 3.1411372939457394, 'polygon_valid': True, 'triangle_orientation_consistent': True, 'area_3d_m2': 0.16865994032991335, 'area_2d_m2': 0.16908017509897988, 'solver_nfev': 13, 'solver_success': True, 'production_release': False}
+/mnt/data/Lezhandr_R04/source/make_patterns.py:42: DeprecationWarning: Arrays of 2-dimensional vectors are deprecated. Use arrays of 3-dimensional vectors instead. (deprecated in NumPy 2.0)
+  signed=np.cross(xy[tri[:,1]]-xy[tri[:,0]],xy[tri[:,2]]-xy[tri[:,0]])
+O12 {'p95_edge_distortion_pct': 5.162668806756826, 'max_edge_distortion_pct': 8.60645792127237, 'polygon_valid': True, 'triangle_orientation_consistent': True, 'area_3d_m2': 0.13749512172217943, 'area_2d_m2': 0.13581414571311393, 'solver_nfev': 22, 'solver_success': True, 'production_release': False}
+/mnt/data/Lezhandr_R04/source/make_patterns.py:42: DeprecationWarning: Arrays of 2-dimensional vectors are deprecated. Use arrays of 3-dimensional vectors instead. (deprecated in NumPy 2.0)
+  signed=np.cross(xy[tri[:,1]]-xy[tri[:,0]],xy[tri[:,2]]-xy[tri[:,0]])
+L12 {'p95_edge_distortion_pct': 3.1335764556750996, 'max_edge_distortion_pct': 5.984797337606896, 'polygon_valid': True, 'triangle_orientation_consistent': True, 'area_3d_m2': 0.08369824447900462, 'area_2d_m2': 0.08397981998349047, 'solver_nfev': 50, 'solver_success': True, 'production_release': False}
+{'panels': 29, 'shell_panels': 24, 'canopy_and_trim_patterns': 5, 'max_shell_edge_error_pct': 8.606799824756939, 'not_a_cutting_marker': True, 'not_production_released': True}

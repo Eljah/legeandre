@@ -1,0 +1,83 @@
+[
+  {
+    "id": "Q01_SHOULDER_BODY",
+    "x_mm": 720.0,
+    "outer_section_arc_mm": 1142.971550238295,
+    "inner_section_arc_mm": 1085.2055590174225,
+    "difference_mm": 57.76599122087259,
+    "max_geometric_thickness_mm": 48.0,
+    "note": "3D sectional arc lengths, not finished 2D pattern lengths"
+  },
+  {
+    "id": "Q02_SHOULDER_BODY",
+    "x_mm": 886.0,
+    "outer_section_arc_mm": 1174.591564329539,
+    "inner_section_arc_mm": 1117.2005908171443,
+    "difference_mm": 57.390973512394794,
+    "max_geometric_thickness_mm": 48.0,
+    "note": "3D sectional arc lengths, not finished 2D pattern lengths"
+  },
+  {
+    "id": "Q03_SHOULDER_BODY",
+    "x_mm": 1016.0,
+    "outer_section_arc_mm": 1157.124576606707,
+    "inner_section_arc_mm": 1106.1438980980602,
+    "difference_mm": 50.98067850864686,
+    "max_geometric_thickness_mm": 48.0,
+    "note": "3D sectional arc lengths, not finished 2D pattern lengths"
+  },
+  {
+    "id": "Q04_KEYBOARD_CLOSED",
+    "x_mm": 1197.5,
+    "outer_section_arc_mm": 1194.36251603281,
+    "inner_section_arc_mm": 1135.24988286279,
+    "difference_mm": 59.11263317001999,
+    "max_geometric_thickness_mm": 48.0,
+    "note": "3D sectional arc lengths, not finished 2D pattern lengths"
+  },
+  {
+    "id": "Q04_KEYBOARD_FOLDED",
+    "x_mm": 985.5,
+    "outer_section_arc_mm": 1193.4212743143075,
+    "inner_section_arc_mm": 1172.546084835873,
+    "difference_mm": 20.87518947843455,
+    "max_geometric_thickness_mm": 48.0,
+    "note": "3D sectional arc lengths, not finished 2D pattern lengths"
+  },
+  {
+    "id": "Q05_LEG_CONTINUATION",
+    "x_mm": 1510.0,
+    "outer_section_arc_mm": 1045.7269515381736,
+    "inner_section_arc_mm": 1004.7137996811788,
+    "difference_mm": 41.013151856994796,
+    "max_geometric_thickness_mm": 48.0,
+    "note": "3D sectional arc lengths, not finished 2D pattern lengths"
+  },
+  {
+    "id": "Q06_LEG_CONTINUATION",
+    "x_mm": 1755.0,
+    "outer_section_arc_mm": 971.7941400032739,
+    "inner_section_arc_mm": 933.2486955197077,
+    "difference_mm": 38.54544448356626,
+    "max_geometric_thickness_mm": 48.0,
+    "note": "3D sectional arc lengths, not finished 2D pattern lengths"
+  },
+  {
+    "id": "Q07_LEG_CONTINUATION",
+    "x_mm": 1990.0,
+    "outer_section_arc_mm": 860.5586391120112,
+    "inner_section_arc_mm": 823.3901827063919,
+    "difference_mm": 37.16845640561928,
+    "max_geometric_thickness_mm": 48.0,
+    "note": "3D sectional arc lengths, not finished 2D pattern lengths"
+  },
+  {
+    "id": "Q08_LEG_CONTINUATION",
+    "x_mm": 2200.0,
+    "outer_section_arc_mm": 628.8821885147329,
+    "inner_section_arc_mm": 588.3366539838214,
+    "difference_mm": 40.54553453091148,
+    "max_geometric_thickness_mm": 48.0,
+    "note": "3D sectional arc lengths, not finished 2D pattern lengths"
+  }
+]

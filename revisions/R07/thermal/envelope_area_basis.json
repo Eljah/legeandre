@@ -1,0 +1,6 @@
+{
+  "leg_quilt_outer_area_from_CAD_m2": 1.291874820152103,
+  "shoulder_area_assumption_m2": 0.85,
+  "total_quilt_area_used_m2": 2.141874820152103,
+  "hood_open_head_zone": "Not treated as airtight insulation; leakage treated independently. Head physiology excluded."
+}

@@ -1,0 +1,7 @@
+{
+  "method": "Pillow ImageGrab from actual Xvfb X11 display :96",
+  "application": "source/render_r06.py --viewer",
+  "image": "screenshots/VTK_R06_actual.png",
+  "sha256": "2d128191fbe10966f1b81cafdf1e92538d710b623ef501854f36c8c9ef51d627",
+  "synthetic_UI_image_generation": false
+}

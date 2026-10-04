@@ -1,0 +1,1623 @@
+{
+  "revision": "R08",
+  "checks": [
+    {
+      "name": "CAD declared checks",
+      "passed": true,
+      "detail": 11
+    },
+    {
+      "name": "No thermal cassette intersections",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Four STEP exports",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Metric pattern criterion <=2 percent",
+      "passed": true,
+      "detail": 1.992950283780385
+    },
+    {
+      "name": "Matched source segment difference <=1 mm",
+      "passed": true,
+      "detail": 0.04204969655603463
+    },
+    {
+      "name": "Unique pattern IDs",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O1_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O1_A_B_B_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O1_A_B_B_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O1_A_B_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O1_A_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O1_A_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O1_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O1_A_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O1_A_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O1_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I1_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I1_A_B_B_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I1_A_B_B_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I1_A_B_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I1_A_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I1_A_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I1_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I1_A_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I1_A_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I1_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W1_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W1_A_B_B_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W1_A_B_B_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W1_A_B_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W1_A_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W1_A_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W1_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W1_A_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W1_A_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W1_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O2_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O2_A_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O2_A_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O2_A_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O2_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O2_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I2_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I2_A_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I2_A_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I2_A_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I2_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I2_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W2_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W2_A_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W2_A_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W2_A_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W2_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W2_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O5_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O5_A_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O5_A_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O5_A_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O5_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O5_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W5_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W5_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W5_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O6_B_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O6_B_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O6_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O6_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O6_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O6_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O6_A_B_A_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O6_A_B_A_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O6_A_B_A_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O6_A_B_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O6_A_B_A_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O6_A_B_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O6_A_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O6_A_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_O6_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I6_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I6_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I6_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I6_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I6_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I6_A_B_A_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I6_A_B_A_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I6_A_B_A_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I6_A_B_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I6_A_B_A_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I6_A_B_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I6_A_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I6_A_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_I6_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W6_B_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W6_B_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W6_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W6_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W6_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W6_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W6_A_B_A_B_B_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W6_A_B_A_B_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W6_A_B_A_B_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W6_A_B_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W6_A_B_A_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W6_A_B_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W6_A_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W6_A_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_W6_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_START",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_END",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_LEFT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF O08_SMOOTH_LOWER_RIGHT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_O1_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_O1_B_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_O1_B_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_O1_B_A_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_O1_B_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_O1_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_I1_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_I1_B_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_I1_B_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_I1_B_A_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_I1_B_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_I1_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_W1_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_W1_B_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_W1_B_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_W1_B_A_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_W1_B_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_W1_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_O2_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_O2_B_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_O2_B_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_O2_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_O2_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_O2_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_I2_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_I2_B_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_I2_B_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_I2_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_I2_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_I2_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_W2_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_W2_B_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_W2_B_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_W2_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_W2_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_W2_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_O3_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_O3_B_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_O3_B_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_O3_B_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_O3_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_O3_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_O3_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_I3_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_I3_B_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_I3_B_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_I3_B_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_I3_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_I3_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_I3_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_W3_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_W3_B_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_W3_B_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_W3_B_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_W3_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_W3_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_W3_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_O4_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_O4_B_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_O4_B_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_O4_B_A_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_O4_B_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_O4_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_I4_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_I4_B_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_I4_B_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_I4_B_A_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_I4_B_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_I4_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_W4_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_W4_B_A_B_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_W4_B_A_B_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_W4_B_A_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_W4_B_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_W4_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_START",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_END",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_LEFT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF H08_CANOPY_RIGHT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF F08_BOTTOM",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF F08_TOP",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF F08_EDGE_LEFT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF F08_EDGE_RIGHT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_BACK_-1_O1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_BACK_-1_I1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_BACK_-1_W1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_BACK_-1_START",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_BACK_-1_END",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_BACK_-1_LEFT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_BACK_-1_RIGHT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_BACK_1_O1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_BACK_1_I1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_BACK_1_W1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_BACK_1_START",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_BACK_1_END",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_BACK_1_LEFT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_BACK_1_RIGHT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_REAR_O",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_REAR_I",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF L08_CONTINUOUS_COVER_O1_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF L08_CONTINUOUS_COVER_O1_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF L08_CONTINUOUS_COVER_O1_A_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF L08_CONTINUOUS_COVER_O1_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF L08_CONTINUOUS_COVER_I1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF L08_CONTINUOUS_COVER_W1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF L08_CONTINUOUS_COVER_O2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF L08_CONTINUOUS_COVER_I2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF L08_CONTINUOUS_COVER_W2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF L08_CONTINUOUS_COVER_O3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF L08_CONTINUOUS_COVER_I3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF L08_CONTINUOUS_COVER_W3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF L08_CONTINUOUS_COVER_O4_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF L08_CONTINUOUS_COVER_O4_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF L08_CONTINUOUS_COVER_O4_A_A_B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF L08_CONTINUOUS_COVER_O4_A_A_A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF L08_CONTINUOUS_COVER_I4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF L08_CONTINUOUS_COVER_W4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF L08_CONTINUOUS_COVER_START",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF L08_CONTINUOUS_COVER_END",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF L08_CONTINUOUS_COVER_LEFT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF L08_CONTINUOUS_COVER_RIGHT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF S08_WRAP_-1_O1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF S08_WRAP_-1_I1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF S08_WRAP_-1_W1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF S08_WRAP_-1_O2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF S08_WRAP_-1_I2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF S08_WRAP_-1_W2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF S08_WRAP_-1_START",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF S08_WRAP_-1_END",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF S08_WRAP_-1_LEFT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF S08_WRAP_-1_RIGHT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF S08_WRAP_1_O1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF S08_WRAP_1_I1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF S08_WRAP_1_W1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF S08_WRAP_1_O2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF S08_WRAP_1_I2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF S08_WRAP_1_W2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF S08_WRAP_1_START",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF S08_WRAP_1_END",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF S08_WRAP_1_LEFT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF S08_WRAP_1_RIGHT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_FOREARM_GUSSET_-1_O1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_FOREARM_GUSSET_-1_I1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_FOREARM_GUSSET_-1_W1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_FOREARM_GUSSET_-1_START",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_FOREARM_GUSSET_-1_END",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_FOREARM_GUSSET_-1_LEFT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_FOREARM_GUSSET_-1_RIGHT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_FOREARM_GUSSET_1_O1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_FOREARM_GUSSET_1_I1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_FOREARM_GUSSET_1_W1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_FOREARM_GUSSET_1_START",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_FOREARM_GUSSET_1_END",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_FOREARM_GUSSET_1_LEFT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF G08_FOREARM_GUSSET_1_RIGHT",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF K08_FLAP_OUTER",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF K08_FLAP_LINING",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF K08_FLAP_INSULATION",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF Z01_MAIN_RIGHT_GUARD",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF Z01_MAIN_RIGHT_TAPE",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF Z02_HOOD_SERVICE_GUARD",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF Z02_HOOD_SERVICE_TAPE",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF Z03_FILL_SERVICE_GUARD",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF Z03_FILL_SERVICE_TAPE",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF Z04_ELECTRIC_SERVICE_GUARD",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF Z04_ELECTRIC_SERVICE_TAPE",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF W01_POWER_TO_DESK_CHANNEL",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF W02_USB_DATA_CHANNEL",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF W03_BACK_HEATER_CHANNEL",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF W04_SEAT_HEATER_CHANNEL",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF W05_BACK_NTC_CHANNEL",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "DXF W06_SEAT_NTC_CHANNEL",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Pattern nesting bounding boxes do not overlap",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Harness left-only W01_POWER_TO_DESK",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Harness cut reserve W01_POWER_TO_DESK",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Harness left-only W02_USB_DATA",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Harness cut reserve W02_USB_DATA",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Harness left-only W03_BACK_HEATER",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Harness cut reserve W03_BACK_HEATER",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Harness left-only W04_SEAT_HEATER",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Harness cut reserve W04_SEAT_HEATER",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Harness left-only W05_BACK_NTC",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Harness cut reserve W05_BACK_NTC",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Harness left-only W06_SEAT_NTC",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Harness cut reserve W06_SEAT_NTC",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Receiver balances close",
+      "passed": true,
+      "detail": 4.707345624410664e-14
+    },
+    {
+      "name": "Report is 16 pages",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "PDF text bounds page 1",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "PDF text bounds page 2",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "PDF text bounds page 3",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "PDF text bounds page 4",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "PDF text bounds page 5",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "PDF text bounds page 6",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "PDF text bounds page 7",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "PDF text bounds page 8",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "PDF text bounds page 9",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "PDF text bounds page 10",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "PDF text bounds page 11",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "PDF text bounds page 12",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "PDF text bounds page 13",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "PDF text bounds page 14",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "PDF text bounds page 15",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "PDF text bounds page 16",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "1:1 PDF matches registry",
+      "passed": true,
+      "detail": 284
+    }
+  ],
+  "passed": 322,
+  "total": 322,
+  "all_passed": true,
+  "workflow_run_id": "37221101409",
+  "verified_utc": "2026-10-04T17:43:35.532637+00:00",
+  "manufacturing_approved": false,
+  "human_tested": false,
+  "electrical_hardware_updated": false
+}

@@ -1,0 +1,6 @@
+(footprint "Husky_TERM_2" (layer "F.Cu") (at 0 0) (uuid b698bf9a-c10b-4c75-b897-0aed9bfed927)
+(fp_text reference "JK1" (at 0 -7) (layer "F.SilkS") (effects (font (size 1.1 1.1) (thickness 0.15))))
+(fp_text value "External K1 coil after NC chain" (at 0 7) (layer "F.SilkS") hide (effects (font (size 1 1) (thickness 0.15))))
+(pad "1" thru_hole rect (at -2.54 0) (size 2.4 2.4) (drill 1.2) (layers "*.Cu" "*.Mask") (net 36 "COIL_PLUS"))
+(pad "2" thru_hole circle (at 2.54 0) (size 2.4 2.4) (drill 1.2) (layers "*.Cu" "*.Mask") (net 35 "COIL_MINUS"))
+)

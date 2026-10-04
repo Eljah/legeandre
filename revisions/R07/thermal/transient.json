@@ -1,0 +1,2112 @@
+[
+  {
+    "time_s": 0.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 10.216522321724383,
+    "seat_C": 10.235919925982826,
+    "electric_back_W": 20.0,
+    "electric_seat_W": 20.0,
+    "session_enabled": true
+  },
+  {
+    "time_s": 10.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 12.280575756048885,
+    "seat_C": 12.484885896661291,
+    "electric_back_W": 20.0,
+    "electric_seat_W": 20.0,
+    "session_enabled": true
+  },
+  {
+    "time_s": 20.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 14.171552314728306,
+    "seat_C": 14.545269538430944,
+    "electric_back_W": 20.0,
+    "electric_seat_W": 20.0,
+    "session_enabled": true
+  },
+  {
+    "time_s": 30.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 15.903964996498482,
+    "seat_C": 16.432884027320394,
+    "electric_back_W": 20.0,
+    "electric_seat_W": 20.0,
+    "session_enabled": true
+  },
+  {
+    "time_s": 40.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 17.491109842997307,
+    "seat_C": 18.16221655861783,
+    "electric_back_W": 20.0,
+    "electric_seat_W": 20.0,
+    "session_enabled": true
+  },
+  {
+    "time_s": 50.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 18.94516798415214,
+    "seat_C": 19.74653953420756,
+    "electric_back_W": 20.0,
+    "electric_seat_W": 20.0,
+    "session_enabled": true
+  },
+  {
+    "time_s": 60.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 20.277299126765026,
+    "seat_C": 21.198012426525327,
+    "electric_back_W": 20.0,
+    "electric_seat_W": 20.0,
+    "session_enabled": true
+  },
+  {
+    "time_s": 70.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 21.497727203808584,
+    "seat_C": 22.52777510092515,
+    "electric_back_W": 20.0,
+    "electric_seat_W": 20.0,
+    "session_enabled": true
+  },
+  {
+    "time_s": 80.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 22.615818841779593,
+    "seat_C": 23.74603331269469,
+    "electric_back_W": 20.0,
+    "electric_seat_W": 20.0,
+    "session_enabled": true
+  },
+  {
+    "time_s": 90.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 23.640155248337102,
+    "seat_C": 24.862137034897415,
+    "electric_back_W": 20.0,
+    "electric_seat_W": 20.0,
+    "session_enabled": true
+  },
+  {
+    "time_s": 100.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 24.578598071953277,
+    "seat_C": 25.884652218197843,
+    "electric_back_W": 20.0,
+    "electric_seat_W": 20.0,
+    "session_enabled": true
+  },
+  {
+    "time_s": 110.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 25.438349739041236,
+    "seat_C": 26.821426533416904,
+    "electric_back_W": 20.0,
+    "electric_seat_W": 20.0,
+    "session_enabled": true
+  },
+  {
+    "time_s": 120.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 26.226008731639425,
+    "seat_C": 27.679649601383137,
+    "electric_back_W": 20.0,
+    "electric_seat_W": 20.0,
+    "session_enabled": true
+  },
+  {
+    "time_s": 130.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 26.947620229901663,
+    "seat_C": 28.465908172335876,
+    "electric_back_W": 20.0,
+    "electric_seat_W": 20.0,
+    "session_enabled": true
+  },
+  {
+    "time_s": 140.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 27.60872250806725,
+    "seat_C": 29.186236678375252,
+    "electric_back_W": 20.0,
+    "electric_seat_W": 20.0,
+    "session_enabled": true
+  },
+  {
+    "time_s": 150.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 28.21438943999424,
+    "seat_C": 29.846163546942396,
+    "electric_back_W": 20.0,
+    "electric_seat_W": 20.0,
+    "session_enabled": true
+  },
+  {
+    "time_s": 160.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 28.769269440480286,
+    "seat_C": 30.411609250192583,
+    "electric_back_W": 20.0,
+    "electric_seat_W": 17.530190891669537,
+    "session_enabled": true
+  },
+  {
+    "time_s": 170.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 29.277621141240658,
+    "seat_C": 30.82931167923244,
+    "electric_back_W": 20.0,
+    "electric_seat_W": 14.984335546761622,
+    "session_enabled": true
+  },
+  {
+    "time_s": 180.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 29.743346075351802,
+    "seat_C": 31.13551485095759,
+    "electric_back_W": 20.0,
+    "electric_seat_W": 13.091392632048576,
+    "session_enabled": true
+  },
+  {
+    "time_s": 190.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 30.17001862100949,
+    "seat_C": 31.359147232225496,
+    "electric_back_W": 20.0,
+    "electric_seat_W": 11.682283953748094,
+    "session_enabled": true
+  },
+  {
+    "time_s": 200.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 30.549799026555448,
+    "seat_C": 31.521641813719818,
+    "electric_back_W": 18.785551043637167,
+    "electric_seat_W": 10.631736176130445,
+    "session_enabled": true
+  },
+  {
+    "time_s": 210.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 30.84903162003634,
+    "seat_C": 31.638878092893002,
+    "electric_back_W": 16.975119710584227,
+    "electric_seat_W": 9.846931586387388,
+    "session_enabled": true
+  },
+  {
+    "time_s": 220.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.081132769696666,
+    "seat_C": 31.722620915251316,
+    "electric_back_W": 15.550686415626084,
+    "electric_seat_W": 9.259099293054211,
+    "session_enabled": true
+  },
+  {
+    "time_s": 230.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.26067537718724,
+    "seat_C": 31.781586531198958,
+    "electric_back_W": 14.428679794975475,
+    "electric_seat_W": 8.817285031323197,
+    "session_enabled": true
+  },
+  {
+    "time_s": 240.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.39907420582948,
+    "seat_C": 31.822232451861325,
+    "electric_back_W": 13.543636985737612,
+    "electric_seat_W": 8.483735127596965,
+    "session_enabled": true
+  },
+  {
+    "time_s": 250.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.505270229860418,
+    "seat_C": 31.849342663846954,
+    "electric_back_W": 12.844279653063726,
+    "electric_seat_W": 8.230476416400078,
+    "session_enabled": true
+  },
+  {
+    "time_s": 260.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.586266690073497,
+    "seat_C": 31.86646122268691,
+    "electric_back_W": 12.290440313932486,
+    "electric_seat_W": 8.036782254530197,
+    "session_enabled": true
+  },
+  {
+    "time_s": 270.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.647548990014524,
+    "seat_C": 31.87621350799186,
+    "electric_back_W": 11.850654704387749,
+    "electric_seat_W": 7.887295056610409,
+    "session_enabled": true
+  },
+  {
+    "time_s": 280.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.693413603650598,
+    "seat_C": 31.880544245661046,
+    "electric_back_W": 11.500275863401273,
+    "electric_seat_W": 7.770635256205569,
+    "session_enabled": true
+  },
+  {
+    "time_s": 290.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.72722571107275,
+    "seat_C": 31.880893861677915,
+    "electric_back_W": 11.21999688111548,
+    "electric_seat_W": 7.678370666204611,
+    "session_enabled": true
+  },
+  {
+    "time_s": 300.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.75162100635587,
+    "seat_C": 31.878329144947386,
+    "electric_back_W": 10.994693756832065,
+    "electric_seat_W": 7.604252863881772,
+    "session_enabled": true
+  },
+  {
+    "time_s": 310.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.768663775068873,
+    "seat_C": 31.873640057086252,
+    "electric_back_W": 10.81251900126395,
+    "electric_seat_W": 7.543651418147338,
+    "session_enabled": true
+  },
+  {
+    "time_s": 320.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.77997071748831,
+    "seat_C": 31.8674114600355,
+    "electric_back_W": 10.664191648571794,
+    "electric_seat_W": 7.4931347007471825,
+    "session_enabled": true
+  },
+  {
+    "time_s": 330.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.786807940175713,
+    "seat_C": 31.860076259949302,
+    "electric_back_W": 10.542441117595617,
+    "electric_seat_W": 7.450159303488746,
+    "session_enabled": true
+  },
+  {
+    "time_s": 340.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.790166930142092,
+    "seat_C": 31.851954782153364,
+    "electric_back_W": 10.441571584267457,
+    "electric_seat_W": 7.412839923140085,
+    "session_enabled": true
+  },
+  {
+    "time_s": 350.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.790824065922205,
+    "seat_C": 31.843283944517818,
+    "electric_back_W": 10.357120751299481,
+    "electric_seat_W": 7.379778865913821,
+    "session_enabled": true
+  },
+  {
+    "time_s": 360.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.789387232992734,
+    "seat_C": 31.834238872338428,
+    "electric_back_W": 10.285592559934841,
+    "electric_seat_W": 7.3499397249086,
+    "session_enabled": true
+  },
+  {
+    "time_s": 370.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.786332337930293,
+    "seat_C": 31.824948913030298,
+    "electric_back_W": 10.224247821051499,
+    "electric_seat_W": 7.322553785891502,
+    "session_enabled": true
+  },
+  {
+    "time_s": 380.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.782031910180706,
+    "seat_C": 31.815509501567824,
+    "electric_back_W": 10.170940214909496,
+    "electric_seat_W": 7.297050681951946,
+    "session_enabled": true
+  },
+  {
+    "time_s": 390.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.776777505997376,
+    "seat_C": 31.805990951687292,
+    "electric_back_W": 10.12398782848524,
+    "electric_seat_W": 7.2730070144728085,
+    "session_enabled": true
+  },
+  {
+    "time_s": 400.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.770797257574742,
+    "seat_C": 31.796444969346364,
+    "electric_back_W": 10.082072529653248,
+    "electric_seat_W": 7.250108285590244,
+    "session_enabled": true
+  },
+  {
+    "time_s": 410.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.764269619378506,
+    "seat_C": 31.786909478573644,
+    "electric_back_W": 10.0441611461715,
+    "electric_seat_W": 7.228120693317091,
+    "session_enabled": true
+  },
+  {
+    "time_s": 420.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.75733413571299,
+    "seat_C": 31.7774121969463,
+    "electric_back_W": 10.009443724527763,
+    "electric_seat_W": 7.2068702340461,
+    "session_enabled": true
+  },
+  {
+    "time_s": 430.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.75009987500285,
+    "seat_C": 31.767973284650513,
+    "electric_back_W": 9.977285167563439,
+    "electric_seat_W": 7.186227219194457,
+    "session_enabled": true
+  },
+  {
+    "time_s": 440.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.742652036395405,
+    "seat_C": 31.758607307148115,
+    "electric_back_W": 9.94718735179162,
+    "electric_seat_W": 7.166094803256625,
+    "session_enabled": true
+  },
+  {
+    "time_s": 450.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.735057124729064,
+    "seat_C": 31.74932468928524,
+    "electric_back_W": 9.918759453536525,
+    "electric_seat_W": 7.146400483967989,
+    "session_enabled": true
+  },
+  {
+    "time_s": 460.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.72736700409301,
+    "seat_C": 31.74013279260439,
+    "electric_back_W": 9.891694705101079,
+    "electric_seat_W": 7.127089804544818,
+    "session_enabled": true
+  },
+  {
+    "time_s": 470.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.719622072979657,
+    "seat_C": 31.73103671348328,
+    "electric_back_W": 9.86575218762421,
+    "electric_seat_W": 7.108121687475576,
+    "session_enabled": true
+  },
+  {
+    "time_s": 480.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.711853751374747,
+    "seat_C": 31.722039874431566,
+    "electric_back_W": 9.840742569213079,
+    "electric_seat_W": 7.0894649771498095,
+    "session_enabled": true
+  },
+  {
+    "time_s": 490.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.704086428883674,
+    "seat_C": 31.71314446213567,
+    "electric_back_W": 9.816516933439477,
+    "electric_seat_W": 7.071095878135228,
+    "session_enabled": true
+  },
+  {
+    "time_s": 500.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.696338990683834,
+    "seat_C": 31.704351751958285,
+    "electric_back_W": 9.792958028540768,
+    "electric_seat_W": 7.0529960570514465,
+    "session_enabled": true
+  },
+  {
+    "time_s": 510.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.688626012785512,
+    "seat_C": 31.695662348311004,
+    "electric_back_W": 9.769973412777254,
+    "electric_seat_W": 7.035151236114622,
+    "session_enabled": true
+  },
+  {
+    "time_s": 520.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.680958698259957,
+    "seat_C": 31.687076362697095,
+    "electric_back_W": 9.747490085063856,
+    "electric_seat_W": 7.017550150967812,
+    "session_enabled": true
+  },
+  {
+    "time_s": 530.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.673345610565686,
+    "seat_C": 31.678593545573705,
+    "electric_back_W": 9.725450279027891,
+    "electric_seat_W": 7.000183778417476,
+    "session_enabled": true
+  },
+  {
+    "time_s": 540.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.66579324794054,
+    "seat_C": 31.670213383998956,
+    "electric_back_W": 9.703808168388324,
+    "electric_seat_W": 6.983044764148955,
+    "session_enabled": true
+  },
+  {
+    "time_s": 550.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.658306493299825,
+    "seat_C": 31.661935173929347,
+    "electric_back_W": 9.682527286180193,
+    "electric_seat_W": 6.966126998608706,
+    "session_enabled": true
+  },
+  {
+    "time_s": 560.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.650888966617654,
+    "seat_C": 31.65375807373574,
+    "electric_back_W": 9.661578503140737,
+    "electric_seat_W": 6.949425302668304,
+    "session_enabled": true
+  },
+  {
+    "time_s": 570.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.6435433009232,
+    "seat_C": 31.645681143804577,
+    "electric_back_W": 9.640938444090185,
+    "electric_seat_W": 6.932935194627273,
+    "session_enabled": true
+  },
+  {
+    "time_s": 580.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.636271358464004,
+    "seat_C": 31.637703375830053,
+    "electric_back_W": 9.620588247399372,
+    "electric_seat_W": 6.9166527174831725,
+    "session_enabled": true
+  },
+  {
+    "time_s": 590.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.629074400002256,
+    "seat_C": 31.62982371446894,
+    "electric_back_W": 9.600512593199708,
+    "electric_seat_W": 6.900574310854418,
+    "session_enabled": true
+  },
+  {
+    "time_s": 600.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.621953217399867,
+    "seat_C": 31.622041073337098,
+    "electric_back_W": 9.580698942101845,
+    "electric_seat_W": 6.884696715990193,
+    "session_enabled": true
+  },
+  {
+    "time_s": 610.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.61490823744785,
+    "seat_C": 31.61435434681447,
+    "electric_back_W": 9.56113693880829,
+    "electric_seat_W": 6.869016905294208,
+    "session_enabled": true
+  },
+  {
+    "time_s": 620.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.607939603171403,
+    "seat_C": 31.606762418745195,
+    "electric_back_W": 9.541817944889457,
+    "electric_seat_W": 6.8535320300127776,
+    "session_enabled": true
+  },
+  {
+    "time_s": 630.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.601047237491777,
+    "seat_C": 31.599264168837493,
+    "electric_back_W": 9.522734672734837,
+    "electric_seat_W": 6.8382393813836195,
+    "session_enabled": true
+  },
+  {
+    "time_s": 640.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.59423089306843,
+    "seat_C": 31.59185847736026,
+    "electric_back_W": 9.50388089875663,
+    "electric_seat_W": 6.823136361756875,
+    "session_enabled": true
+  },
+  {
+    "time_s": 650.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.587490191316377,
+    "seat_C": 31.584544228577958,
+    "electric_back_W": 9.485251238672872,
+    "electric_seat_W": 6.808220463107549,
+    "session_enabled": true
+  },
+  {
+    "time_s": 660.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.580824652944667,
+    "seat_C": 31.577320313251253,
+    "electric_back_W": 9.466840971418245,
+    "electric_seat_W": 6.793489251024946,
+    "session_enabled": true
+  },
+  {
+    "time_s": 670.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.57423372185351,
+    "seat_C": 31.57018563044622,
+    "electric_back_W": 9.448645901147357,
+    "electric_seat_W": 6.778940352760737,
+    "session_enabled": true
+  },
+  {
+    "time_s": 680.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.567716783829557,
+    "seat_C": 31.563139088831534,
+    "electric_back_W": 9.430662249075139,
+    "electric_seat_W": 6.764571448285988,
+    "session_enabled": true
+  },
+  {
+    "time_s": 690.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.56127318116675,
+    "seat_C": 31.55617960759705,
+    "electric_back_W": 9.41288656869107,
+    "electric_seat_W": 6.750380263577753,
+    "session_enabled": true
+  },
+  {
+    "time_s": 700.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.554902224095922,
+    "seat_C": 31.54930611709215,
+    "electric_back_W": 9.395315679281877,
+    "electric_seat_W": 6.736364565559805,
+    "session_enabled": true
+  },
+  {
+    "time_s": 710.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.548603199714847,
+    "seat_C": 31.542517559257284,
+    "electric_back_W": 9.377946613797354,
+    "electric_seat_W": 6.722522158269163,
+    "session_enabled": true
+  },
+  {
+    "time_s": 720.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.542375378960823,
+    "seat_C": 31.535812887902512,
+    "electric_back_W": 9.360776577950642,
+    "electric_seat_W": 6.708850879931891,
+    "session_enabled": true
+  },
+  {
+    "time_s": 730.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.53621802204996,
+    "seat_C": 31.529191068873455,
+    "electric_back_W": 9.343802918120382,
+    "electric_seat_W": 6.695348600713578,
+    "session_enabled": true
+  },
+  {
+    "time_s": 740.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.530130382715946,
+    "seat_C": 31.52265108013401,
+    "electric_back_W": 9.327023096147132,
+    "electric_seat_W": 6.682013220972202,
+    "session_enabled": true
+  },
+  {
+    "time_s": 750.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.524111711508468,
+    "seat_C": 31.516191911788294,
+    "electric_back_W": 9.31043466953158,
+    "electric_seat_W": 6.668842669881242,
+    "session_enabled": true
+  },
+  {
+    "time_s": 760.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.51816125835546,
+    "seat_C": 31.50981256605762,
+    "electric_back_W": 9.294035275864271,
+    "electric_seat_W": 6.655834904331275,
+    "session_enabled": true
+  },
+  {
+    "time_s": 770.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.51227827454872,
+    "seat_C": 31.503512057225045,
+    "electric_back_W": 9.277822620571188,
+    "electric_seat_W": 6.6429879080366305,
+    "session_enabled": true
+  },
+  {
+    "time_s": 780.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.50646201427844,
+    "seat_C": 31.49728941155597,
+    "electric_back_W": 9.261794467256232,
+    "electric_seat_W": 6.630299690796424,
+    "session_enabled": true
+  },
+  {
+    "time_s": 790.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.500711735814313,
+    "seat_C": 31.49114366720189,
+    "electric_back_W": 9.24594863007939,
+    "electric_seat_W": 6.617768287869492,
+    "session_enabled": true
+  },
+  {
+    "time_s": 800.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.495026702410197,
+    "seat_C": 31.485073874091704,
+    "electric_back_W": 9.230282967730023,
+    "electric_seat_W": 6.605391759436374,
+    "session_enabled": true
+  },
+  {
+    "time_s": 810.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.48940618299241,
+    "seat_C": 31.4790790938146,
+    "electric_back_W": 9.214795378650233,
+    "electric_seat_W": 6.593168190125155,
+    "session_enabled": true
+  },
+  {
+    "time_s": 820.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.483849452678818,
+    "seat_C": 31.47315839949699,
+    "electric_back_W": 9.199483797237706,
+    "electric_seat_W": 6.5810956885863945,
+    "session_enabled": true
+  },
+  {
+    "time_s": 830.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.478355793165647,
+    "seat_C": 31.46731087567545,
+    "electric_back_W": 9.184346190816377,
+    "electric_seat_W": 6.569172387105404,
+    "session_enabled": true
+  },
+  {
+    "time_s": 840.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.47292449301068,
+    "seat_C": 31.46153561816733,
+    "electric_back_W": 9.16938055721077,
+    "electric_seat_W": 6.557396441242556,
+    "session_enabled": true
+  },
+  {
+    "time_s": 850.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.467554847835924,
+    "seat_C": 31.45583173393983,
+    "electric_back_W": 9.154584922790661,
+    "electric_seat_W": 6.545766029495569,
+    "session_enabled": true
+  },
+  {
+    "time_s": 860.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.462246160466982,
+    "seat_C": 31.450198340978577,
+    "electric_back_W": 9.139957340887905,
+    "electric_seat_W": 6.5342793529792225,
+    "session_enabled": true
+  },
+  {
+    "time_s": 870.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.456997741023336,
+    "seat_C": 31.444634568156125,
+    "electric_back_W": 9.125495890503874,
+    "electric_seat_W": 6.522934635118304,
+    "session_enabled": true
+  },
+  {
+    "time_s": 880.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.4518089069703,
+    "seat_C": 31.43913955510092,
+    "electric_back_W": 9.111198675244959,
+    "electric_seat_W": 6.5117301213513965,
+    "session_enabled": true
+  },
+  {
+    "time_s": 890.0,
+    "laptop_heat_W": 35,
+    "recovered_W": 2.2673796791443834,
+    "back_C": 31.446678983141247,
+    "seat_C": 31.43371245206691,
+    "electric_back_W": 9.097063822437821,
+    "electric_seat_W": 6.500664078843988,
+    "session_enabled": true
+  },
+  {
+    "time_s": 900.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.4384856225088,
+    "seat_C": 31.424190180833765,
+    "electric_back_W": 9.083089482385786,
+    "electric_seat_W": 6.489734796208706,
+    "session_enabled": true
+  },
+  {
+    "time_s": 910.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.406293128719238,
+    "seat_C": 31.383731190315835,
+    "electric_back_W": 9.238186681093932,
+    "electric_seat_W": 6.698762477478555,
+    "session_enabled": true
+  },
+  {
+    "time_s": 920.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.380363196853633,
+    "seat_C": 31.352896368026393,
+    "electric_back_W": 9.357709989977723,
+    "electric_seat_W": 6.851883987418818,
+    "session_enabled": true
+  },
+  {
+    "time_s": 930.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.359346873924622,
+    "seat_C": 31.32920282800464,
+    "electric_back_W": 9.449390331523789,
+    "electric_seat_W": 6.963605487152039,
+    "session_enabled": true
+  },
+  {
+    "time_s": 940.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.34218742340837,
+    "seat_C": 31.31081083546899,
+    "electric_back_W": 9.51928313946035,
+    "electric_seat_W": 7.044674519888005,
+    "session_enabled": true
+  },
+  {
+    "time_s": 950.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.328057005079874,
+    "seat_C": 31.296357176643276,
+    "electric_back_W": 9.572131428014034,
+    "electric_seat_W": 7.103053821419955,
+    "session_enabled": true
+  },
+  {
+    "time_s": 960.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.316307075861282,
+    "seat_C": 31.28483170019288,
+    "electric_back_W": 9.611650186634114,
+    "electric_seat_W": 7.144642829418647,
+    "session_enabled": true
+  },
+  {
+    "time_s": 970.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.306429538438437,
+    "seat_C": 31.275485845089353,
+    "electric_back_W": 9.640749148389968,
+    "electric_seat_W": 7.173812259362087,
+    "session_enabled": true
+  },
+  {
+    "time_s": 980.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.29802630868159,
+    "seat_C": 31.26776486765193,
+    "electric_back_W": 9.661707286025226,
+    "electric_seat_W": 7.193800179013051,
+    "session_enabled": true
+  },
+  {
+    "time_s": 990.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.290785477576016,
+    "seat_C": 31.261257627628726,
+    "electric_back_W": 9.67630949593836,
+    "electric_seat_W": 7.207005465304997,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1000.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.284462638679713,
+    "seat_C": 31.255659384008005,
+    "electric_back_W": 9.685953663695354,
+    "electric_seat_W": 7.215205230467729,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1010.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.278866261775715,
+    "seat_C": 31.250744229913884,
+    "electric_back_W": 9.691734529184037,
+    "electric_seat_W": 7.219715915939743,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1020.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.273846235937846,
+    "seat_C": 31.24634466923014,
+    "electric_back_W": 9.694509378760875,
+    "electric_seat_W": 7.221512648983044,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1030.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.26928489522079,
+    "seat_C": 31.24233648462697,
+    "electric_back_W": 9.694949502352106,
+    "electric_seat_W": 7.221317675571731,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1040.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.26508998900805,
+    "seat_C": 31.238627526059688,
+    "electric_back_W": 9.693580500139541,
+    "electric_seat_W": 7.2196658814750805,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1050.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.261189175624093,
+    "seat_C": 31.235149403998204,
+    "electric_back_W": 9.690813855048887,
+    "electric_seat_W": 7.216953337676259,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1060.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.257525709130782,
+    "seat_C": 31.231851334811097,
+    "electric_back_W": 9.68697166367645,
+    "electric_seat_W": 7.213473268291089,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1070.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.254055060753508,
+    "seat_C": 31.228695580710106,
+    "electric_back_W": 9.682306008173434,
+    "electric_seat_W": 7.20944269964923,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1080.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.25074227240967,
+    "seat_C": 31.225654071126318,
+    "electric_back_W": 9.6770141303534,
+    "electric_seat_W": 7.205022204922264,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1090.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.24755988369837,
+    "seat_C": 31.22270589942506,
+    "electric_back_W": 9.67125031765137,
+    "electric_seat_W": 7.2003305331511935,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1100.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.244486308086334,
+    "seat_C": 31.219835468171507,
+    "electric_back_W": 9.665135213453533,
+    "electric_seat_W": 7.195455448054691,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1110.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.241504560952883,
+    "seat_C": 31.21703111491627,
+    "electric_back_W": 9.658763109916817,
+    "electric_seat_W": 7.190461758615479,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1120.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.23860126324833,
+    "seat_C": 31.2142840940049,
+    "electric_back_W": 9.652207660460993,
+    "electric_seat_W": 7.185397269016574,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1130.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.23576586104283,
+    "seat_C": 31.211587822170767,
+    "electric_back_W": 9.645526354376862,
+    "electric_seat_W": 7.180297186995958,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1140.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.232990014183617,
+    "seat_C": 31.20893731956854,
+    "electric_back_W": 9.638764021793136,
+    "electric_seat_W": 7.175187390023341,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1150.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.23026711741648,
+    "seat_C": 31.206328795612635,
+    "electric_back_W": 9.631955579114914,
+    "electric_seat_W": 7.170086845222686,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1160.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.22759192526712,
+    "seat_C": 31.203759342103552,
+    "electric_back_W": 9.625128179520244,
+    "electric_seat_W": 7.165009402293483,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1170.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.22496025819884,
+    "seat_C": 31.201226705845837,
+    "electric_back_W": 9.618302897433422,
+    "electric_seat_W": 7.159965121878679,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1180.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.222368772434425,
+    "seat_C": 31.198729120162234,
+    "electric_back_W": 9.611496047959786,
+    "electric_seat_W": 7.154961259739954,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1190.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.21981477964697,
+    "seat_C": 31.19626518004539,
+    "electric_back_W": 9.604720220383227,
+    "electric_seat_W": 7.150002995914811,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1200.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.217296105713285,
+    "seat_C": 31.193833749641094,
+    "electric_back_W": 9.597985087687492,
+    "electric_seat_W": 7.145093974929241,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1210.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.214810980065607,
+    "seat_C": 31.191433893686668,
+    "electric_back_W": 9.591298040635097,
+    "electric_seat_W": 7.140236706019223,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1220.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.212357949011114,
+    "seat_C": 31.189064826698363,
+    "electric_back_W": 9.584664684422242,
+    "electric_seat_W": 7.135432859629248,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1230.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.209935807825826,
+    "seat_C": 31.18672587530924,
+    "electric_back_W": 9.578089227687686,
+    "electric_seat_W": 7.13068348706423,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1240.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.207543547554597,
+    "seat_C": 31.184416450350696,
+    "electric_back_W": 9.571574787202747,
+    "electric_seat_W": 7.125989183202963,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1250.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.205180313330704,
+    "seat_C": 31.18213602615327,
+    "electric_back_W": 9.565123626513524,
+    "electric_seat_W": 7.121350207026676,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1260.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.202845371718876,
+    "seat_C": 31.17988412519663,
+    "electric_back_W": 9.558737342847966,
+    "electric_seat_W": 7.116766570891883,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1270.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.200538085126492,
+    "seat_C": 31.177660306722853,
+    "electric_back_W": 9.55241701349841,
+    "electric_seat_W": 7.112238106646242,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1280.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.198257891751446,
+    "seat_C": 31.175464158286477,
+    "electric_back_W": 9.54616331046196,
+    "electric_seat_W": 7.107764514587085,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1290.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.19600428986711,
+    "seat_C": 31.17329528948045,
+    "electric_back_W": 9.539976590215932,
+    "electric_seat_W": 7.103345399708719,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1300.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.193776825504482,
+    "seat_C": 31.171153327274546,
+    "electric_back_W": 9.533856964018183,
+    "electric_seat_W": 7.0989802985315364,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1310.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.19157508279575,
+    "seat_C": 31.169037912548575,
+    "electric_back_W": 9.527804352951147,
+    "electric_seat_W": 7.094668698953498,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1320.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.189398676402252,
+    "seat_C": 31.16694869751099,
+    "electric_back_W": 9.521818531017532,
+    "electric_seat_W": 7.090410054932599,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1330.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.18724724557563,
+    "seat_C": 31.164885343773612,
+    "electric_back_W": 9.515899158875367,
+    "electric_seat_W": 7.086203797339611,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1340.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.185120449498164,
+    "seat_C": 31.162847520912763,
+    "electric_back_W": 9.510045810241987,
+    "electric_seat_W": 7.082049341973178,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1350.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.18301796362524,
+    "seat_C": 31.160834905390878,
+    "electric_back_W": 9.504257992555361,
+    "electric_seat_W": 7.077946095473235,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1360.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.180939476812835,
+    "seat_C": 31.158847179745205,
+    "electric_back_W": 9.498535163138012,
+    "electric_seat_W": 7.073893459678009,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1370.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.178884689060045,
+    "seat_C": 31.156884031974844,
+    "electric_back_W": 9.492876741837401,
+    "electric_seat_W": 7.069890834827021,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1380.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.176853309733513,
+    "seat_C": 31.15494515507464,
+    "electric_back_W": 9.487282120907166,
+    "electric_seat_W": 7.065937621910122,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1390.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.174845056169264,
+    "seat_C": 31.15303024667802,
+    "electric_back_W": 9.481750672727259,
+    "electric_seat_W": 7.062033224385055,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1400.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.172859652570345,
+    "seat_C": 31.151139008781012,
+    "electric_back_W": 9.476281755831607,
+    "electric_seat_W": 7.058177049424563,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1410.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.17089682913636,
+    "seat_C": 31.149271147526097,
+    "electric_back_W": 9.47087471960937,
+    "electric_seat_W": 7.054368508818575,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1420.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.168956321374534,
+    "seat_C": 31.147426373030925,
+    "electric_back_W": 9.465528907968794,
+    "electric_seat_W": 7.05060701961888,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1430.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.167037869553017,
+    "seat_C": 31.145604399250107,
+    "electric_back_W": 9.460243662188319,
+    "electric_seat_W": 7.046892004594514,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1440.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.16514121826608,
+    "seat_C": 31.14380494386195,
+    "electric_back_W": 9.455018323129874,
+    "electric_seat_W": 7.043222892545853,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1450.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.163266116086508,
+    "seat_C": 31.142027728173495,
+    "electric_back_W": 9.449852232954843,
+    "electric_seat_W": 7.039599118516548,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1460.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.161412315286704,
+    "seat_C": 31.140272477039577,
+    "electric_back_W": 9.444744736449671,
+    "electric_seat_W": 7.036020123926676,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1470.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.159579571613662,
+    "seat_C": 31.138538918792058,
+    "electric_back_W": 9.439695182045206,
+    "electric_seat_W": 7.032485356651611,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1480.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.15776764410601,
+    "seat_C": 31.136826785177075,
+    "electric_back_W": 9.434702922598573,
+    "electric_seat_W": 7.028994271058114,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1490.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.155976294944427,
+    "seat_C": 31.135135811298,
+    "electric_back_W": 9.429767315985796,
+    "electric_seat_W": 7.025546328010155,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1500.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.154205289327894,
+    "seat_C": 31.13346573556324,
+    "electric_back_W": 9.424887725550287,
+    "electric_seat_W": 7.022140994851976,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1510.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.152454395370512,
+    "seat_C": 31.131816299637094,
+    "electric_back_W": 9.420063520435594,
+    "electric_seat_W": 7.018777745375919,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1520.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.15072338401443,
+    "seat_C": 31.13018724839369,
+    "electric_back_W": 9.415294075829124,
+    "electric_seat_W": 7.015456059777115,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1530.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.149012028955454,
+    "seat_C": 31.128578329872738,
+    "electric_back_W": 9.410578773136017,
+    "electric_seat_W": 7.012175424600958,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1540.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.147320106578633,
+    "seat_C": 31.126989295237266,
+    "electric_back_W": 9.405917000098391,
+    "electric_seat_W": 7.0089353326830635,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1550.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.14564739590178,
+    "seat_C": 31.125419898732485,
+    "electric_back_W": 9.401308150872474,
+    "electric_seat_W": 7.0057352830862545,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1560.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.143993678525263,
+    "seat_C": 31.12386989764594,
+    "electric_back_W": 9.396751626072033,
+    "electric_seat_W": 7.002574781034024,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1570.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.14235873858677,
+    "seat_C": 31.122339052268533,
+    "electric_back_W": 9.392246832786316,
+    "electric_seat_W": 6.999453337842303,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1580.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.14074236272002,
+    "seat_C": 31.120827125856515,
+    "electric_back_W": 9.387793184578234,
+    "electric_seat_W": 6.996370470849484,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1590.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.139144340016642,
+    "seat_C": 31.119333884593935,
+    "electric_back_W": 9.383390101466677,
+    "electric_seat_W": 6.993325703347188,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1600.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.13756446199061,
+    "seat_C": 31.11785909755606,
+    "electric_back_W": 9.379037009897456,
+    "electric_seat_W": 6.990318564508994,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1610.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.13600252254481,
+    "seat_C": 31.116402536673185,
+    "electric_back_W": 9.374733342703982,
+    "electric_seat_W": 6.987348589320718,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1620.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.134458317939135,
+    "seat_C": 31.114963976695073,
+    "electric_back_W": 9.370478539062416,
+    "electric_seat_W": 6.984415318509742,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1630.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.132931646760095,
+    "seat_C": 31.11354319515583,
+    "electric_back_W": 9.3662720444403,
+    "electric_seat_W": 6.981518298476027,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1640.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.131422309891505,
+    "seat_C": 31.11213997233941,
+    "electric_back_W": 9.362113310541773,
+    "electric_seat_W": 6.978657081222293,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1650.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.129930110486125,
+    "seat_C": 31.11075409124547,
+    "electric_back_W": 9.358001795249834,
+    "electric_seat_W": 6.97583122428592,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1660.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.128454853938212,
+    "seat_C": 31.10938533755572,
+    "electric_back_W": 9.353936962565811,
+    "electric_seat_W": 6.973040290670936,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1670.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.12699634785658,
+    "seat_C": 31.108033499600694,
+    "electric_back_W": 9.349918282548542,
+    "electric_seat_W": 6.970283848780992,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1680.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.12555440203841,
+    "seat_C": 31.106698368326995,
+    "electric_back_W": 9.345945231251266,
+    "electric_seat_W": 6.967561472352665,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1690.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.124128828443574,
+    "seat_C": 31.105379737264922,
+    "electric_back_W": 9.342017290658866,
+    "electric_seat_W": 6.964872740389917,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1700.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.122719441169426,
+    "seat_C": 31.104077402496507,
+    "electric_back_W": 9.338133948623671,
+    "electric_seat_W": 6.962217237099131,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1710.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.12132605642595,
+    "seat_C": 31.10279116262393,
+    "electric_back_W": 9.334294698802585,
+    "electric_seat_W": 6.959594551825043,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1720.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.119948492511398,
+    "seat_C": 31.101520818738447,
+    "electric_back_W": 9.33049904059315,
+    "electric_seat_W": 6.957004278986934,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1730.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.118586569788295,
+    "seat_C": 31.100266174389475,
+    "electric_back_W": 9.326746479070154,
+    "electric_seat_W": 6.954446018016621,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1740.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.1172401106597,
+    "seat_C": 31.099027035554354,
+    "electric_back_W": 9.323036524922566,
+    "electric_seat_W": 6.95191937329604,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1750.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.115908939545836,
+    "seat_C": 31.097803210608255,
+    "electric_back_W": 9.319368694391352,
+    "electric_seat_W": 6.949423954096173,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1760.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.11459288286107,
+    "seat_C": 31.096594510294533,
+    "electric_back_W": 9.31574250920687,
+    "electric_seat_W": 6.946959374516886,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1770.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.113291768991143,
+    "seat_C": 31.095400747695525,
+    "electric_back_W": 9.312157496527268,
+    "electric_seat_W": 6.944525253427037,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1780.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.112005428270688,
+    "seat_C": 31.094221738203515,
+    "electric_back_W": 9.308613188877478,
+    "electric_seat_W": 6.942121214405887,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1790.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.110733692961002,
+    "seat_C": 31.09305729949232,
+    "electric_back_W": 9.305109124088906,
+    "electric_seat_W": 6.939746885684513,
+    "session_enabled": true
+  },
+  {
+    "time_s": 1800.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 31.083863790953973,
+    "seat_C": 31.066437212388234,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 1810.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 30.8385127870999,
+    "seat_C": 30.822547477763564,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 1820.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 30.6137351775569,
+    "seat_C": 30.599108605780717,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 1830.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 30.407805823455206,
+    "seat_C": 30.394405732206305,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 1840.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 30.219144243830094,
+    "seat_C": 30.206867789153893,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 1850.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 30.046302485636332,
+    "seat_C": 30.035055447342526,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 1860.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 29.887954010897193,
+    "seat_C": 29.877650069432114,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 1870.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 29.74288351569835,
+    "seat_C": 29.73344358965362,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 1880.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 29.609977602888584,
+    "seat_C": 29.601329242061617,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 1890.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 29.48821623690176,
+    "seat_C": 29.48029306624989,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 1900.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 29.376664915116695,
+    "seat_C": 29.369406125337388,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 1910.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 29.27446749567137,
+    "seat_C": 29.267817376498705,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 1920.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 29.180839626685554,
+    "seat_C": 29.174747139321255,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 1930.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 29.095062726462427,
+    "seat_C": 29.089481111859676,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 1940.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 29.01647846846757,
+    "seat_C": 29.011364888461447,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 1950.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 28.94448372875864,
+    "seat_C": 28.939798937288796,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 1960.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 28.8785259570877,
+    "seat_C": 28.87423399898991,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 1970.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 28.818098936149994,
+    "seat_C": 28.814166871205007,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 1980.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 28.762738896432104,
+    "seat_C": 28.759136546553727,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 1990.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 28.712020956841396,
+    "seat_C": 28.708720674463606,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 2000.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 28.665555863798915,
+    "seat_C": 28.66253231968441,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 2010.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 28.6229870037689,
+    "seat_C": 28.62021699261052,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 2020.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 28.583987666296423,
+    "seat_C": 28.581449928619374,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 2030.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 28.548258536547113,
+    "seat_C": 28.545933595545346,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 2040.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 28.51552539810486,
+    "seat_C": 28.513395410159074,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 2050.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 28.48553702839651,
+    "seat_C": 28.4835856461267,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 2060.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 28.458063270591378,
+    "seat_C": 28.45627551739284,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 2070.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 28.4328932671775,
+    "seat_C": 28.431255422277346,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 2080.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 28.40983384165779,
+    "seat_C": 28.408333334809775,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 2090.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 28.388708015945515,
+    "seat_C": 28.387333330955048,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  },
+  {
+    "time_s": 2100.0,
+    "laptop_heat_W": 0,
+    "recovered_W": 0,
+    "back_C": 28.369353652080537,
+    "seat_C": 28.36809423841941,
+    "electric_back_W": 0.0,
+    "electric_seat_W": 0.0,
+    "session_enabled": false
+  }
+]

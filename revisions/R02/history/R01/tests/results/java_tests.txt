@@ -1,0 +1,13 @@
+PASS decode-status
+PASS decode-duty
+PASS start-frame
+PASS bad-frame-rejected
+PASS bad-frame-rejected
+PASS bad-frame-rejected
+PASS bad-frame-rejected
+PASS bad-target-rejected
+PASS bad-target-rejected
+PASS bad-target-rejected
+PASS bad-target-rejected
+PASS nan-displayed-as-fault
+TOTAL 12 PASS

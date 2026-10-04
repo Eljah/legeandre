@@ -1,0 +1,1186 @@
+{
+  "source_sha256": {
+    "revisions/R04/source/build_report.py": "701b0a99e08311eeedc7899ab9f6388c98f706594e07018e95eaf8d47c672706",
+    "revisions/R04/source/make_patterns.py": "53b7ade595f9c2570f8f32b248876b1d760862d44ec05089ce0a9f6e6da4c7b6",
+    "revisions/R04/source/check_package.py": "9f99af7d0564f067d1aa5dd6afb0ef6f0a2ccc7cb2fd2530745a3f6cb687ed99",
+    "revisions/R05/source/build_report_r05.py": "1a5de001df92922e077d6afb97a3cb418e6b2cb747e1181cae3afacfae4453a9",
+    "revisions/R05/source/make_patterns_r05.py": "cdddfd587df99dda3b0664e8c6a2e2ce20a3d56ac9735611486ec408ff7073de",
+    "revisions/R05/source/verify_r05.py": "cb6a8de67f28b2b50674d5ed432e4dcd73ac6a031d53f8af4abe2da8e4655fec"
+  },
+  "workflow_run_id": "37044787400",
+  "added": [
+    {
+      "path": "revisions/R04/docs/Lezhandr_R04_modeling_report.pdf",
+      "bytes": 9762578,
+      "sha256": "09dbd46d91199a6606918d5ce351fa870f267259f00ec2e03178644405fcdee6",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/exchange/R04_DRAFT_patterns_1to1.dxf",
+      "bytes": 78578,
+      "sha256": "80f5a1db0ea8097076540809d5686947ad4c3dfa959a7eaee3afbbefcbbaf578",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/history/provenance.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/HC_OUTER_plotter_DRAFT_1to1.pdf",
+      "bytes": 2384,
+      "sha256": "ccb37a81726c3d6dd6021c9ebe321f9e25f555b07f226f515fdfb9db3611e099",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/distortion_report.csv",
+      "bytes": 1353,
+      "sha256": "7c4e59c6c944c6018896d7947a486ed75cc75d020c2afce5045eb7a8c8eb0da0",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/patterns_R04.json",
+      "bytes": 1153476,
+      "sha256": "0f70b08d272a4ce8d4716421c8f06a7edeaaec99706868f7d3a473dcf55e333c",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/HC_HINGE.dxf",
+      "bytes": 16728,
+      "sha256": "6965204da590b8b98eb7cb16bb54c0780e7b3e3c089faa67960c06643925b308",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/HC_HINGE.svg",
+      "bytes": 655,
+      "sha256": "e24faeed00cc9ca093890dc15f5029ec9489ef15c0163339a9cf6c2b88b15170",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/HC_LIMIT_STRAP.dxf",
+      "bytes": 16732,
+      "sha256": "d6e80d0ca84a864c4bff00d224f981121b70d07420965f5df36345db80815010",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/HC_LIMIT_STRAP.svg",
+      "bytes": 658,
+      "sha256": "ef6eedbc098534a3a69992a5818377f58fb8e29f7d187a9c7146c134266fd7c6",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/HC_LINING.dxf",
+      "bytes": 20947,
+      "sha256": "f5dacd68d1b2aee9b337458a8b88e1559a7b1b29e0163b73b4e87f9dc8cd1307",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/HC_LINING.svg",
+      "bytes": 3146,
+      "sha256": "bd0c1dd9a291c4f28e5ab838997cb67b7a171a76baf2e45cb3b7a32a8e4ccf4a",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/HC_OUTER.dxf",
+      "bytes": 20946,
+      "sha256": "8a001b95a821e13859ec753d94d4037e1229a48c2ee643a883601542de7fd6d4",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/HC_OUTER.svg",
+      "bytes": 3145,
+      "sha256": "33f7325347913d4ab5579f08e225afcf57269836c669af31d59e737525c641e7",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/HC_RIB_SLEEVE.dxf",
+      "bytes": 16863,
+      "sha256": "6be4529223429a6ed09c2a24e05c6b1c11e104dfbf24e9a50d375fabef500336",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/HC_RIB_SLEEVE.svg",
+      "bytes": 683,
+      "sha256": "874fd962823d8bd1068311256c811216cf5ebc94dee32856a61dad3c9a299644",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/L01.dxf",
+      "bytes": 21439,
+      "sha256": "bafa6074c45fcaf152ef89f1c1fbce17d1c44d8d1715a7853c88df0d5ce42518",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/L01.svg",
+      "bytes": 2389,
+      "sha256": "9ed3de7af6c55a6b0a9ab447f708b72fdbafa0db1c7b0346be0f2f4aa3616e3b",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/L02.dxf",
+      "bytes": 21463,
+      "sha256": "f3f4d1c50a1872abb0412a82b88ea52ca84a525743b6657e897ddfc21e6412ab",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/L02.svg",
+      "bytes": 2385,
+      "sha256": "46da806c298d53b3961241198598f1ce0804cc15d455d0d871dae98cf17b3657",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/L03.dxf",
+      "bytes": 21435,
+      "sha256": "92d789bf6d42ce2506f7534b950f32f2a67131c814fcb5943c58fcbbf48508f5",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/L03.svg",
+      "bytes": 2385,
+      "sha256": "246a421788edeadeb588c1212dde370fa11c4062516849419ec142f5742a267e",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/L04.dxf",
+      "bytes": 21390,
+      "sha256": "10242c50c0fa8d2bebde8c462b6ff2d3ef30ff87df2402c0a7b1cfe84270d62d",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/L04.svg",
+      "bytes": 2410,
+      "sha256": "f7a27e149be2a931e212c46cb0bf2539c886995f574ec98a2d505b62606d301e",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/L05.dxf",
+      "bytes": 21399,
+      "sha256": "67dbdbf5054201873d67e28a91d7179d5c9a1235e6c2a5b5d6777bd6d564dd0c",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/L05.svg",
+      "bytes": 2424,
+      "sha256": "c9e5c33d31889edf4f8f1c3c6b84e20443930a54fb5ba5acd2aaaeb4d31e16b1",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/L06.dxf",
+      "bytes": 21401,
+      "sha256": "b2e1088261b26b1ad05dd8ee291993e140b2d860fe466b826a51328519814a42",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/L06.svg",
+      "bytes": 2417,
+      "sha256": "5f2d31ab5de56421dffa2ebac7782c9fe53bd4d49e0eaf7bbba3c3bff97a4c21",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/L07.dxf",
+      "bytes": 21387,
+      "sha256": "0d1af2ec86bcbf55b379e7be14ad2c90c08475300bac796291bfa3a2826cf97f",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/L07.svg",
+      "bytes": 2416,
+      "sha256": "191624fe0248a683abb1b5c421f74ef5c9d54629202291202ac9ee1fd99f4e66",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/L08.dxf",
+      "bytes": 21389,
+      "sha256": "098e5c086aab1253a5f3bbdf0bebde650fc868521e189a7bd6a25b9a3d195003",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/L08.svg",
+      "bytes": 2420,
+      "sha256": "a7638262a6e402855fa26fc6b358bc518ba9a1243f70a37b526bee7d280f3b6f",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/L09.dxf",
+      "bytes": 21405,
+      "sha256": "8b6ea3465bc3bff26f9a0a0aa378edb0bd3eb76ce1d1cadf4395cb1485b0adba",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/L09.svg",
+      "bytes": 2411,
+      "sha256": "9b0f6f72f61f9963005b1d6ef1d1a991d515660192997451eb6719dd9f9828fb",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/L10.dxf",
+      "bytes": 21431,
+      "sha256": "cf9493f861c0f40b774e3ce5ae4e8ef7fbd9e355786afc29110c13efe795a4aa",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/L10.svg",
+      "bytes": 2385,
+      "sha256": "6821143d3d90c38c3ed01798f51083fe064d6b8910761d8bd91f1c921ffbaee0",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/L11.dxf",
+      "bytes": 21454,
+      "sha256": "a89864fb6756c68082e6223419a499c974b87dc364fdc5a5524e9e4d3c25346f",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/L11.svg",
+      "bytes": 2383,
+      "sha256": "dc34e522b92643a70c235a59d49ff1cb0236d94b264df3d45fafaaeea3d2356b",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/L12.dxf",
+      "bytes": 21471,
+      "sha256": "64a613af3cbf0fe06b2b65cf2bab58977bda019b03cb8fe0313690b172fe3167",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/L12.svg",
+      "bytes": 2383,
+      "sha256": "9e5e8656e6dce57d40e6f47b6d54bc4cfa043f5e737eee4dc5419593e9dc3e11",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/O01.dxf",
+      "bytes": 21434,
+      "sha256": "3ad5b5e6f22f0c2424f93906bdffeba9cf0e27895a057da6f7e3f627e6a1c19c",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/O01.svg",
+      "bytes": 2390,
+      "sha256": "c264938edbbe58718703646647d96be201047720d0f541421cbece5b1b618e71",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/O02.dxf",
+      "bytes": 21438,
+      "sha256": "a1a377840ffac32bab76384eb7e2048be770bd6f65f740d27508cfb439d3e13e",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/O02.svg",
+      "bytes": 2387,
+      "sha256": "f4fa7c0c372d8abb4b992bfe61f019fee00600b369485783486427acdf191e8a",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/O03.dxf",
+      "bytes": 21434,
+      "sha256": "fc0caa43a865a7203f86765e7863abc1b12056bdd0d77cde1955fc4839855a22",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/O03.svg",
+      "bytes": 2388,
+      "sha256": "415c5b710af48548bbe0736ac0b20ac0bcf9ac4b70d7d9e5a1feef7996a3e14b",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/O04.dxf",
+      "bytes": 21396,
+      "sha256": "a85e2a3982b2434fc370d56fa7c8c9e4a6510abc80de5cd2770f451daf42c861",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/O04.svg",
+      "bytes": 2395,
+      "sha256": "ddf457391cc2f6c3f1de75729d87befb78f8d38dffd7f58db9a341247fcc767f",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/O05.dxf",
+      "bytes": 21418,
+      "sha256": "706637109650dd11ecdf76fcf3036699bd44ed0d378688ac59c3c28ab42f8057",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/O05.svg",
+      "bytes": 2405,
+      "sha256": "eb02370ac4c3e802e1dc1b4c2488a0f8f8338b94ff1e8c800ecee2c1e236d0c2",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/O06.dxf",
+      "bytes": 21400,
+      "sha256": "83fcea0b511227bad8029079a74ab76e7445a5f1d30ae0176ec0aadb735e063f",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/O06.svg",
+      "bytes": 2404,
+      "sha256": "05fead6ff45b799b66aa8d80f0544735d64c20c77fa877c0ad9da56582e56e8d",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/O07.dxf",
+      "bytes": 21391,
+      "sha256": "5783777c508483b45254f5358c9d08ebf9e6c974d664048c4860b6e28efb50da",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/O07.svg",
+      "bytes": 2407,
+      "sha256": "75b234355da012bc0ce318c23028ae666700ef805961e77fa39b99d1df760e95",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/O08.dxf",
+      "bytes": 21419,
+      "sha256": "708d81aea24b0834f86d7ef689a76a36b7d25a18bb54278b703853565caaea47",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/O08.svg",
+      "bytes": 2407,
+      "sha256": "e8c6d712526b8634865524de4889ec3b4c35a809418dc92e4697780af0a159d1",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/O09.dxf",
+      "bytes": 21415,
+      "sha256": "aac532ad8a9365025601a5c8a5da0ab1daf3d1179b61b7262328d410c511d85d",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/O09.svg",
+      "bytes": 2402,
+      "sha256": "1717abc7f425e2ad4b35f8088e6af59e57c7521e12e94aa9d3549a661625a615",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/O10.dxf",
+      "bytes": 21433,
+      "sha256": "6706ff5029e60718a78d39496054ebd610c9e25a2f219b96a4590de94363ec8d",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/O10.svg",
+      "bytes": 2390,
+      "sha256": "af087be2d7f58704b66be3eeef01a8200b41f092ec6176e649b4b0a98d3e188f",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/O11.dxf",
+      "bytes": 21447,
+      "sha256": "de4393cd7ea165541da86653f31b9d7f0fac8ac5b20064a8451a4b046d846812",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/O11.svg",
+      "bytes": 2388,
+      "sha256": "08f8f36957d46c3e3585e9c6f4dd49f8bdba81e887654f148d408d979a0c0cb0",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/O12.dxf",
+      "bytes": 21439,
+      "sha256": "9de92821af66a7f26aad3143c802d515296c7656b3a329f06c2820e69a3dbf8b",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/pieces/O12.svg",
+      "bytes": 2386,
+      "sha256": "9620543c269f63702239c248d91e123caa5514368354cc4e2b8832c9fbfddfdf",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/review_layout.svg",
+      "bytes": 26635,
+      "sha256": "519cf0d86c3fbb14e699a74c48f5ab649c9c5b0e24dfe42c5389e74ce4854e83",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/patterns/summary.json",
+      "bytes": 189,
+      "sha256": "4c057f299adbae744ca51a63d2c43c95b20af559af055243da2e324a353076ab",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/project.json",
+      "bytes": 3697,
+      "sha256": "04fc3327f1062790009cad1baea0942d18fcd2e505101dd968c62f26128885e4",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/renders/foot_quilt_simulation.png",
+      "bytes": 284370,
+      "sha256": "833f27d40f2471ebfb40f4206a8d09dfb7427d8f1d2f7d892df3802b01e5e597",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/renders/hood_simulation.png",
+      "bytes": 417018,
+      "sha256": "bef707cdd83a0fd0cfbf7b1c765c6b8ca8510e726824eda845cdc67ca3cb3386",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/renders/pattern_layout.png",
+      "bytes": 416995,
+      "sha256": "15f07b7ab9b5572d14e850322da42709e873ec99880fb16d51ea7be38ba33436",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/renders/sleep_quilt_simulation.png",
+      "bytes": 260534,
+      "sha256": "bb188be4eb78de14a24a1e5715b55bf16fb3853f3f318e23d38003efc91d604a",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/screenshots/Inkscape_actual_HC_OUTER.log",
+      "bytes": 137,
+      "sha256": "b7c481791535b14fb87e992ddfb961b31b9b4e1789fb37b4fdd7a950319da0b4",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/screenshots/Inkscape_actual_HC_OUTER.png",
+      "bytes": 78275,
+      "sha256": "a227f942eaf96d73d64c8d454a093d8f09dea12728c88e911231c9abbaa78207",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/screenshots/VTK_actual_closed.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/screenshots/VTK_actual_closed.png",
+      "bytes": 517133,
+      "sha256": "de01b6f1f36bd2847b386b8551fa34a76c50327a023bff3547c105bb4e90207c",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/screenshots/VTK_actual_open.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/screenshots/VTK_actual_open.png",
+      "bytes": 570191,
+      "sha256": "b9575d11d655e15e9936f6edc387b562503348bcfd83ec1fbc6e913ab526486d",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/screenshots/restored_report_page_01.png",
+      "bytes": 80320,
+      "sha256": "1d7af23ccda63381de3eac6c68b5fe78abe1ec05a24a23dda2f5e52d8fe062fd",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/screenshots/restored_report_page_04.png",
+      "bytes": 132358,
+      "sha256": "05a88e7bcb90e95394079eefc77ee53a291a8ce3d9628432662c10882eedbbf8",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/screenshots/restored_report_page_11.png",
+      "bytes": 100054,
+      "sha256": "7ed775f5b2a69135b32fc7172f9a85aec79535289adbdcb9593d436cea2d1cd1",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/tests/body_bounds.json",
+      "bytes": 242,
+      "sha256": "3e69f8736299c457e72cfd64bcaa99a88b7b3b5a05676d891f63f42b84472518",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/tests/environment.json",
+      "bytes": 549,
+      "sha256": "234a5708e6c49d6d46bf87a400bafb06526cc973d6a9c353fee9bdb20200ed96",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/tests/report_flow.json",
+      "bytes": 15960,
+      "sha256": "daba734090dd4527fa1824a247857d73f1a17f905a3c595da55bbf96b0153437",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R04/tests/verification.json",
+      "bytes": 8811,
+      "sha256": "8a7b149e5b334ed6b9ec397cfbef575bad11d4041217a64cc49c7fde5b066dfc",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/calculations/pad_interference.json",
+      "bytes": 1096,
+      "sha256": "192027654e605e122d9be40d8d699fcf1225f2cd473c768b4561b3aea003412a",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/docs/Lezhandr_R05_design_report.pdf",
+      "bytes": 5680473,
+      "sha256": "0ea99a4f0022bd0fa5a0ea65c1fefe15e543da393dfcef81d68275beb8aa90a0",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/Lezhandr_R05_new_patterns_1to1.pdf",
+      "bytes": 100358,
+      "sha256": "aef133783220ddb00e7a50209e3055d008138737e72940d960716d35a34933e9",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/R05_NEW_PANELS_REVIEW_LAYOUT.dxf",
+      "bytes": 258335,
+      "sha256": "0aa7d56c8a9d12f7a00285c70f384fcc08fe1b83fd19ae0d30fc669c66258697",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/cutting_register.csv",
+      "bytes": 11400,
+      "sha256": "7b110a9e792fcc5bf8fbac81e2347227ca1e17052f9337669728a526e04735f3",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/cutting_register.json",
+      "bytes": 17507,
+      "sha256": "ef38d58c3d85c94ff833018a600eb65e48d4a958ec26ad8b2b638ba6dd9b85b9",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/main_wrap_layout.svg",
+      "bytes": 28302,
+      "sha256": "956a7dbc3d9a804191dc6f8c8ce12ccc35dac65f294be536cab5e0d0a7c04298",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/P01_BACK_TOP_LINING.dxf",
+      "bytes": 18956,
+      "sha256": "3f9c0bdde3b23387a8ce5a9e34fba7c63a7cc72ccf39082b1cd797998fb1caad",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/P01_BACK_TOP_LINING.svg",
+      "bytes": 2035,
+      "sha256": "1c0a8b59940355702902f302c616e016a1259aa3e367e6c6097156cf3717f9e1",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/P02_PELVIS_TOP_LINING.dxf",
+      "bytes": 17885,
+      "sha256": "11a169f8802bd455c5c52b59b83ccfee8dee1c81a6ba64260514d65b72249600",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/P02_PELVIS_TOP_LINING.svg",
+      "bytes": 1516,
+      "sha256": "e046af254cb19b6138307e3b3211120a311d7a6c9f09cec46a6d266542635f81",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/P03_LEG_TOP_LINING.dxf",
+      "bytes": 21231,
+      "sha256": "71e821011ce32bbe7c804f2181f0c8c3fa1228bf0916931a9c0282341a513a1b",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/P03_LEG_TOP_LINING.svg",
+      "bytes": 3258,
+      "sha256": "83cbaaf77f4f938f7e07267fa94183f889229db4739b1b8f2c1fa74f5e063535",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q01_CENTRE_BATTING.dxf",
+      "bytes": 20659,
+      "sha256": "7ced8babefaec4095ab3645d05bbf1f5ccb6f2241d6f5c77bc303d50389ec374",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q01_CENTRE_BATTING.svg",
+      "bytes": 2929,
+      "sha256": "ea5310d6cc24c4593e5f0e608975c7a1d8b1d835a0aede00eab18d8a2c1f60d1",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q01_CENTRE_LINING.dxf",
+      "bytes": 20664,
+      "sha256": "d125baa3f53df3367d3dc062089b254b1549ba9c2ddd3bb6e5708cc5637c6ed5",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q01_CENTRE_LINING.svg",
+      "bytes": 2931,
+      "sha256": "98246e316275430e7e29ac8583ecb79f486ec2222d865aad0a5ffba0913b7132",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q01_CENTRE_OUTER.dxf",
+      "bytes": 20663,
+      "sha256": "4c37cae89c9b35c9032bf9c26aec2eb6545a0c03b1433f4c571ab005b2697140",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q01_CENTRE_OUTER.svg",
+      "bytes": 2929,
+      "sha256": "831a456b938e279f9758c146c61a3c32572ee6c6a759b3efe5c030807fb80e90",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q01_WING_L_BATTING.dxf",
+      "bytes": 22728,
+      "sha256": "e39ec4b2b5a8f710e7dc71d71dba9e81aea1101a4cb20f89bd2dc6f60e3f7099",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q01_WING_L_BATTING.svg",
+      "bytes": 3967,
+      "sha256": "07a7f1380a6e7bad81dae51e15a3b27cb2e0b1b639246dfc7a9155915ef7652b",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q01_WING_L_LINING.dxf",
+      "bytes": 22733,
+      "sha256": "85971ff15a24b649f6518038d1264946902e5a8e54d569eb5fd4c964b5c3c756",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q01_WING_L_LINING.svg",
+      "bytes": 3975,
+      "sha256": "5b3c346ad10fb6b1e614dd3859787d882e43e348b43e12733fdc00104b6ff6f2",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q01_WING_L_OUTER.dxf",
+      "bytes": 22732,
+      "sha256": "7b80a77ef5a8b4d080e7c5f2cce151221338f209045788d9740ac46ed9ddbf10",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q01_WING_L_OUTER.svg",
+      "bytes": 3973,
+      "sha256": "ed8d4875f1200b0c6a1da8c31ce71d6bcba82f896e003632976b3401cd5f0e62",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q01_WING_R_BATTING.dxf",
+      "bytes": 22537,
+      "sha256": "48f5ac1c8f782a39c52355c220e59657a0de861c8465ab8766741c756d2c2c67",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q01_WING_R_BATTING.svg",
+      "bytes": 3967,
+      "sha256": "e96c35752ece3f57268956378c5b63b9cdb88dcaeb9d236b11dfee84d42bf401",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q01_WING_R_LINING.dxf",
+      "bytes": 22542,
+      "sha256": "f6431653f8212698e7b55aba37bef1ae35e0c20a9332af9ca311342eb01bf5e7",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q01_WING_R_LINING.svg",
+      "bytes": 3975,
+      "sha256": "650f121fbbdc51cab6d8417ef5081058a0a9c7b4903804b1f67671200aeb0183",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q01_WING_R_OUTER.dxf",
+      "bytes": 22541,
+      "sha256": "3a67d3dd71738cce85d95487777c7d38f25f0013632c799bade513d177646432",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q01_WING_R_OUTER.svg",
+      "bytes": 3973,
+      "sha256": "698edeb16aa7f36f8b589d00b7f518d9183ee80f226010378ca73167af492f19",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q02_SIDE_L_BATTING.dxf",
+      "bytes": 32665,
+      "sha256": "e73b566de39e733ce7143627a5fa7fca12116ff96dd5c459ae2441f845df1ef0",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q02_SIDE_L_BATTING.svg",
+      "bytes": 7204,
+      "sha256": "1632c85474c659cb717210a569a7d7beb75fed018352b471fd4cc72dcbda6ee2",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q02_SIDE_L_LINING.dxf",
+      "bytes": 32871,
+      "sha256": "82584f02e68ef9d17ad143104f9b208f5531be27f28b53127f60f76093ea1300",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q02_SIDE_L_LINING.svg",
+      "bytes": 7304,
+      "sha256": "41a14dacf3470edf496346e88c75d888a8b3605726e26bc4efe4cb2b6fb10587",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q02_SIDE_L_OUTER.dxf",
+      "bytes": 32870,
+      "sha256": "55771da4a7ca3b068511c0e67cab9a997b734403443ed334410f47296b3f6d3c",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q02_SIDE_L_OUTER.svg",
+      "bytes": 7302,
+      "sha256": "b97150a2a438e4478758f944b31fbd9b6c48dde2ef2ada547c51ae3ea48ce3ba",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q02_SIDE_R_BATTING.dxf",
+      "bytes": 32665,
+      "sha256": "25543b255fb27bf8d54d0732405b76c8b6664f8f2f3216e5dda905bf4a6edb17",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q02_SIDE_R_BATTING.svg",
+      "bytes": 7204,
+      "sha256": "bad5d9715763c69918126a8c959ea047ea063f2665bcfc9c47249fdfd552bc12",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q02_SIDE_R_LINING.dxf",
+      "bytes": 32871,
+      "sha256": "bce0343db6a2ece0f690099356d85c432efedca158cf05eade5ba840b63e618f",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q02_SIDE_R_LINING.svg",
+      "bytes": 7304,
+      "sha256": "0aa3c114e044a465f37a8028679957762676d9248899d29797539f772ca0cd59",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q02_SIDE_R_OUTER.dxf",
+      "bytes": 32870,
+      "sha256": "7539e1de19abc8d14ab2706527cf063971b7a89acb1dab65e05381ed1cabbeef",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q02_SIDE_R_OUTER.svg",
+      "bytes": 7302,
+      "sha256": "2a220fd6545301fac130edd4a4b6158b11c8198c63b4731591c74723dc6c9c39",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q03_KEYBOARD_FLAP_BATTING.dxf",
+      "bytes": 20284,
+      "sha256": "7332c1939f5acd42e178040984116c24cced2b22b093cde44d2fc744d4d4ada5",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q03_KEYBOARD_FLAP_BATTING.svg",
+      "bytes": 2717,
+      "sha256": "0239294e6af4483a0892d52675f909de8ea42ae9ea46d5861238236ef92a0740",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q03_KEYBOARD_FLAP_LINING.dxf",
+      "bytes": 20289,
+      "sha256": "80f037d2213271816ae018ad00a317560fdb8a2877897c7ee0421cc1b559bc6d",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q03_KEYBOARD_FLAP_LINING.svg",
+      "bytes": 2725,
+      "sha256": "84cd61046281b10d36fdc25103c225620b947c6db99c5828fc6f8d72fa70773c",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q03_KEYBOARD_FLAP_OUTER.dxf",
+      "bytes": 20288,
+      "sha256": "8c5b678384a91b74c03c335524ebdf0f6b08dec6ed62628708e4fda66d680c8d",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q03_KEYBOARD_FLAP_OUTER.svg",
+      "bytes": 2723,
+      "sha256": "bba094cac5457233e7c8520a23e4f35e165f2cd3d42506c1481d81c34c9b22ea",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q04_LOWER_QUILT_BATTING.dxf",
+      "bytes": 26084,
+      "sha256": "a11805900e657e220055da628df0c1e3c86211650a6a50215f06003a9dfa3f55",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q04_LOWER_QUILT_BATTING.svg",
+      "bytes": 5144,
+      "sha256": "02b66dc05e96f12b4b2f680dbd8e6af4a4d116f87f5734ead342f543cc588358",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q04_LOWER_QUILT_LINING.dxf",
+      "bytes": 26104,
+      "sha256": "d0c627f48172a4bd2f0af46027f84e05338d4dcb00d2fd9fb34a401156cb5cf4",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q04_LOWER_QUILT_LINING.svg",
+      "bytes": 5164,
+      "sha256": "c7f4b86c78e664de664dbde7a54bc29b00de3bc0ff341dbebb4c6752c2912bc3",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q04_LOWER_QUILT_OUTER.dxf",
+      "bytes": 26103,
+      "sha256": "589ef536360ef5ccd3e09dccd2c80f98e96cd799579fcb6f03a52b9912d73f4a",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/Q04_LOWER_QUILT_OUTER.svg",
+      "bytes": 5162,
+      "sha256": "2e16c3f41375456a5ae056052a74ca63194725cd46b2f6b2a99fc60183d323ec",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_C1_UPPER.dxf",
+      "bytes": 16770,
+      "sha256": "a679f51ee51141fbea327ddb6aa2dad5212eb7a0ddd52ddcf38b93a755e4363c",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_C1_UPPER.svg",
+      "bytes": 956,
+      "sha256": "ef1946ed6e3ce1ebbf9fc717d76104b92850a6b28f196d7c087ca15f1b21fbd2",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_C1_UPRIGHT.dxf",
+      "bytes": 16863,
+      "sha256": "1bbb4f1ba21ff50d64bc71bb79e1b498879515ab221bccce2086307513abb0df",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_C1_UPRIGHT.svg",
+      "bytes": 960,
+      "sha256": "7eed928a82871942ce0f2b571b0d378af9d387e241de6c206160aba56757beb0",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_C2_UPPER.dxf",
+      "bytes": 16770,
+      "sha256": "f124b70bfb49bbf0a58164f39c20d02c842ac51e51342ebb716ccfc312aa2d7b",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_C2_UPPER.svg",
+      "bytes": 956,
+      "sha256": "b58991de59add32dd5940f81d9dd08e5db719325e5368f0ae0f24b8b1eb9755a",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_C2_UPRIGHT.dxf",
+      "bytes": 16886,
+      "sha256": "b36c40180e3f3d08d4d327f2deb61b6cbada1a14730e1e169150e903edbee117",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_C2_UPRIGHT.svg",
+      "bytes": 960,
+      "sha256": "57453cdd102d76c65bddf97844786a4df6a65841c5bcf0a5b83fd80a98576605",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_F_BACK_CROSS.dxf",
+      "bytes": 16774,
+      "sha256": "d8f12144d6bc9a4bc22577d3b4b26c3cb7e9a8b8841231112f0517803531b420",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_F_BACK_CROSS.svg",
+      "bytes": 964,
+      "sha256": "dc1d8137ed61976a00b7e84ef301721b23105327d7db45e03b4ad719a6ee015f",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_F_BACK_LOWER_LINK_-1.dxf",
+      "bytes": 16859,
+      "sha256": "55b6c09b3fd8d5af3549387f970e2ac0b8d323332d30af401c3bd1d2cc9f3e4d",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_F_BACK_LOWER_LINK_-1.svg",
+      "bytes": 974,
+      "sha256": "83e286ab80f346a727c636042bbcbbc7ec1932303b8ca7b7b009dc67296e5891",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_F_BACK_LOWER_LINK_1.dxf",
+      "bytes": 16858,
+      "sha256": "727ff485f1d83e51afa6ce41894b1cad82ed365eba5ac7d43bcf6976792d6a26",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_F_BACK_LOWER_LINK_1.svg",
+      "bytes": 972,
+      "sha256": "b85dab99a3cd1b156a75cfc12b925ba398154ed35be1da48e51e296d3b4c5eb2",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_F_BACK_LOWER_STUB_-1.dxf",
+      "bytes": 16887,
+      "sha256": "239ea846190d61a7f89e2cbd4cd41032b965a970cb971990551b77170e0a4921",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_F_BACK_LOWER_STUB_-1.svg",
+      "bytes": 974,
+      "sha256": "039f7bff5270775ecc6962f850c4ea42a314d7c610fd6aa6efa49fac13513790",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_F_BACK_LOWER_STUB_1.dxf",
+      "bytes": 16886,
+      "sha256": "a2c4221f6327f317e8fbf8e1ee118cf8bba349253937a28c26582821a15c4321",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_F_BACK_LOWER_STUB_1.svg",
+      "bytes": 972,
+      "sha256": "d8ae8d1626ae2016cc816a292137830a9f45465fe95518e4ac0f54996287a2da",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_F_BACK_PROP_-1.dxf",
+      "bytes": 16860,
+      "sha256": "8926e36a30857ab5bd13d1adcbdfe7741e8204d19d7993d706b9585230b19cb5",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_F_BACK_PROP_-1.svg",
+      "bytes": 968,
+      "sha256": "9908cff412a13d6f92619b532e6ef385f09393a25176865ca8c1129f82bc3f0f",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_F_BACK_PROP_1.dxf",
+      "bytes": 16859,
+      "sha256": "3b997d35fcbfa631265cd397d0e718b3ef06176d21b878c0e15dcd00dd533af7",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_F_BACK_PROP_1.svg",
+      "bytes": 966,
+      "sha256": "6427bfd5e7c4e6c3b853653a9198cdd28d5b02d1ddae857fe4c2223fa7800f00",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_F_BACK_RAIL_-1.dxf",
+      "bytes": 16862,
+      "sha256": "31dc135e1dfcccde82874fea32ccaf5124828d0de761e015cf44b4117f0a5118",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_F_BACK_RAIL_-1.svg",
+      "bytes": 968,
+      "sha256": "826247b79def96a3084f874abd986234b1a06a1caa1e02cef733a8836cc61fdd",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_F_BACK_RAIL_1.dxf",
+      "bytes": 16861,
+      "sha256": "6e0295593352a56e16f5426587321c059c68d8e0fd002171a6656e7ec78adce2",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/pieces/SLEEVE_F_BACK_RAIL_1.svg",
+      "bytes": 966,
+      "sha256": "bf9a19bd8c8d863f6276efaad0896dd7e949d9207e2747e2acdf8d8fabb186e6",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/seam_pairs.json",
+      "bytes": 987,
+      "sha256": "82dcbec12aaeeffd3e9da6a9ce9611e2f2c0565166bb105e18e80785feb8800a",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/patterns/summary.json",
+      "bytes": 243,
+      "sha256": "08d0731d2c85d652cb74e59efbe47959aba76082af1593203da72c79be0f0967",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/renders/C_front.png",
+      "bytes": 174040,
+      "sha256": "3562fd19899b24a7cfb2a17111ae73e2322f85778d4f1c02f0ea86f5f47856dd",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/renders/empty_cutaway.png",
+      "bytes": 371437,
+      "sha256": "d7151878e05ea768b902c6d455853466b09e5802700d6803f9958869a7026b92",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/renders/exit_0.png",
+      "bytes": 304475,
+      "sha256": "902ef26b7673b3d7281cae64104f28b0271084ee1f95e47523794caec9f022cf",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/renders/exit_1.png",
+      "bytes": 299829,
+      "sha256": "da19e8f997a5af58b7968042b2ebc2ce25afddddcf686e231f0db3fcac4e3fc9",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/renders/exit_2.png",
+      "bytes": 274452,
+      "sha256": "063338cf1d448563b4106485bf3dc4ce722ae6c2aa771077d47470a14657efdc",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/renders/exit_3.png",
+      "bytes": 290117,
+      "sha256": "ff8ef6234815a896db9f623412e9dcb1b2648bca5ddf4b90f77fd8ea8e7bba56",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/renders/frame_iso.png",
+      "bytes": 229525,
+      "sha256": "e57f3073c0b8609d3dfe417fd8ebe3f6e9ffa4afc32d0b8563f4f3188ce48e88",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/renders/hands_closed.png",
+      "bytes": 585737,
+      "sha256": "45eed115dad8492a82b5f47378f5b4f7fdcb4ddc3c96af0f1c9652d5406f6eff",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/renders/hands_rolled.png",
+      "bytes": 632452,
+      "sha256": "d8e0634e983e4c9d2fe7a060ee27d2429a8961da80b88f5db9c27b9e6e244f5f",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/renders/occupied_cutaway.png",
+      "bytes": 443015,
+      "sha256": "ee202f059f76481647b1149ade65bd16d6b2dbcd35439d85afb0038fd8e8c05c",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/renders/pattern_layout.png",
+      "bytes": 158204,
+      "sha256": "e2e7ffa01b248fe3f553ba7a6ef97dccf171ebb747c732bf44fa76e05b3d3671",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/renders/side_section.png",
+      "bytes": 326341,
+      "sha256": "572676cc02cf23c0aeda2a830753fa96a415a5727cba310070a499c9c786691f",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/renders/sleep_module_removed.png",
+      "bytes": 298365,
+      "sha256": "811e847acf072a420bcff05ca59927bc1facb4b4f6cc578be82564890c81e96d",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/renders/work_closed.png",
+      "bytes": 418869,
+      "sha256": "3133f0a008de9cad334510cae0c378d199ecbdcfd2dbf920aeb1acc18fec752a",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/renders/work_rolled.png",
+      "bytes": 435785,
+      "sha256": "fc0b1d28fadf8a4f4a19ca578fdd25fe4d28eda5ae4693152a90cbd22df25420",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/requirements.txt",
+      "bytes": 142,
+      "sha256": "758aa498a5d89feca99d717ec5c9d69547fdf2fa76fedd86616e0e9396dea16f",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/screenshots/Inkscape_R05_actual.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/screenshots/Inkscape_R05_actual.png",
+      "bytes": 114416,
+      "sha256": "156f8c827e8e1095b0b511a1374b816d3b67f83ff8669b86428c41fc43817143",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/screenshots/VTK_R05_actual.log",
+      "bytes": 367,
+      "sha256": "0ee73f77ce93a23b40309fcd6efab60158478f4a0baf30babced58427b59fbf3",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/screenshots/VTK_R05_actual.png",
+      "bytes": 362947,
+      "sha256": "f7dff770a75f41ebb61cea6aadc8a173ad329317a98c6e790e80ff01596050ec",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/screenshots/restored_report_page_01.png",
+      "bytes": 104458,
+      "sha256": "2209d18ee61ba30de0d30bc7afc392eb653572c1655e3a5f184525466fb6d5d6",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/screenshots/restored_report_page_04.png",
+      "bytes": 88567,
+      "sha256": "209829447d0ed9873ab3a20800d5e241800b62b83f31c87b4ffaa8358adf6470",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/screenshots/restored_report_page_13.png",
+      "bytes": 50752,
+      "sha256": "a00e4fff11cce8ba878300a5dddb95761ec65472220de1b49d628068e8f7fe62",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/tests/software_versions.json",
+      "bytes": 214,
+      "sha256": "2fca55c47b0ea9dfd905b017824323708a70f7901c1077ca3ec1c1480effeda6",
+      "origin": "regenerated from preserved sources and existing CAD"
+    },
+    {
+      "path": "revisions/R05/tests/verification.json",
+      "bytes": 12899,
+      "sha256": "190a52a6374427632fcc84af39e922312494a78ed337e6075a6c83d88f86c6d4",
+      "origin": "regenerated from preserved sources and existing CAD"
+    }
+  ],
+  "groups": [
+    {
+      "revision": "R04",
+      "checks": 46,
+      "report_pages": 12
+    },
+    {
+      "revision": "R05",
+      "checks": 103,
+      "report_pages": 14
+    }
+  ],
+  "failures": [],
+  "adapters": [
+    "R04 report: omit the final copy to /mnt/data; output remains in revision/docs.",
+    "R05 verifier: run checks before the final archival ZIP checksum step; verify the emitted result explicitly. No ZIP is introduced in Git.",
+    "Recovered PDF receives a bottom-margin provenance line; preserved historical text and design remain, actual run metadata is in this report."
+  ],
+  "existing_CAD_overwritten": false,
+  "new_engineering_design": false,
+  "R06_existing_files_unchanged": 86
+}

@@ -1,0 +1,12 @@
+{
+  "source_file": "технический_лист_вышивки_спим_с_хаски.png",
+  "crop_xyxy": [
+    80,
+    130,
+    678,
+    743
+  ],
+  "design_name": "Спим с хаски",
+  "method": "crop approved image -> background removal -> 8-color segmentation -> trace -> stitch generation",
+  "notes": "Not a new generated logo. Original text and face traced from approved raster; texture simplified."
+}

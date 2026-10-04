@@ -1,0 +1,9 @@
+{
+  "cad_mid_surfaces": 10,
+  "cut_pieces": 37,
+  "seam_pairs": 5,
+  "new_developable_edge_max_relative_error": 1.0916434369054991e-14,
+  "plotter_pdf_pages": 37,
+  "layout_is_optimized_nesting": false,
+  "old_shell_patterns_released": false
+}

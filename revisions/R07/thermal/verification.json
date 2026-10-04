@@ -1,0 +1,48 @@
+{
+  "checks": [
+    {
+      "test": "tray energy balance",
+      "passed": true
+    },
+    {
+      "test": "collector energy balance",
+      "passed": true
+    },
+    {
+      "test": "receiver energy balance",
+      "passed": true
+    },
+    {
+      "test": "capture never exceeds laptop heat allocation",
+      "passed": true
+    },
+    {
+      "test": "thermal disconnect forbids reverse heat flow",
+      "passed": true
+    },
+    {
+      "test": "timeout 30 min removes electric power",
+      "passed": true
+    },
+    {
+      "test": "calculated pad temperature below software trip in these cases",
+      "passed": true
+    },
+    {
+      "test": "refined tray peak difference < 0.8 C",
+      "passed": true,
+      "delta_C": 0.20109655075548005
+    }
+  ],
+  "passed": 8,
+  "total": 8,
+  "does_not_validate": [
+    "skin safety",
+    "device cooling",
+    "CFD",
+    "cloth compression",
+    "thermal interfaces",
+    "real heater temperatures",
+    "human comfort"
+  ]
+}

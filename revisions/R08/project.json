@@ -1,0 +1,24 @@
+{
+  "revision": "R08",
+  "source": "R07",
+  "hand_heater": false,
+  "passive_metal_link_enabled": false,
+  "palette": "matte sepia",
+  "pattern_release": "P0 digital prototype; fabric calibration and sample sewing required",
+  "assembly_states": [
+    "open",
+    "closed",
+    "interior",
+    "exit"
+  ],
+  "unchanged": [
+    "legacy PCB/firmware",
+    "embroidery"
+  ],
+  "geometry_source_sha256": {
+    "Lezhandr_R07_interior.step": "03bbf435a3dc76b976393b270d5f290b25681ca02527cf89ab7a366a83cad12b",
+    "Lezhandr_R07_open.step": "85faee95f72d6b91c3de66d91fb6c91db310fa531b8d035dbca541050b1a8bfa",
+    "Lezhandr_R07_thermal.step": "0e0d329f4c1d0d931034495c90d6be31be679f9055b08d6dd2432e611b34e7fc",
+    "Lezhandr_R07_closed.step": "113140cb24b607331bb90127e87c34b996296302e1d6b078749919a3983cdb8f"
+  }
+}

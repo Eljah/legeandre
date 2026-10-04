@@ -1,0 +1,23 @@
+{
+  "mode": "work",
+  "parts": 100,
+  "all_valid": true,
+  "overall_bounding_mm": {
+    "length": 2133.9,
+    "width": 860.0,
+    "height": 1148.9
+  },
+  "heater_areas_m2": {
+    "EH0": 0.4,
+    "EH1": 0.45,
+    "EH2": 0.18,
+    "EH3": 0.18
+  },
+  "heater_developed_lengths_mm": {
+    "EH0": 421.53,
+    "EH1": 501.05,
+    "EH2": 200.42,
+    "EH3": 233.36
+  },
+  "method": "OpenCASCADE BREP validity, no interference/FEM proof"
+}

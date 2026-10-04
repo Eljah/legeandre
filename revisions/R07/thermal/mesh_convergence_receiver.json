@@ -1,0 +1,41 @@
+[
+  {
+    "zone": "back",
+    "ambient_C": 10,
+    "recovered_heat_W": 1.5,
+    "electric_heat_W": 9,
+    "Tmin_C": 31.000000682611514,
+    "Tmean_C": 31.47368421052631,
+    "Tmax_C": 33.76881976949129,
+    "heat_from_skin_W": 3.815789473684214,
+    "loss_to_backing_W": 14.315789473684209,
+    "balance_residual_W": 5.329070518200751e-15,
+    "cells": 120
+  },
+  {
+    "zone": "back",
+    "ambient_C": 10,
+    "recovered_heat_W": 1.5,
+    "electric_heat_W": 9,
+    "Tmin_C": 31.000000086601773,
+    "Tmean_C": 31.473684210526315,
+    "Tmax_C": 34.60388244188256,
+    "heat_from_skin_W": 3.8157894736842093,
+    "loss_to_backing_W": 14.31578947368421,
+    "balance_residual_W": -1.7763568394002505e-15,
+    "cells": 480
+  },
+  {
+    "zone": "back",
+    "ambient_C": 10,
+    "recovered_heat_W": 1.5,
+    "electric_heat_W": 9,
+    "Tmin_C": 31.000000047678718,
+    "Tmean_C": 31.473684210526297,
+    "Tmax_C": 34.811015888485784,
+    "heat_from_skin_W": 3.815789473684247,
+    "loss_to_backing_W": 14.315789473684202,
+    "balance_residual_W": 4.618527782440651e-14,
+    "cells": 1920
+  }
+]

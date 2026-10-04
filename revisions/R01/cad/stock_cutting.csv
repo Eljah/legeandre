@@ -1,0 +1,39 @@
+﻿ID,stock,cut_length_mm,description,release_note
+B01,Al_35x35x2,2060.0,Base longitudinal rail,square cut / fit and joint details pending
+B02,Al_35x35x2,2060.0,Base longitudinal rail,square cut / fit and joint details pending
+B10,Al_35x35x2,725.0,Base cross rail,square cut / fit and joint details pending
+B200,Al_35x35x2,130.0,Leg,square cut / fit and joint details pending
+B201,Al_35x35x2,130.0,Leg,square cut / fit and joint details pending
+B11,Al_35x35x2,725.0,Base cross rail,square cut / fit and joint details pending
+B210,Al_35x35x2,130.0,Leg,square cut / fit and joint details pending
+B211,Al_35x35x2,130.0,Leg,square cut / fit and joint details pending
+B12,Al_35x35x2,725.0,Base cross rail,square cut / fit and joint details pending
+B220,Al_35x35x2,130.0,Leg,square cut / fit and joint details pending
+B221,Al_35x35x2,130.0,Leg,square cut / fit and joint details pending
+B60,Al_35x35x2,725.0,Anchor base crossmember,square cut / fit and joint details pending
+B61,Al_35x35x2,725.0,Anchor base crossmember,square cut / fit and joint details pending
+B62,Al_35x35x2,725.0,Anchor base crossmember,square cut / fit and joint details pending
+B63,Al_35x35x2,725.0,Anchor base crossmember,square cut / fit and joint details pending
+B64,Al_35x35x2,725.0,Anchor base crossmember,square cut / fit and joint details pending
+B400,Al_35x35x2,230.0,Seat stanchion,square cut / fit and joint details pending
+B401,Al_35x35x2,230.0,Seat stanchion,square cut / fit and joint details pending
+B50,Al_35x35x2,700.0,Seat support,square cut / fit and joint details pending
+B410,Al_35x35x2,230.0,Seat stanchion,square cut / fit and joint details pending
+B411,Al_35x35x2,230.0,Seat stanchion,square cut / fit and joint details pending
+B51,Al_35x35x2,700.0,Seat support,square cut / fit and joint details pending
+R010,Al_35x35x2,820.0,Segment side rail,square cut / fit and joint details pending
+R011,Al_35x35x2,820.0,Segment side rail,square cut / fit and joint details pending
+R020,Al_35x35x2,645.0,Segment crossrail,square cut / fit and joint details pending
+R021,Al_35x35x2,645.0,Segment crossrail,square cut / fit and joint details pending
+S010,Al_35x35x2,520.0,Segment side rail,square cut / fit and joint details pending
+S011,Al_35x35x2,520.0,Segment side rail,square cut / fit and joint details pending
+S020,Al_35x35x2,645.0,Segment crossrail,square cut / fit and joint details pending
+S021,Al_35x35x2,645.0,Segment crossrail,square cut / fit and joint details pending
+L010,Al_35x35x2,770.0,Segment side rail,square cut / fit and joint details pending
+L011,Al_35x35x2,770.0,Segment side rail,square cut / fit and joint details pending
+L020,Al_35x35x2,645.0,Segment crossrail,square cut / fit and joint details pending
+L021,Al_35x35x2,645.0,Segment crossrail,square cut / fit and joint details pending
+D00,Al_25x25x2,290.0,Tray upright,square cut / fit and joint details pending
+D10,Al_20x20x2,99.9,Tray support arm,square cut / fit and joint details pending
+D01,Al_25x25x2,290.0,Tray upright,square cut / fit and joint details pending
+D11,Al_20x20x2,99.9,Tray support arm,square cut / fit and joint details pending

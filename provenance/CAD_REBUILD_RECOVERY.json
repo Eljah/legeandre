@@ -1,0 +1,623 @@
+{
+  "status": "R05_R06_REBUILT_FROM_ORIGINAL_VERIFIED_SOURCES",
+  "workflow_run_id": "37001408622",
+  "source_hashes": {
+    "revisions/R05/source/build_r05.py": "e090fa9985a397ff33a0e8512acdd60b5799fe5a04b6d52e5416a1a112515eaf",
+    "revisions/R06/source/build_r06.py": "ae05002eeaac7bdeaae6cc63af32246837f219ae9394506ab0a5b562926b2d39",
+    "revisions/R06/source/render_r06.py": "84ec0f25a2e9734920ad12beddbcff5f063318e5095b32fafdcbfa40a632019f",
+    "revisions/R06/source/develop_samples.py": "0dd54b450171f3b19bdce1bf435b53912eabd7a6764d6e4a4e8b61036862824f",
+    "revisions/R06/source/verify_r06.py": "ffcfb40f9b0dc3afe86a3d6cdf5b90ff00c9dd20431e1281613c824e5d77bb6d",
+    "revisions/R06/source/build_report_r06.py": "196434a5350ab6d4fda47b222bfbd7e9c582b228a8b4554dd3fa729cba3235e8"
+  },
+  "r04_surface_bytes_match_original": true,
+  "r04_grid_fingerprint_1e8mm": "752172ec224091a877c9a31b27031d874a8c6b17e935f40358b8956a8ff718c7",
+  "r06_step_files": 9,
+  "r06_checks_passed": 34,
+  "r06_checks_total": 34,
+  "r06_pdf_pages": 14,
+  "files": [
+    {
+      "path": "revisions/R05/cad/Lezhandr_R05_cavity.step",
+      "bytes": 1728991,
+      "sha256": "fc5a25e115a931a64a7c3ff0ba0b00e2f0ecd69e3c54d7e6c2b1c1d24ff776f2"
+    },
+    {
+      "path": "revisions/R05/cad/Lezhandr_R05_closed.step",
+      "bytes": 3861436,
+      "sha256": "99624733733260c0a300e3ae15878a76c148fd0e89b048033988a7d9b81dd232"
+    },
+    {
+      "path": "revisions/R05/cad/Lezhandr_R05_exit.step",
+      "bytes": 3667436,
+      "sha256": "8980977e6ee03cedb03169d9c57737ecc16f9bef450b50e9aa63fae6d9b13bc1"
+    },
+    {
+      "path": "revisions/R05/cad/Lezhandr_R05_frame.step",
+      "bytes": 1285680,
+      "sha256": "4998611d7d8ba4c41c44de5531a1eed193784c0316b40d2be28c798d027a4680"
+    },
+    {
+      "path": "revisions/R05/cad/Lezhandr_R05_interior.step",
+      "bytes": 3228764,
+      "sha256": "bb7404865f8f5db38276b11d2877f1d7d4be97c9fa05f38b702e15fb60289097"
+    },
+    {
+      "path": "revisions/R05/cad/Lezhandr_R05_rolled.step",
+      "bytes": 3866668,
+      "sha256": "4f529a84b6a4fa4a52259f0685ff79fd36b1299529ead693fbe22856e931e269"
+    },
+    {
+      "path": "revisions/R05/cad/Lezhandr_R05_sleep.step",
+      "bytes": 429773,
+      "sha256": "25c6ee18a16621652d8915b4446e7212ed80f5c8ee310ad7e111af3a3d36e09b"
+    },
+    {
+      "path": "revisions/R05/cad/beams_R05.json",
+      "bytes": 5967,
+      "sha256": "27377f818dab5e767b486e3658616e143c3460f58902b1e33d0d3407e3628f20"
+    },
+    {
+      "path": "revisions/R05/cad/model_R05.json",
+      "bytes": 29716193,
+      "sha256": "631d6e6d0c29c21e63c2cc9155c5015669a835544c6a17527f4e70c18acc0ccf"
+    },
+    {
+      "path": "revisions/R05/calculations/beam_screening.json",
+      "bytes": 1319,
+      "sha256": "9ff8767b8adf5354fde16126b5d5375c652c4602ee657312e9561758bbc41cea"
+    },
+    {
+      "path": "revisions/R05/calculations/empty_stability.json",
+      "bytes": 1394,
+      "sha256": "108ec72ddfe439e8136a78fe9e0d069504c2150231a43b33223d260c3ecc9f40"
+    },
+    {
+      "path": "revisions/R05/calculations/empty_stability_parked.json",
+      "bytes": 1456,
+      "sha256": "4e1953da5436c18d637231f77b5544811e04c79e2406be3c321c6d15f9004548"
+    },
+    {
+      "path": "revisions/R05/calculations/ergonomics.json",
+      "bytes": 2007,
+      "sha256": "3f13696891824ee6fab0d6a1b5bfe3058155e80aa93e3ea1e85c72e160204efe"
+    },
+    {
+      "path": "revisions/R05/calculations/exit_clearance.json",
+      "bytes": 2355,
+      "sha256": "eadbd7605aff5436d776c935cbed9b2fb46279c8140ab34e2e10cd7b793bdf39"
+    },
+    {
+      "path": "revisions/R05/calculations/frame_mass.json",
+      "bytes": 270,
+      "sha256": "23aec3f9b67b4221c36ae2d758e82ff32495e1e1d429d99b7b0e0d9361a26bdc"
+    },
+    {
+      "path": "revisions/R05/calculations/pose_reference.json",
+      "bytes": 844,
+      "sha256": "4538956179ad51c4ad2079c07d3e397ae9099b02e7bdd56a911e8a6d39da45a3"
+    },
+    {
+      "path": "revisions/R05/calculations/support_loads.json",
+      "bytes": 1502,
+      "sha256": "589c5a95d24aa5bbdd826c8cfb7b450036a294954a7d7d4ecb9736d2d4a4b025"
+    },
+    {
+      "path": "revisions/R05/calculations/visibility.json",
+      "bytes": 255,
+      "sha256": "7a1549f60975c3c9944a101a57695b8578d40dcbaf11314fcded5a9cfce6e317"
+    },
+    {
+      "path": "revisions/R05/history/R04/surfaces_R04.json",
+      "bytes": 490790,
+      "sha256": "7106784c8bbdc5f675e4b81e4b915ae376d15274728c09154de43e13edbd04f1"
+    },
+    {
+      "path": "revisions/R05/history/Spim_s_haski_Lezhandr_R04_original_unpacked/Lezhandr_R04/history/build_cad_R01.py",
+      "bytes": 12624,
+      "sha256": "3c629a814287ecb280a97240bb8c5f3a962d8f637b1ff02dc8897a84d7d37da8"
+    },
+    {
+      "path": "revisions/R05/history/Spim_s_haski_Lezhandr_R04_original_unpacked/Lezhandr_R04/history/build_cad_R02.py",
+      "bytes": 17463,
+      "sha256": "2113db7313510d02ecec5f72d44bc7a6dc27ac48800e751ba88caa4f55d144c6"
+    },
+    {
+      "path": "revisions/R05/history/Spim_s_haski_Lezhandr_R04_original_unpacked/Lezhandr_R04/history/project_R01.json",
+      "bytes": 2093,
+      "sha256": "928af7f1d76a556d0ba3db0c0d3424091a5b66090fc05811010bfd78d731be43"
+    },
+    {
+      "path": "revisions/R05/history/Spim_s_haski_Lezhandr_R04_original_unpacked/Lezhandr_R04/history/rebuild_R01/cad/source/build_cad.py",
+      "bytes": 12624,
+      "sha256": "3c629a814287ecb280a97240bb8c5f3a962d8f637b1ff02dc8897a84d7d37da8"
+    },
+    {
+      "path": "revisions/R05/history/Spim_s_haski_Lezhandr_R04_original_unpacked/Lezhandr_R04/history/rebuild_R01/project.json",
+      "bytes": 2093,
+      "sha256": "928af7f1d76a556d0ba3db0c0d3424091a5b66090fc05811010bfd78d731be43"
+    },
+    {
+      "path": "revisions/R05/patterns/panels_R05.json",
+      "bytes": 1319702,
+      "sha256": "31c46017998a2cf77c82e4d46104e177d9df48b824ab6af95ff2dfd7cc84408e"
+    },
+    {
+      "path": "revisions/R05/project.json",
+      "bytes": 1303,
+      "sha256": "d84d5206f6bd968ab60e6ef77f06261af2df6193b63c2f932459b5181ffd8c1c"
+    },
+    {
+      "path": "revisions/R05/source/build_r05.py",
+      "bytes": 29580,
+      "sha256": "e090fa9985a397ff33a0e8512acdd60b5799fe5a04b6d52e5416a1a112515eaf"
+    },
+    {
+      "path": "revisions/R05/tests/STEP_cavity.json",
+      "bytes": 1049,
+      "sha256": "ae2d40680bc1d7e293c7015f2a84e421cb84b2ba3807e921442f4f92910eeedf"
+    },
+    {
+      "path": "revisions/R05/tests/STEP_closed.json",
+      "bytes": 3128,
+      "sha256": "4e7a612ee38828c3ca6db925322cf7513cb69075f2d72117f7e003d3b950a9b3"
+    },
+    {
+      "path": "revisions/R05/tests/STEP_exit.json",
+      "bytes": 2970,
+      "sha256": "e39f57984fd8cf887eb870b214957ab7653df6dc71587908f4c29bae0e6951b1"
+    },
+    {
+      "path": "revisions/R05/tests/STEP_frame.json",
+      "bytes": 605,
+      "sha256": "f1b070200059683e93100a67b69b75c7df68aa1b48302be2e9321669a2eaf84a"
+    },
+    {
+      "path": "revisions/R05/tests/STEP_interior.json",
+      "bytes": 2294,
+      "sha256": "8dfb4df340ec8d3cd5243a828bc37ed5cf4d6b0f95b836df9e8f284e9b16bb9e"
+    },
+    {
+      "path": "revisions/R05/tests/STEP_rolled.json",
+      "bytes": 3126,
+      "sha256": "121576ad139a2925f61e757dadd1ef8a4925631e5587213fd04cdde803c81c54"
+    },
+    {
+      "path": "revisions/R05/tests/STEP_sleep.json",
+      "bytes": 513,
+      "sha256": "fcac16a2880ba283708bf012960bd571d516673c83869cc4ea5f59fd82d2b9fa"
+    },
+    {
+      "path": "revisions/R06/TEST_REPORT_RU.md",
+      "bytes": 4425,
+      "sha256": "d7860b89ebf91660980d85cd9327918ed2a113e6a3ba26aa10e8dd4ba9f818c8"
+    },
+    {
+      "path": "revisions/R06/cad/Lezhandr_R06_empty.step",
+      "bytes": 8302814,
+      "sha256": "c3264791f49123c5d7658af807be00a72aac830c39715ef2d33be322e265add3"
+    },
+    {
+      "path": "revisions/R06/cad/Lezhandr_R06_folded.step",
+      "bytes": 17807253,
+      "sha256": "9abf76bcaf41d9ce7bb7dd033bd7bca869af62b17dee02412ea3e260c15ce661"
+    },
+    {
+      "path": "revisions/R06/cad/Lezhandr_R06_interior.step",
+      "bytes": 5542887,
+      "sha256": "d2795f22e442b1553c6be48bd937c1c49edab33e2c702ca7aa71b05589abc99b"
+    },
+    {
+      "path": "revisions/R06/cad/Lezhandr_R06_layers.step",
+      "bytes": 9673780,
+      "sha256": "c9deccee2982658c66505b9bcd82512e87fb0b18263a82b671008c86394fe194"
+    },
+    {
+      "path": "revisions/R06/cad/Lezhandr_R06_occupied_interior.step",
+      "bytes": 5941912,
+      "sha256": "94be52d2930210e325a2ca2840f0be6be8c9caa8e3cd47703665aa6eb667e139"
+    },
+    {
+      "path": "revisions/R06/cad/Lezhandr_R06_relax.step",
+      "bytes": 8403888,
+      "sha256": "aa10d94555a6d240f59c9651eb8ab3862cc5a016abb3fa3a5b6e617a3edcd1ca"
+    },
+    {
+      "path": "revisions/R06/cad/Lezhandr_R06_small.step",
+      "bytes": 8276641,
+      "sha256": "419eb2c022dff7d7cc28b220af7645ccfd17eb670a816df62a0b0332deab06cc"
+    },
+    {
+      "path": "revisions/R06/cad/Lezhandr_R06_table.step",
+      "bytes": 2795644,
+      "sha256": "b85a78930760b88fe4746368b777d25387c4d6f75748c1bd8c84cb247253b3d8"
+    },
+    {
+      "path": "revisions/R06/cad/Lezhandr_R06_work.step",
+      "bytes": 18298669,
+      "sha256": "eeecc1c3572443ea1e2ce9a3e4dc2aad8a07deeedbf08471799e1e44e6bb1c65"
+    },
+    {
+      "path": "revisions/R06/cad/cover_grids.json",
+      "bytes": 670447,
+      "sha256": "d5f3da29cbf6f9a57215a50e064af971f1d4aeccbae53d68e9c89999d3427b88"
+    },
+    {
+      "path": "revisions/R06/cad/model_R06.json",
+      "bytes": 29581678,
+      "sha256": "c981cbd061eedfb2ddc52fd66826b3b9c88bd9b4cd8d3fdea2d4ab15a1e640d9"
+    },
+    {
+      "path": "revisions/R06/cad/palette.json",
+      "bytes": 713,
+      "sha256": "b15a28376b224b54cb05e13fe830f57eb822be34be57e8411bd32f132935ceb1"
+    },
+    {
+      "path": "revisions/R06/cad/section_Q04_outer_inner_mm.dxf",
+      "bytes": 18647,
+      "sha256": "ebfe4ddfbaaaa5fc443b042450f8e1e1b93f05c03936a0ae3df85e2208a22ef1"
+    },
+    {
+      "path": "revisions/R06/cad/table_members.json",
+      "bytes": 2387,
+      "sha256": "0586c19c9313869d8cd1df2927567540db3363f38d56383637b855230dbe9ac7"
+    },
+    {
+      "path": "revisions/R06/calculations/cover_sections.json",
+      "bytes": 2775,
+      "sha256": "3fe304ce20ba720fd138fae7f3291c97e96a6395004c725f7d1b25eca9b39d6d"
+    },
+    {
+      "path": "revisions/R06/calculations/filler_envelopes.json",
+      "bytes": 429,
+      "sha256": "4b90ec5cea04e6f75dc52def7b4a8e9ed36f6c8c574207760d24cb578191bb17"
+    },
+    {
+      "path": "revisions/R06/calculations/foot_settings.json",
+      "bytes": 1078,
+      "sha256": "9c7f84dc9771c41be5880f1cf719e7ef7b2dcf645ca502da71132c0313137590"
+    },
+    {
+      "path": "revisions/R06/calculations/nominal_hard_clearance.json",
+      "bytes": 570,
+      "sha256": "e192c729c9d11b3f78f4ff260f6e0b5402c31e8f1625721c5664eaf650c04288"
+    },
+    {
+      "path": "revisions/R06/calculations/poses.json",
+      "bytes": 2580,
+      "sha256": "de7ef7763c4f1b1a3342946ffe263671efddf8f4d4f7089f8dce0d01f226ba0a"
+    },
+    {
+      "path": "revisions/R06/calculations/table_beam_screen.json",
+      "bytes": 495,
+      "sha256": "c64688f2c815f8b41d0efb6862252eab845db29947cd6fe4b3132d9068a8734d"
+    },
+    {
+      "path": "revisions/R06/calculations/table_stability.json",
+      "bytes": 1902,
+      "sha256": "ac849e4114950964b127b5c6968474d5af87b947f8015decc49b9f5dad8f1da9"
+    },
+    {
+      "path": "revisions/R06/docs/Lezhandr_R06_CAD_review.pdf",
+      "bytes": 15834935,
+      "sha256": "cc27c043a5c16da3bbf9814c84893639a0ae7514120765a5ba4e215805be1d28"
+    },
+    {
+      "path": "revisions/R06/history/R05/Lezhandr_R05_rolled.step",
+      "bytes": 3866668,
+      "sha256": "4f529a84b6a4fa4a52259f0685ff79fd36b1299529ead693fbe22856e931e269"
+    },
+    {
+      "path": "revisions/R06/history/R05/build_r05.py",
+      "bytes": 29580,
+      "sha256": "e090fa9985a397ff33a0e8512acdd60b5799fe5a04b6d52e5416a1a112515eaf"
+    },
+    {
+      "path": "revisions/R06/patterns/Q02_SHOULDER_BODY_INNER_DRAFT.dxf",
+      "bytes": 42753,
+      "sha256": "75ec3d5c442d21e193fe1743c414b2a0a56ae783cb9b375d76253713d9d30d35"
+    },
+    {
+      "path": "revisions/R06/patterns/Q02_SHOULDER_BODY_INNER_DRAFT.svg",
+      "bytes": 3557,
+      "sha256": "9ea4e6d99d40004ca33f47d93cd75d92b22a642f9821ae4232347cba44ead207"
+    },
+    {
+      "path": "revisions/R06/patterns/Q02_SHOULDER_BODY_OUTER_DRAFT.dxf",
+      "bytes": 42703,
+      "sha256": "7e19aba2f2f52398ccd4d79387c4859269f888f85c0d92aab51aa2aff9c17e16"
+    },
+    {
+      "path": "revisions/R06/patterns/Q02_SHOULDER_BODY_OUTER_DRAFT.svg",
+      "bytes": 3565,
+      "sha256": "7e036954c68c528caba6086672c98ce1c880d6212fb0bdb5e11078f0708c04c6"
+    },
+    {
+      "path": "revisions/R06/patterns/Q04_KEYBOARD_CLOSED_INNER_DRAFT.dxf",
+      "bytes": 42862,
+      "sha256": "47da375344162a06ce8fe6a7f2ea14b6cde923cf133f015a8c6ff153707eca32"
+    },
+    {
+      "path": "revisions/R06/patterns/Q04_KEYBOARD_CLOSED_INNER_DRAFT.svg",
+      "bytes": 3547,
+      "sha256": "30199e3828392aef3fbe04a6025bbc055af9736bd1ec4b7ab310a6605a7a8db8"
+    },
+    {
+      "path": "revisions/R06/patterns/Q04_KEYBOARD_CLOSED_OUTER_DRAFT.dxf",
+      "bytes": 42816,
+      "sha256": "259086d139663c52b9152b9eb98b4a1d57cd13ea940e7a537f8f725b16d97cf0"
+    },
+    {
+      "path": "revisions/R06/patterns/Q04_KEYBOARD_CLOSED_OUTER_DRAFT.svg",
+      "bytes": 3552,
+      "sha256": "512e2a8423a4d85205d23a18ec5bb3bb93f1780e43db5fb737d6768808037218"
+    },
+    {
+      "path": "revisions/R06/patterns/Q06_LEG_CONTINUATION_INNER_DRAFT.dxf",
+      "bytes": 42823,
+      "sha256": "15b71117074fc45de7eaa4b0333662ee568a0d20f81cd3565a822c6de5450af1"
+    },
+    {
+      "path": "revisions/R06/patterns/Q06_LEG_CONTINUATION_INNER_DRAFT.svg",
+      "bytes": 3511,
+      "sha256": "cf3018315939c6f5d13274ec9b64f31165cef6537941789fc52785bba62ea93d"
+    },
+    {
+      "path": "revisions/R06/patterns/Q06_LEG_CONTINUATION_OUTER_DRAFT.dxf",
+      "bytes": 42844,
+      "sha256": "4c36a0fae97d6ce536c8353609f99d0eaa73fb2637962c8908e656980492b4f5"
+    },
+    {
+      "path": "revisions/R06/patterns/Q06_LEG_CONTINUATION_OUTER_DRAFT.svg",
+      "bytes": 3522,
+      "sha256": "fc08dc1c5cc0057dc9d08d08d7f35669913564c454d57ba4c320b0082a7f7719"
+    },
+    {
+      "path": "revisions/R06/patterns/draft_patterns.json",
+      "bytes": 262880,
+      "sha256": "170460f00874c7f946699796aa3245aeff8171b775642fc25daa923180153b4e"
+    },
+    {
+      "path": "revisions/R06/project.json",
+      "bytes": 2630,
+      "sha256": "caaaca7d1225861aa9affa22cabc4a2430e7f4386987fc0c192893875213c686"
+    },
+    {
+      "path": "revisions/R06/renders/back_chambers.png",
+      "bytes": 402093,
+      "sha256": "01f4bfa8db3ce3c1ca9ff8ec44bda55980a28d57e65f7ea60fff57bf2cf36641"
+    },
+    {
+      "path": "revisions/R06/renders/draft_patterns.png",
+      "bytes": 59810,
+      "sha256": "d9b014b86c602398060a933c305faebdedad1cb20c2f43291a1d6465e90321ce"
+    },
+    {
+      "path": "revisions/R06/renders/empty.png",
+      "bytes": 1086125,
+      "sha256": "0fd285282176b57977c00959c70b3f67734f45f4326c02f0b64b7349db5fa93a"
+    },
+    {
+      "path": "revisions/R06/renders/empty_cutaway.png",
+      "bytes": 808007,
+      "sha256": "76059079a65dd73260197a2838794218acf863ebae61920df1ad2838e5c76b04"
+    },
+    {
+      "path": "revisions/R06/renders/foot_adjustment.png",
+      "bytes": 1253660,
+      "sha256": "2ef6fe055ca585c9c8393b8e99bb35e824943953dd31eadc1cafd94efacf8bec"
+    },
+    {
+      "path": "revisions/R06/renders/hands_closed.png",
+      "bytes": 1789853,
+      "sha256": "c004769a32440b3b825ef47c9734720d20833272593604a1f7b3ac1dd5f7b1f8"
+    },
+    {
+      "path": "revisions/R06/renders/hands_folded.png",
+      "bytes": 1822628,
+      "sha256": "a15f2a7b9e49952548922b84b635f385a111cc2727dfda78811f4a2f00799824"
+    },
+    {
+      "path": "revisions/R06/renders/occupied_cutaway.png",
+      "bytes": 840131,
+      "sha256": "7464d777127de042a0bfbb7d93ac94a98efcf8d0eb42c9edcd5820b336edb6ba"
+    },
+    {
+      "path": "revisions/R06/renders/padded_layers.png",
+      "bytes": 597225,
+      "sha256": "af8a18264d0db2827e69005437fb00d5830b4a7e27dda49ba0a4e235814f002e"
+    },
+    {
+      "path": "revisions/R06/renders/relax.png",
+      "bytes": 1079579,
+      "sha256": "9fe600cfd409e04fd3d9d962b39c72e82d5c6e270fff8f657d7fb5962a9486f7"
+    },
+    {
+      "path": "revisions/R06/renders/relax_side.png",
+      "bytes": 507348,
+      "sha256": "0a444c124081b5f6dd324817418425bf9242193b6b7fd4b7fa286f5a5f7db6b4"
+    },
+    {
+      "path": "revisions/R06/renders/right_access_cutaway.png",
+      "bytes": 813146,
+      "sha256": "c6d574229d5c2bc32bbf0cb9ccf7bd338a8e6219324cae5ddc994db3c595aa3b"
+    },
+    {
+      "path": "revisions/R06/renders/short_person.png",
+      "bytes": 1064940,
+      "sha256": "65101558622efb8e1ab7b9a4785074cc2ac26f944e19cb85573d1898a1ba529f"
+    },
+    {
+      "path": "revisions/R06/renders/table_module.png",
+      "bytes": 396459,
+      "sha256": "1fc807388200464660afb2a3b3e3368c3d393fb358c2ec1d85b4dc2173818215"
+    },
+    {
+      "path": "revisions/R06/renders/top.png",
+      "bytes": 730888,
+      "sha256": "1f6b777a3998f44bd6b54060612b9313c54c08eead18ecdf608c564164f28978"
+    },
+    {
+      "path": "revisions/R06/renders/work_closed.png",
+      "bytes": 1319222,
+      "sha256": "ba85d8abd6b3dc66a66e8d1296b8a8f7992b61c526215670e77646b920faf673"
+    },
+    {
+      "path": "revisions/R06/renders/work_folded.png",
+      "bytes": 1335830,
+      "sha256": "3a7c2280fcc1b26135a450336c8ec55e7b69e7ca425e668f752de43520ae1524"
+    },
+    {
+      "path": "revisions/R06/renders/work_front.png",
+      "bytes": 1319222,
+      "sha256": "ba85d8abd6b3dc66a66e8d1296b8a8f7992b61c526215670e77646b920faf673"
+    },
+    {
+      "path": "revisions/R06/renders/work_side.png",
+      "bytes": 517679,
+      "sha256": "25f437b4c1366f58c6c3fde60d7b793b9cba83e5809152237d3da8efd947610f"
+    },
+    {
+      "path": "revisions/R06/requirements.txt",
+      "bytes": 114,
+      "sha256": "3e5a5ebcac3e39972445ecd8b43ef272d4db67024194f604b47156720a688e2c"
+    },
+    {
+      "path": "revisions/R06/screenshots/VTK_R06_actual.png",
+      "bytes": 685425,
+      "sha256": "2d128191fbe10966f1b81cafdf1e92538d710b623ef501854f36c8c9ef51d627"
+    },
+    {
+      "path": "revisions/R06/screenshots/report_page_01.png",
+      "bytes": 383290,
+      "sha256": "7075deb29cbfd174784fabc8ecd46fafbc9df2525683ae742a8386b0e2c55df8"
+    },
+    {
+      "path": "revisions/R06/screenshots/report_page_02.png",
+      "bytes": 345794,
+      "sha256": "36fd968518ca1d44f50e1b986c218990a0e8787b2f48a349ee741b6e8de73ab8"
+    },
+    {
+      "path": "revisions/R06/screenshots/report_page_09.png",
+      "bytes": 314512,
+      "sha256": "0868c96ad516fee50921e3e66192369d932006dee6180f0afafdec7bfeb2b7d3"
+    },
+    {
+      "path": "revisions/R06/screenshots/report_page_13.png",
+      "bytes": 306736,
+      "sha256": "5f97f5d30fbfaf24446df3a13b708841868273219eabc76d90045ef562fb37b5"
+    },
+    {
+      "path": "revisions/R06/source/build_r06.py",
+      "bytes": 27128,
+      "sha256": "ae05002eeaac7bdeaae6cc63af32246837f219ae9394506ab0a5b562926b2d39"
+    },
+    {
+      "path": "revisions/R06/source/build_report_r06.py",
+      "bytes": 23009,
+      "sha256": "196434a5350ab6d4fda47b222bfbd7e9c582b228a8b4554dd3fa729cba3235e8"
+    },
+    {
+      "path": "revisions/R06/source/capture_viewer.sh",
+      "bytes": 847,
+      "sha256": "3717f20ebfe742b765281742022a373ce6181abf19a322525eb9d9dcba5b7f94"
+    },
+    {
+      "path": "revisions/R06/source/develop_samples.py",
+      "bytes": 5868,
+      "sha256": "0dd54b450171f3b19bdce1bf435b53912eabd7a6764d6e4a4e8b61036862824f"
+    },
+    {
+      "path": "revisions/R06/source/render_r06.py",
+      "bytes": 12502,
+      "sha256": "84ec0f25a2e9734920ad12beddbcff5f063318e5095b32fafdcbfa40a632019f"
+    },
+    {
+      "path": "revisions/R06/source/verify_r06.py",
+      "bytes": 5403,
+      "sha256": "ffcfb40f9b0dc3afe86a3d6cdf5b90ff00c9dd20431e1281613c824e5d77bb6d"
+    },
+    {
+      "path": "revisions/R06/tests/DXF_draft_audit.json",
+      "bytes": 648,
+      "sha256": "35d15126c0ce0044d3a5367bc457e16e59427e064dfbe50ecb54504a72586185"
+    },
+    {
+      "path": "revisions/R06/tests/STEP_empty.json",
+      "bytes": 2930,
+      "sha256": "c30be16902d7e04f3089b2012ff1b6946ebf39546f9af564877c0cca9108521c"
+    },
+    {
+      "path": "revisions/R06/tests/STEP_folded.json",
+      "bytes": 3437,
+      "sha256": "b1de188b5d2de1f7632de82da8d738f3d00d15e31f918b1de9f22d9e3aaaa6f9"
+    },
+    {
+      "path": "revisions/R06/tests/STEP_interior.json",
+      "bytes": 2454,
+      "sha256": "f151398cf077f1d14c8a484aebf67e14d6ec449c5d710f57556bd6d6291b5efa"
+    },
+    {
+      "path": "revisions/R06/tests/STEP_layers.json",
+      "bytes": 321,
+      "sha256": "016a7d93e11cbefbf5137198ed9f78c40a8b0c9d94f12bde09574cf4e71d7667"
+    },
+    {
+      "path": "revisions/R06/tests/STEP_occupied_interior.json",
+      "bytes": 2680,
+      "sha256": "9c90b4dbc071c3eb07b5e81803990119a63f5eb07861177bd61b77e6b322c50c"
+    },
+    {
+      "path": "revisions/R06/tests/STEP_relax.json",
+      "bytes": 3108,
+      "sha256": "93be512f83317750b9d53217d287ba35321029d96157c6202c19edc98151b0de"
+    },
+    {
+      "path": "revisions/R06/tests/STEP_small.json",
+      "bytes": 2748,
+      "sha256": "43ec47ed6e9fc11593a7eb8fdcd3a2aee4f5766463338fc3b461728a877e5df0"
+    },
+    {
+      "path": "revisions/R06/tests/STEP_table.json",
+      "bytes": 1749,
+      "sha256": "b830cc263ebed11a415289d890d94144b91ed4430ace7222c2fb9d1bc5248490"
+    },
+    {
+      "path": "revisions/R06/tests/STEP_work.json",
+      "bytes": 3437,
+      "sha256": "4c105e1dbff5df68646738533d04e83a59a7a4a796eccc63621bbcbc4009711e"
+    },
+    {
+      "path": "revisions/R06/tests/build_summary.json",
+      "bytes": 159,
+      "sha256": "10aedee554f7abddbae57ae667abee76fc8ce39ed929e6408483aa8555fdd85f"
+    },
+    {
+      "path": "revisions/R06/tests/screenshot_provenance.json",
+      "bytes": 284,
+      "sha256": "992e70b9e748569ae73be915faf74845abffb7d834022f3ad139002ffae72379"
+    },
+    {
+      "path": "revisions/R06/tests/software_versions.json",
+      "bytes": 257,
+      "sha256": "81947169feb8cd52b49111b8b9398c7b549e8ef16f370020f9de7e3c10c33520"
+    },
+    {
+      "path": "revisions/R06/tests/verification.json",
+      "bytes": 6278,
+      "sha256": "d4d0c64245af0237347a6604c16fc952f9599b9c0a0b8d2ec1093aab7299f845"
+    },
+    {
+      "path": "revisions/R06/tests/viewer.log",
+      "bytes": 402,
+      "sha256": "4f424b06c8bc022e6104abad82d6037d832eb6a2b257e1e7534e83084eda3276"
+    },
+    {
+      "path": "revisions/R06/tests/xvfb.log",
+      "bytes": 1174,
+      "sha256": "f172a1b0f5cf2a0d462c51dfc335af1a1dfc8e873cb66f61d018c8b1b35fe416"
+    }
+  ],
+  "original_full_snapshot_count": 1551,
+  "full_original_snapshot_uploaded": false,
+  "note": "New exports from original code; not a claim of byte-identical original PDF/STEP timestamps or complete historical file transfer. Original files are preserved in the conversation recovery inventory."
+}

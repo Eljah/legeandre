@@ -1,0 +1,20 @@
+{
+  "vertices": 1225,
+  "triangles": 2304,
+  "distance_constraints": 6982,
+  "steps": 240,
+  "iterations_per_step": 32,
+  "dt_s": 0.008333333333333333,
+  "time_s": 2.0,
+  "areal_density_kg_m2": 0.35,
+  "area_m2": 0.2909235142434001,
+  "model_mass_kg": 0.10182322998519004,
+  "max_displacement_mm": 34.154817607407914,
+  "mean_displacement_mm": 12.929219055022296,
+  "last_step_motion_mm": 0.0042980766525227716,
+  "last_max_speed_m_s": 0.0005028749683451643,
+  "structural_strain_p95_pct": 1.9800351345085312,
+  "structural_strain_max_pct": 5.028210591910698,
+  "max_pin_error_mm": 0.0,
+  "note": "Uncalibrated XPBD distance network. No calibrated fabric bending law, foam/DEM, self-collision or thermal solve."
+}

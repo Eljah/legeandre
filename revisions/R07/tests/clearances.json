@@ -1,0 +1,13 @@
+{
+  "leg_quilt_to_leg_mm": 50.72316071808933,
+  "leg_intersection_mm3": 0.0,
+  "quilt_to_bare_tray_mm": 22.299203202947087,
+  "flap_closed_to_laptop_mm": 70.71371529297153,
+  "rolled_flap_to_head_mm": 432.20460253842214,
+  "undertray_quilt_root_x_mm": 965,
+  "tray_x_range_mm": [
+    1038.961939879737,
+    1433.7294331050139
+  ],
+  "thermal_geometry_not_contact_validated": true
+}

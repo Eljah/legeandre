@@ -1,0 +1,56 @@
+name: Restore embroidery DST EXP SVG and PDF
+on:
+  push:
+    branches: [sync/r01-r06-20261002]
+    paths:
+      - .github/workflows/rebuild-preserved-embroidery.yml
+      - tools/rebuild_embroidery_recovery.py
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: legeandre-embroidery-recovery
+  cancel-in-progress: false
+jobs:
+  embroidery:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: sync/r01-r06-20261002
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install original digitizing dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y fonts-dejavu-core
+          python -m pip install numpy==2.3.5 shapely==2.1.2 Pillow==12.3.0 reportlab==4.4.9 lxml
+      - name: Digitize original artwork and independently read delivered files
+        run: python tools/rebuild_embroidery_recovery.py
+      - name: Commit individual embroidery and validation files
+        run: |
+          python - <<'PY'
+          import subprocess
+          from pathlib import Path
+          paths=[str(p) for p in Path('revisions/R03').rglob('*') if p.is_file() and '__pycache__' not in p.parts and p.suffix not in ['.pyc','.zip']]
+          paths.append('provenance/EMBROIDERY_RECOVERY.json')
+          for i in range(0,len(paths),100):subprocess.run(['git','add','-f','--',*paths[i:i+100]],check=True)
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Publish regenerated original R03 machine embroidery, stitch plans, previews and recovery PDF'
+          git pull --rebase origin sync/r01-r06-20261002
+          git push origin HEAD:refs/heads/sync/r01-r06-20261002
+          echo "Published commit $(git rev-parse HEAD)" >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: embroidery-recovery-checks
+          path: |
+            provenance/EMBROIDERY_RECOVERY.json
+            revisions/R03/tests/
+            revisions/R03/docs/Embroidery_R03_recovery.pdf
+          retention-days: 14

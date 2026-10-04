@@ -1,0 +1,14 @@
+{
+  "project": "Спим с хаски / Лежандр",
+  "repository": "Eljah/legeandre",
+  "cad_revision": "R08",
+  "embroidery_revision": "R03",
+  "electronics_firmware_apps_revision": "R02",
+  "integrated_hardware_validation": false,
+  "hand_heater_removed_in_cad": true,
+  "legacy_fourth_channel_disabled_in_firmware": false,
+  "production_ready": false,
+  "thermal_revision": "R08",
+  "pattern_release": "R08_P0_NOT_PRODUCTION",
+  "passive_laptop_metal_link_enabled": false
+}

@@ -1,0 +1,56 @@
+{
+  "work": {
+    "parts": 77,
+    "valid": true,
+    "body_bbox_mm": [
+      2360.000000200001,
+      1035.7224308869054,
+      830.5965914948099
+    ],
+    "minimum_z_mm": -1.0000090955714967e-07,
+    "rigid_frame_parts": 0,
+    "floor_surface_z_mm": 0,
+    "inherited_parts": [
+      "D20",
+      "D21",
+      "D22",
+      "E10",
+      "E12",
+      "E13",
+      "E14",
+      "E11"
+    ],
+    "open_quilt_parts_not_mounted": [
+      "O06A",
+      "O07A",
+      "O08A",
+      "O09A",
+      "O10A",
+      "O11A"
+    ],
+    "step_roundtrip_valid": true,
+    "step_roundtrip_faces": 1409
+  },
+  "sleep": {
+    "parts": 74,
+    "valid": true,
+    "body_bbox_mm": [
+      2360.000000200001,
+      1035.7224308869054,
+      820.0000002000011
+    ],
+    "minimum_z_mm": -1.0000090955714967e-07,
+    "rigid_frame_parts": 0,
+    "floor_surface_z_mm": 0,
+    "inherited_parts": [
+      "E10",
+      "E12",
+      "E13",
+      "E14",
+      "E11"
+    ],
+    "open_quilt_parts_not_mounted": [],
+    "step_roundtrip_valid": true,
+    "step_roundtrip_faces": 1350
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "method": "Pillow ImageGrab XCB full screen",
+  "viewer": "own VTK/CadQuery model viewer; Xvfb :105",
+  "patterns": "Inkscape actual SVG document; Xvfb :106",
+  "editing": "No UI compositing or image generation",
+  "images": [
+    {
+      "path": "screenshots/Inkscape_R05_actual.png",
+      "sha256": "b3dda8eae487e5c59db1fd7f36777ebd083e2d20cbf4dff55417c0d67b878d7a"
+    },
+    {
+      "path": "screenshots/VTK_R05_actual.png",
+      "sha256": "2e810b9af0ac05ccf2a9ca75ccaa9f52be0a937a60303d16c8a35ca7832b2b91"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "table_exit_slide_mm": 80.0,
+  "poses": [
+    {
+      "lateral_shift_mm": 0.0,
+      "surface_distance_mm": 44.35999244252314,
+      "closest_pair": [
+        "EXIT_PELVIS",
+        "F_BASE_CROSS_1110"
+      ],
+      "exact_pair_evaluations": 8
+    },
+    {
+      "lateral_shift_mm": 100.0,
+      "surface_distance_mm": 44.35999244252314,
+      "closest_pair": [
+        "EXIT_PELVIS",
+        "F_BASE_CROSS_1110"
+      ],
+      "exact_pair_evaluations": 11
+    },
+    {
+      "lateral_shift_mm": 200.0,
+      "surface_distance_mm": 44.35999244252314,
+      "closest_pair": [
+        "EXIT_PELVIS",
+        "F_BASE_CROSS_1110"
+      ],
+      "exact_pair_evaluations": 10
+    },
+    {
+      "lateral_shift_mm": 300.0,
+      "surface_distance_mm": 37.52851349750873,
+      "closest_pair": [
+        "EXIT_PELVIS",
+        "F_BACK_LOWER_LINK_1"
+      ],
+      "exact_pair_evaluations": 9
+    },
+    {
+      "lateral_shift_mm": 400.0,
+      "surface_distance_mm": 38.90024746922683,
+      "closest_pair": [
+        "EXIT_PELVIS",
+        "F_BASE_LONG_1"
+      ],
+      "exact_pair_evaluations": 11
+    },
+    {
+      "lateral_shift_mm": 500.0,
+      "surface_distance_mm": 39.81808276050029,
+      "closest_pair": [
+        "EXIT_PELVIS",
+        "F_BASE_LONG_1"
+      ],
+      "exact_pair_evaluations": 11
+    },
+    {
+      "lateral_shift_mm": 600.0,
+      "surface_distance_mm": 59.6036430037718,
+      "closest_pair": [
+        "EXIT_THIGH_-1",
+        "F_BASE_LONG_1"
+      ],
+      "exact_pair_evaluations": 8
+    },
+    {
+      "lateral_shift_mm": 700.0,
+      "surface_distance_mm": 103.34231300985307,
+      "closest_pair": [
+        "EXIT_THIGH_-1",
+        "F_BASE_LONG_1"
+      ],
+      "exact_pair_evaluations": 9
+    },
+    {
+      "lateral_shift_mm": 800.0,
+      "surface_distance_mm": 179.03763677225533,
+      "closest_pair": [
+        "EXIT_THIGH_-1",
+        "F_BASE_LONG_1"
+      ],
+      "exact_pair_evaluations": 7
+    }
+  ],
+  "minimum_distance_mm": 37.52851349750873,
+  "method": "BRepExtrema between true mannequin solids and true rigid solids; 9 static poses",
+  "limitations": "Straight lateral swept-clearance screen, NOT a biomechanically solved getting-up trajectory; zero distance can mean touch or overlap. Does not validate unsupported body, folded bolster, or every possible movement. Padding clearances are separate."
+}

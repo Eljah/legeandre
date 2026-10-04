@@ -1,0 +1,9 @@
+{
+  "pages": 14,
+  "page_format": "A3 landscape",
+  "word_bounds_errors": [],
+  "render_engine": "PyMuPDF",
+  "all_pages_rendered": true,
+  "visual_review": "contact + full pages 7, 6, 11; plotter page samples",
+  "not_tested": "Printer scaling accuracy not measured on paper"
+}

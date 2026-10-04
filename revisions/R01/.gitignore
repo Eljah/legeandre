@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pio/
+.gradle/
+local.properties
+software/android/app/build/
+software/desktop/target/
+tests/build/
+tests/java-classes/

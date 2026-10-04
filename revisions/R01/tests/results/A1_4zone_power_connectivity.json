@@ -1,0 +1,6 @@
+{
+  "board": "A1_4zone_power",
+  "method": "copper geometry continuity including plated holes/vias, 1e-6 mm tolerance; NOT KiCad DRC",
+  "nets": 28,
+  "disconnected_nets": {}
+}

@@ -1,0 +1,4 @@
+(sym_lib_table
+ (lib (name "A2_sensor_watchdog-cache")(type "Legacy")(uri "${KIPRJMOD}/A2_sensor_watchdog-cache.lib")(options "")(descr "R01 generated netgraph symbols"))
+ (lib (name "A1_4zone_power-cache")(type "Legacy")(uri "${KIPRJMOD}/A1_4zone_power-cache.lib")(options "")(descr "R01 generated netgraph symbols"))
+)

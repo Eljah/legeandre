@@ -1,0 +1,12 @@
+{
+  "tube_mass_kg": 7.4080005862435865,
+  "joint_allowance_kg": 0.7,
+  "tube_count": 20,
+  "rigid_tube_x_bounds_mm": [
+    564.5546606832401,
+    1450.0
+  ],
+  "soft_head_region_x_less_mm": 550,
+  "soft_foot_region_x_greater_mm": 1500,
+  "not_all_furniture_mass": true
+}

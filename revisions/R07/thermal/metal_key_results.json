@@ -1,0 +1,6 @@
+{
+  "Cu_area_to_carry_20W_over_0_6m_at_20K_mm2": 1534.526854219949,
+  "Cu_mass_for_that_case_kg": 8.203580562659846,
+  "uninsulated_0_2mm_wire_fin_length_m_h10": 0.04421538193886829,
+  "scope": "Ideal lower bound on metal mass; real contacts and fin losses worsen result."
+}

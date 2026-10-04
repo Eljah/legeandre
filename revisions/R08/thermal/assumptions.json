@@ -1,0 +1,41 @@
+{
+  "passive_laptop_to_body_G_W_K": 0,
+  "target_receiver_C": 31,
+  "assumed_skin_boundary_C": 33,
+  "lining_R_m2K_W": [
+    0.12,
+    0.35,
+    0.75
+  ],
+  "backing_R_m2K_W": 0.45,
+  "inplane_k_times_thickness_W_K": 0.006,
+  "reference_ambient_C": 10,
+  "heating_power_limits_W": {
+    "back": 20,
+    "seat": 20
+  },
+  "baseline_model": "Steady 2D finite volumes; imposed skin temperature, not human thermoregulation. No long metal heat path exists in R08. No manufacturer mat qualified.",
+  "envelope_target_C": 26,
+  "body_sensible_W": 55,
+  "laptop_heat_W": 35,
+  "retained_air_fraction": [
+    0,
+    0.15,
+    0.3
+  ],
+  "quilt_R_m2K_W": [
+    0.8,
+    1.2,
+    1.6
+  ],
+  "air_changes_m3_h": [
+    4,
+    10,
+    20
+  ],
+  "through_seam_fraction_assumed": 0.04,
+  "through_seam_R_m2K_W": 0.22,
+  "surface_R_m2K_W": 0.18,
+  "software_cutoff_candidate_C": 37,
+  "sleep_heating_allowed": false
+}

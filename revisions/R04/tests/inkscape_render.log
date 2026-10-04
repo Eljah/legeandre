@@ -1,0 +1,4 @@
+
+** (inkscape:2376): WARNING **: 08:10:54.750: Failed to wrap object of type 'PangoFT2FontMap'. Hint: this error is commonly caused by failing to call a library init() function.
+
+** (inkscape:2376): WARNING **: 08:10:54.850: Failed to wrap object of type 'GtkRecentManager'. Hint: this error is commonly caused by failing to call a library init() function.

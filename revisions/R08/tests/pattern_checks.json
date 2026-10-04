@@ -1,0 +1,10 @@
+{
+  "patterns": 284,
+  "matched_seam_segments": 3391,
+  "max_seam_mismatch_mm": 0.04204969655603463,
+  "max_metric_distortion_percent": 1.992950283780385,
+  "over_2_percent": [],
+  "roll_width_mm": 1500,
+  "production_approved": false,
+  "coverage": "All new gridded outer skins, lining, insulation, gussets, closure guards, channels and passive flap. Inherited internal granular bag patterns are not requalified."
+}

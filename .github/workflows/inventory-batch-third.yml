@@ -1,0 +1,30 @@
+name: Inventory for one-third file import
+on:
+  push:
+    branches: [sync/r01-r06-20261002]
+    paths: [.github/workflows/inventory-batch-third.yml]
+permissions:
+  contents: read
+jobs:
+  inventory:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const {data} = await github.rest.git.getTree({...context.repo, tree_sha: context.sha, recursive: '1'});
+            if (data.truncated) throw new Error('Incomplete tree');
+            fs.mkdirSync('inventory', {recursive:true});
+            fs.writeFileSync('inventory/tree.json', JSON.stringify(data));
+            const files = data.tree.filter(x => x.type === 'blob');
+            const totals = {};
+            for (const x of files) {const g=x.path.startsWith('revisions/')?x.path.split('/').slice(0,2).join('/'):x.path.split('/')[0]; totals[g]=(totals[g]||0)+1;}
+            core.info(JSON.stringify({sha:context.sha, files:files.length, totals}));
+      - uses: actions/upload-artifact@v4
+        with:
+          name: inventory-for-third
+          path: inventory/tree.json
+          if-no-files-found: error
+          retention-days: 2

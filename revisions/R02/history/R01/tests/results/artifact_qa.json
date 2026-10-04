@@ -1,0 +1,22 @@
+{
+  "Lezhandr_R01_engineering_album.pdf": {
+    "pages": 23,
+    "text_outside_page": []
+  },
+  "Lezhandr_R01_patterns_A0.pdf": {
+    "pages": 9,
+    "text_outside_page": []
+  },
+  "cut_register": {
+    "unique_parts": 38,
+    "cad_cut_nesting_match": true
+  },
+  "A1_4zone_power.kicad_pcb": {
+    "sexpression_balance": 0,
+    "native_kicad_opened": false
+  },
+  "A2_sensor_watchdog.kicad_pcb": {
+    "sexpression_balance": 0,
+    "native_kicad_opened": false
+  }
+}

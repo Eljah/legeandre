@@ -1,0 +1,2315 @@
+{
+  "status": "460_ORIGINAL_FILES_RECOVERED_NOT_FULL_SNAPSHOT",
+  "original_files_restored": 460,
+  "unique_content_objects": 160,
+  "manifest_sha256": "2d595942a045b58237233cd68150aa783541c58bd94e24804a70b5f797007f93",
+  "partial_stream_sha256": "5b33412c234fc6f9e702fb9683d2156388b696fe0f565364dd2592d5a38a7ba2",
+  "source_seed_total": 559,
+  "full_snapshot_total": 1551,
+  "source_code_executed": false,
+  "main_modified": false,
+  "force_push": false,
+  "workflow_run_id": "36999799495",
+  "files": [
+    {
+      "path": "revisions/R01/.gitignore",
+      "sha256": "00b09023be9ec256f6170d4f56b58c41ed2b6492e337fc22ca842ee41204dc1b",
+      "bytes": 137
+    },
+    {
+      "path": "revisions/R01/README_RU.md",
+      "sha256": "499150be76ebfcaf734a0344003b20e2f9a31b24bf513dbd5a21c0adc3395a5d",
+      "bytes": 17331
+    },
+    {
+      "path": "revisions/R01/TEST_REPORT_RU.md",
+      "sha256": "348af80c6e6848c63a83e723fa6dd3e5f4cf94e265f6e9ff18f1c5d075fea2df",
+      "bytes": 3484
+    },
+    {
+      "path": "revisions/R01/cad/CUTTING_NOTES.md",
+      "sha256": "37e6813413bb882bc941c5d19581b998b3e271dd00b2551e1635b3d35f86a040",
+      "bytes": 1372
+    },
+    {
+      "path": "revisions/R01/cad/source/build_cad.py",
+      "sha256": "3c629a814287ecb280a97240bb8c5f3a962d8f637b1ff02dc8897a84d7d37da8",
+      "bytes": 12624
+    },
+    {
+      "path": "revisions/R01/cad/source/section_cut.py",
+      "sha256": "41ed578d30edf0bb5f942a93907aee7e03319f05d784e8b31cf130c04f02808e",
+      "bytes": 528
+    },
+    {
+      "path": "revisions/R01/dist/lezhandr-desktop-demo.jar",
+      "sha256": "ed7313139449145899449982dd4102bedfdc713b59ecb8fd81ec903bb155c4f3",
+      "bytes": 24526
+    },
+    {
+      "path": "revisions/R01/dist/start-demo.bat",
+      "sha256": "44e18a94b323c6b1fca3346c6c44e09ced9d6e7d8588d2948f4a6f48df64ad18",
+      "bytes": 82
+    },
+    {
+      "path": "revisions/R01/docs/DESIGN_REVIEW.md",
+      "sha256": "6ad4ca0e1b5b29bb05a4a0d7afebe03bfd65027fe885ecde39b9c7dc4ec970e7",
+      "bytes": 9211
+    },
+    {
+      "path": "revisions/R01/docs/PROTOCOL.md",
+      "sha256": "3cba2d3efa54eb6c0ae192875659284440c517dabb4f391a25e7c34f4664c8fa",
+      "bytes": 2917
+    },
+    {
+      "path": "revisions/R01/docs/SOURCES.md",
+      "sha256": "fa1ed43cfb3e3845df993a955e3e4a002529a78008f176272ab9192831fb9407",
+      "bytes": 3586
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power-cache.lib",
+      "sha256": "6738ee3a974f81de603785831ae057100ce40d4127edfba5ee71549475cb886f",
+      "bytes": 7704
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.kicad_pcb",
+      "sha256": "b8de625af03b96cc6888d559ebacf2a9aa23871eef17062d38be7ec354ae4fe7",
+      "bytes": 78533
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.kicad_pro",
+      "sha256": "502b673bdde796c8fd3781e6f209aa92cda99386445ca5560a9232145629cdfe",
+      "bytes": 248
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/C1.kicad_mod",
+      "sha256": "63de1dc5e29b0f04dbc2a3ca40482ed0fbadea562c5dffd08deffeee46596cef",
+      "bytes": 511
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/C2.kicad_mod",
+      "sha256": "41914b8513a0ecc5ff951a4d532b22a5991a44f7bec539c66094cca9f778cd70",
+      "bytes": 510
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/C3.kicad_mod",
+      "sha256": "c25f491e5885b4387fd082e5aa7bbef5b2b15b77df5d0125d7f23b1b38666570",
+      "bytes": 511
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/C4.kicad_mod",
+      "sha256": "90a179f2dc50363befa9376f90749d73dd3300f1ae00f68d31ae71b8f4be07eb",
+      "bytes": 510
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/F1.kicad_mod",
+      "sha256": "c05d0277c698b4d62eddfaeac0cdd791745a4b364edf86ce7ced31ce4967ed04",
+      "bytes": 533
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/F2.kicad_mod",
+      "sha256": "fa5b9807c54a9a02b38fca1dc8fd19f3a5b69454dd9973f1b3321a4edb942f33",
+      "bytes": 533
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/F3.kicad_mod",
+      "sha256": "7e2a6d77ba989fe24bc5d6a97f48fc102bea71e475ff5fb44792080469bd04eb",
+      "bytes": 533
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/F4.kicad_mod",
+      "sha256": "0353676e97189216285a046c669ecd28f2a09cc853fca251f1bc20c83da7a65e",
+      "bytes": 533
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/J1.kicad_mod",
+      "sha256": "3e58b0b938c8bb807a32767df84b5d108a18f81455b24e11d9a5daf7bf12cfae",
+      "bytes": 630
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/J2.kicad_mod",
+      "sha256": "1b7ef47cd2a95db5b76a04fc733948623fb4413fd2bdcd7bddbff3fc570ce080",
+      "bytes": 841
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/JH1.kicad_mod",
+      "sha256": "952e07c5f8557a7ed6c67e0e0f6f2fdbfebca221810740655452710e2feec0f5",
+      "bytes": 519
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/JH2.kicad_mod",
+      "sha256": "3f2e62598322507f966164a9bfe87b9844fa2b1541fc1077ec4413e9e4abeb49",
+      "bytes": 519
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/JH3.kicad_mod",
+      "sha256": "e015cdef87b2a31f504b7df1a44d0e367fd78ce67a750594d7198dc3d64967c6",
+      "bytes": 519
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/JH4.kicad_mod",
+      "sha256": "ca32d82c73a7696e1f2265ca205c9bb1e5e6699c208b3642d6a3f49ba5259b0f",
+      "bytes": 519
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/Q1.kicad_mod",
+      "sha256": "9a74352b462676f4df2246efbd72a798ca280006637cce6c2faf55347a21e4b5",
+      "bytes": 617
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/Q2.kicad_mod",
+      "sha256": "59a7b8a0da98e4c4b7f57d3e75b6482bbcad1b2f8fa140a9379670f7549cd7fc",
+      "bytes": 617
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/Q3.kicad_mod",
+      "sha256": "b915d61f760747cb0138f3e0aafbe53d3cdc52e6aa33fba74ba9e6d94c86b801",
+      "bytes": 617
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/Q4.kicad_mod",
+      "sha256": "0d5dabe866c7add8f6c726201f01aa322e2a400236c62c99f4496dffbc5a2a28",
+      "bytes": 617
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/R1.kicad_mod",
+      "sha256": "7b37b6a86d91739153347e1104b7b7f4ad6eacc9cb6c36aeac4c922c05b47eb1",
+      "bytes": 509
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/R10.kicad_mod",
+      "sha256": "c87e5edb6d6a9f7c6c6a316270279f69823376dd70c3bc58291b9003c5049eb8",
+      "bytes": 510
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/R11.kicad_mod",
+      "sha256": "2b7debe2c78996b85149797a61f97fccb352b0800d41e54a67c93f8b72645ed7",
+      "bytes": 521
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/R12.kicad_mod",
+      "sha256": "b7ff59f1a39c5477ce64a4cce4eaaf41079b43551e0bf1d64993e386568c5a2b",
+      "bytes": 519
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/R2.kicad_mod",
+      "sha256": "5049ebc59fdd978a9e761b234f274aa3249bc849c04b551fbc1d244f8352ce7d",
+      "bytes": 520
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/R3.kicad_mod",
+      "sha256": "601515f59557bfc19f62b58a6b1519757a12efeba6aa5e19f859d6614208b367",
+      "bytes": 518
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/R4.kicad_mod",
+      "sha256": "9495a4f431b0daea311ce654c83e839dfd9d6e2cf19eda0f32c92992b857262e",
+      "bytes": 509
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/R5.kicad_mod",
+      "sha256": "2fc8f63de634facda08536e4812601d7cb3209cd49579d5f90650b8e0a6828e5",
+      "bytes": 520
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/R6.kicad_mod",
+      "sha256": "2d782385e9dbd76cd66c249fa567e29af12da4efcc9632b47fd0c37801dbec2f",
+      "bytes": 518
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/R7.kicad_mod",
+      "sha256": "da39bf7daf7be78539396b1c0eebaae2834ec374d709b9d611d1a1f6a9ff35fa",
+      "bytes": 509
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/R8.kicad_mod",
+      "sha256": "a572c6d20a1fb42a76cbc636b2a3040b3a1566a73dc993d76269f3f9233686a0",
+      "bytes": 520
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/R9.kicad_mod",
+      "sha256": "97e52bf9e021b8208b567f65ada7b1aa293054de6d79722f4ef61c24f503763b",
+      "bytes": 518
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/RSTAR.kicad_mod",
+      "sha256": "c57c0e0b0f4498d45a026abafe02175f953579ed2d49064f407547f9eee3b2a8",
+      "bytes": 522
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/U1.kicad_mod",
+      "sha256": "3f5d5fc0385c969c62dd443ff422fe72da27aa0edba3f2a9d49e71cee21e097b",
+      "bytes": 1193
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.pretty/U2.kicad_mod",
+      "sha256": "ad3d723b615dbcd8bc3945225ee938ba0bb144d7bbafa4f350c994d12003feb2",
+      "bytes": 1194
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power.sch",
+      "sha256": "e40ca6ff2f62092b44abf9c6365327fa211f8f129f0e305e13c448d68f08fdd3",
+      "bytes": 14174
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog-cache.lib",
+      "sha256": "e4022db00ac8f6e222cc4fe24cfe94887a9efd4793d5dc8e01e510915158a495",
+      "bytes": 14635
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.kicad_pcb",
+      "sha256": "2210dba29d412419408bf4b014696a62264ea38dca4f43fbd6a7a1918b14a9fb",
+      "bytes": 115799
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.kicad_pro",
+      "sha256": "da3c07d24acbfb947a84851f224bb1709ef7f402f4e06822f9150a502ca96ea1",
+      "bytes": 252
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/CN1.kicad_mod",
+      "sha256": "3dc04cd3425917f2416ac9ac7a17cae571a478687151e22b6d21969ac13b0a6e",
+      "bytes": 505
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/CN2.kicad_mod",
+      "sha256": "79bd5f88162cbbc06168c32f3ce345e230563732ee45f9d12eb51a40fee10f40",
+      "bytes": 505
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/CN3.kicad_mod",
+      "sha256": "1a3c48c318d6b20fef17753d56d180629608c955c64a6d35f835798dbbd6f1ef",
+      "bytes": 505
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/CN4.kicad_mod",
+      "sha256": "28b4933f5b6c8a0d317b99c799c0c71458ac41157c97b965f125b0205719c0fa",
+      "bytes": 506
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/CN5.kicad_mod",
+      "sha256": "7892771f6a477301613934ca1e4566dc9d9bd41894f1eb8058f8f9a6732573aa",
+      "bytes": 506
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/CN6.kicad_mod",
+      "sha256": "5946db28f8c09bdd529df123285df37dd1c03884fdffb5af9f0405d53506c503",
+      "bytes": 506
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/CN7.kicad_mod",
+      "sha256": "eeb28aac300e55575803cb25f96ee1ebd8700f883bf4fe86f59982c6cb6b5b44",
+      "bytes": 506
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/CN8.kicad_mod",
+      "sha256": "d436569d1454e2bf7375b0648e25b7c71540bdeca103838a3d9ecb13931c0fe0",
+      "bytes": 506
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/CU1.kicad_mod",
+      "sha256": "0c3afdfe50acc33a33938962ad5a4b50095573d2e1c19cbb2e650026f6057b37",
+      "bytes": 504
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/CU2.kicad_mod",
+      "sha256": "65bee0c2e833a337080f38fb64a9b021708b79af79303764d154d0776b60006b",
+      "bytes": 507
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/CV1.kicad_mod",
+      "sha256": "731fe2cef4c5fe1a9a68d6352b7fe09a69adbd3c3086089e9a73e7c67db9151a",
+      "bytes": 509
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/CV2.kicad_mod",
+      "sha256": "d1064f759b985a5adffe769f72ad5dc498d51543863bb4756bd657e37ed2cea4",
+      "bytes": 509
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/CW1.kicad_mod",
+      "sha256": "3b693dd59dbb861c0645277b40c38e7fbc178bacee0692342f60fe3c6bf70f3f",
+      "bytes": 521
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/DK1.kicad_mod",
+      "sha256": "b35d1d315df552ce0c5ce4e77197da5119380fe9622f38f038badbe0fe4b9538",
+      "bytes": 529
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/JA1.kicad_mod",
+      "sha256": "a5502b76cf5d8012ecda053570b0b99160c8b68b7bbba3c0b0bad9c1a422c304",
+      "bytes": 517
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/JA2.kicad_mod",
+      "sha256": "111196d97d8129243f024b070ed0b8aa49e9612895506bd46273ffcd0171f7e2",
+      "bytes": 517
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/JA3.kicad_mod",
+      "sha256": "f91df397dbce95b71aeb19997771da864f9accff0a75c7ea0a5bb3f8c4ae865c",
+      "bytes": 517
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/JA4.kicad_mod",
+      "sha256": "a3a26682bdd6205a14ea09584f8319ec74a31db1e96da25da4c6979294fb286d",
+      "bytes": 518
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/JA5.kicad_mod",
+      "sha256": "947be7dc9778731ca925cd5865dcf94e9065f1995987dc25a896092fb7ed9b5f",
+      "bytes": 518
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/JA6.kicad_mod",
+      "sha256": "d91f4036a87097ca1c113fc57b3823c11a95d3b67016f77c28f6c0c5163f8545",
+      "bytes": 518
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/JA7.kicad_mod",
+      "sha256": "89b33095c7c8157e50c7ce458d2d28f1f24437bbfed6b2d9735725f265d7635d",
+      "bytes": 518
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/JA8.kicad_mod",
+      "sha256": "358da8603511e53384c582cb84d9625c2a1a82a3e2d206ef7a165b992735540a",
+      "bytes": 518
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/JK1.kicad_mod",
+      "sha256": "d44e43f03addf77e3937d3e855dd8de0634ff7dc93d6235b789bb72978daa77e",
+      "bytes": 549
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/JN1.kicad_mod",
+      "sha256": "d476dc708268be901b2528ec7bb4c88463b08165f2ee86742600609486688e7f",
+      "bytes": 521
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/JN2.kicad_mod",
+      "sha256": "b891d0ea65a66d563065e939ffba32c052b7e62f63229874761f559d867aacfe",
+      "bytes": 521
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/JN3.kicad_mod",
+      "sha256": "61d704f7d9e0a3fb23c075b9d77c74b904dfc351b8e878cca46080ce0d4da919",
+      "bytes": 521
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/JN4.kicad_mod",
+      "sha256": "488c3e8598c2ae7497798dc261c56c38aebd9399f9a79f17dc23ae86c8d7667e",
+      "bytes": 521
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/JN5.kicad_mod",
+      "sha256": "538f3f5cbed6961c83bcb3a5c1e583e68b11f01f667e1528e075338705d03b41",
+      "bytes": 522
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/JN6.kicad_mod",
+      "sha256": "e5d6e94447f122a6f3eaf1d8e9aef713cae99ac4957166a3161af3377907665e",
+      "bytes": 522
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/JN7.kicad_mod",
+      "sha256": "1139d16c3d8529d133446740b0180d2d0514a193a30773ef522f8c1a720895d2",
+      "bytes": 522
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/JN8.kicad_mod",
+      "sha256": "c21e25e6ff407675d4154fea70eda2008f62046c87ff9a5eb225fb9b0288204e",
+      "bytes": 522
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/JO1.kicad_mod",
+      "sha256": "cad3a2f57eb5464954b60fb8f147e007da000610d91191fcb17c619da712515e",
+      "bytes": 533
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/JO2.kicad_mod",
+      "sha256": "2573268d03494b2c26cb1ad035be12dd8161476141df69c57fcb895a0774e761",
+      "bytes": 533
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/JP1.kicad_mod",
+      "sha256": "2b9653ac596e8dfaea0e88353a9ee573d2c17aeb5bbe7ab88ab8de4058f82a5c",
+      "bytes": 747
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/JP2.kicad_mod",
+      "sha256": "b794eab7cc084f997a89a7c29e69356471af5a39a6cf390ef56c6bde9a41530f",
+      "bytes": 517
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/JV1.kicad_mod",
+      "sha256": "f6dbe98652fe65cea675c52b36bdaa62c878a30d00355ad80275cd4dc901840e",
+      "bytes": 524
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/JV2.kicad_mod",
+      "sha256": "fa8461cbfc89d00abc4bd57d2c7a2ae9a3ceef57db42d41559ebf0a6986745e9",
+      "bytes": 524
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/Q1.kicad_mod",
+      "sha256": "6693a683a716dedc755f547b9e66f8563e049bc518730266153cb4a337a6e807",
+      "bytes": 625
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/RB1.kicad_mod",
+      "sha256": "f2565e21a61e7c4f012abe9cabecdbffd80e7b0e44accd4977fd45e9c3893a47",
+      "bytes": 511
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/RB2.kicad_mod",
+      "sha256": "388c3c290f42eb1ed0fa17bcf7874c07973a520ec19b3d1be17145acc6aed8af",
+      "bytes": 511
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/RG1.kicad_mod",
+      "sha256": "d28fa81fb122eb151b6c2a0e934287e7c400f023e5260d175ae1431a46bb299a",
+      "bytes": 520
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/RP1.kicad_mod",
+      "sha256": "ee22ce40ff1efcfecd3740b4d69947c1207b04cdcb629269f02a6ce0c3987c69",
+      "bytes": 507
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/RP2.kicad_mod",
+      "sha256": "a061feca12bf07c46c0156d2cd6c97e11cdd13b3d923c9fbb01db548a2c70388",
+      "bytes": 507
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/RP3.kicad_mod",
+      "sha256": "cb7a3d902b24a062e070856ccbbe76f6fd604669de637e3b9a69dcc5458c5d10",
+      "bytes": 507
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/RP4.kicad_mod",
+      "sha256": "48114a17b87d2f34588a442d68ef0640e31a2bcb3e95eb7dd7f292629ee02508",
+      "bytes": 507
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/RP5.kicad_mod",
+      "sha256": "73112e2a9a03fa245ec8185db1c0f07f26436ce31720a182b82c24b8a09a7b64",
+      "bytes": 508
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/RP6.kicad_mod",
+      "sha256": "b35473215b9968f68a612f77cbabc8716a9cfcb94730af56acf1d71b7fd27d9a",
+      "bytes": 508
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/RP7.kicad_mod",
+      "sha256": "2b593f38b15adc3deb2d2722cbf9366c2e51bbba77fa07fb86fb3484e2475c3e",
+      "bytes": 508
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/RP8.kicad_mod",
+      "sha256": "aa7a10e8db491d909efdf92e376c507eb35fa9e4cecb9fd899d2cbf7c30bbdb5",
+      "bytes": 508
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/RPD1.kicad_mod",
+      "sha256": "f54ca3a509be92afcc0fcdfd2ef4e550760d755be09093d70889eece74db49d1",
+      "bytes": 509
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/RPD2.kicad_mod",
+      "sha256": "d680382d0adbba2d433c1ed57297482286b6612b9b123b85f4b318623461a3d3",
+      "bytes": 505
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/RPD3.kicad_mod",
+      "sha256": "6cd1841b94a4be9eff6635e9f12d0325bf4d3550fdc1326f1eb81a90fe51f42f",
+      "bytes": 513
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/RS1.kicad_mod",
+      "sha256": "f0f9ef1a2cc6ae6a1106a8afb639788cbf979573580030821bda260499773e30",
+      "bytes": 506
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/RS2.kicad_mod",
+      "sha256": "90bccf65b9a5a421da56d12a02872065f72f485dde9244e1347400fac2f6ccc2",
+      "bytes": 506
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/RS3.kicad_mod",
+      "sha256": "a8d007b64a785b2ebb1f2892bfef6a03f82009e9f67a2a22469c7c5e6ff3722f",
+      "bytes": 506
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/RS4.kicad_mod",
+      "sha256": "623dd56a7a129f8a1bf4fabc6c64d2c011abb8d3e3cf2e2a89a2b104db15b778",
+      "bytes": 507
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/RS5.kicad_mod",
+      "sha256": "6585c644a73f53c4a729197fc62181eb8bb97c1ef03c3a362ae5799c92bcf20f",
+      "bytes": 508
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/RS6.kicad_mod",
+      "sha256": "de58e46e358a6abcafdefb5c6d341db99124e5a1f96dd6045ff5e8ee2a90e05b",
+      "bytes": 508
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/RS7.kicad_mod",
+      "sha256": "ff359e25a359c85a374d98f644da4e985a48d94a18fbdd2ef0ad79038373b054",
+      "bytes": 508
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/RS8.kicad_mod",
+      "sha256": "bbfd1e591dfe2a874a58e93a20fcbb43c7f15881f7a9b06bda7325a94a8f4231",
+      "bytes": 508
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/RT1.kicad_mod",
+      "sha256": "0d2709aff34456e98aa485f90d8b299d7833701413bf17e80d365a4e1052787d",
+      "bytes": 515
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/RT2.kicad_mod",
+      "sha256": "a3f119cfa87334a0d0e61dd351ce34e9387ec00241540f291a181d49be90d8d7",
+      "bytes": 514
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/RW1.kicad_mod",
+      "sha256": "463caeb83dc4537bd2f48bf25657836e1955ae7cf532f8369101d777d1bff4a5",
+      "bytes": 510
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/U1.kicad_mod",
+      "sha256": "6306a9d07de7d3504ac5a5db9360c07f14872545c77c983f36ce04c04e2d34b6",
+      "bytes": 1968
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.pretty/U2.kicad_mod",
+      "sha256": "e569d5a66e23c9cf28ede586053a35ae872233dde2e995aceafc56385ffb42be",
+      "bytes": 1202
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog.sch",
+      "sha256": "4c812003994918b9fd1734a6fa1dac5c08762b7a6bc2bd20783dac8b7da3520a",
+      "bytes": 27028
+    },
+    {
+      "path": "revisions/R01/electronics/PINOUT.md",
+      "sha256": "30ab7c0d6774c2c48d7c03dd46bf06b917ed4d754bca1788c9a3f1c3ecdeb48d",
+      "bytes": 1966
+    },
+    {
+      "path": "revisions/R01/electronics/SAFETY_WIRING.md",
+      "sha256": "003ddc58b766adebb51453df3f032255db9e42d494f4751413f72571079fe6c6",
+      "bytes": 5012
+    },
+    {
+      "path": "revisions/R01/electronics/build_boards.py",
+      "sha256": "a5b0428ec98c9b0599ea8d35bf06f105d16f6c748cda4fab5d57886f619accf6",
+      "bytes": 16974
+    },
+    {
+      "path": "revisions/R01/electronics/fp-lib-table",
+      "sha256": "2b5493f4ec99cbb9d272241b15c74f304482eee0c737007bd2a6749eab85e191",
+      "bytes": 336
+    },
+    {
+      "path": "revisions/R01/electronics/sym-lib-table",
+      "sha256": "20a7733a111201df96bdfd22d410ad924531b67fe3a722a33596060c63c720b5",
+      "bytes": 321
+    },
+    {
+      "path": "revisions/R01/firmware/CMakeLists.txt",
+      "sha256": "822c755be9e0367153c249c83105a795bed969892fc9a6bf26140202016ded2e",
+      "bytes": 357
+    },
+    {
+      "path": "revisions/R01/firmware/include/ControlCore.hpp",
+      "sha256": "16482f9f84765021dd5daadfec1efadd490956b7a74ce979bad178490e12544e",
+      "bytes": 5037
+    },
+    {
+      "path": "revisions/R01/firmware/platformio.ini",
+      "sha256": "9f65d09fa63eca7fdd0a2c2f9ce8c01e9e6b1b22a5a1c0dc90ee3083db6b6388",
+      "bytes": 235
+    },
+    {
+      "path": "revisions/R01/firmware/src/main.cpp",
+      "sha256": "3dc5af6bb7fa70c6f53b9dd72691b273ae4dbf7508fefb4e151be12bec209576",
+      "bytes": 6319
+    },
+    {
+      "path": "revisions/R01/firmware/tests/simulator.cpp",
+      "sha256": "aad9f78866259c59715a34fe51b3839854ecd9de1ea49b9b5635e108cfcfdd33",
+      "bytes": 2405
+    },
+    {
+      "path": "revisions/R01/firmware/tests/test_core.cpp",
+      "sha256": "63bb9dcc5808baff4366d8bc6d23c0b95051a7d5bb14457f3bba029298dd83fb",
+      "bytes": 3401
+    },
+    {
+      "path": "revisions/R01/project.json",
+      "sha256": "928af7f1d76a556d0ba3db0c0d3424091a5b66090fc05811010bfd78d731be43",
+      "bytes": 2093
+    },
+    {
+      "path": "revisions/R01/software/android/BUILD.md",
+      "sha256": "35850b0bf80544029180760bf6bc9ade653809d9518337d41e1978974383fb37",
+      "bytes": 887
+    },
+    {
+      "path": "revisions/R01/software/android/app/build.gradle",
+      "sha256": "ab5903b793e1b5cad1f0201262dff47dc2c12e012d403702b9bb0c48158bc8be",
+      "bytes": 382
+    },
+    {
+      "path": "revisions/R01/software/android/app/src/main/AndroidManifest.xml",
+      "sha256": "6ddcbd8b50ce268e47c5e72bb2a5750a5696999c315e5c748527034aa3ecc9a1",
+      "bytes": 1053
+    },
+    {
+      "path": "revisions/R01/software/android/app/src/main/java/ru/spimshaski/lezhandr/BleClient.java",
+      "sha256": "9b43a0f6c11e8ee5c6695549c9840893edaf458002fd2be1e3d5f50958e8c60a",
+      "bytes": 7180
+    },
+    {
+      "path": "revisions/R01/software/android/app/src/main/java/ru/spimshaski/lezhandr/MainActivity.java",
+      "sha256": "4f84ac8b7fe8e61aa5db31a433cca952f5c792aaff81e7ec2866c59e1ccafc2b",
+      "bytes": 5413
+    },
+    {
+      "path": "revisions/R01/software/android/app/src/main/java/ru/spimshaski/lezhandr/Protocol.java",
+      "sha256": "f906b12da17ea3a726ceb4dfe5795dd9c500b4eb0f3a2ef45bf0f17df66f0826",
+      "bytes": 1668
+    },
+    {
+      "path": "revisions/R01/software/android/build.gradle",
+      "sha256": "8ebf0602839be8fd4c06f07a93e45da6b4a04444fa1b38df8b9def9c1b5c8032",
+      "bytes": 69
+    },
+    {
+      "path": "revisions/R01/software/android/gradle.properties",
+      "sha256": "4667473ab79d19d7b6d3f7c341c798a60b413fa3aa08587ce81809a58c797904",
+      "bytes": 77
+    },
+    {
+      "path": "revisions/R01/software/android/settings.gradle",
+      "sha256": "839193337b11d79538583aae277b8c82d1b5642177b5ffeaab5260015472d4e6",
+      "bytes": 276
+    },
+    {
+      "path": "revisions/R01/software/desktop/pom.xml",
+      "sha256": "673cdb691de6b9ab2a97e30daddac914e07842627bf30bbb54ac76c9bbe48831",
+      "bytes": 1295
+    },
+    {
+      "path": "revisions/R01/software/desktop/src/main/java/ru/spimshaski/lezhandr/DemoTransport.java",
+      "sha256": "89bde21a023902de74b9bfd8b58cf3e8722e8146fabb049b4673e1bf12418cb5",
+      "bytes": 2568
+    },
+    {
+      "path": "revisions/R01/software/desktop/src/main/java/ru/spimshaski/lezhandr/DesktopApp.java",
+      "sha256": "c9ec05dc13dfeb847d56514f2b5e530fb5e037b1e8887349db99bdd824c6326f",
+      "bytes": 9595
+    },
+    {
+      "path": "revisions/R01/software/desktop/src/main/java/ru/spimshaski/lezhandr/IntegrationTest.java",
+      "sha256": "058499ce563a54a4fcb56d0df3bc3ee5660abee80dabeebdb30810dfa10ace35",
+      "bytes": 3061
+    },
+    {
+      "path": "revisions/R01/software/desktop/src/main/java/ru/spimshaski/lezhandr/Protocol.java",
+      "sha256": "f906b12da17ea3a726ceb4dfe5795dd9c500b4eb0f3a2ef45bf0f17df66f0826",
+      "bytes": 1668
+    },
+    {
+      "path": "revisions/R01/software/desktop/src/main/java/ru/spimshaski/lezhandr/SelfTest.java",
+      "sha256": "ebdd5ac37a5f62e8b76bbe9c72a659842868fe814db170c2e51c020497dce313",
+      "bytes": 1184
+    },
+    {
+      "path": "revisions/R01/software/desktop/src/main/java/ru/spimshaski/lezhandr/Transport.java",
+      "sha256": "c9f717ab6ac4d6ea93d1c5ec802f7d44aead34d40fb84f43dcc733d0bc5217cb",
+      "bytes": 2927
+    },
+    {
+      "path": "revisions/R01/tools/build-desktop.sh",
+      "sha256": "17a4a74244fcf0c72f2b11e84d2120eaf767b9b6d9b3d62a335701629f0a4290",
+      "bytes": 458
+    },
+    {
+      "path": "revisions/R01/tools/build_documents.py",
+      "sha256": "bfc7109e13d2c7229c41c39e47a0b59f2dc659437741748ad56b8dcbbc6815ee",
+      "bytes": 33579
+    },
+    {
+      "path": "revisions/R01/tools/calculations.py",
+      "sha256": "8f3147ec73f29cc4636a8c29efdbe41a7e9da27dcedafa69f8daaab713303925",
+      "bytes": 2359
+    },
+    {
+      "path": "revisions/R01/tools/check_connectivity.py",
+      "sha256": "e1007939e9b912a30853c5b313dbf778b2ba4e16d25d2db18e4951aba69cf93f",
+      "bytes": 1908
+    },
+    {
+      "path": "revisions/R01/tools/check_pcbs.py",
+      "sha256": "497e260f429d9c7a6f5fd28233aaa93800f8a4bbf51bd22713203568f0b0a9b2",
+      "bytes": 1679
+    },
+    {
+      "path": "revisions/R01/tools/run-integration.sh",
+      "sha256": "7e68ff9dccb3ebf33769dbf50983f81fc29ea7bac72f29a948b9f25d85445ccc",
+      "bytes": 451
+    },
+    {
+      "path": "revisions/R01/tools/write_docs.py",
+      "sha256": "b168ddc3d3692c45fcf5655dff76b14f9ab0e98c2759b1a0b6173e4a16e91ce9",
+      "bytes": 44209
+    },
+    {
+      "path": "revisions/R02/README_FULL_PROJECT_RU.md",
+      "sha256": "53a2d2764d95c4cdd6b7796174851c80ea6cb50ef76ef0eeac7a4148830712cb",
+      "bytes": 15294
+    },
+    {
+      "path": "revisions/R02/README_RU.md",
+      "sha256": "53a2d2764d95c4cdd6b7796174851c80ea6cb50ef76ef0eeac7a4148830712cb",
+      "bytes": 15294
+    },
+    {
+      "path": "revisions/R02/TEST_REPORT_RU.md",
+      "sha256": "12e03c43711fff596d54eb56405a45787a56b6ba8929913cca281d32f245b5eb",
+      "bytes": 3610
+    },
+    {
+      "path": "revisions/R02/TEXTILE_ASSEMBLY_RU.md",
+      "sha256": "250b3764e24a90c50f67b5148df39c74cff49664f14e1a531eb1f4c7900c387e",
+      "bytes": 7670
+    },
+    {
+      "path": "revisions/R02/cad/source/build_cad.py",
+      "sha256": "2113db7313510d02ecec5f72d44bc7a6dc27ac48800e751ba88caa4f55d144c6",
+      "bytes": 17463
+    },
+    {
+      "path": "revisions/R02/dist/lezhandr-desktop-demo.jar",
+      "sha256": "ed7313139449145899449982dd4102bedfdc713b59ecb8fd81ec903bb155c4f3",
+      "bytes": 24526
+    },
+    {
+      "path": "revisions/R02/dist/start-demo.bat",
+      "sha256": "44e18a94b323c6b1fca3346c6c44e09ced9d6e7d8588d2948f4a6f48df64ad18",
+      "bytes": 82
+    },
+    {
+      "path": "revisions/R02/docs/SOURCES.md",
+      "sha256": "0673c8c09ac1b2dc4e1827f5714ab9f232d3002bd1dd1f514347bcb29b6e956b",
+      "bytes": 1911
+    },
+    {
+      "path": "revisions/R02/docs/TEXTILE_ASSEMBLY_RU.md",
+      "sha256": "250b3764e24a90c50f67b5148df39c74cff49664f14e1a531eb1f4c7900c387e",
+      "bytes": 7670
+    },
+    {
+      "path": "revisions/R02/docs/build_review_pdf.py",
+      "sha256": "24ff3df8e1539131b145f7bf1acb4856cc742fb7ecd01b0a1ba3ff7a6463d522",
+      "bytes": 23361
+    },
+    {
+      "path": "revisions/R02/docs/derive_closures_and_patch.py",
+      "sha256": "4dcfe7887dad82c065f5c6959a1767f2f1a8f29ffbd9c6149fe78c5348c80e97",
+      "bytes": 3042
+    },
+    {
+      "path": "revisions/R02/docs/write_revision_docs.py",
+      "sha256": "2cd9547a08d0d46067b7191cc24abf551b31835b272d6e5af4432ea17407e512",
+      "bytes": 27483
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power-cache.lib",
+      "sha256": "6738ee3a974f81de603785831ae057100ce40d4127edfba5ee71549475cb886f",
+      "bytes": 7704
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.kicad_pcb",
+      "sha256": "b8de625af03b96cc6888d559ebacf2a9aa23871eef17062d38be7ec354ae4fe7",
+      "bytes": 78533
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.kicad_pro",
+      "sha256": "502b673bdde796c8fd3781e6f209aa92cda99386445ca5560a9232145629cdfe",
+      "bytes": 248
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/C1.kicad_mod",
+      "sha256": "63de1dc5e29b0f04dbc2a3ca40482ed0fbadea562c5dffd08deffeee46596cef",
+      "bytes": 511
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/C2.kicad_mod",
+      "sha256": "41914b8513a0ecc5ff951a4d532b22a5991a44f7bec539c66094cca9f778cd70",
+      "bytes": 510
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/C3.kicad_mod",
+      "sha256": "c25f491e5885b4387fd082e5aa7bbef5b2b15b77df5d0125d7f23b1b38666570",
+      "bytes": 511
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/C4.kicad_mod",
+      "sha256": "90a179f2dc50363befa9376f90749d73dd3300f1ae00f68d31ae71b8f4be07eb",
+      "bytes": 510
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/F1.kicad_mod",
+      "sha256": "c05d0277c698b4d62eddfaeac0cdd791745a4b364edf86ce7ced31ce4967ed04",
+      "bytes": 533
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/F2.kicad_mod",
+      "sha256": "fa5b9807c54a9a02b38fca1dc8fd19f3a5b69454dd9973f1b3321a4edb942f33",
+      "bytes": 533
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/F3.kicad_mod",
+      "sha256": "7e2a6d77ba989fe24bc5d6a97f48fc102bea71e475ff5fb44792080469bd04eb",
+      "bytes": 533
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/F4.kicad_mod",
+      "sha256": "0353676e97189216285a046c669ecd28f2a09cc853fca251f1bc20c83da7a65e",
+      "bytes": 533
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/J1.kicad_mod",
+      "sha256": "3e58b0b938c8bb807a32767df84b5d108a18f81455b24e11d9a5daf7bf12cfae",
+      "bytes": 630
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/J2.kicad_mod",
+      "sha256": "1b7ef47cd2a95db5b76a04fc733948623fb4413fd2bdcd7bddbff3fc570ce080",
+      "bytes": 841
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/JH1.kicad_mod",
+      "sha256": "952e07c5f8557a7ed6c67e0e0f6f2fdbfebca221810740655452710e2feec0f5",
+      "bytes": 519
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/JH2.kicad_mod",
+      "sha256": "3f2e62598322507f966164a9bfe87b9844fa2b1541fc1077ec4413e9e4abeb49",
+      "bytes": 519
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/JH3.kicad_mod",
+      "sha256": "e015cdef87b2a31f504b7df1a44d0e367fd78ce67a750594d7198dc3d64967c6",
+      "bytes": 519
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/JH4.kicad_mod",
+      "sha256": "ca32d82c73a7696e1f2265ca205c9bb1e5e6699c208b3642d6a3f49ba5259b0f",
+      "bytes": 519
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/Q1.kicad_mod",
+      "sha256": "9a74352b462676f4df2246efbd72a798ca280006637cce6c2faf55347a21e4b5",
+      "bytes": 617
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/Q2.kicad_mod",
+      "sha256": "59a7b8a0da98e4c4b7f57d3e75b6482bbcad1b2f8fa140a9379670f7549cd7fc",
+      "bytes": 617
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/Q3.kicad_mod",
+      "sha256": "b915d61f760747cb0138f3e0aafbe53d3cdc52e6aa33fba74ba9e6d94c86b801",
+      "bytes": 617
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/Q4.kicad_mod",
+      "sha256": "0d5dabe866c7add8f6c726201f01aa322e2a400236c62c99f4496dffbc5a2a28",
+      "bytes": 617
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/R1.kicad_mod",
+      "sha256": "7b37b6a86d91739153347e1104b7b7f4ad6eacc9cb6c36aeac4c922c05b47eb1",
+      "bytes": 509
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/R10.kicad_mod",
+      "sha256": "c87e5edb6d6a9f7c6c6a316270279f69823376dd70c3bc58291b9003c5049eb8",
+      "bytes": 510
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/R11.kicad_mod",
+      "sha256": "2b7debe2c78996b85149797a61f97fccb352b0800d41e54a67c93f8b72645ed7",
+      "bytes": 521
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/R12.kicad_mod",
+      "sha256": "b7ff59f1a39c5477ce64a4cce4eaaf41079b43551e0bf1d64993e386568c5a2b",
+      "bytes": 519
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/R2.kicad_mod",
+      "sha256": "5049ebc59fdd978a9e761b234f274aa3249bc849c04b551fbc1d244f8352ce7d",
+      "bytes": 520
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/R3.kicad_mod",
+      "sha256": "601515f59557bfc19f62b58a6b1519757a12efeba6aa5e19f859d6614208b367",
+      "bytes": 518
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/R4.kicad_mod",
+      "sha256": "9495a4f431b0daea311ce654c83e839dfd9d6e2cf19eda0f32c92992b857262e",
+      "bytes": 509
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/R5.kicad_mod",
+      "sha256": "2fc8f63de634facda08536e4812601d7cb3209cd49579d5f90650b8e0a6828e5",
+      "bytes": 520
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/R6.kicad_mod",
+      "sha256": "2d782385e9dbd76cd66c249fa567e29af12da4efcc9632b47fd0c37801dbec2f",
+      "bytes": 518
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/R7.kicad_mod",
+      "sha256": "da39bf7daf7be78539396b1c0eebaae2834ec374d709b9d611d1a1f6a9ff35fa",
+      "bytes": 509
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/R8.kicad_mod",
+      "sha256": "a572c6d20a1fb42a76cbc636b2a3040b3a1566a73dc993d76269f3f9233686a0",
+      "bytes": 520
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/R9.kicad_mod",
+      "sha256": "97e52bf9e021b8208b567f65ada7b1aa293054de6d79722f4ef61c24f503763b",
+      "bytes": 518
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/RSTAR.kicad_mod",
+      "sha256": "c57c0e0b0f4498d45a026abafe02175f953579ed2d49064f407547f9eee3b2a8",
+      "bytes": 522
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/U1.kicad_mod",
+      "sha256": "3f5d5fc0385c969c62dd443ff422fe72da27aa0edba3f2a9d49e71cee21e097b",
+      "bytes": 1193
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.pretty/U2.kicad_mod",
+      "sha256": "ad3d723b615dbcd8bc3945225ee938ba0bb144d7bbafa4f350c994d12003feb2",
+      "bytes": 1194
+    },
+    {
+      "path": "revisions/R02/electronics/A1_4zone_power.sch",
+      "sha256": "e40ca6ff2f62092b44abf9c6365327fa211f8f129f0e305e13c448d68f08fdd3",
+      "bytes": 14174
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog-cache.lib",
+      "sha256": "e4022db00ac8f6e222cc4fe24cfe94887a9efd4793d5dc8e01e510915158a495",
+      "bytes": 14635
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.kicad_pcb",
+      "sha256": "2210dba29d412419408bf4b014696a62264ea38dca4f43fbd6a7a1918b14a9fb",
+      "bytes": 115799
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.kicad_pro",
+      "sha256": "da3c07d24acbfb947a84851f224bb1709ef7f402f4e06822f9150a502ca96ea1",
+      "bytes": 252
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/CN1.kicad_mod",
+      "sha256": "3dc04cd3425917f2416ac9ac7a17cae571a478687151e22b6d21969ac13b0a6e",
+      "bytes": 505
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/CN2.kicad_mod",
+      "sha256": "79bd5f88162cbbc06168c32f3ce345e230563732ee45f9d12eb51a40fee10f40",
+      "bytes": 505
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/CN3.kicad_mod",
+      "sha256": "1a3c48c318d6b20fef17753d56d180629608c955c64a6d35f835798dbbd6f1ef",
+      "bytes": 505
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/CN4.kicad_mod",
+      "sha256": "28b4933f5b6c8a0d317b99c799c0c71458ac41157c97b965f125b0205719c0fa",
+      "bytes": 506
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/CN5.kicad_mod",
+      "sha256": "7892771f6a477301613934ca1e4566dc9d9bd41894f1eb8058f8f9a6732573aa",
+      "bytes": 506
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/CN6.kicad_mod",
+      "sha256": "5946db28f8c09bdd529df123285df37dd1c03884fdffb5af9f0405d53506c503",
+      "bytes": 506
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/CN7.kicad_mod",
+      "sha256": "eeb28aac300e55575803cb25f96ee1ebd8700f883bf4fe86f59982c6cb6b5b44",
+      "bytes": 506
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/CN8.kicad_mod",
+      "sha256": "d436569d1454e2bf7375b0648e25b7c71540bdeca103838a3d9ecb13931c0fe0",
+      "bytes": 506
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/CU1.kicad_mod",
+      "sha256": "0c3afdfe50acc33a33938962ad5a4b50095573d2e1c19cbb2e650026f6057b37",
+      "bytes": 504
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/CU2.kicad_mod",
+      "sha256": "65bee0c2e833a337080f38fb64a9b021708b79af79303764d154d0776b60006b",
+      "bytes": 507
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/CV1.kicad_mod",
+      "sha256": "731fe2cef4c5fe1a9a68d6352b7fe09a69adbd3c3086089e9a73e7c67db9151a",
+      "bytes": 509
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/CV2.kicad_mod",
+      "sha256": "d1064f759b985a5adffe769f72ad5dc498d51543863bb4756bd657e37ed2cea4",
+      "bytes": 509
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/CW1.kicad_mod",
+      "sha256": "3b693dd59dbb861c0645277b40c38e7fbc178bacee0692342f60fe3c6bf70f3f",
+      "bytes": 521
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/DK1.kicad_mod",
+      "sha256": "b35d1d315df552ce0c5ce4e77197da5119380fe9622f38f038badbe0fe4b9538",
+      "bytes": 529
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/JA1.kicad_mod",
+      "sha256": "a5502b76cf5d8012ecda053570b0b99160c8b68b7bbba3c0b0bad9c1a422c304",
+      "bytes": 517
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/JA2.kicad_mod",
+      "sha256": "111196d97d8129243f024b070ed0b8aa49e9612895506bd46273ffcd0171f7e2",
+      "bytes": 517
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/JA3.kicad_mod",
+      "sha256": "f91df397dbce95b71aeb19997771da864f9accff0a75c7ea0a5bb3f8c4ae865c",
+      "bytes": 517
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/JA4.kicad_mod",
+      "sha256": "a3a26682bdd6205a14ea09584f8319ec74a31db1e96da25da4c6979294fb286d",
+      "bytes": 518
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/JA5.kicad_mod",
+      "sha256": "947be7dc9778731ca925cd5865dcf94e9065f1995987dc25a896092fb7ed9b5f",
+      "bytes": 518
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/JA6.kicad_mod",
+      "sha256": "d91f4036a87097ca1c113fc57b3823c11a95d3b67016f77c28f6c0c5163f8545",
+      "bytes": 518
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/JA7.kicad_mod",
+      "sha256": "89b33095c7c8157e50c7ce458d2d28f1f24437bbfed6b2d9735725f265d7635d",
+      "bytes": 518
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/JA8.kicad_mod",
+      "sha256": "358da8603511e53384c582cb84d9625c2a1a82a3e2d206ef7a165b992735540a",
+      "bytes": 518
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/JK1.kicad_mod",
+      "sha256": "d44e43f03addf77e3937d3e855dd8de0634ff7dc93d6235b789bb72978daa77e",
+      "bytes": 549
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/JN1.kicad_mod",
+      "sha256": "d476dc708268be901b2528ec7bb4c88463b08165f2ee86742600609486688e7f",
+      "bytes": 521
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/JN2.kicad_mod",
+      "sha256": "b891d0ea65a66d563065e939ffba32c052b7e62f63229874761f559d867aacfe",
+      "bytes": 521
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/JN3.kicad_mod",
+      "sha256": "61d704f7d9e0a3fb23c075b9d77c74b904dfc351b8e878cca46080ce0d4da919",
+      "bytes": 521
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/JN4.kicad_mod",
+      "sha256": "488c3e8598c2ae7497798dc261c56c38aebd9399f9a79f17dc23ae86c8d7667e",
+      "bytes": 521
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/JN5.kicad_mod",
+      "sha256": "538f3f5cbed6961c83bcb3a5c1e583e68b11f01f667e1528e075338705d03b41",
+      "bytes": 522
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/JN6.kicad_mod",
+      "sha256": "e5d6e94447f122a6f3eaf1d8e9aef713cae99ac4957166a3161af3377907665e",
+      "bytes": 522
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/JN7.kicad_mod",
+      "sha256": "1139d16c3d8529d133446740b0180d2d0514a193a30773ef522f8c1a720895d2",
+      "bytes": 522
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/JN8.kicad_mod",
+      "sha256": "c21e25e6ff407675d4154fea70eda2008f62046c87ff9a5eb225fb9b0288204e",
+      "bytes": 522
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/JO1.kicad_mod",
+      "sha256": "cad3a2f57eb5464954b60fb8f147e007da000610d91191fcb17c619da712515e",
+      "bytes": 533
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/JO2.kicad_mod",
+      "sha256": "2573268d03494b2c26cb1ad035be12dd8161476141df69c57fcb895a0774e761",
+      "bytes": 533
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/JP1.kicad_mod",
+      "sha256": "2b9653ac596e8dfaea0e88353a9ee573d2c17aeb5bbe7ab88ab8de4058f82a5c",
+      "bytes": 747
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/JP2.kicad_mod",
+      "sha256": "b794eab7cc084f997a89a7c29e69356471af5a39a6cf390ef56c6bde9a41530f",
+      "bytes": 517
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/JV1.kicad_mod",
+      "sha256": "f6dbe98652fe65cea675c52b36bdaa62c878a30d00355ad80275cd4dc901840e",
+      "bytes": 524
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/JV2.kicad_mod",
+      "sha256": "fa8461cbfc89d00abc4bd57d2c7a2ae9a3ceef57db42d41559ebf0a6986745e9",
+      "bytes": 524
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/Q1.kicad_mod",
+      "sha256": "6693a683a716dedc755f547b9e66f8563e049bc518730266153cb4a337a6e807",
+      "bytes": 625
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/RB1.kicad_mod",
+      "sha256": "f2565e21a61e7c4f012abe9cabecdbffd80e7b0e44accd4977fd45e9c3893a47",
+      "bytes": 511
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/RB2.kicad_mod",
+      "sha256": "388c3c290f42eb1ed0fa17bcf7874c07973a520ec19b3d1be17145acc6aed8af",
+      "bytes": 511
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/RG1.kicad_mod",
+      "sha256": "d28fa81fb122eb151b6c2a0e934287e7c400f023e5260d175ae1431a46bb299a",
+      "bytes": 520
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/RP1.kicad_mod",
+      "sha256": "ee22ce40ff1efcfecd3740b4d69947c1207b04cdcb629269f02a6ce0c3987c69",
+      "bytes": 507
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/RP2.kicad_mod",
+      "sha256": "a061feca12bf07c46c0156d2cd6c97e11cdd13b3d923c9fbb01db548a2c70388",
+      "bytes": 507
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/RP3.kicad_mod",
+      "sha256": "cb7a3d902b24a062e070856ccbbe76f6fd604669de637e3b9a69dcc5458c5d10",
+      "bytes": 507
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/RP4.kicad_mod",
+      "sha256": "48114a17b87d2f34588a442d68ef0640e31a2bcb3e95eb7dd7f292629ee02508",
+      "bytes": 507
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/RP5.kicad_mod",
+      "sha256": "73112e2a9a03fa245ec8185db1c0f07f26436ce31720a182b82c24b8a09a7b64",
+      "bytes": 508
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/RP6.kicad_mod",
+      "sha256": "b35473215b9968f68a612f77cbabc8716a9cfcb94730af56acf1d71b7fd27d9a",
+      "bytes": 508
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/RP7.kicad_mod",
+      "sha256": "2b593f38b15adc3deb2d2722cbf9366c2e51bbba77fa07fb86fb3484e2475c3e",
+      "bytes": 508
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/RP8.kicad_mod",
+      "sha256": "aa7a10e8db491d909efdf92e376c507eb35fa9e4cecb9fd899d2cbf7c30bbdb5",
+      "bytes": 508
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/RPD1.kicad_mod",
+      "sha256": "f54ca3a509be92afcc0fcdfd2ef4e550760d755be09093d70889eece74db49d1",
+      "bytes": 509
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/RPD2.kicad_mod",
+      "sha256": "d680382d0adbba2d433c1ed57297482286b6612b9b123b85f4b318623461a3d3",
+      "bytes": 505
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/RPD3.kicad_mod",
+      "sha256": "6cd1841b94a4be9eff6635e9f12d0325bf4d3550fdc1326f1eb81a90fe51f42f",
+      "bytes": 513
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/RS1.kicad_mod",
+      "sha256": "f0f9ef1a2cc6ae6a1106a8afb639788cbf979573580030821bda260499773e30",
+      "bytes": 506
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/RS2.kicad_mod",
+      "sha256": "90bccf65b9a5a421da56d12a02872065f72f485dde9244e1347400fac2f6ccc2",
+      "bytes": 506
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/RS3.kicad_mod",
+      "sha256": "a8d007b64a785b2ebb1f2892bfef6a03f82009e9f67a2a22469c7c5e6ff3722f",
+      "bytes": 506
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/RS4.kicad_mod",
+      "sha256": "623dd56a7a129f8a1bf4fabc6c64d2c011abb8d3e3cf2e2a89a2b104db15b778",
+      "bytes": 507
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/RS5.kicad_mod",
+      "sha256": "6585c644a73f53c4a729197fc62181eb8bb97c1ef03c3a362ae5799c92bcf20f",
+      "bytes": 508
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/RS6.kicad_mod",
+      "sha256": "de58e46e358a6abcafdefb5c6d341db99124e5a1f96dd6045ff5e8ee2a90e05b",
+      "bytes": 508
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/RS7.kicad_mod",
+      "sha256": "ff359e25a359c85a374d98f644da4e985a48d94a18fbdd2ef0ad79038373b054",
+      "bytes": 508
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/RS8.kicad_mod",
+      "sha256": "bbfd1e591dfe2a874a58e93a20fcbb43c7f15881f7a9b06bda7325a94a8f4231",
+      "bytes": 508
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/RT1.kicad_mod",
+      "sha256": "0d2709aff34456e98aa485f90d8b299d7833701413bf17e80d365a4e1052787d",
+      "bytes": 515
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/RT2.kicad_mod",
+      "sha256": "a3f119cfa87334a0d0e61dd351ce34e9387ec00241540f291a181d49be90d8d7",
+      "bytes": 514
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/RW1.kicad_mod",
+      "sha256": "463caeb83dc4537bd2f48bf25657836e1955ae7cf532f8369101d777d1bff4a5",
+      "bytes": 510
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/U1.kicad_mod",
+      "sha256": "6306a9d07de7d3504ac5a5db9360c07f14872545c77c983f36ce04c04e2d34b6",
+      "bytes": 1968
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.pretty/U2.kicad_mod",
+      "sha256": "e569d5a66e23c9cf28ede586053a35ae872233dde2e995aceafc56385ffb42be",
+      "bytes": 1202
+    },
+    {
+      "path": "revisions/R02/electronics/A2_sensor_watchdog.sch",
+      "sha256": "4c812003994918b9fd1734a6fa1dac5c08762b7a6bc2bd20783dac8b7da3520a",
+      "bytes": 27028
+    },
+    {
+      "path": "revisions/R02/electronics/PINOUT.md",
+      "sha256": "30ab7c0d6774c2c48d7c03dd46bf06b917ed4d754bca1788c9a3f1c3ecdeb48d",
+      "bytes": 1966
+    },
+    {
+      "path": "revisions/R02/electronics/SAFETY_WIRING.md",
+      "sha256": "003ddc58b766adebb51453df3f032255db9e42d494f4751413f72571079fe6c6",
+      "bytes": 5012
+    },
+    {
+      "path": "revisions/R02/electronics/build_boards.py",
+      "sha256": "a5b0428ec98c9b0599ea8d35bf06f105d16f6c748cda4fab5d57886f619accf6",
+      "bytes": 16974
+    },
+    {
+      "path": "revisions/R02/electronics/fp-lib-table",
+      "sha256": "2b5493f4ec99cbb9d272241b15c74f304482eee0c737007bd2a6749eab85e191",
+      "bytes": 336
+    },
+    {
+      "path": "revisions/R02/electronics/sym-lib-table",
+      "sha256": "20a7733a111201df96bdfd22d410ad924531b67fe3a722a33596060c63c720b5",
+      "bytes": 321
+    },
+    {
+      "path": "revisions/R02/embroidery/README_RU.md",
+      "sha256": "e549933bc71519fdd59ddf4e5429ca5987d9adb9857dab11d41dad1a5c8678ca",
+      "bytes": 2780
+    },
+    {
+      "path": "revisions/R02/firmware/CMakeLists.txt",
+      "sha256": "822c755be9e0367153c249c83105a795bed969892fc9a6bf26140202016ded2e",
+      "bytes": 357
+    },
+    {
+      "path": "revisions/R02/firmware/include/ControlCore.hpp",
+      "sha256": "16482f9f84765021dd5daadfec1efadd490956b7a74ce979bad178490e12544e",
+      "bytes": 5037
+    },
+    {
+      "path": "revisions/R02/firmware/platformio.ini",
+      "sha256": "9f65d09fa63eca7fdd0a2c2f9ce8c01e9e6b1b22a5a1c0dc90ee3083db6b6388",
+      "bytes": 235
+    },
+    {
+      "path": "revisions/R02/firmware/src/main.cpp",
+      "sha256": "3dc5af6bb7fa70c6f53b9dd72691b273ae4dbf7508fefb4e151be12bec209576",
+      "bytes": 6319
+    },
+    {
+      "path": "revisions/R02/firmware/tests/simulator.cpp",
+      "sha256": "aad9f78866259c59715a34fe51b3839854ecd9de1ea49b9b5635e108cfcfdd33",
+      "bytes": 2405
+    },
+    {
+      "path": "revisions/R02/firmware/tests/test_core.cpp",
+      "sha256": "63bb9dcc5808baff4366d8bc6d23c0b95051a7d5bb14457f3bba029298dd83fb",
+      "bytes": 3401
+    },
+    {
+      "path": "revisions/R02/history/R01/.gitignore",
+      "sha256": "00b09023be9ec256f6170d4f56b58c41ed2b6492e337fc22ca842ee41204dc1b",
+      "bytes": 137
+    },
+    {
+      "path": "revisions/R02/history/R01/README_RU.md",
+      "sha256": "499150be76ebfcaf734a0344003b20e2f9a31b24bf513dbd5a21c0adc3395a5d",
+      "bytes": 17331
+    },
+    {
+      "path": "revisions/R02/history/R01/TEST_REPORT_RU.md",
+      "sha256": "348af80c6e6848c63a83e723fa6dd3e5f4cf94e265f6e9ff18f1c5d075fea2df",
+      "bytes": 3484
+    },
+    {
+      "path": "revisions/R02/history/R01/cad/CUTTING_NOTES.md",
+      "sha256": "37e6813413bb882bc941c5d19581b998b3e271dd00b2551e1635b3d35f86a040",
+      "bytes": 1372
+    },
+    {
+      "path": "revisions/R02/history/R01/cad/source/build_cad.py",
+      "sha256": "3c629a814287ecb280a97240bb8c5f3a962d8f637b1ff02dc8897a84d7d37da8",
+      "bytes": 12624
+    },
+    {
+      "path": "revisions/R02/history/R01/cad/source/section_cut.py",
+      "sha256": "41ed578d30edf0bb5f942a93907aee7e03319f05d784e8b31cf130c04f02808e",
+      "bytes": 528
+    },
+    {
+      "path": "revisions/R02/history/R01/dist/lezhandr-desktop-demo.jar",
+      "sha256": "ed7313139449145899449982dd4102bedfdc713b59ecb8fd81ec903bb155c4f3",
+      "bytes": 24526
+    },
+    {
+      "path": "revisions/R02/history/R01/dist/start-demo.bat",
+      "sha256": "44e18a94b323c6b1fca3346c6c44e09ced9d6e7d8588d2948f4a6f48df64ad18",
+      "bytes": 82
+    },
+    {
+      "path": "revisions/R02/history/R01/docs/DESIGN_REVIEW.md",
+      "sha256": "6ad4ca0e1b5b29bb05a4a0d7afebe03bfd65027fe885ecde39b9c7dc4ec970e7",
+      "bytes": 9211
+    },
+    {
+      "path": "revisions/R02/history/R01/docs/PROTOCOL.md",
+      "sha256": "3cba2d3efa54eb6c0ae192875659284440c517dabb4f391a25e7c34f4664c8fa",
+      "bytes": 2917
+    },
+    {
+      "path": "revisions/R02/history/R01/docs/SOURCES.md",
+      "sha256": "fa1ed43cfb3e3845df993a955e3e4a002529a78008f176272ab9192831fb9407",
+      "bytes": 3586
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power-cache.lib",
+      "sha256": "6738ee3a974f81de603785831ae057100ce40d4127edfba5ee71549475cb886f",
+      "bytes": 7704
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.kicad_pcb",
+      "sha256": "b8de625af03b96cc6888d559ebacf2a9aa23871eef17062d38be7ec354ae4fe7",
+      "bytes": 78533
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.kicad_pro",
+      "sha256": "502b673bdde796c8fd3781e6f209aa92cda99386445ca5560a9232145629cdfe",
+      "bytes": 248
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/C1.kicad_mod",
+      "sha256": "63de1dc5e29b0f04dbc2a3ca40482ed0fbadea562c5dffd08deffeee46596cef",
+      "bytes": 511
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/C2.kicad_mod",
+      "sha256": "41914b8513a0ecc5ff951a4d532b22a5991a44f7bec539c66094cca9f778cd70",
+      "bytes": 510
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/C3.kicad_mod",
+      "sha256": "c25f491e5885b4387fd082e5aa7bbef5b2b15b77df5d0125d7f23b1b38666570",
+      "bytes": 511
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/C4.kicad_mod",
+      "sha256": "90a179f2dc50363befa9376f90749d73dd3300f1ae00f68d31ae71b8f4be07eb",
+      "bytes": 510
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/F1.kicad_mod",
+      "sha256": "c05d0277c698b4d62eddfaeac0cdd791745a4b364edf86ce7ced31ce4967ed04",
+      "bytes": 533
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/F2.kicad_mod",
+      "sha256": "fa5b9807c54a9a02b38fca1dc8fd19f3a5b69454dd9973f1b3321a4edb942f33",
+      "bytes": 533
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/F3.kicad_mod",
+      "sha256": "7e2a6d77ba989fe24bc5d6a97f48fc102bea71e475ff5fb44792080469bd04eb",
+      "bytes": 533
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/F4.kicad_mod",
+      "sha256": "0353676e97189216285a046c669ecd28f2a09cc853fca251f1bc20c83da7a65e",
+      "bytes": 533
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/J1.kicad_mod",
+      "sha256": "3e58b0b938c8bb807a32767df84b5d108a18f81455b24e11d9a5daf7bf12cfae",
+      "bytes": 630
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/J2.kicad_mod",
+      "sha256": "1b7ef47cd2a95db5b76a04fc733948623fb4413fd2bdcd7bddbff3fc570ce080",
+      "bytes": 841
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/JH1.kicad_mod",
+      "sha256": "952e07c5f8557a7ed6c67e0e0f6f2fdbfebca221810740655452710e2feec0f5",
+      "bytes": 519
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/JH2.kicad_mod",
+      "sha256": "3f2e62598322507f966164a9bfe87b9844fa2b1541fc1077ec4413e9e4abeb49",
+      "bytes": 519
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/JH3.kicad_mod",
+      "sha256": "e015cdef87b2a31f504b7df1a44d0e367fd78ce67a750594d7198dc3d64967c6",
+      "bytes": 519
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/JH4.kicad_mod",
+      "sha256": "ca32d82c73a7696e1f2265ca205c9bb1e5e6699c208b3642d6a3f49ba5259b0f",
+      "bytes": 519
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/Q1.kicad_mod",
+      "sha256": "9a74352b462676f4df2246efbd72a798ca280006637cce6c2faf55347a21e4b5",
+      "bytes": 617
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/Q2.kicad_mod",
+      "sha256": "59a7b8a0da98e4c4b7f57d3e75b6482bbcad1b2f8fa140a9379670f7549cd7fc",
+      "bytes": 617
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/Q3.kicad_mod",
+      "sha256": "b915d61f760747cb0138f3e0aafbe53d3cdc52e6aa33fba74ba9e6d94c86b801",
+      "bytes": 617
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/Q4.kicad_mod",
+      "sha256": "0d5dabe866c7add8f6c726201f01aa322e2a400236c62c99f4496dffbc5a2a28",
+      "bytes": 617
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/R1.kicad_mod",
+      "sha256": "7b37b6a86d91739153347e1104b7b7f4ad6eacc9cb6c36aeac4c922c05b47eb1",
+      "bytes": 509
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/R10.kicad_mod",
+      "sha256": "c87e5edb6d6a9f7c6c6a316270279f69823376dd70c3bc58291b9003c5049eb8",
+      "bytes": 510
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/R11.kicad_mod",
+      "sha256": "2b7debe2c78996b85149797a61f97fccb352b0800d41e54a67c93f8b72645ed7",
+      "bytes": 521
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/R12.kicad_mod",
+      "sha256": "b7ff59f1a39c5477ce64a4cce4eaaf41079b43551e0bf1d64993e386568c5a2b",
+      "bytes": 519
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/R2.kicad_mod",
+      "sha256": "5049ebc59fdd978a9e761b234f274aa3249bc849c04b551fbc1d244f8352ce7d",
+      "bytes": 520
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/R3.kicad_mod",
+      "sha256": "601515f59557bfc19f62b58a6b1519757a12efeba6aa5e19f859d6614208b367",
+      "bytes": 518
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/R4.kicad_mod",
+      "sha256": "9495a4f431b0daea311ce654c83e839dfd9d6e2cf19eda0f32c92992b857262e",
+      "bytes": 509
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/R5.kicad_mod",
+      "sha256": "2fc8f63de634facda08536e4812601d7cb3209cd49579d5f90650b8e0a6828e5",
+      "bytes": 520
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/R6.kicad_mod",
+      "sha256": "2d782385e9dbd76cd66c249fa567e29af12da4efcc9632b47fd0c37801dbec2f",
+      "bytes": 518
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/R7.kicad_mod",
+      "sha256": "da39bf7daf7be78539396b1c0eebaae2834ec374d709b9d611d1a1f6a9ff35fa",
+      "bytes": 509
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/R8.kicad_mod",
+      "sha256": "a572c6d20a1fb42a76cbc636b2a3040b3a1566a73dc993d76269f3f9233686a0",
+      "bytes": 520
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/R9.kicad_mod",
+      "sha256": "97e52bf9e021b8208b567f65ada7b1aa293054de6d79722f4ef61c24f503763b",
+      "bytes": 518
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/RSTAR.kicad_mod",
+      "sha256": "c57c0e0b0f4498d45a026abafe02175f953579ed2d49064f407547f9eee3b2a8",
+      "bytes": 522
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/U1.kicad_mod",
+      "sha256": "3f5d5fc0385c969c62dd443ff422fe72da27aa0edba3f2a9d49e71cee21e097b",
+      "bytes": 1193
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.pretty/U2.kicad_mod",
+      "sha256": "ad3d723b615dbcd8bc3945225ee938ba0bb144d7bbafa4f350c994d12003feb2",
+      "bytes": 1194
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A1_4zone_power.sch",
+      "sha256": "e40ca6ff2f62092b44abf9c6365327fa211f8f129f0e305e13c448d68f08fdd3",
+      "bytes": 14174
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog-cache.lib",
+      "sha256": "e4022db00ac8f6e222cc4fe24cfe94887a9efd4793d5dc8e01e510915158a495",
+      "bytes": 14635
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.kicad_pcb",
+      "sha256": "2210dba29d412419408bf4b014696a62264ea38dca4f43fbd6a7a1918b14a9fb",
+      "bytes": 115799
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.kicad_pro",
+      "sha256": "da3c07d24acbfb947a84851f224bb1709ef7f402f4e06822f9150a502ca96ea1",
+      "bytes": 252
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/CN1.kicad_mod",
+      "sha256": "3dc04cd3425917f2416ac9ac7a17cae571a478687151e22b6d21969ac13b0a6e",
+      "bytes": 505
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/CN2.kicad_mod",
+      "sha256": "79bd5f88162cbbc06168c32f3ce345e230563732ee45f9d12eb51a40fee10f40",
+      "bytes": 505
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/CN3.kicad_mod",
+      "sha256": "1a3c48c318d6b20fef17753d56d180629608c955c64a6d35f835798dbbd6f1ef",
+      "bytes": 505
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/CN4.kicad_mod",
+      "sha256": "28b4933f5b6c8a0d317b99c799c0c71458ac41157c97b965f125b0205719c0fa",
+      "bytes": 506
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/CN5.kicad_mod",
+      "sha256": "7892771f6a477301613934ca1e4566dc9d9bd41894f1eb8058f8f9a6732573aa",
+      "bytes": 506
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/CN6.kicad_mod",
+      "sha256": "5946db28f8c09bdd529df123285df37dd1c03884fdffb5af9f0405d53506c503",
+      "bytes": 506
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/CN7.kicad_mod",
+      "sha256": "eeb28aac300e55575803cb25f96ee1ebd8700f883bf4fe86f59982c6cb6b5b44",
+      "bytes": 506
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/CN8.kicad_mod",
+      "sha256": "d436569d1454e2bf7375b0648e25b7c71540bdeca103838a3d9ecb13931c0fe0",
+      "bytes": 506
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/CU1.kicad_mod",
+      "sha256": "0c3afdfe50acc33a33938962ad5a4b50095573d2e1c19cbb2e650026f6057b37",
+      "bytes": 504
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/CU2.kicad_mod",
+      "sha256": "65bee0c2e833a337080f38fb64a9b021708b79af79303764d154d0776b60006b",
+      "bytes": 507
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/CV1.kicad_mod",
+      "sha256": "731fe2cef4c5fe1a9a68d6352b7fe09a69adbd3c3086089e9a73e7c67db9151a",
+      "bytes": 509
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/CV2.kicad_mod",
+      "sha256": "d1064f759b985a5adffe769f72ad5dc498d51543863bb4756bd657e37ed2cea4",
+      "bytes": 509
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/CW1.kicad_mod",
+      "sha256": "3b693dd59dbb861c0645277b40c38e7fbc178bacee0692342f60fe3c6bf70f3f",
+      "bytes": 521
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/DK1.kicad_mod",
+      "sha256": "b35d1d315df552ce0c5ce4e77197da5119380fe9622f38f038badbe0fe4b9538",
+      "bytes": 529
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/JA1.kicad_mod",
+      "sha256": "a5502b76cf5d8012ecda053570b0b99160c8b68b7bbba3c0b0bad9c1a422c304",
+      "bytes": 517
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/JA2.kicad_mod",
+      "sha256": "111196d97d8129243f024b070ed0b8aa49e9612895506bd46273ffcd0171f7e2",
+      "bytes": 517
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/JA3.kicad_mod",
+      "sha256": "f91df397dbce95b71aeb19997771da864f9accff0a75c7ea0a5bb3f8c4ae865c",
+      "bytes": 517
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/JA4.kicad_mod",
+      "sha256": "a3a26682bdd6205a14ea09584f8319ec74a31db1e96da25da4c6979294fb286d",
+      "bytes": 518
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/JA5.kicad_mod",
+      "sha256": "947be7dc9778731ca925cd5865dcf94e9065f1995987dc25a896092fb7ed9b5f",
+      "bytes": 518
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/JA6.kicad_mod",
+      "sha256": "d91f4036a87097ca1c113fc57b3823c11a95d3b67016f77c28f6c0c5163f8545",
+      "bytes": 518
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/JA7.kicad_mod",
+      "sha256": "89b33095c7c8157e50c7ce458d2d28f1f24437bbfed6b2d9735725f265d7635d",
+      "bytes": 518
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/JA8.kicad_mod",
+      "sha256": "358da8603511e53384c582cb84d9625c2a1a82a3e2d206ef7a165b992735540a",
+      "bytes": 518
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/JK1.kicad_mod",
+      "sha256": "d44e43f03addf77e3937d3e855dd8de0634ff7dc93d6235b789bb72978daa77e",
+      "bytes": 549
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/JN1.kicad_mod",
+      "sha256": "d476dc708268be901b2528ec7bb4c88463b08165f2ee86742600609486688e7f",
+      "bytes": 521
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/JN2.kicad_mod",
+      "sha256": "b891d0ea65a66d563065e939ffba32c052b7e62f63229874761f559d867aacfe",
+      "bytes": 521
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/JN3.kicad_mod",
+      "sha256": "61d704f7d9e0a3fb23c075b9d77c74b904dfc351b8e878cca46080ce0d4da919",
+      "bytes": 521
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/JN4.kicad_mod",
+      "sha256": "488c3e8598c2ae7497798dc261c56c38aebd9399f9a79f17dc23ae86c8d7667e",
+      "bytes": 521
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/JN5.kicad_mod",
+      "sha256": "538f3f5cbed6961c83bcb3a5c1e583e68b11f01f667e1528e075338705d03b41",
+      "bytes": 522
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/JN6.kicad_mod",
+      "sha256": "e5d6e94447f122a6f3eaf1d8e9aef713cae99ac4957166a3161af3377907665e",
+      "bytes": 522
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/JN7.kicad_mod",
+      "sha256": "1139d16c3d8529d133446740b0180d2d0514a193a30773ef522f8c1a720895d2",
+      "bytes": 522
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/JN8.kicad_mod",
+      "sha256": "c21e25e6ff407675d4154fea70eda2008f62046c87ff9a5eb225fb9b0288204e",
+      "bytes": 522
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/JO1.kicad_mod",
+      "sha256": "cad3a2f57eb5464954b60fb8f147e007da000610d91191fcb17c619da712515e",
+      "bytes": 533
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/JO2.kicad_mod",
+      "sha256": "2573268d03494b2c26cb1ad035be12dd8161476141df69c57fcb895a0774e761",
+      "bytes": 533
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/JP1.kicad_mod",
+      "sha256": "2b9653ac596e8dfaea0e88353a9ee573d2c17aeb5bbe7ab88ab8de4058f82a5c",
+      "bytes": 747
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/JP2.kicad_mod",
+      "sha256": "b794eab7cc084f997a89a7c29e69356471af5a39a6cf390ef56c6bde9a41530f",
+      "bytes": 517
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/JV1.kicad_mod",
+      "sha256": "f6dbe98652fe65cea675c52b36bdaa62c878a30d00355ad80275cd4dc901840e",
+      "bytes": 524
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/JV2.kicad_mod",
+      "sha256": "fa8461cbfc89d00abc4bd57d2c7a2ae9a3ceef57db42d41559ebf0a6986745e9",
+      "bytes": 524
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/Q1.kicad_mod",
+      "sha256": "6693a683a716dedc755f547b9e66f8563e049bc518730266153cb4a337a6e807",
+      "bytes": 625
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/RB1.kicad_mod",
+      "sha256": "f2565e21a61e7c4f012abe9cabecdbffd80e7b0e44accd4977fd45e9c3893a47",
+      "bytes": 511
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/RB2.kicad_mod",
+      "sha256": "388c3c290f42eb1ed0fa17bcf7874c07973a520ec19b3d1be17145acc6aed8af",
+      "bytes": 511
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/RG1.kicad_mod",
+      "sha256": "d28fa81fb122eb151b6c2a0e934287e7c400f023e5260d175ae1431a46bb299a",
+      "bytes": 520
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/RP1.kicad_mod",
+      "sha256": "ee22ce40ff1efcfecd3740b4d69947c1207b04cdcb629269f02a6ce0c3987c69",
+      "bytes": 507
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/RP2.kicad_mod",
+      "sha256": "a061feca12bf07c46c0156d2cd6c97e11cdd13b3d923c9fbb01db548a2c70388",
+      "bytes": 507
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/RP3.kicad_mod",
+      "sha256": "cb7a3d902b24a062e070856ccbbe76f6fd604669de637e3b9a69dcc5458c5d10",
+      "bytes": 507
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/RP4.kicad_mod",
+      "sha256": "48114a17b87d2f34588a442d68ef0640e31a2bcb3e95eb7dd7f292629ee02508",
+      "bytes": 507
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/RP5.kicad_mod",
+      "sha256": "73112e2a9a03fa245ec8185db1c0f07f26436ce31720a182b82c24b8a09a7b64",
+      "bytes": 508
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/RP6.kicad_mod",
+      "sha256": "b35473215b9968f68a612f77cbabc8716a9cfcb94730af56acf1d71b7fd27d9a",
+      "bytes": 508
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/RP7.kicad_mod",
+      "sha256": "2b593f38b15adc3deb2d2722cbf9366c2e51bbba77fa07fb86fb3484e2475c3e",
+      "bytes": 508
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/RP8.kicad_mod",
+      "sha256": "aa7a10e8db491d909efdf92e376c507eb35fa9e4cecb9fd899d2cbf7c30bbdb5",
+      "bytes": 508
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/RPD1.kicad_mod",
+      "sha256": "f54ca3a509be92afcc0fcdfd2ef4e550760d755be09093d70889eece74db49d1",
+      "bytes": 509
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/RPD2.kicad_mod",
+      "sha256": "d680382d0adbba2d433c1ed57297482286b6612b9b123b85f4b318623461a3d3",
+      "bytes": 505
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/RPD3.kicad_mod",
+      "sha256": "6cd1841b94a4be9eff6635e9f12d0325bf4d3550fdc1326f1eb81a90fe51f42f",
+      "bytes": 513
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/RS1.kicad_mod",
+      "sha256": "f0f9ef1a2cc6ae6a1106a8afb639788cbf979573580030821bda260499773e30",
+      "bytes": 506
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/RS2.kicad_mod",
+      "sha256": "90bccf65b9a5a421da56d12a02872065f72f485dde9244e1347400fac2f6ccc2",
+      "bytes": 506
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/RS3.kicad_mod",
+      "sha256": "a8d007b64a785b2ebb1f2892bfef6a03f82009e9f67a2a22469c7c5e6ff3722f",
+      "bytes": 506
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/RS4.kicad_mod",
+      "sha256": "623dd56a7a129f8a1bf4fabc6c64d2c011abb8d3e3cf2e2a89a2b104db15b778",
+      "bytes": 507
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/RS5.kicad_mod",
+      "sha256": "6585c644a73f53c4a729197fc62181eb8bb97c1ef03c3a362ae5799c92bcf20f",
+      "bytes": 508
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/RS6.kicad_mod",
+      "sha256": "de58e46e358a6abcafdefb5c6d341db99124e5a1f96dd6045ff5e8ee2a90e05b",
+      "bytes": 508
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/RS7.kicad_mod",
+      "sha256": "ff359e25a359c85a374d98f644da4e985a48d94a18fbdd2ef0ad79038373b054",
+      "bytes": 508
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/RS8.kicad_mod",
+      "sha256": "bbfd1e591dfe2a874a58e93a20fcbb43c7f15881f7a9b06bda7325a94a8f4231",
+      "bytes": 508
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/RT1.kicad_mod",
+      "sha256": "0d2709aff34456e98aa485f90d8b299d7833701413bf17e80d365a4e1052787d",
+      "bytes": 515
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/RT2.kicad_mod",
+      "sha256": "a3f119cfa87334a0d0e61dd351ce34e9387ec00241540f291a181d49be90d8d7",
+      "bytes": 514
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/RW1.kicad_mod",
+      "sha256": "463caeb83dc4537bd2f48bf25657836e1955ae7cf532f8369101d777d1bff4a5",
+      "bytes": 510
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/U1.kicad_mod",
+      "sha256": "6306a9d07de7d3504ac5a5db9360c07f14872545c77c983f36ce04c04e2d34b6",
+      "bytes": 1968
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.pretty/U2.kicad_mod",
+      "sha256": "e569d5a66e23c9cf28ede586053a35ae872233dde2e995aceafc56385ffb42be",
+      "bytes": 1202
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/A2_sensor_watchdog.sch",
+      "sha256": "4c812003994918b9fd1734a6fa1dac5c08762b7a6bc2bd20783dac8b7da3520a",
+      "bytes": 27028
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/PINOUT.md",
+      "sha256": "30ab7c0d6774c2c48d7c03dd46bf06b917ed4d754bca1788c9a3f1c3ecdeb48d",
+      "bytes": 1966
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/SAFETY_WIRING.md",
+      "sha256": "003ddc58b766adebb51453df3f032255db9e42d494f4751413f72571079fe6c6",
+      "bytes": 5012
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/build_boards.py",
+      "sha256": "a5b0428ec98c9b0599ea8d35bf06f105d16f6c748cda4fab5d57886f619accf6",
+      "bytes": 16974
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/fp-lib-table",
+      "sha256": "2b5493f4ec99cbb9d272241b15c74f304482eee0c737007bd2a6749eab85e191",
+      "bytes": 336
+    },
+    {
+      "path": "revisions/R02/history/R01/electronics/sym-lib-table",
+      "sha256": "20a7733a111201df96bdfd22d410ad924531b67fe3a722a33596060c63c720b5",
+      "bytes": 321
+    },
+    {
+      "path": "revisions/R02/history/R01/firmware/CMakeLists.txt",
+      "sha256": "822c755be9e0367153c249c83105a795bed969892fc9a6bf26140202016ded2e",
+      "bytes": 357
+    },
+    {
+      "path": "revisions/R02/history/R01/firmware/include/ControlCore.hpp",
+      "sha256": "16482f9f84765021dd5daadfec1efadd490956b7a74ce979bad178490e12544e",
+      "bytes": 5037
+    },
+    {
+      "path": "revisions/R02/history/R01/firmware/platformio.ini",
+      "sha256": "9f65d09fa63eca7fdd0a2c2f9ce8c01e9e6b1b22a5a1c0dc90ee3083db6b6388",
+      "bytes": 235
+    },
+    {
+      "path": "revisions/R02/history/R01/firmware/src/main.cpp",
+      "sha256": "3dc5af6bb7fa70c6f53b9dd72691b273ae4dbf7508fefb4e151be12bec209576",
+      "bytes": 6319
+    },
+    {
+      "path": "revisions/R02/history/R01/firmware/tests/simulator.cpp",
+      "sha256": "aad9f78866259c59715a34fe51b3839854ecd9de1ea49b9b5635e108cfcfdd33",
+      "bytes": 2405
+    },
+    {
+      "path": "revisions/R02/history/R01/firmware/tests/test_core.cpp",
+      "sha256": "63bb9dcc5808baff4366d8bc6d23c0b95051a7d5bb14457f3bba029298dd83fb",
+      "bytes": 3401
+    },
+    {
+      "path": "revisions/R02/history/R01/project.json",
+      "sha256": "928af7f1d76a556d0ba3db0c0d3424091a5b66090fc05811010bfd78d731be43",
+      "bytes": 2093
+    },
+    {
+      "path": "revisions/R02/history/R01/software/android/BUILD.md",
+      "sha256": "35850b0bf80544029180760bf6bc9ade653809d9518337d41e1978974383fb37",
+      "bytes": 887
+    },
+    {
+      "path": "revisions/R02/history/R01/software/android/app/build.gradle",
+      "sha256": "ab5903b793e1b5cad1f0201262dff47dc2c12e012d403702b9bb0c48158bc8be",
+      "bytes": 382
+    },
+    {
+      "path": "revisions/R02/history/R01/software/android/app/src/main/AndroidManifest.xml",
+      "sha256": "6ddcbd8b50ce268e47c5e72bb2a5750a5696999c315e5c748527034aa3ecc9a1",
+      "bytes": 1053
+    },
+    {
+      "path": "revisions/R02/history/R01/software/android/app/src/main/java/ru/spimshaski/lezhandr/BleClient.java",
+      "sha256": "9b43a0f6c11e8ee5c6695549c9840893edaf458002fd2be1e3d5f50958e8c60a",
+      "bytes": 7180
+    },
+    {
+      "path": "revisions/R02/history/R01/software/android/app/src/main/java/ru/spimshaski/lezhandr/MainActivity.java",
+      "sha256": "4f84ac8b7fe8e61aa5db31a433cca952f5c792aaff81e7ec2866c59e1ccafc2b",
+      "bytes": 5413
+    },
+    {
+      "path": "revisions/R02/history/R01/software/android/app/src/main/java/ru/spimshaski/lezhandr/Protocol.java",
+      "sha256": "f906b12da17ea3a726ceb4dfe5795dd9c500b4eb0f3a2ef45bf0f17df66f0826",
+      "bytes": 1668
+    },
+    {
+      "path": "revisions/R02/history/R01/software/android/build.gradle",
+      "sha256": "8ebf0602839be8fd4c06f07a93e45da6b4a04444fa1b38df8b9def9c1b5c8032",
+      "bytes": 69
+    },
+    {
+      "path": "revisions/R02/history/R01/software/android/gradle.properties",
+      "sha256": "4667473ab79d19d7b6d3f7c341c798a60b413fa3aa08587ce81809a58c797904",
+      "bytes": 77
+    },
+    {
+      "path": "revisions/R02/history/R01/software/android/settings.gradle",
+      "sha256": "839193337b11d79538583aae277b8c82d1b5642177b5ffeaab5260015472d4e6",
+      "bytes": 276
+    },
+    {
+      "path": "revisions/R02/history/R01/software/desktop/pom.xml",
+      "sha256": "673cdb691de6b9ab2a97e30daddac914e07842627bf30bbb54ac76c9bbe48831",
+      "bytes": 1295
+    },
+    {
+      "path": "revisions/R02/history/R01/software/desktop/src/main/java/ru/spimshaski/lezhandr/DemoTransport.java",
+      "sha256": "89bde21a023902de74b9bfd8b58cf3e8722e8146fabb049b4673e1bf12418cb5",
+      "bytes": 2568
+    },
+    {
+      "path": "revisions/R02/history/R01/software/desktop/src/main/java/ru/spimshaski/lezhandr/DesktopApp.java",
+      "sha256": "c9ec05dc13dfeb847d56514f2b5e530fb5e037b1e8887349db99bdd824c6326f",
+      "bytes": 9595
+    },
+    {
+      "path": "revisions/R02/history/R01/software/desktop/src/main/java/ru/spimshaski/lezhandr/IntegrationTest.java",
+      "sha256": "058499ce563a54a4fcb56d0df3bc3ee5660abee80dabeebdb30810dfa10ace35",
+      "bytes": 3061
+    },
+    {
+      "path": "revisions/R02/history/R01/software/desktop/src/main/java/ru/spimshaski/lezhandr/Protocol.java",
+      "sha256": "f906b12da17ea3a726ceb4dfe5795dd9c500b4eb0f3a2ef45bf0f17df66f0826",
+      "bytes": 1668
+    },
+    {
+      "path": "revisions/R02/history/R01/software/desktop/src/main/java/ru/spimshaski/lezhandr/SelfTest.java",
+      "sha256": "ebdd5ac37a5f62e8b76bbe9c72a659842868fe814db170c2e51c020497dce313",
+      "bytes": 1184
+    },
+    {
+      "path": "revisions/R02/history/R01/software/desktop/src/main/java/ru/spimshaski/lezhandr/Transport.java",
+      "sha256": "c9f717ab6ac4d6ea93d1c5ec802f7d44aead34d40fb84f43dcc733d0bc5217cb",
+      "bytes": 2927
+    },
+    {
+      "path": "revisions/R02/history/R01/tools/build-desktop.sh",
+      "sha256": "17a4a74244fcf0c72f2b11e84d2120eaf767b9b6d9b3d62a335701629f0a4290",
+      "bytes": 458
+    },
+    {
+      "path": "revisions/R02/history/R01/tools/build_documents.py",
+      "sha256": "bfc7109e13d2c7229c41c39e47a0b59f2dc659437741748ad56b8dcbbc6815ee",
+      "bytes": 33579
+    },
+    {
+      "path": "revisions/R02/history/R01/tools/calculations.py",
+      "sha256": "8f3147ec73f29cc4636a8c29efdbe41a7e9da27dcedafa69f8daaab713303925",
+      "bytes": 2359
+    },
+    {
+      "path": "revisions/R02/history/R01/tools/check_connectivity.py",
+      "sha256": "e1007939e9b912a30853c5b313dbf778b2ba4e16d25d2db18e4951aba69cf93f",
+      "bytes": 1908
+    },
+    {
+      "path": "revisions/R02/history/R01/tools/check_pcbs.py",
+      "sha256": "497e260f429d9c7a6f5fd28233aaa93800f8a4bbf51bd22713203568f0b0a9b2",
+      "bytes": 1679
+    },
+    {
+      "path": "revisions/R02/history/R01/tools/run-integration.sh",
+      "sha256": "7e68ff9dccb3ebf33769dbf50983f81fc29ea7bac72f29a948b9f25d85445ccc",
+      "bytes": 451
+    },
+    {
+      "path": "revisions/R02/history/R01/tools/write_docs.py",
+      "sha256": "b168ddc3d3692c45fcf5655dff76b14f9ab0e98c2759b1a0b6173e4a16e91ce9",
+      "bytes": 44209
+    },
+    {
+      "path": "revisions/R02/software/android/BUILD.md",
+      "sha256": "35850b0bf80544029180760bf6bc9ade653809d9518337d41e1978974383fb37",
+      "bytes": 887
+    },
+    {
+      "path": "revisions/R02/software/android/app/build.gradle",
+      "sha256": "ab5903b793e1b5cad1f0201262dff47dc2c12e012d403702b9bb0c48158bc8be",
+      "bytes": 382
+    },
+    {
+      "path": "revisions/R02/software/android/app/src/main/AndroidManifest.xml",
+      "sha256": "6ddcbd8b50ce268e47c5e72bb2a5750a5696999c315e5c748527034aa3ecc9a1",
+      "bytes": 1053
+    },
+    {
+      "path": "revisions/R02/software/android/app/src/main/java/ru/spimshaski/lezhandr/BleClient.java",
+      "sha256": "9b43a0f6c11e8ee5c6695549c9840893edaf458002fd2be1e3d5f50958e8c60a",
+      "bytes": 7180
+    },
+    {
+      "path": "revisions/R02/software/android/app/src/main/java/ru/spimshaski/lezhandr/MainActivity.java",
+      "sha256": "4f84ac8b7fe8e61aa5db31a433cca952f5c792aaff81e7ec2866c59e1ccafc2b",
+      "bytes": 5413
+    },
+    {
+      "path": "revisions/R02/software/android/app/src/main/java/ru/spimshaski/lezhandr/Protocol.java",
+      "sha256": "f906b12da17ea3a726ceb4dfe5795dd9c500b4eb0f3a2ef45bf0f17df66f0826",
+      "bytes": 1668
+    },
+    {
+      "path": "revisions/R02/software/android/build.gradle",
+      "sha256": "8ebf0602839be8fd4c06f07a93e45da6b4a04444fa1b38df8b9def9c1b5c8032",
+      "bytes": 69
+    },
+    {
+      "path": "revisions/R02/software/android/gradle.properties",
+      "sha256": "4667473ab79d19d7b6d3f7c341c798a60b413fa3aa08587ce81809a58c797904",
+      "bytes": 77
+    },
+    {
+      "path": "revisions/R02/software/android/settings.gradle",
+      "sha256": "839193337b11d79538583aae277b8c82d1b5642177b5ffeaab5260015472d4e6",
+      "bytes": 276
+    },
+    {
+      "path": "revisions/R02/software/desktop/pom.xml",
+      "sha256": "673cdb691de6b9ab2a97e30daddac914e07842627bf30bbb54ac76c9bbe48831",
+      "bytes": 1295
+    },
+    {
+      "path": "revisions/R02/software/desktop/src/main/java/ru/spimshaski/lezhandr/DemoTransport.java",
+      "sha256": "89bde21a023902de74b9bfd8b58cf3e8722e8146fabb049b4673e1bf12418cb5",
+      "bytes": 2568
+    },
+    {
+      "path": "revisions/R02/software/desktop/src/main/java/ru/spimshaski/lezhandr/DesktopApp.java",
+      "sha256": "c9ec05dc13dfeb847d56514f2b5e530fb5e037b1e8887349db99bdd824c6326f",
+      "bytes": 9595
+    },
+    {
+      "path": "revisions/R02/software/desktop/src/main/java/ru/spimshaski/lezhandr/IntegrationTest.java",
+      "sha256": "058499ce563a54a4fcb56d0df3bc3ee5660abee80dabeebdb30810dfa10ace35",
+      "bytes": 3061
+    },
+    {
+      "path": "revisions/R02/software/desktop/src/main/java/ru/spimshaski/lezhandr/Protocol.java",
+      "sha256": "f906b12da17ea3a726ceb4dfe5795dd9c500b4eb0f3a2ef45bf0f17df66f0826",
+      "bytes": 1668
+    },
+    {
+      "path": "revisions/R02/software/desktop/src/main/java/ru/spimshaski/lezhandr/SelfTest.java",
+      "sha256": "ebdd5ac37a5f62e8b76bbe9c72a659842868fe814db170c2e51c020497dce313",
+      "bytes": 1184
+    },
+    {
+      "path": "revisions/R02/software/desktop/src/main/java/ru/spimshaski/lezhandr/Transport.java",
+      "sha256": "c9f717ab6ac4d6ea93d1c5ec802f7d44aead34d40fb84f43dcc733d0bc5217cb",
+      "bytes": 2927
+    },
+    {
+      "path": "revisions/R04/history/build_cad_R01.py",
+      "sha256": "3c629a814287ecb280a97240bb8c5f3a962d8f637b1ff02dc8897a84d7d37da8",
+      "bytes": 12624
+    },
+    {
+      "path": "revisions/R04/history/build_cad_R02.py",
+      "sha256": "2113db7313510d02ecec5f72d44bc7a6dc27ac48800e751ba88caa4f55d144c6",
+      "bytes": 17463
+    },
+    {
+      "path": "revisions/R04/history/project_R01.json",
+      "sha256": "928af7f1d76a556d0ba3db0c0d3424091a5b66090fc05811010bfd78d731be43",
+      "bytes": 2093
+    },
+    {
+      "path": "revisions/R04/history/rebuild_R01/cad/source/build_cad.py",
+      "sha256": "3c629a814287ecb280a97240bb8c5f3a962d8f637b1ff02dc8897a84d7d37da8",
+      "bytes": 12624
+    },
+    {
+      "path": "revisions/R04/history/rebuild_R01/project.json",
+      "sha256": "928af7f1d76a556d0ba3db0c0d3424091a5b66090fc05811010bfd78d731be43",
+      "bytes": 2093
+    },
+    {
+      "path": "revisions/R05/history/Spim_s_haski_Lezhandr_R04_original_unpacked/Lezhandr_R04/history/build_cad_R01.py",
+      "sha256": "3c629a814287ecb280a97240bb8c5f3a962d8f637b1ff02dc8897a84d7d37da8",
+      "bytes": 12624
+    },
+    {
+      "path": "revisions/R05/history/Spim_s_haski_Lezhandr_R04_original_unpacked/Lezhandr_R04/history/build_cad_R02.py",
+      "sha256": "2113db7313510d02ecec5f72d44bc7a6dc27ac48800e751ba88caa4f55d144c6",
+      "bytes": 17463
+    },
+    {
+      "path": "revisions/R05/history/Spim_s_haski_Lezhandr_R04_original_unpacked/Lezhandr_R04/history/project_R01.json",
+      "sha256": "928af7f1d76a556d0ba3db0c0d3424091a5b66090fc05811010bfd78d731be43",
+      "bytes": 2093
+    },
+    {
+      "path": "revisions/R05/history/Spim_s_haski_Lezhandr_R04_original_unpacked/Lezhandr_R04/history/rebuild_R01/cad/source/build_cad.py",
+      "sha256": "3c629a814287ecb280a97240bb8c5f3a962d8f637b1ff02dc8897a84d7d37da8",
+      "bytes": 12624
+    },
+    {
+      "path": "revisions/R05/history/Spim_s_haski_Lezhandr_R04_original_unpacked/Lezhandr_R04/history/rebuild_R01/project.json",
+      "sha256": "928af7f1d76a556d0ba3db0c0d3424091a5b66090fc05811010bfd78d731be43",
+      "bytes": 2093
+    }
+  ]
+}

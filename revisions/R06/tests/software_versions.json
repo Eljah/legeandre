@@ -1,0 +1,10 @@
+{
+  "python": "3.12.14 (main, Aug 13 2026, 02:47:42) [GCC 13.3.0]",
+  "platform": "Linux-6.17.0-1022-azure-x86_64-with-glibc2.39",
+  "cadquery": "2.8.0",
+  "vtk": "9.6.2",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "ezdxf": "1.4.4",
+  "reportlab": "4.4.9"
+}

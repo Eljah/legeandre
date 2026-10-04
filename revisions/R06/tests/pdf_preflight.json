@@ -1,0 +1,107 @@
+{
+  "pages": 14,
+  "text_outside_page": [],
+  "readable_cyrillic": true,
+  "pages_detail": [
+    {
+      "page": 1,
+      "characters": 582,
+      "images": 1,
+      "width_pt": 1190.551025390625,
+      "height_pt": 841.8900146484375
+    },
+    {
+      "page": 2,
+      "characters": 624,
+      "images": 1,
+      "width_pt": 1190.551025390625,
+      "height_pt": 841.8900146484375
+    },
+    {
+      "page": 3,
+      "characters": 615,
+      "images": 1,
+      "width_pt": 1190.551025390625,
+      "height_pt": 841.8900146484375
+    },
+    {
+      "page": 4,
+      "characters": 548,
+      "images": 2,
+      "width_pt": 1190.551025390625,
+      "height_pt": 841.8900146484375
+    },
+    {
+      "page": 5,
+      "characters": 785,
+      "images": 1,
+      "width_pt": 1190.551025390625,
+      "height_pt": 841.8900146484375
+    },
+    {
+      "page": 6,
+      "characters": 718,
+      "images": 1,
+      "width_pt": 1190.551025390625,
+      "height_pt": 841.8900146484375
+    },
+    {
+      "page": 7,
+      "characters": 631,
+      "images": 1,
+      "width_pt": 1190.551025390625,
+      "height_pt": 841.8900146484375
+    },
+    {
+      "page": 8,
+      "characters": 682,
+      "images": 1,
+      "width_pt": 1190.551025390625,
+      "height_pt": 841.8900146484375
+    },
+    {
+      "page": 9,
+      "characters": 675,
+      "images": 2,
+      "width_pt": 1190.551025390625,
+      "height_pt": 841.8900146484375
+    },
+    {
+      "page": 10,
+      "characters": 691,
+      "images": 1,
+      "width_pt": 1190.551025390625,
+      "height_pt": 841.8900146484375
+    },
+    {
+      "page": 11,
+      "characters": 588,
+      "images": 1,
+      "width_pt": 1190.551025390625,
+      "height_pt": 841.8900146484375
+    },
+    {
+      "page": 12,
+      "characters": 686,
+      "images": 0,
+      "width_pt": 1190.551025390625,
+      "height_pt": 841.8900146484375
+    },
+    {
+      "page": 13,
+      "characters": 561,
+      "images": 1,
+      "width_pt": 1190.551025390625,
+      "height_pt": 841.8900146484375
+    },
+    {
+      "page": 14,
+      "characters": 1786,
+      "images": 0,
+      "width_pt": 1190.551025390625,
+      "height_pt": 841.8900146484375
+    }
+  ],
+  "rasterization": "pdftoppm, 14 PNG pages visually reviewed via contact sheet and selected full pages",
+  "fonts_embedded": true
+}

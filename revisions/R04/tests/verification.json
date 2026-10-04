@@ -1,0 +1,463 @@
+{
+  "checks": [
+    {
+      "test": "Unique model IDs",
+      "pass": true,
+      "detail": 129
+    },
+    {
+      "test": "No hand-heater CAD part",
+      "pass": true,
+      "detail": "Body EH0-EH2 are only location references."
+    },
+    {
+      "test": "Passive hood in project.json",
+      "pass": true,
+      "detail": "No canopy heating/cabling modeled."
+    },
+    {
+      "test": "STEP reimport work_closed",
+      "pass": true,
+      "detail": {
+        "solids": 13,
+        "parts": 42
+      }
+    },
+    {
+      "test": "STEP reimport work_open",
+      "pass": true,
+      "detail": {
+        "solids": 13,
+        "parts": 44
+      }
+    },
+    {
+      "test": "STEP reimport sleep",
+      "pass": true,
+      "detail": {
+        "solids": 3,
+        "parts": 29
+      }
+    },
+    {
+      "test": "Finite vertices hood",
+      "pass": true,
+      "detail": 1225
+    },
+    {
+      "test": "Fixed pins hood",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "test": "Small last-step motion hood",
+      "pass": true,
+      "detail": {
+        "last_step_motion_mm": 0.0042980766525227716,
+        "threshold_mm": 0.05,
+        "not_physical_validation": true
+      }
+    },
+    {
+      "test": "Finite vertices foot_quilt",
+      "pass": true,
+      "detail": 1247
+    },
+    {
+      "test": "Fixed pins foot_quilt",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "test": "Small last-step motion foot_quilt",
+      "pass": true,
+      "detail": {
+        "last_step_motion_mm": 0.010521622999510764,
+        "threshold_mm": 0.05,
+        "not_physical_validation": true
+      }
+    },
+    {
+      "test": "Finite vertices sleep_quilt",
+      "pass": true,
+      "detail": 1653
+    },
+    {
+      "test": "Fixed pins sleep_quilt",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "test": "Small last-step motion sleep_quilt",
+      "pass": true,
+      "detail": {
+        "last_step_motion_mm": 0.013008367044871193,
+        "threshold_mm": 0.05,
+        "not_physical_validation": true
+      }
+    },
+    {
+      "test": "DXF HC_HINGE.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF HC_LIMIT_STRAP.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF HC_LINING.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF HC_OUTER.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF HC_RIB_SLEEVE.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF L01.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF L02.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF L03.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF L04.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF L05.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF L06.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF L07.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF L08.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF L09.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF L10.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF L11.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF L12.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF O01.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF O02.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF O03.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF O04.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF O05.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF O06.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF O07.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF O08.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF O09.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF O10.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF O11.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "DXF O12.dxf",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "fixes": 0,
+        "units": 4
+      }
+    },
+    {
+      "test": "Keyboard canopy-only sightlines",
+      "pass": true,
+      "detail": {
+        "hood_electrical_power_W": 0,
+        "hood_heater_count": 0,
+        "hood_cable_count": 0,
+        "hinge_axis_mm": [
+          [
+            965,
+            335,
+            545
+          ],
+          [
+            1325,
+            335,
+            545
+          ]
+        ],
+        "open_angle_deg": 105,
+        "closed_bbox_mm": [
+          [
+            965.0,
+            -339.49292615464174,
+            545.0
+          ],
+          [
+            1325.0,
+            339.17210242371164,
+            710.0
+          ]
+        ],
+        "open_bbox_mm": [
+          [
+            965.0,
+            335.0,
+            536.3614136409552
+          ],
+          [
+            1325.0,
+            603.0817602807549,
+            1193.9230438961536
+          ]
+        ],
+        "sampled_sweep_bbox_mm": [
+          [
+            965.0,
+            -339.49292615464174,
+            536.3614136409552
+          ],
+          [
+            1325.0,
+            603.0817602807549,
+            1219.4929261546417
+          ]
+        ],
+        "eye_point_mm": [
+          460.0,
+          0.0,
+          1000.0
+        ],
+        "keyboard_samples": 120,
+        "canopy_occluded_samples_closed": 34,
+        "canopy_occluded_samples_open": 0,
+        "hood_screen_x_gap_mm": 34.131114295596944,
+        "laptop_bottom_to_tray_top_mm": 16.0,
+        "caveat": "Single reference eye point and canopy only; no anthropometric certification, airflow, CFD or measured laptop heat."
+      }
+    },
+    {
+      "test": "Body at floor",
+      "pass": true,
+      "detail": {
+        "bbox_mm": [
+          [
+            -0.00173,
+            -556.98867,
+            0.0
+          ],
+          [
+            2360.0,
+            556.98867,
+            880.0
+          ]
+        ],
+        "extent_mm": [
+          2360.00173,
+          1113.97734,
+          880.0
+        ],
+        "nominal_support_shape_not_loaded": true
+      }
+    }
+  ],
+  "passed": 46,
+  "total": 46,
+  "release_status": "RESEARCH MODEL ONLY",
+  "known_rejections": [
+    "Shell flat patterns: up to 8.61% edge distortion; no production release.",
+    "Initial sleep drape trial was unstable; saved in simulation/rejected_trials.",
+    "No named commercial apparel solver was run.",
+    "No calibrated filler, human load, self-collision, heat or sewing validation."
+  ]
+}

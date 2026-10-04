@@ -1,0 +1,26 @@
+PASS boot-is-off
+PASS remote-start-cannot-arm
+PASS physical-arm-window
+PASS work-reaches-real-core
+PASS stop-deenergizes
+PASS stop-consumes-arm
+PASS rearm-before-SENSOR
+PASS work-before-SENSOR
+PASS fault-SENSOR
+PASS fault-latched-SENSOR
+PASS rearm-before-FOLD
+PASS work-before-FOLD
+PASS fault-FOLD
+PASS fault-latched-FOLD
+PASS rearm-before-WET
+PASS work-before-WET
+PASS fault-WET
+PASS fault-latched-WET
+PASS rearm-for-preheat
+PASS preheat-reaches-core
+PASS sleep-disables-heating
+PASS rearm-for-link-test
+PASS work-before-link-loss
+PASS lost-heartbeat-safe-off
+PASS reconnect-starts-off
+TOTAL 25 PASS

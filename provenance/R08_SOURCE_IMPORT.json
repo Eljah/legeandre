@@ -1,0 +1,76 @@
+{
+  "sources": [
+    {
+      "path": "revisions/R07/source/build_r07.py",
+      "sha256": "4f94c4f0baad048f0ade63cbc7ec1166bc14b890968366b41bb77b9b5965f773",
+      "bytes": 16197
+    },
+    {
+      "path": "revisions/R07/source/thermal_study.py",
+      "sha256": "24dbf7e5143bad147f05dfcd8001e71d17435e5f7e7e5f58b6003378a3470c15",
+      "bytes": 16988
+    },
+    {
+      "path": "revisions/R07/docs/SOURCES.json",
+      "sha256": "58a592d55c9522e0c59e690b442bfe0b3fd50da3c40f5123efc4dc076e62f005",
+      "bytes": 2763
+    },
+    {
+      "path": "revisions/R08/source/build_r08.py",
+      "sha256": "57be6b9d43b03906dc67af79da53e5429ac30ed8b7bd8db98f3fe1360ddb5e50",
+      "bytes": 17975
+    },
+    {
+      "path": "revisions/R08/source/patterns_r08.py",
+      "sha256": "9e26384e816f1293c2a2800fb12456164f1b3e74a0a16de1e25d40a7e09811be",
+      "bytes": 9836
+    },
+    {
+      "path": "revisions/R08/source/render_r08.py",
+      "sha256": "c48945eccaa6266c96111a49de5c200181d1fa6a3604851f04d8756c97cd2e0f",
+      "bytes": 7303
+    },
+    {
+      "path": "revisions/R08/source/report_r08.py",
+      "sha256": "f3eac5457fee4e1bcdab94aefd561d6b0d028d2fb213bb9b90ae8126a8b4372c",
+      "bytes": 26100
+    },
+    {
+      "path": "revisions/R08/source/thermal_r08.py",
+      "sha256": "c2bfef87dba1592a81501fbdc68ebae1fa05218dd3fb33a603b9bd2397d8440f",
+      "bytes": 5080
+    },
+    {
+      "path": "revisions/R08/source/validate_r08.py",
+      "sha256": "9d4acc9e1c907ba5061108013b7eb79dbc427fbe4265f146326d58a8bc0849cb",
+      "bytes": 3671
+    },
+    {
+      "path": "revisions/R08/docs/ASSEMBLY_EXIT_WIRING_RU.md",
+      "sha256": "0b5ccb360710d742f177735f434af04d7874b71e3d8e7cf352dbe065a2c01c40",
+      "bytes": 10595
+    },
+    {
+      "path": "revisions/R08/docs/SOURCES.json",
+      "sha256": "b6cc1fc1d4b3886d96df814aa646aed06e27491423be46b3b4a859787a65efdd",
+      "bytes": 832
+    }
+  ],
+  "seeds": [
+    {
+      "parts": [
+        "9bdf269e98917c3192a7132b15e2daafbe747d86"
+      ],
+      "sha256": "363df692ec3c34df341441067b3d0e986d6b9832207500bbe66902433e58095c"
+    },
+    {
+      "parts": [
+        "88291092771e359515940d41523cb2960cfd1b3c",
+        "7180bf0cb86eb4afcc4023dd9f3afaa18bf95261"
+      ],
+      "sha256": "66cf03fad3c5e9e17a35d1cd875869b16779e924847a4f9e44e855b53c889eba"
+    }
+  ],
+  "source": "Preserved conversation CAD source transferred through Git objects only",
+  "run_id": "37221101409"
+}

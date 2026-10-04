@@ -1,0 +1,82 @@
+[
+  {
+    "laptop_mass_kg": 0,
+    "table_slide_mm": 0,
+    "mass_kg": 7.029302462113089,
+    "cg_mm": [
+      1234.747349033831,
+      -125.5144195168266,
+      293.4471063916287
+    ],
+    "nominal_gravity_margins_mm": [
+      279.7473490338309,
+      330.2526509661691,
+      319.4855804831734,
+      570.5144195168266
+    ],
+    "minimum_margin_mm": 279.7473490338309,
+    "rigid_level_floor_only": true,
+    "handrail": false,
+    "no_filler_or_person_ballast": true
+  },
+  {
+    "laptop_mass_kg": 2.5,
+    "table_slide_mm": 0,
+    "mass_kg": 9.529302462113089,
+    "cg_mm": [
+      1230.8784013609913,
+      -92.5858762116238,
+      360.753421473027
+    ],
+    "nominal_gravity_margins_mm": [
+      275.87840136099135,
+      334.12159863900865,
+      352.4141237883762,
+      537.5858762116238
+    ],
+    "minimum_margin_mm": 275.87840136099135,
+    "rigid_level_floor_only": true,
+    "handrail": false,
+    "no_filler_or_person_ballast": true
+  },
+  {
+    "laptop_mass_kg": 0,
+    "table_slide_mm": 80,
+    "mass_kg": 7.029302462113089,
+    "cg_mm": [
+      1252.3877906947698,
+      -125.5144195168266,
+      293.4471063916287
+    ],
+    "nominal_gravity_margins_mm": [
+      297.3877906947698,
+      312.6122093052302,
+      319.4855804831734,
+      570.5144195168266
+    ],
+    "minimum_margin_mm": 297.3877906947698,
+    "rigid_level_floor_only": true,
+    "handrail": false,
+    "no_filler_or_person_ballast": true
+  },
+  {
+    "laptop_mass_kg": 2.5,
+    "table_slide_mm": 80,
+    "mass_kg": 9.529302462113089,
+    "cg_mm": [
+      1264.87879134632,
+      -92.5858762116238,
+      360.753421473027
+    ],
+    "nominal_gravity_margins_mm": [
+      309.87879134632,
+      300.12120865368,
+      352.4141237883762,
+      537.5858762116238
+    ],
+    "minimum_margin_mm": 300.12120865368,
+    "rigid_level_floor_only": true,
+    "handrail": false,
+    "no_filler_or_person_ballast": true
+  }
+]

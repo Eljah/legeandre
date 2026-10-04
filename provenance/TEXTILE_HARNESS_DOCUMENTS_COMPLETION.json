@@ -1,0 +1,1644 @@
+{
+  "groups": [
+    "R02 textile and harness",
+    "R01 electronics plots and PDF albums"
+  ],
+  "added": [
+    {
+      "path": "revisions/R01/docs/Lezhandr_R01_engineering_album.pdf",
+      "bytes": 817545,
+      "sha256": "cdeaa290f6a9320138d99c7dc3db4a9b1267cdf1118e9a251554abc98cb4b74e",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/docs/Lezhandr_R01_patterns_A0.pdf",
+      "bytes": 60804,
+      "sha256": "5bda04bbd047d30bf68a62331bab042df24c7a3c9f0a388706066070b1c6284d",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/docs/assets/sleep_front.png",
+      "bytes": 8287,
+      "sha256": "13752384ba04f6e36a1ef8474939bbba25dba41ee2f588ac7595f1d8b2ffe0ab",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/docs/assets/sleep_iso.png",
+      "bytes": 73353,
+      "sha256": "4cfef3237416674052a5b4335501872efa2ce9272227645de724e8642dcd57a2",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/docs/assets/sleep_side.png",
+      "bytes": 8911,
+      "sha256": "b5d9ca0ccf02caf17b7c5d8b4dce2cc1e2fc640469f7c27ed94704be16756814",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/docs/assets/sleep_top.png",
+      "bytes": 13377,
+      "sha256": "e0f1d4fd11a1b987597f5ea87aa09fa7c5272a37f869b39498d1d3f7e755c13a",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/docs/assets/work_frame.png",
+      "bytes": 71214,
+      "sha256": "1bb7247230b546d0f7ea15cdb02cd4f866b3d07213e83dbb4859fecba08ce294",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/docs/assets/work_front.png",
+      "bytes": 21927,
+      "sha256": "5ac1e946ea8678839f2d2377836fd412dc80a8cce489e37d78668160f8d52418",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/docs/assets/work_iso.png",
+      "bytes": 86620,
+      "sha256": "d052ac9112f400d854453fb2ecaf34c3ec67bfc92d045b70385542e73fbde90d",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/docs/assets/work_section.png",
+      "bytes": 57500,
+      "sha256": "fac6ee79d1d2bbfbb1e577648b3eb3daa4fd50d070ff80c7ac48405ece3d2230",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/docs/assets/work_side.png",
+      "bytes": 37909,
+      "sha256": "46f57a038f96b13d04aa38f9163d8e9cff1d23c1aaff98aef975ad2f55ccd69b",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/docs/assets/work_top.png",
+      "bytes": 22107,
+      "sha256": "81ef53f055462a8c62744bffaef9b7a36b7ec3dd78949155abea2d3084fd36ff",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/docs/calculations.json",
+      "bytes": 3390,
+      "sha256": "1eb69bd5c0aff53e5820b38a69c938c7dad8eb954b48412dd9b7f7ac0ce4c9b6",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/docs/desktop-running.png",
+      "bytes": 19293,
+      "sha256": "7b5db95c9f5ee65d35e939f2b2a08a9ff852da41cfc19679cd5705e0ba45ca80",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/docs/heat_balance.csv",
+      "bytes": 175,
+      "sha256": "ddce4f9d9b301bb1244e6e1e403f2d416777653d97867faa0b77d75b62579053",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/docs/heater_calculation.csv",
+      "bytes": 588,
+      "sha256": "473c87748b444b42dcd6ab1512ef7cf218ff7ea354a174f5534750154b2a1b31",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/docs/patterns.csv",
+      "bytes": 735,
+      "sha256": "5ac11a4256f4965a69704164caec8fd5a1eb758a7fb9b3a7c9a0aa50365a6654",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/docs/runtime_scenarios.csv",
+      "bytes": 212,
+      "sha256": "1ff67dd0c015e6515974c061c9294257df33f8ae35b735eccc4656e0f5236db3",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power_BOM.csv",
+      "bytes": 1275,
+      "sha256": "83d75d02bd7c2a155a09e3acb4978635601e2e3aa37c4e6d73547d1df650a408",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power_layout.png",
+      "bytes": 88347,
+      "sha256": "5871e6fa747e9f5b6011c23cd2091018a13e51c730dfb54fb1aedfd0cfd956a8",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power_layout.svg",
+      "bytes": 84721,
+      "sha256": "7acb7109ac139d8fb4a32140b0afddb8015275928886c1999c12cb6c00aec268",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/electronics/A1_4zone_power_netgraph.json",
+      "bytes": 109367,
+      "sha256": "0587d418a68a28f2033a4e8aa30566abfcbbf9ce9535e6db9c8d5db410369dce",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog_BOM.csv",
+      "bytes": 2206,
+      "sha256": "7c057c0fbdd8158ccbb4f7fb92bc6e446ed42ef6e3e8bea8a8f67194bff67e10",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog_layout.png",
+      "bytes": 136459,
+      "sha256": "f177535d9ae3936d1f0629b061ddf64a28baf023a6b54947cf809b1bcb45b4e8",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog_layout.svg",
+      "bytes": 123814,
+      "sha256": "ae98079f69bed3332d1595c4e72293deab969b92f02985b2bb13f038776abaf4",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/electronics/A2_sensor_watchdog_netgraph.json",
+      "bytes": 158990,
+      "sha256": "b05d673070e09a6ac357087905092c0a191424b52e1f07549714f819fceb696e",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/tests/results/A1_4zone_power_connectivity.json",
+      "bytes": 176,
+      "sha256": "9a43152963d4c7d4460e72af83d20c171f5f37aa88763a134270a891f7cad8c3",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/tests/results/A1_4zone_power_geometry_check.json",
+      "bytes": 147,
+      "sha256": "dab438274f374916e908a407f01974b6b5f920b76d13466747ab9a657fecceb9",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/tests/results/A1_4zone_power_routing.json",
+      "bytes": 194,
+      "sha256": "4bb67188016d5cf174ebb25abf98a1c6a7d74782608c380c0ceff60c7cc2a516",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/tests/results/A2_sensor_watchdog_connectivity.json",
+      "bytes": 180,
+      "sha256": "c3b29ae3eec204a042e7812db7f24d6a142fa6e119ffcb59e70b59f869f93fba",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/tests/results/A2_sensor_watchdog_geometry_check.json",
+      "bytes": 151,
+      "sha256": "d836d000ee145ba6c90b6d33f0c86e690d2857e83197683de3cf28d4ba5e09ec",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R01/tests/results/A2_sensor_watchdog_routing.json",
+      "bytes": 194,
+      "sha256": "26c4c93fa93a5e0dcdb084c5d1fc61662f477643411e13819889e89577d6995c",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/harness/POWER_CHANNEL_on_O03.dxf",
+      "bytes": 25751,
+      "sha256": "b0c904d38c6967af59819d741a55a66117f2085c923cb7048392e9aacb8e513f",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/harness/POWER_CHANNEL_on_O03.svg",
+      "bytes": 1165,
+      "sha256": "2b1d50d6f2b21ab352e0c811aacd242f3909d58f9ccd2ae4c1d06ee8a6382972",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/harness/SENSOR_CHANNEL_on_O02.dxf",
+      "bytes": 25735,
+      "sha256": "8fc4f2058a02b9a3dc489d9bfe5384c6f68e323ab61d2239a18b40e4b3efafc6",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/harness/SENSOR_CHANNEL_on_O02.svg",
+      "bytes": 1162,
+      "sha256": "ccd6e972683cd221fe6510ff41f47db863a1f02e7d2fe28a1863ebf9bd5f1b1f",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/harness/harness_R02.step",
+      "bytes": 95073,
+      "sha256": "38853d65735c8d980ee14496e41cdd2cef127bf72d362504cf5b7083170a0fec",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/harness/harness_cut_list.csv",
+      "bytes": 1984,
+      "sha256": "fdf0aeec6e126233cbf80856356dfd81500dd01e2e3db93b75a233d883932044",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/harness/harness_sleep_R02.step",
+      "bytes": 74353,
+      "sha256": "a136f93bbeed9a09dcd58df569e07b9090fd1aefb467aa0eca8a92fa1a8b5d1b",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/harness/textile_channel_cut_list.csv",
+      "bytes": 264,
+      "sha256": "4e71465706b95e44ed489e4fd63b6459738ddbf429ae7df577d170fcf90e8381",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/harness/wire_termination_list.csv",
+      "bytes": 2803,
+      "sha256": "03b2b3dfba42e967e66b080d442390f2696c64f09dfa55c26eb035b756a4c655",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/tests/results/closure_patch_R02.json",
+      "bytes": 339,
+      "sha256": "fe423c4d8827ba81d5f6cb30878c1c62306e3dea582302e730780f067c425a36",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/tests/results/harness_R02.json",
+      "bytes": 677,
+      "sha256": "109712259182c70f32b7471979ef71ac6aebd0126895eafa7c7147990ba62fa1",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/tests/results/patterns_R02.json",
+      "bytes": 2382,
+      "sha256": "74d5bd7aea390cf54485b720bd9806653d80b390c55a6f973433f48c26958fe5",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/Lezhandr_R02_patterns_1to1.pdf",
+      "bytes": 251494,
+      "sha256": "48a56ad09074fd8bc241150fde85be928de75a13aea6063bb0d42b09cc423b0e",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/closure_plan.csv",
+      "bytes": 855,
+      "sha256": "a8e9882731152278bde75a89b32beded3b0f8d119199c22ab8c3dd43cf6a0f97",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/embroidery_placement_on_OHEAD.dxf",
+      "bytes": 18618,
+      "sha256": "e6fb6ae61b1d2ba3f8979cd8d20735f3027e92962de6f35ee8128f4cd32338c2",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/marker_positions.csv",
+      "bytes": 3766,
+      "sha256": "d8c4b8eaf8614a23f590c7b269d75201ef010a7f22159908d3e06e4a2bbb84b1",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/marker_report.json",
+      "bytes": 1910,
+      "sha256": "3e3c181d543f38634d9345752fb703ebfc84b5428d7bb94b902d883310de8795",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/markers/cushion_1500.dxf",
+      "bytes": 30054,
+      "sha256": "b4953e77610f4342af1f924d2c94d2b44fc769354dbe238f374820b84e6b9734",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/markers/cushion_1500.svg",
+      "bytes": 6698,
+      "sha256": "fa3cde7d6eb7441bd6887acbb0f6c100768c1e3cb54686069853646ebb0553d2",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/markers/floor_1500.dxf",
+      "bytes": 16974,
+      "sha256": "0d72ee78f681396a4940d3f978dfd566055f342b4a4e4c8ffc3f7d582b7ba2a0",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/markers/floor_1500.svg",
+      "bytes": 758,
+      "sha256": "e5eb7b6282c53c35fe266af3e8bc6e88bb25f61ec935b1acb10db5facb5885a2",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/markers/heater_carrier_1500.dxf",
+      "bytes": 23825,
+      "sha256": "2d13a51c127693370a767378539ca38785ae4274fcb8f4edb57dbdeec112bcaa",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/markers/heater_carrier_1500.svg",
+      "bytes": 3245,
+      "sha256": "4c4897aa0e21953337e3b074dfd4202bfbd23669dc6d242b7acb7cc13c228cb1",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/markers/insulation_1500.dxf",
+      "bytes": 50373,
+      "sha256": "a3b6e821df6329d06c5abd6d01858db60068bf9b8989af4bbe24b53ec5f481ef",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/markers/insulation_1500.svg",
+      "bytes": 12936,
+      "sha256": "9b8a0a1c60fc27c032222f437d5aa965deadf274936467bba583d1c0a7baa141",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/markers/lining_1500.dxf",
+      "bytes": 53891,
+      "sha256": "679d945777e195abc344619fce7283ccd606f9546bf4f7f70f04dd220b335a32",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/markers/lining_1500.svg",
+      "bytes": 14485,
+      "sha256": "df0ed63b7032c6f7fff641196cccb7ff9c441f6e24aab3138a298b1ceb13a984",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/markers/mesh_1500.dxf",
+      "bytes": 16302,
+      "sha256": "8060d2bfb9832d80debf3383ae40527a254942f531cd9384cae825cc87635261",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/markers/mesh_1500.svg",
+      "bytes": 636,
+      "sha256": "df6a209adc809569342f961f3aac1ae428758338c24f92279817f7a95c79e32e",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/markers/outer_1500.dxf",
+      "bytes": 52250,
+      "sha256": "c9e3cf834b2ff2597e1f5ffdf8e77df6b03640b44b749859d23b2a8a1894290e",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/markers/outer_1500.svg",
+      "bytes": 13879,
+      "sha256": "4a97ce611ce91699aaaa0347f3f6140107ad221f499dcecec1911e516fe5bbae",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/patterns_R02.csv",
+      "bytes": 5624,
+      "sha256": "06009e0975f523f2d4f58ddc2875b01b7d0c9145fbcfbfa7fb03fc9e01a683f2",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/patterns_R02.json",
+      "bytes": 627757,
+      "sha256": "7414313d8e6ee78fe0424bc9a880df23395443e06327fde463e473c8c7876e94",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/ARM_LEFT_BOTTOM.dxf",
+      "bytes": 16750,
+      "sha256": "2018a335a10042344356ca0303b07d23ce45a931ea24796be90107f5a32189ac",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/ARM_LEFT_BOTTOM.svg",
+      "bytes": 802,
+      "sha256": "49b6db30bc96c6c2d0e495764d8ea46c51af63e481e52ad692b5f16c6ea093e7",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/ARM_LEFT_FOOT.dxf",
+      "bytes": 16746,
+      "sha256": "be9e6d169ab80c1dce510ea9454e9f371df84e5fe67369d13041bd1aa98730f8",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/ARM_LEFT_FOOT.svg",
+      "bytes": 797,
+      "sha256": "c77435792778fbb6afc7a667927d159aadcc8c16943767fa0271237a98d8d5b4",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/ARM_LEFT_HEAD.dxf",
+      "bytes": 16746,
+      "sha256": "78f24d208f8064e0864f877e87399929f4bd01afe5654b83256c405e7fb95974",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/ARM_LEFT_HEAD.svg",
+      "bytes": 797,
+      "sha256": "f0fd37810bc396511237799c33c1f8318078d1342a12e749c7d0768a8cec95f0",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/ARM_LEFT_IN.dxf",
+      "bytes": 16749,
+      "sha256": "dbcb3a9f874b43ae643d8e0c0881d0a8ca1204ba8325d282a6fd8e9ec0b00ed8",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/ARM_LEFT_IN.svg",
+      "bytes": 796,
+      "sha256": "efc97a8c2180e9d7cc36251d0aed92f42eb546415d4562c0c32bd3bd767a957d",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/ARM_LEFT_OUT.dxf",
+      "bytes": 16750,
+      "sha256": "d3646cafb02a2b4d452189c1c7ed05bb8cc9fe1fab0755f14b893658b9fe9d07",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/ARM_LEFT_OUT.svg",
+      "bytes": 798,
+      "sha256": "8581d9288424077ef4ca3ef277415adbd16a7e6477c565c67e241f3aa111c3f8",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/ARM_LEFT_TOP.dxf",
+      "bytes": 16747,
+      "sha256": "6c2a845a5eb01209f2e43b123805f981e9fb8289fcb37556df1f26f3d2345145",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/ARM_LEFT_TOP.svg",
+      "bytes": 796,
+      "sha256": "5da8e9d9e0f6713a0f7fe8efce1251d8db9e89b94576f9d911407c7e7990935d",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/ARM_RIGHT_BOTTOM.dxf",
+      "bytes": 16751,
+      "sha256": "1f726aecae4e6724cdf9d75af1a99ed7ccf264667ddfbd9777de8f5b4c727a4c",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/ARM_RIGHT_BOTTOM.svg",
+      "bytes": 804,
+      "sha256": "b46c625f63a204aefc5f9b1996cc9824b1eb0b107a47c9919755f2af9755de65",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/ARM_RIGHT_FOOT.dxf",
+      "bytes": 16747,
+      "sha256": "a2229768fc0d392cf4db6ef03789066253ad246fef2394edc49662fa5aa8de16",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/ARM_RIGHT_FOOT.svg",
+      "bytes": 799,
+      "sha256": "b3f73c7f712c57683a1d0a37d48ab06d15f7706ed87c03534b3dc257873ced0f",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/ARM_RIGHT_HEAD.dxf",
+      "bytes": 16747,
+      "sha256": "d8ac442c8ffd50ba0022f7b57e698795cfd0e53d40bcbfe94653272742b70cea",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/ARM_RIGHT_HEAD.svg",
+      "bytes": 799,
+      "sha256": "b17adc78874d86f7d9c120d5024e8fab2a2b15acb0352afabc2a9ca46abd0a10",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/ARM_RIGHT_IN.dxf",
+      "bytes": 16750,
+      "sha256": "9c437bc65cdbfc19a91a0d4e2b75a55da70f0af1b833a33e8dec6d843500e825",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/ARM_RIGHT_IN.svg",
+      "bytes": 798,
+      "sha256": "034f51231fce164131384910f43a6ccb0c6c150d821efb108fbba0a43c0850c0",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/ARM_RIGHT_OUT.dxf",
+      "bytes": 16751,
+      "sha256": "e109e793320b6363a5c923ff8d2d7215a14cea9d0f03408e9c586b4216e66c08",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/ARM_RIGHT_OUT.svg",
+      "bytes": 800,
+      "sha256": "4c2caf165db1bbecb0a4e064fe9230cf3e66504ebd7a89c717325f6b34235cad",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/ARM_RIGHT_TOP.dxf",
+      "bytes": 16748,
+      "sha256": "82770404e33e3890f94daff06cf9c40fbd2e795323d359d1a229eeaffc1ba32e",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/ARM_RIGHT_TOP.svg",
+      "bytes": 798,
+      "sha256": "d23fe9475ebebffa78a97e924dad21fcb0ca6812561747e7307a4204feab0b44",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/H01.dxf",
+      "bytes": 27316,
+      "sha256": "fcdc23cb971e0b1a158cd786ff910f5655c93a7cc80797c7fd58eddba1729978",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/H01.svg",
+      "bytes": 6678,
+      "sha256": "662c4c570a8d7dba15b27d01c7310640fa9af201b9387a0f5e8690bae84804bd",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/H02.dxf",
+      "bytes": 27120,
+      "sha256": "45b4e2840123207d0354146f1f626fd6a086381d05e2c555679a2a541e818efb",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/H02.svg",
+      "bytes": 6591,
+      "sha256": "9a96561aa4e080737f1733de2e0b8b61ed48f145c397a102d057a6ae7ed3fb1e",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/HZ0.dxf",
+      "bytes": 27387,
+      "sha256": "fb67e3872a6dac7625f316ab62b062570d81b8edeb1f0385d7f60cbcfa3a67a1",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/HZ0.svg",
+      "bytes": 6657,
+      "sha256": "18b93a24a5e17e8694cc0a575706a64568001d6ab8855abda4314ea49fea2b50",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/HZ1.dxf",
+      "bytes": 26910,
+      "sha256": "c77fba7424aebdbafe367a923313118732f44ae86a555f6e2ce07481b5dbe173",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/HZ1.svg",
+      "bytes": 6534,
+      "sha256": "06674ce7b4119234a44c6c1f37c4ccc3be547c6f7434cb81775f9011ca45f1ec",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/HZ2.dxf",
+      "bytes": 26964,
+      "sha256": "6a6d598ab25044dbe28c4393c1d8f26a2826026bc4894d6a533f7f94f4eb2701",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/HZ2.svg",
+      "bytes": 6518,
+      "sha256": "384f9b554a3443e341e18cc83a7a0c529b5338aced22d41c562aac4fff0ef2d5",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/HZ3.dxf",
+      "bytes": 27472,
+      "sha256": "a0dc12a830f17b53d45595300aa937c9d0fc3ee32a7196ef7233055cee14ef4d",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/HZ3.svg",
+      "bytes": 6695,
+      "sha256": "859ae3066183191ac35aecb627777fe8bb3a70f4117cc0d74595d18ec2dbf1b6",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I01.dxf",
+      "bytes": 20100,
+      "sha256": "17edc6518baadc5477e19524cf9d6bff36805c52e64ef44f42eeb6417c04414f",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I01.svg",
+      "bytes": 1898,
+      "sha256": "468213ca08cb842a2b7df9d526288ee50ddbc40efd7f300c67993ce7a11023e4",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I02.dxf",
+      "bytes": 20107,
+      "sha256": "f628fe2278e3fd4769ed36c1c6e8268b15edcbf09320e33391b27c90c3436b96",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I02.svg",
+      "bytes": 1906,
+      "sha256": "a411e1bf62b9ffb272df3ccbe1dbf5ac6608b29dfb13ed1df8899e995928b147",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I03.dxf",
+      "bytes": 20096,
+      "sha256": "edd6c0f8b2b346bc8ff4551236d3e913855e28f95e498a010ccaeb71e5b1df43",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I03.svg",
+      "bytes": 1914,
+      "sha256": "ebe00fcf26859a41ae17055a36f5a121e573bcf3e0143659614a7f17e4d28718",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I04.dxf",
+      "bytes": 20072,
+      "sha256": "d8f49a55413a6fa484f67f770004ecb38ac5521229d62933bf28f4923acebbe7",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I04.svg",
+      "bytes": 1916,
+      "sha256": "d60069d65d69abe3e95cdec09c96ce74accfc44e5a4e70bd6da04cbc4d9ba2fd",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I05.dxf",
+      "bytes": 20096,
+      "sha256": "fdb8f45a9c79b9ee6ccd19539f63eb8e93cd3f03ad52addec0c5a8356080c7bf",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I05.svg",
+      "bytes": 1920,
+      "sha256": "fe3458b4a7f5e61611216c20377e05f356635e7fb0b0a567df2b999817827ba7",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I06A.dxf",
+      "bytes": 17922,
+      "sha256": "c11c5f14c98c7afa2822612674ad5865753bfa5f577fda70b8ed2ee552c110f0",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I06A.svg",
+      "bytes": 1095,
+      "sha256": "a53849d143435dba48ef49bde41ed85379e84e6ae78093e5abfb44b0084ddee6",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I06B.dxf",
+      "bytes": 17911,
+      "sha256": "9a4ac522b151f9a320468c3d0e2c160e93cbcba0b0d5dbf9eaa6ec859733d4b2",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I06B.svg",
+      "bytes": 1091,
+      "sha256": "db6b0c43efecaebaa2aa1735bdf1272f166579b74b4bec9bdae1b7b179981b1c",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I07A.dxf",
+      "bytes": 17919,
+      "sha256": "e1587adfb6868344c599553e562a3a00f8465206f14549082c899fb2721ffac0",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I07A.svg",
+      "bytes": 1095,
+      "sha256": "ebd1f6ab8c80b4136940bfa49fe4d2c93bc3522b699172f69395ad6dacb3dcf0",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I07B.dxf",
+      "bytes": 17911,
+      "sha256": "1d20f1f9e7dc40d35f44cfd41cd0287ee4cb8654d649d090d2b6fde8d0d8dd43",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I07B.svg",
+      "bytes": 1093,
+      "sha256": "61051b155650d0c22f5b848d992b2531b26e9aa47de716e0b489caeb19e946ef",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I08A.dxf",
+      "bytes": 17929,
+      "sha256": "2e430e4561f8ea6c991c8414354538b2642d46ebaab69e031bfa6e6eeb4b3716",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I08A.svg",
+      "bytes": 1095,
+      "sha256": "4ba5daa8791ad4e651a3d80f6feb142e312d7f4536299d14690c32ed1cf1c61b",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I08B.dxf",
+      "bytes": 17905,
+      "sha256": "5185c7d5681c6ad34ed1ff5857f5b9c14fc2d9cb4225de28344a3eca58dac780",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I08B.svg",
+      "bytes": 1093,
+      "sha256": "28979a27a8c3deda966c5bafc2f1f177e5104c498b99edcc1e15e915d8f57b64",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I09A.dxf",
+      "bytes": 17923,
+      "sha256": "15aa0677caa04ad87e7b2e4078f5554690675b13a546b31269cf189ee1473599",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I09A.svg",
+      "bytes": 1095,
+      "sha256": "08274e0ccc2d3fc4dc337ce5013cf3f615c16a38100bec2ba955053ee9d0dee6",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I09B.dxf",
+      "bytes": 17919,
+      "sha256": "90f928b71971260a27dd952cbbd42ec8cb350882e70c270b4e3d5476d7245f65",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I09B.svg",
+      "bytes": 1093,
+      "sha256": "0d574061902cbf69413da9f3216bdcfac8acc53197d40e4020df84e392d0e8ef",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I10A.dxf",
+      "bytes": 17931,
+      "sha256": "6582691ad6e0982ec389815e33e52cb429196fe83e51584a92b9f935225ad12f",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I10A.svg",
+      "bytes": 1095,
+      "sha256": "43aa7d6451bb772aacb06ea95d29046eb703489c05d633b71c94525b03c9af05",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I10B.dxf",
+      "bytes": 17907,
+      "sha256": "23b431ba3fd7bf6369e11e99a8894da06270671779c988f6a089e7141ed05064",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I10B.svg",
+      "bytes": 1093,
+      "sha256": "8c3eb1b56b514a73454e21246bb2a6e7ab56f5f28f17234c0c1693f7f35f73ab",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I11A.dxf",
+      "bytes": 17921,
+      "sha256": "a44e56f3e509e35904757759e3c46b43fd581150aa65725e353ce5be360766c6",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I11A.svg",
+      "bytes": 1095,
+      "sha256": "6d583b4a2d65c63742b51ccdb07b5acc09bae3998747468fca871ecde88f458f",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I11B.dxf",
+      "bytes": 17915,
+      "sha256": "11af7fb4736c6d043c374e841bdfbe2f8248c300698fb821b9d18191f10cf44a",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I11B.svg",
+      "bytes": 1093,
+      "sha256": "93ea390d544b8f498408c27d318e10099ffb18aed223a3b3015a36fc5f671961",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I12.dxf",
+      "bytes": 20084,
+      "sha256": "626fc7e7e7aa5fb98e04ed5a2991739f97694e2a4d94d68cc85245eff6f0b937",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I12.svg",
+      "bytes": 1896,
+      "sha256": "49b25fddf8858fb9b2550b4f413209b33c30b4dd5e3b7cbc95d91ea41882ee8d",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I13.dxf",
+      "bytes": 20099,
+      "sha256": "88468d3db9b315674c6e4954c62e96f8bb6aaca6bf6efb2c4ce0611af140a5b3",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I13.svg",
+      "bytes": 1892,
+      "sha256": "95b0c155ed3ab51208b80474cba5cc059f458a252bf229f6fb6a77d0cda2c90d",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I14.dxf",
+      "bytes": 20076,
+      "sha256": "80755411d2cde7920a6902d8f9ab3c870f06145cf8340da72d2404a0b9336648",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I14.svg",
+      "bytes": 1904,
+      "sha256": "51546dfef17f997e3a62f44cf891f25cb177dcd5ad39160ac57648df534c5290",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I15.dxf",
+      "bytes": 20088,
+      "sha256": "4f314b089e57c832f9b7454184d0d6f8eb7cc5d50dd63ffbb82b948950040dc7",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I15.svg",
+      "bytes": 1908,
+      "sha256": "a9ab6e8919eb94cb7cb5fb0a347cb3e698de75fe389eec4c54f9db5d30bab0b5",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I16.dxf",
+      "bytes": 20099,
+      "sha256": "094b8790786c28abc9510cabd93d5ba59112ec0f80e590d1ca15210ea85bacf2",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/I16.svg",
+      "bytes": 1906,
+      "sha256": "c5bea4ccd2785df3fc9c86bdd3ce67a7778e228695507ea7e2f003c58f4ea157",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/IFOOT.dxf",
+      "bytes": 18175,
+      "sha256": "8c69e516373d0b9bcb6996abc68f5e4fe915875fdb5c9e19387f34ff9b33c9fb",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/IFOOT.svg",
+      "bytes": 1180,
+      "sha256": "b72cf4bf2185b9a0c1182f8a6f457fd3431e2be36bd7452b3004c8d79b5c5bf4",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/IHEAD.dxf",
+      "bytes": 18170,
+      "sha256": "6b106869d1ee4b569b952d545acd8a45d181b665d2e0dd55e8c0283c12adf298",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/IHEAD.svg",
+      "bytes": 1187,
+      "sha256": "dadd46b610de7d155ae1ad14ac13dce374caa2fe5a2e63cf04c0cd22a41692a0",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L01.dxf",
+      "bytes": 24810,
+      "sha256": "3607f9333a20f4a2ad29871ee58cef638d629850372f448a02fac93663cdf04d",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L01.svg",
+      "bytes": 5358,
+      "sha256": "89e79a46a78f3bca48638d1d073aa4c4cdfe8bc1b9166c90a5ac00af9d189be8",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L02.dxf",
+      "bytes": 24811,
+      "sha256": "a0ba316964d651d1d79d9163a767e905b9dbee7a67535956225f40bfb0dfd7aa",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L02.svg",
+      "bytes": 5370,
+      "sha256": "9d184ed7f83c6986ac523038970445f4ba447678807332d2e539a732ac5f9ce7",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L03.dxf",
+      "bytes": 24800,
+      "sha256": "9929bc9683bb70675712df27ad1234296266ad605b15fbbe9bd75da18a251964",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L03.svg",
+      "bytes": 5382,
+      "sha256": "8cbd6ff491190502fc6bc86538428db5d33a30031d51fa4c59dcada81d8aa09a",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L04.dxf",
+      "bytes": 24796,
+      "sha256": "ef2e0f313eb3bfd49f8a4a14be8dd3aa818535f2c88c782fe755c321c4adfa95",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L04.svg",
+      "bytes": 5386,
+      "sha256": "d2bafd9998cc8e7dd4ee1f95f5c1e3cc8282d4b59bef7c1e13a018f51df50984",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L05.dxf",
+      "bytes": 24819,
+      "sha256": "2698397505b78301f582db207700be4382c2a9ae13af3b086a19a5731b70f261",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L05.svg",
+      "bytes": 5391,
+      "sha256": "b9db202be1ce58f3066e4353e085026a6d85ca9df41735c040a2f6f79a0a4b20",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L06A.dxf",
+      "bytes": 19617,
+      "sha256": "f6766ea8573e547f18342b7a7769d37a51e061e2192d96673ace66d468dddc66",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L06A.svg",
+      "bytes": 2357,
+      "sha256": "0202a645f80332b27816430331da3e453b14e9d10db548fee3764ba8ce61d4e6",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L06B.dxf",
+      "bytes": 19625,
+      "sha256": "4801aadabc1517d947f99ddffe6827f9e7c3bb34b4b11f3197f7b40e03630f93",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L06B.svg",
+      "bytes": 2353,
+      "sha256": "d57c83b8eb5363a6714d7a27be38792b1572e94a387690e2240f03d4a9d26f8e",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L07A.dxf",
+      "bytes": 19642,
+      "sha256": "909130b9b25d725d40ec57e96c65afce17338c9c0247eae7d02ad0b05028bb4c",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L07A.svg",
+      "bytes": 2357,
+      "sha256": "6bbcfcf05afa56fa0118519b507791c2f4aba0cdf7d5ce47699802256419d2ec",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L07B.dxf",
+      "bytes": 19619,
+      "sha256": "494006887c7595abbffa1d4324433a8061f0fcb30476c563a36414de09001fea",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L07B.svg",
+      "bytes": 2353,
+      "sha256": "2e8ddb79fa6e0c4fcc012444cd28000c21dde9960cfeaf5305ece05604272a1c",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L08A.dxf",
+      "bytes": 19630,
+      "sha256": "ee58ce277d18a070b0ca0b2f4da22da415b438d5d957d5be1a26e568f91230fc",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L08A.svg",
+      "bytes": 2356,
+      "sha256": "28faa62e61f7d65306633ddd8ce7265f039ff884834b41b82d0ea80604b9348c",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L08B.dxf",
+      "bytes": 19629,
+      "sha256": "50dc737e9412bb4a02848e5cac53fd3b8f7d7518761d8ece634e3221f813fb9a",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L08B.svg",
+      "bytes": 2353,
+      "sha256": "576548f4fe7d5ef2d9bbf5bd182400212ce199a0596e1564058dfd909258233e",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L09A.dxf",
+      "bytes": 19622,
+      "sha256": "0e074219da6e3d0eddc591fabb38a0f81b5902ba09f2cc9fd4b457816db8c067",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L09A.svg",
+      "bytes": 2356,
+      "sha256": "2e5dc52e538356b4adddc9acd99d20e96fdc82bee382a9f31d73f045cbe75094",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L09B.dxf",
+      "bytes": 19618,
+      "sha256": "643823fe14d6eaa262d7ef0207c1fd09c702a9d89a3a31cf0ca47fd9e63ac6ea",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L09B.svg",
+      "bytes": 2353,
+      "sha256": "305a343a5173e33e4850b3183511afb898dfc92b7f548992c90df367bfe525cd",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L10A.dxf",
+      "bytes": 19623,
+      "sha256": "b64352935c45daa9b2472c715d5029a3a8bc2154fa4b56dc1cd16b3ec5d0ec19",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L10A.svg",
+      "bytes": 2357,
+      "sha256": "c0940541a1e5f3c4f16139faec9b7f3f0779dd44947a1c0a695d359531fd402f",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L10B.dxf",
+      "bytes": 19615,
+      "sha256": "259b5d03b58770942da0a8fa8c19572a2e790ddd8a564604590e06f50f3efdaa",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L10B.svg",
+      "bytes": 2353,
+      "sha256": "bace177fd6c7c73f6d01718a1cd102f8fd977cb66dad1b8be951371d62a8b643",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L11A.dxf",
+      "bytes": 19631,
+      "sha256": "9ec24a103ededc07782e4e1e31ab4897e50d5260dfd31615d218052261ff43d9",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L11A.svg",
+      "bytes": 2357,
+      "sha256": "82263d3b87771eae27038ecc75062d4d11651d7c1b0346a6d69deab64c8eb569",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L11B.dxf",
+      "bytes": 19607,
+      "sha256": "f34b9782f168d81c2769c56fa45601dd3b19e14590573c36b7a1e6510cd25b41",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L11B.svg",
+      "bytes": 2353,
+      "sha256": "4d5d5f08fa55837ca1c524b1885528ef52b0f66672a4bcd2eac3cd94adfc4f33",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L12.dxf",
+      "bytes": 24828,
+      "sha256": "38fde8fca97076d96567d8fd31ca4ee3b874b6db39fb1bf9bf74554088672c53",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L12.svg",
+      "bytes": 5366,
+      "sha256": "995c451befae82de44163b7c1e6c0637d8d3e8b209b213e9c00eb28fac803650",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L13.dxf",
+      "bytes": 24815,
+      "sha256": "bb0f3bf061ee2e8d6cfc371eba111db4c069bf2b167267df0a7fe4ee03601713",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L13.svg",
+      "bytes": 5364,
+      "sha256": "6c14708bdbc0a9757bf4a16a26be713243a879480a4c94c27febc69ed42c9e7a",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L14.dxf",
+      "bytes": 24827,
+      "sha256": "3c18704edf66c26f1d79540107c6b5686571cace37937cf71fc91975ced70bd2",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L14.svg",
+      "bytes": 5375,
+      "sha256": "bb2b2da0048d1e6eec9dcf5c9dab59c49181bee6ff0428feab55a8c40be5a8de",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L15.dxf",
+      "bytes": 24820,
+      "sha256": "6a60f43f77f631d0b83c805866aa0641d52e7f0e25ce2fbe27e3f94021656015",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L15.svg",
+      "bytes": 5377,
+      "sha256": "4d95b84775c7a20906415f0788829053857e768b8b87df7d90913a6325e809d3",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L16.dxf",
+      "bytes": 24827,
+      "sha256": "4774627e80bc44ab0d0abf43b57e8124b65f4658b261bbdee5a1b48fc756f15e",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/L16.svg",
+      "bytes": 5377,
+      "sha256": "8fed30b6060268b3a4f5c34dc8062b15c044ec9cc34088393e5cd7a3f7e3e227",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/LF.dxf",
+      "bytes": 23972,
+      "sha256": "d4956f41b0855e2fdda7ae54e7cee4e0ab087b42741f9011ce8535fec1ad6f33",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/LF.svg",
+      "bytes": 5239,
+      "sha256": "479dcf67a849f49f19c5ff73363db8f5cae9e180e4a1612afc88473b8160d259",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/LFOOT.dxf",
+      "bytes": 18183,
+      "sha256": "83c1f32daa78095a3a3cbda2fa9009c683871d169226a36223984d5b67f74235",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/LFOOT.svg",
+      "bytes": 1175,
+      "sha256": "d0a9576ee663a688b88a8b75c9255964fc6b78837f73ff6c54529414ab5d4514",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/LHEAD.dxf",
+      "bytes": 18176,
+      "sha256": "c6e4524ff596a707c2610e7980fcb38e75d4378fe7920c35dfc40ab5f3f8d8a8",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/LHEAD.svg",
+      "bytes": 1180,
+      "sha256": "0c673c0a4aadd1fab4d2bc8a45e178aec8e061fa8ace6f6ba669ca607e016d1e",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/MB.dxf",
+      "bytes": 19096,
+      "sha256": "0a5b2ed076a26cf0e55c9adf57302ddd3a21e9c95dd698240862212ba524e494",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/MB.svg",
+      "bytes": 1662,
+      "sha256": "4a42fbeff2da1c2d3c83f9cff4c946925dd52b15ec042511f2631ba00c1aadfe",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/MG_LEFT.dxf",
+      "bytes": 24440,
+      "sha256": "da5d001fc6cac74ff4574d0de06acc9abcde57b120512e99635e265197f59943",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/MG_LEFT.svg",
+      "bytes": 5082,
+      "sha256": "ded497856dea4d55f1307ebc1fa2dc914b4da5d324b91072de6497945ae2cf98",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/MG_RIGHT.dxf",
+      "bytes": 24352,
+      "sha256": "8cccfe154a6e635448cd95fa63f929d549f25f2a6c215fa83d31a62a6248648e",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/MG_RIGHT.svg",
+      "bytes": 5057,
+      "sha256": "f7665c2430020caa5dad73552572ccbad68c89e538b8f820ac79c52e92898d26",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/MT.dxf",
+      "bytes": 19096,
+      "sha256": "e9a2c09abdb6aa51aa68fb8cd0883ec7e16ba499b6dd2a759a799b35bdc1c328",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/MT.svg",
+      "bytes": 1662,
+      "sha256": "284684c20ee625dcb2e8c5b62cb27900ea405f348be430cf1213d2ffcf969093",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O01.dxf",
+      "bytes": 24823,
+      "sha256": "67c6695dfb4f021ba6debabe3ffbae0f307ec7059714f7017856533b35f4b765",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O01.svg",
+      "bytes": 5356,
+      "sha256": "a7bcf7b25d7f18b86d023367441c267acb2ffd23216eb8943f03a7e67702fc64",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O02.dxf",
+      "bytes": 24816,
+      "sha256": "a13b6e8683eb06edc9f56a1cd1b27d2fdd652b946d54660035c6d4f05c241e7c",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O02.svg",
+      "bytes": 5368,
+      "sha256": "dee0ce68295dcbfc61daa1538453810254fc59b609f6a95fd8e71550b078ceca",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O03.dxf",
+      "bytes": 24816,
+      "sha256": "9c604cecba16a466e83a9740059c03cb25fd6053f13e893db6705318f7a5d3e7",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O03.svg",
+      "bytes": 5380,
+      "sha256": "394a44bfd8e1b49b9a4c9f0c07bd9da44cda61dd9aa9f0f949b00dbb22ee4768",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O04.dxf",
+      "bytes": 24801,
+      "sha256": "87a24b0f6968e040aa99313f6faa6fa29ce13eb44e025098242ffe5f41fbfd5d",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O04.svg",
+      "bytes": 5382,
+      "sha256": "2b277ff40662a2f419bbe988e6181e218f0af3b91ec5722d8619d3d2f36330e4",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O05.dxf",
+      "bytes": 24785,
+      "sha256": "bca8de4f8445025507d8024730ad78b8c6f8b4f5c9d20981d2b4cbd895e9b088",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O05.svg",
+      "bytes": 5389,
+      "sha256": "4d6888a1105d95c2fdfd8b1fb92cf42af17f45c3698438d26de8b666efa724f2",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O06A.dxf",
+      "bytes": 21247,
+      "sha256": "7956c1e40944106607050d47ade826e804622833fe41df7f64624984134ee9de",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O06A.svg",
+      "bytes": 2355,
+      "sha256": "59f6ba93ed151c99a095faeb9b26d437bc0a35540e6f8480d2cb5cc17609e515",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O06B.dxf",
+      "bytes": 19614,
+      "sha256": "0d6314c8d54d16352460a93dcc9359976c7853ade0e8bdd2634b5fca3bc22524",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O06B.svg",
+      "bytes": 2351,
+      "sha256": "029d5ac65f1a27b83a722bc032048751c36531ab0d00289e02417314db5d34ed",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O07A.dxf",
+      "bytes": 20235,
+      "sha256": "9784a2c689779cb96a09f3865eeb92240c42bd86e5884d890fd9938fc64dfa98",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O07A.svg",
+      "bytes": 2355,
+      "sha256": "84db694be4b939982e43483b05d5ce4bd903efdc4cdb3aaa52694bb4ab2e0ae6",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O07B.dxf",
+      "bytes": 19618,
+      "sha256": "6f295bcca60e3a687a660684a723b8e89ea1add66d387cb36324c288035c34e3",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O07B.svg",
+      "bytes": 2352,
+      "sha256": "0f9c641ecbede10435b8ca22341d288782ec5f90ddf151715f52e5df06908a9c",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O08A.dxf",
+      "bytes": 20238,
+      "sha256": "98db97452a5d85b1062a09939a6714f743c32bf6d042347ab8a673062b15f11e",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O08A.svg",
+      "bytes": 2355,
+      "sha256": "f1975e00855b64794287222f7a5c8f6b2e2a96d9457c4ff501e0e4809dd761e1",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O08B.dxf",
+      "bytes": 19632,
+      "sha256": "832d7ac92256ddbc0416d6c2fe3444e46c9089030c5cb3bbf572fba464d586c4",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O08B.svg",
+      "bytes": 2351,
+      "sha256": "315d9153dfcc532549092f0703cd065d19087ef3e54aee64b6a704d7be4cb02a",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O09A.dxf",
+      "bytes": 20226,
+      "sha256": "06139e1788fd7e5922e02a4aa63b9d00bce36c5221b7f8a01da637ee51bbcce3",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O09A.svg",
+      "bytes": 2355,
+      "sha256": "ba79f555b2505dd381e94b3ea26ed434b226d66824b7aff921b005909dc04355",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O09B.dxf",
+      "bytes": 19618,
+      "sha256": "df7693a7b18ef68842d67efade283fcdfd2590d11a8615a161ea2c7786a93773",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O09B.svg",
+      "bytes": 2351,
+      "sha256": "34c5099572ed58d6aa810e6788e80bf3b406f68003c9afaf2b006729e25baebe",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O10A.dxf",
+      "bytes": 20222,
+      "sha256": "f1d81c05458e43c22b3bc5301cc3a75ab50b1bfeff342182a904efeabc31d9dd",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O10A.svg",
+      "bytes": 2355,
+      "sha256": "fd66437df2e07e24a0fca97e467964fec3f460375258e6e51f5499b4a2b52519",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O10B.dxf",
+      "bytes": 19608,
+      "sha256": "d50a4b90eada0947260d0b1ec1ac71d90fd28364ee11b3c89d90ca749b6b4c0f",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O10B.svg",
+      "bytes": 2352,
+      "sha256": "ba029d498ea9366876013e6d35fb8442159224d1fc3b8c93f43406c9cc3ac321",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O11A.dxf",
+      "bytes": 21276,
+      "sha256": "070a07409869e5340bacdfca307e5a61aec231e7baae833eca638c54fd830d84",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O11A.svg",
+      "bytes": 2355,
+      "sha256": "f5e59a6235a03cd28f93c2df18854cc91dc4dacb7bd8cc182d48a91a9c8be732",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O11B.dxf",
+      "bytes": 19627,
+      "sha256": "8bfacd3a6ad283ca459ffd929cf8bca1ebb3f6959a1dec4ddd099e602262740f",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O11B.svg",
+      "bytes": 2351,
+      "sha256": "c9fb5a3e3c0643bf673d6fe1ce0c582339eca7bd8b357909db6b0f403e27ca59",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O12.dxf",
+      "bytes": 24805,
+      "sha256": "6577ab9b56cbfca506505af55ec1489871c07f63445f1e55c78cddb93125695c",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O12.svg",
+      "bytes": 5362,
+      "sha256": "8853a7766b4502eadcde6beb252c7b10933d43ca1e8c460678e4af49c293a744",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O13.dxf",
+      "bytes": 24800,
+      "sha256": "f1a5c7d6727463d7df5267b52afe10d340dc4b4db92185b48a299b3fe80ebb27",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O13.svg",
+      "bytes": 5360,
+      "sha256": "9e59b72d0e0951e386a6325b6298a4a06ec14873424ac204b4cd7e9e6506eb88",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O14.dxf",
+      "bytes": 24815,
+      "sha256": "b6ef86b0cd4c5961c3e532e488819eec8d87e9974c726ca176c3144ef56d0213",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O14.svg",
+      "bytes": 5373,
+      "sha256": "a1fad94e99a400f7548e2c623e920be39b38c4104a59b49cd70ee730536ad217",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O15.dxf",
+      "bytes": 24818,
+      "sha256": "781f93588eeb775b515e22b1772fac40dc9564b0f46efb8f5dbf807dfbdca1fb",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O15.svg",
+      "bytes": 5375,
+      "sha256": "88bdd040c9347d67f10dd3033b3f9400d6d4995f730620192a2881750086fb68",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O16.dxf",
+      "bytes": 24826,
+      "sha256": "eb280d6f30d887e210406c475619631a2c67af890f993c4182f7a80f1596a43e",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/O16.svg",
+      "bytes": 5375,
+      "sha256": "d334bf8b418ccb6bc6c31380944b0214cf71b0995d8fce4ef9e289a75e2c92ac",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/OF.dxf",
+      "bytes": 23466,
+      "sha256": "c0984290c07a84458b27385fb4bbb75e4c8243e9cac1771774e71bb7daf4c9bf",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/OF.svg",
+      "bytes": 5191,
+      "sha256": "9ec046bdaf674b1ac3c3ad86d5d43925e126a6f9f313e6a1cf81b99383dc2371",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/OFOOT.dxf",
+      "bytes": 18145,
+      "sha256": "2f1e3550588b14c33c88c23ea9a799658d17da1aa7a31fe04aba64d6b63df033",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/OFOOT.svg",
+      "bytes": 1176,
+      "sha256": "d9c225258352c75cb7a1f934f325e8c4fc10aadeef5deb3df3a4c8cc6498074d",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/OHEAD.dxf",
+      "bytes": 18162,
+      "sha256": "9cac22a01899fd580b32b144ce5b4af6a23a0b0f8669906a9c64e07fe5ce41b3",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/OHEAD.svg",
+      "bytes": 1178,
+      "sha256": "5daa6da916f774e8b710078b055e3054bf595e64ed70c5fab92cfbb1c6b118de",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/TRAY_BOTTOM.dxf",
+      "bytes": 16746,
+      "sha256": "f5141cc85c06ce1f1af6c574bb8368c67bbe8ae5d66e76300301a384975889f3",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/TRAY_BOTTOM.svg",
+      "bytes": 790,
+      "sha256": "d224ac7ed90a72852e20892e0a1dc5be56e406a5ff309be0b15f5fafe78565f5",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/TRAY_TOP.dxf",
+      "bytes": 16743,
+      "sha256": "1799fc5d8d21f9e538fd7f018e9a3ad8557b6e04cc3b19cd87ea921f6adf2bed",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/TRAY_TOP.svg",
+      "bytes": 784,
+      "sha256": "9c76807c2fbad41bfc2f0a6a2af8d2518a39b3becd23c18bbb0985e7fa8bb57b",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/WBACK.dxf",
+      "bytes": 16743,
+      "sha256": "08a9a2e28701396c5696e0f6d811e10d74d381bd77d7288161ba1b13a7946a43",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/WBACK.svg",
+      "bytes": 784,
+      "sha256": "46731b89c575f2a5b33082b841e08bb3817f77842c7b7fc3049e28d5a2a4976b",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/WBASE.dxf",
+      "bytes": 16743,
+      "sha256": "ab21ca5eedb30840a388dedbe626a4cabc2a980960bcdd9cd13bfb45e43ebd77",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/WBASE.svg",
+      "bytes": 784,
+      "sha256": "d25488a71d146c7655f14c4a6aaa1090d2f69c002e404178db8de32120409af6",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/WLEFT.dxf",
+      "bytes": 16950,
+      "sha256": "dff80678126f2bf165a57e7c8ae1ed0b4d708cd9a8588847da3a93ad8d423426",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/WLEFT.svg",
+      "bytes": 777,
+      "sha256": "6b0b41e945675eddda4cff296a0fb8e6967339c10e71f5bd213f83c3bbf5eb15",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/WRIGHT.dxf",
+      "bytes": 16951,
+      "sha256": "8a3f12caeaef454f3262eace5ebb42b1ca8cb4b4ae4e2410910ab1acc8ecc425",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/WRIGHT.svg",
+      "bytes": 779,
+      "sha256": "a64c9c6a2391153b876ef7703f73aee0e5138689bfcae62df43477a00a7fe082",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/WSLOPE.dxf",
+      "bytes": 16834,
+      "sha256": "a9b3a8d57c765a80265e6441b824dd18fed1569174b09bdf82eee71e0a054639",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/pieces/WSLOPE.svg",
+      "bytes": 792,
+      "sha256": "b45e8bfeabf6d4322e2c2c97d26dad0aee8d49c1ce375e4328c3d2b1eebc391e",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    },
+    {
+      "path": "revisions/R02/textile/seam_pairs.csv",
+      "bytes": 52886,
+      "sha256": "2caa370e94a1814c7fbee8cfd517fa542c5c6fd3ced2ccf1f598905d3f157d84",
+      "origin": "Rebuilt from preserved source, not a byte-identical historical export claim"
+    }
+  ],
+  "failed": [],
+  "existing_files_overwritten": false,
+  "engineering_tests_rerun": false,
+  "workflow_run_id": "37043596348"
+}
