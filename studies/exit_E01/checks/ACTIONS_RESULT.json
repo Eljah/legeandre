@@ -1,0 +1,337 @@
+{
+  "status": "E01_EXIT_STUDY_BUILT_AND_CHECKED",
+  "workflow_run_id": "37435607152",
+  "workflow_commit": "9fe9b53c7915ad81dca626699e34437301f180b5",
+  "verified_utc": "2026-10-06T08:23:28.385105+00:00",
+  "source_model_sha256": "24e9297daa3b5defa1f84e015e33c6ce3ce87777a7f79eac96e84dc9689d5d0a",
+  "states": 11,
+  "screened_close_pairs": 48,
+  "pdf_pages": 15,
+  "new_closure_requirements": [
+    "Z05a",
+    "Z05b",
+    "Z06"
+  ],
+  "R08_R09_unchanged": true,
+  "physical_exit_tested": false,
+  "cloth_simulation": false,
+  "continuous_collision_validation": false,
+  "scope": "Discrete CAD-derived mesh vertices vs closed hard surfaces with AABB prefilter. Does not certify all triangle intersections or swept paths. Intentional hand-keyboard contacts excluded in seated pose. No cloth, granular or force simulation.",
+  "files": [
+    {
+      "path": "studies/exit_E01/Lezhandr_E01_Exit_Sequence.pdf",
+      "bytes": 4185292,
+      "sha256": "550cf605a274ac3c70d1176fa5bcf53af38db1fa8ad3fd8e937847e649cfe88d"
+    },
+    {
+      "path": "studies/exit_E01/README_RU.md",
+      "bytes": 5601,
+      "sha256": "39a1f28b9c7bd8c75e1dc7e72768c77907200dfd8b301260b060a8eb5693ff11"
+    },
+    {
+      "path": "studies/exit_E01/checks/exit_pose_checks.json",
+      "bytes": 13344,
+      "sha256": "c9bef6a8fe0c51f352427a1fbd8ac5906e8baaa4f870db7d5fc583ae0c645e19"
+    },
+    {
+      "path": "studies/exit_E01/checks/input_provenance.json",
+      "bytes": 343,
+      "sha256": "8e2abb6bd3062826b7aeeff1914d3a1821e7d09dd4c930d4bff5ac8f07fb7e12"
+    },
+    {
+      "path": "studies/exit_E01/checks/pdf_layout_boxes.json",
+      "bytes": 5871,
+      "sha256": "8151ae431945075a6846129aa4a6902d4e69d5f20a44f5886450676394847ecd"
+    },
+    {
+      "path": "studies/exit_E01/checks/pdf_page_01.png",
+      "bytes": 224130,
+      "sha256": "b7b8d920977af779cc25d6e51c5a4d6db7fb0a267206039d1963d6fd35506277"
+    },
+    {
+      "path": "studies/exit_E01/checks/pdf_page_06.png",
+      "bytes": 306745,
+      "sha256": "138f5b00123665b1ed3b79c3322f747e90071d9a7ceb96388ccf3f0203aecba7"
+    },
+    {
+      "path": "studies/exit_E01/checks/pdf_page_08.png",
+      "bytes": 344787,
+      "sha256": "a88ecd5bb5fa902658cbd735722be6e8eff5cba647c4c125ad39690a12b1a8d9"
+    },
+    {
+      "path": "studies/exit_E01/checks/pdf_page_10.png",
+      "bytes": 299944,
+      "sha256": "3a2cfcdcabdfb10d390dc0dc63236351b64520c5ab0f764ec381313c6ed10174"
+    },
+    {
+      "path": "studies/exit_E01/checks/pdf_page_11.png",
+      "bytes": 318950,
+      "sha256": "2d74691032b10b1dfdae973b1fc8ddcb0b302b6d808c17e7b6ecb4398bd7f81e"
+    },
+    {
+      "path": "studies/exit_E01/checks/pdf_page_14.png",
+      "bytes": 240643,
+      "sha256": "199522418b69479ffb6357735c40fbb78fb64c2c4686603265f2610636ee1f0c"
+    },
+    {
+      "path": "studies/exit_E01/checks/pdf_page_15.png",
+      "bytes": 113240,
+      "sha256": "eaa15146399ac1b222e254bdf8774cb51c28467309dfaba36b106879ca828764"
+    },
+    {
+      "path": "studies/exit_E01/checks/pose_00.json",
+      "bytes": 1967,
+      "sha256": "6bde19b5caa36b063b3fab2702a051de668c1f27a7138f6ab97e8d4292f7039d"
+    },
+    {
+      "path": "studies/exit_E01/checks/pose_00_cutaway.json",
+      "bytes": 1967,
+      "sha256": "6bde19b5caa36b063b3fab2702a051de668c1f27a7138f6ab97e8d4292f7039d"
+    },
+    {
+      "path": "studies/exit_E01/checks/pose_01.json",
+      "bytes": 1904,
+      "sha256": "2d53a1fb2abb5b7b156221db473533c88ee6db8d4b18a0b9451b1943e9415e7a"
+    },
+    {
+      "path": "studies/exit_E01/checks/pose_01_close.json",
+      "bytes": 1904,
+      "sha256": "2d53a1fb2abb5b7b156221db473533c88ee6db8d4b18a0b9451b1943e9415e7a"
+    },
+    {
+      "path": "studies/exit_E01/checks/pose_02.json",
+      "bytes": 1911,
+      "sha256": "d3247a9d5d63a81219861dc3449f2acdf98d300bf4d57b5beabc3f60b760d1de"
+    },
+    {
+      "path": "studies/exit_E01/checks/pose_02_close.json",
+      "bytes": 1911,
+      "sha256": "d3247a9d5d63a81219861dc3449f2acdf98d300bf4d57b5beabc3f60b760d1de"
+    },
+    {
+      "path": "studies/exit_E01/checks/pose_02_wiring.json",
+      "bytes": 1911,
+      "sha256": "d3247a9d5d63a81219861dc3449f2acdf98d300bf4d57b5beabc3f60b760d1de"
+    },
+    {
+      "path": "studies/exit_E01/checks/pose_03.json",
+      "bytes": 1928,
+      "sha256": "f6ffdb4533eb7a1e7071de20d1ae61310a0a02a9562afd6f302edceccd10a1e2"
+    },
+    {
+      "path": "studies/exit_E01/checks/pose_03_zipper.json",
+      "bytes": 1928,
+      "sha256": "f6ffdb4533eb7a1e7071de20d1ae61310a0a02a9562afd6f302edceccd10a1e2"
+    },
+    {
+      "path": "studies/exit_E01/checks/pose_04.json",
+      "bytes": 1889,
+      "sha256": "bdd922be56f39d92b35f78f2682ac8a062dc758a158738bc6f0b5c05e4339bd1"
+    },
+    {
+      "path": "studies/exit_E01/checks/pose_04_left.json",
+      "bytes": 1889,
+      "sha256": "bdd922be56f39d92b35f78f2682ac8a062dc758a158738bc6f0b5c05e4339bd1"
+    },
+    {
+      "path": "studies/exit_E01/checks/pose_04_middle.json",
+      "bytes": 1891,
+      "sha256": "91989ec57bfce7a409bac5c052dfc34fdb774a8930283117cedc4f713d8d8bab"
+    },
+    {
+      "path": "studies/exit_E01/checks/pose_05.json",
+      "bytes": 1881,
+      "sha256": "e34e6c67e0e17bc28a7ab0d30f9d6422dad35d608f5ba35025b12e024a244c76"
+    },
+    {
+      "path": "studies/exit_E01/checks/pose_06.json",
+      "bytes": 1850,
+      "sha256": "7aa3be5b07adad104dc2da0d7ebc6bd466547fe0c475ab722a32a90f43bf8da2"
+    },
+    {
+      "path": "studies/exit_E01/checks/pose_06_middle.json",
+      "bytes": 1852,
+      "sha256": "e139626427240f322ca3b7da76ec67e6a411e5a9cd4343883454e8f45487d244"
+    },
+    {
+      "path": "studies/exit_E01/checks/pose_06_top.json",
+      "bytes": 1850,
+      "sha256": "7aa3be5b07adad104dc2da0d7ebc6bd466547fe0c475ab722a32a90f43bf8da2"
+    },
+    {
+      "path": "studies/exit_E01/checks/pose_07.json",
+      "bytes": 2240,
+      "sha256": "2bd7813ab0fe2825c30119484f214b50d225be3774eafe5eeb83c852329bcb9c"
+    },
+    {
+      "path": "studies/exit_E01/checks/pose_08.json",
+      "bytes": 2240,
+      "sha256": "1104e45f14cd21c86e88403e9765714c8eeab2cbf0d4a992bb9377177b2ed9a6"
+    },
+    {
+      "path": "studies/exit_E01/checks/pose_08_side.json",
+      "bytes": 2240,
+      "sha256": "1104e45f14cd21c86e88403e9765714c8eeab2cbf0d4a992bb9377177b2ed9a6"
+    },
+    {
+      "path": "studies/exit_E01/checks/pose_09.json",
+      "bytes": 2064,
+      "sha256": "07fd4ab4a518538f7a1ae0ba8a7d45693e5093a09c61a14ffff8e8a04a7c3d2c"
+    },
+    {
+      "path": "studies/exit_E01/checks/pose_09_top.json",
+      "bytes": 2064,
+      "sha256": "07fd4ab4a518538f7a1ae0ba8a7d45693e5093a09c61a14ffff8e8a04a7c3d2c"
+    },
+    {
+      "path": "studies/exit_E01/checks/pose_10.json",
+      "bytes": 1826,
+      "sha256": "0934f9a608c74d4454215a6398895c0a2870b2fd3be1e7c7193e4bc352c664da"
+    },
+    {
+      "path": "studies/exit_E01/checks/pose_10_top.json",
+      "bytes": 1826,
+      "sha256": "0934f9a608c74d4454215a6398895c0a2870b2fd3be1e7c7193e4bc352c664da"
+    },
+    {
+      "path": "studies/exit_E01/checks/rejected_pose_summary.json",
+      "bytes": 1407,
+      "sha256": "dada9753439bb84cb70d393a2350b8f9968b3d63b8d4ea11c6f4ba49d177cf52"
+    },
+    {
+      "path": "studies/exit_E01/renders/stage_00.png",
+      "bytes": 466329,
+      "sha256": "6c0b25ad65b8323e4cb825b175305251affc48e21f7ba9cabbd6e7f82245d92c"
+    },
+    {
+      "path": "studies/exit_E01/renders/stage_00_cutaway.png",
+      "bytes": 664959,
+      "sha256": "de0ac352e0d3eebff6771d3605ed5b2467986a575286b21679117ee56c72b793"
+    },
+    {
+      "path": "studies/exit_E01/renders/stage_01.png",
+      "bytes": 471884,
+      "sha256": "47f6265640f85c3b6a247cba1cb3346a5962207c307670a29642001d51346e5c"
+    },
+    {
+      "path": "studies/exit_E01/renders/stage_01_close.png",
+      "bytes": 1206085,
+      "sha256": "c9c4f4a8c8dde0d0f23281ab796c33d8bbb51043dfc03ca3e7d301a0eacbd709"
+    },
+    {
+      "path": "studies/exit_E01/renders/stage_02.png",
+      "bytes": 467971,
+      "sha256": "a62fba382fd387dd097cd983e165847bef839f72e75a094ed10a79f2a96c7f61"
+    },
+    {
+      "path": "studies/exit_E01/renders/stage_02_close.png",
+      "bytes": 1207633,
+      "sha256": "051f20463564112e004942c898286ead6a73ecafe70dd61ae484ff38fe86973b"
+    },
+    {
+      "path": "studies/exit_E01/renders/stage_02_wiring.png",
+      "bytes": 249271,
+      "sha256": "8ec5dc1efc988050e352ca262d0ce79049775298cb79c81f6cb9c6b5951da511"
+    },
+    {
+      "path": "studies/exit_E01/renders/stage_03.png",
+      "bytes": 481281,
+      "sha256": "d616d9bab4368b55e3f63f2ea2fa7d4e6f9378038842cddb78ec1796c01be422"
+    },
+    {
+      "path": "studies/exit_E01/renders/stage_03_zipper.png",
+      "bytes": 1678334,
+      "sha256": "ac332f9e920682ddb7446033aedb6b1b24d3487441b564aeb13d83075c6107a2"
+    },
+    {
+      "path": "studies/exit_E01/renders/stage_04.png",
+      "bytes": 530043,
+      "sha256": "619c0e448e8fdeec665f083e0ec0e339133f2b5a69ea2c26b18b638b589d9389"
+    },
+    {
+      "path": "studies/exit_E01/renders/stage_04_left.png",
+      "bytes": 576168,
+      "sha256": "c27ba1c203d6a667929e707a349871f7ddc184167a23eef474da6ca67a283318"
+    },
+    {
+      "path": "studies/exit_E01/renders/stage_04_middle.png",
+      "bytes": 526522,
+      "sha256": "cf4045aa2847884ff243dd91ae4dd91f17e60bdc29ed9dc28e3f576fffd20d42"
+    },
+    {
+      "path": "studies/exit_E01/renders/stage_05.png",
+      "bytes": 561952,
+      "sha256": "d9054226bd3a33216322ea3e961cf5f31be0272c6f86ec89f0a9292e82617da6"
+    },
+    {
+      "path": "studies/exit_E01/renders/stage_06.png",
+      "bytes": 585895,
+      "sha256": "4739c7aa005ba24ff1bdf432b9e7c46902f0c69a2a611a2a34425040e70e404c"
+    },
+    {
+      "path": "studies/exit_E01/renders/stage_06_middle.png",
+      "bytes": 574956,
+      "sha256": "048ff29275b786adbee5f3c55441c5e75f73cc74f985bd7be2e89759761a5bd7"
+    },
+    {
+      "path": "studies/exit_E01/renders/stage_06_top.png",
+      "bytes": 439267,
+      "sha256": "c4e9799f60d4438920aae880b808bf7499059e77ba9e2967bc2eb9352e0e8d45"
+    },
+    {
+      "path": "studies/exit_E01/renders/stage_07.png",
+      "bytes": 593357,
+      "sha256": "2525b0f1c91b65e1413bd9cf4729babac705e5905ddcf8e1f103f56303d9e8fc"
+    },
+    {
+      "path": "studies/exit_E01/renders/stage_08.png",
+      "bytes": 608890,
+      "sha256": "89b67a0d9cdc88030aa94d53e1728cfaeefac77a26a34ebc35055335003d773e"
+    },
+    {
+      "path": "studies/exit_E01/renders/stage_08_side.png",
+      "bytes": 574586,
+      "sha256": "bb9392cf113cfdd33719c6ed4c721da690632abb7a51ef73ece233050adf23b4"
+    },
+    {
+      "path": "studies/exit_E01/renders/stage_09.png",
+      "bytes": 646603,
+      "sha256": "b9539fcff345e836a7df30fc0c2611f9bfb14f56307def844b135bdddce5df16"
+    },
+    {
+      "path": "studies/exit_E01/renders/stage_09_top.png",
+      "bytes": 474631,
+      "sha256": "c0f63cc9b0c796bf7529c8678b2cfeeab24d5d623a811f81462ff548f6bdf8ba"
+    },
+    {
+      "path": "studies/exit_E01/renders/stage_10.png",
+      "bytes": 635488,
+      "sha256": "59ac949031a30c0624cc3f5313a611efced8d7c8898a83ec82ba29717f972132"
+    },
+    {
+      "path": "studies/exit_E01/renders/stage_10_top.png",
+      "bytes": 457595,
+      "sha256": "b15d2e92bf839efb42c1dacc51ff001f58c3c330f54b69bcc97df6eb65350335"
+    },
+    {
+      "path": "studies/exit_E01/source/build_pdf.py",
+      "bytes": 24837,
+      "sha256": "15b5b09dae55350d7322290a5e1c1a7312519cb0da4cf7ca2ec190c90d7346ca"
+    },
+    {
+      "path": "studies/exit_E01/source/exit_model.py",
+      "bytes": 12414,
+      "sha256": "525b1dcfc34477bb826961aacf5571c8844f247219124c5fea66c98fd985ff01"
+    },
+    {
+      "path": "studies/exit_E01/source/render_sequence.py",
+      "bytes": 9084,
+      "sha256": "8dff8b567d18fd9466efdfe4710dd33d0e545b2a8a0fbfc8a9116fcf93fbfa3f"
+    },
+    {
+      "path": "studies/exit_E01/source/verify_sequence.py",
+      "bytes": 3358,
+      "sha256": "de51d86d8ee87b6debf46bbdc9c53da87fda407c3291d84046e9d900c9e05445"
+    }
+  ]
+}

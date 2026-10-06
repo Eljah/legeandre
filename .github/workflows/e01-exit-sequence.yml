@@ -1,0 +1,119 @@
+name: Build CAD exit sequence E01
+on:
+  push:
+    branches: [feature/e01-exit-sequence-20261006]
+    paths:
+      - .github/workflows/e01-exit-sequence.yml
+      - studies/exit_E01/source/**
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: legeandre-e01-exit
+  cancel-in-progress: false
+jobs:
+  exit-sequence:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    env:
+      PYTHONUNBUFFERED: '1'
+      LIBGL_ALWAYS_SOFTWARE: '1'
+      OMP_NUM_THREADS: '2'
+      LEZHANDR_INPUT: ${{ github.workspace }}/revisions/R08
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feature/e01-exit-sequence-20261006
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check original input and install rendering dependencies
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import hashlib
+          p=Path('revisions/R08/cad/model_R08.json')
+          expected='24e9297daa3b5defa1f84e015e33c6ce3ce87777a7f79eac96e84dc9689d5d0a'
+          if hashlib.sha256(p.read_bytes()).hexdigest()!=expected:
+              raise RuntimeError('CAD input does not match the reviewed model')
+          PY
+          sudo apt-get update -qq
+          sudo apt-get install -y xvfb xauth libgl1 libegl1 libgl1-mesa-dri fonts-dejavu-core
+          python -m pip install numpy==2.3.5 scipy==1.17.0 vtk==9.6.2 Pillow==12.3.0 reportlab==4.4.9 PyMuPDF
+      - name: Construct poses, screen geometry and render the PDF
+        run: |
+          mkdir -p studies/exit_E01/checks studies/exit_E01/renders studies/exit_E01/cad
+          python studies/exit_E01/source/exit_model.py
+          python studies/exit_E01/source/verify_sequence.py
+          xvfb-run -a python studies/exit_E01/source/render_sequence.py
+          python studies/exit_E01/source/build_pdf.py
+      - name: Read back PDF and validate the limited study checks
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import hashlib,json,os,datetime,subprocess
+          import fitz
+          root=Path('studies/exit_E01')
+          checks=json.loads((root/'checks/exit_pose_checks.json').read_text())
+          states=checks['states']
+          if len(states)!=11: raise RuntimeError('Incomplete exit sequence')
+          if any(s['body_vertices_inside_hard_parts']!=0 for s in states):
+              raise RuntimeError('Body vertices still inside hard parts in screened pairs')
+          if any(s['max_leg_length_error_mm']>1e-6 or s['minimum_human_mesh_z_mm']<-.1 for s in states):
+              raise RuntimeError('Invalid link length or floor placement')
+          boxes=json.loads((root/'checks/pdf_layout_boxes.json').read_text())
+          if any(b['x']<0 or b['y']<0 or b['x']+b['w']>1190.56 or b['y']+b['h']>841.90 for b in boxes):
+              raise RuntimeError('PDF text block outside page')
+          pdf=root/'Lezhandr_E01_Exit_Sequence.pdf'
+          with fitz.open(pdf) as doc:
+              if len(doc)!=15: raise RuntimeError('PDF must contain fifteen pages')
+              for i in [0,5,7,9,10,13,14]:
+                  doc[i].get_pixmap(matrix=fitz.Matrix(1,1)).save(root/'checks'/f'pdf_page_{i+1:02}.png')
+          subprocess.run(['git','diff','--exit-code','HEAD','--','revisions/R08','revisions/R09'],check=True)
+          files=[]
+          for p in sorted(root.rglob('*')):
+              if p.is_file() and '__pycache__' not in p.parts and p.suffix not in {'.pyc','.log'} and p.name!='ACTIONS_RESULT.json':
+                  files.append({'path':p.as_posix(),'bytes':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest()})
+          result={
+              'status':'E01_EXIT_STUDY_BUILT_AND_CHECKED',
+              'workflow_run_id':os.environ['GITHUB_RUN_ID'],
+              'workflow_commit':os.environ['GITHUB_SHA'],
+              'verified_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),
+              'source_model_sha256':checks['source_hash'],
+              'states':len(states),'screened_close_pairs':sum(s['screened_pairs'] for s in states),
+              'pdf_pages':15,'new_closure_requirements':['Z05a','Z05b','Z06'],
+              'R08_R09_unchanged':True,'physical_exit_tested':False,
+              'cloth_simulation':False,'continuous_collision_validation':False,
+              'scope':checks['scope'],'files':files}
+          (root/'checks/ACTIONS_RESULT.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')
+          print('PDF_READBACK_OK; discrete vertex screen passed; physical validation NOT performed')
+          PY
+      - name: Commit individual outputs only to the E01 branch
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import subprocess
+          paths=[p.as_posix() for p in Path('studies/exit_E01').rglob('*') if p.is_file() and '__pycache__' not in p.parts and p.suffix not in {'.pyc','.log'}]
+          for i in range(0,len(paths),80): subprocess.run(['git','add','--',*paths[i:i+80]],check=True)
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          if ! git diff --cached --quiet; then
+            git commit -m 'Publish E01 exit sequence: eleven CAD poses, fifteen-page PDF and geometry checks'
+            git push origin HEAD:refs/heads/feature/e01-exit-sequence-20261006
+          fi
+          COMMIT=$(git rev-parse HEAD)
+          REMOTE=$(git ls-remote origin refs/heads/feature/e01-exit-sequence-20261006 | cut -f1)
+          test "$COMMIT" = "$REMOTE"
+          echo "Published E01 commit: $COMMIT" >> "$GITHUB_STEP_SUMMARY"
+          echo '15 A3 sheets. Prescribed CAD-mesh kinematics, not a physical exit or continuous collision test. Original R08/R09 files unchanged.' >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: e01-exit-pdf-and-checks
+          path: |
+            studies/exit_E01/Lezhandr_E01_Exit_Sequence.pdf
+            studies/exit_E01/checks/
+          if-no-files-found: warn
+          retention-days: 14

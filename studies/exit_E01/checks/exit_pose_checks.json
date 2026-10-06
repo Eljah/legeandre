@@ -1,0 +1,463 @@
+{
+  "source_hash": "24e9297daa3b5defa1f84e015e33c6ce3ce87777a7f79eac96e84dc9689d5d0a",
+  "states": [
+    {
+      "state": "00",
+      "pose": "rest",
+      "screened_pairs": 13,
+      "body_vertices_inside_hard_parts": 0,
+      "distance_mm": 28.567604844393998,
+      "distance_kind": "sampled_mesh_vertex_distance",
+      "max_leg_length_error_mm": 5.684341886080802e-14,
+      "minimum_human_mesh_z_mm": 125.0
+    },
+    {
+      "state": "01",
+      "pose": "rest",
+      "screened_pairs": 13,
+      "body_vertices_inside_hard_parts": 0,
+      "distance_mm": 28.567604844393998,
+      "distance_kind": "sampled_mesh_vertex_distance",
+      "max_leg_length_error_mm": 5.684341886080802e-14,
+      "minimum_human_mesh_z_mm": 125.0
+    },
+    {
+      "state": "02",
+      "pose": "hands_in",
+      "screened_pairs": 2,
+      "body_vertices_inside_hard_parts": 0,
+      "distance_mm": 47.78375840902659,
+      "distance_kind": "sampled_mesh_vertex_distance",
+      "max_leg_length_error_mm": 5.684341886080802e-14,
+      "minimum_human_mesh_z_mm": 125.0
+    },
+    {
+      "state": "03",
+      "pose": "hands_in",
+      "screened_pairs": 2,
+      "body_vertices_inside_hard_parts": 0,
+      "distance_mm": 47.78375840902659,
+      "distance_kind": "sampled_mesh_vertex_distance",
+      "max_leg_length_error_mm": 5.684341886080802e-14,
+      "minimum_human_mesh_z_mm": 125.0
+    },
+    {
+      "state": "04",
+      "pose": "hands_in",
+      "screened_pairs": 2,
+      "body_vertices_inside_hard_parts": 0,
+      "distance_mm": 47.78375840902659,
+      "distance_kind": "sampled_mesh_vertex_distance",
+      "max_leg_length_error_mm": 5.684341886080802e-14,
+      "minimum_human_mesh_z_mm": 125.0
+    },
+    {
+      "state": "05",
+      "pose": "hands_in",
+      "screened_pairs": 2,
+      "body_vertices_inside_hard_parts": 0,
+      "distance_mm": 47.78375840902659,
+      "distance_kind": "sampled_mesh_vertex_distance",
+      "max_leg_length_error_mm": 5.684341886080802e-14,
+      "minimum_human_mesh_z_mm": 125.0
+    },
+    {
+      "state": "06",
+      "pose": "hands_in",
+      "screened_pairs": 2,
+      "body_vertices_inside_hard_parts": 0,
+      "distance_mm": 47.78375840902659,
+      "distance_kind": "sampled_mesh_vertex_distance",
+      "max_leg_length_error_mm": 5.684341886080802e-14,
+      "minimum_human_mesh_z_mm": 125.0
+    },
+    {
+      "state": "07",
+      "pose": "turn",
+      "screened_pairs": 12,
+      "body_vertices_inside_hard_parts": 0,
+      "distance_mm": 15.150596808151624,
+      "distance_kind": "sampled_mesh_vertex_distance",
+      "max_leg_length_error_mm": 1.1368683772161603e-13,
+      "minimum_human_mesh_z_mm": 1.091985671491841
+    },
+    {
+      "state": "08",
+      "pose": "edge",
+      "screened_pairs": 0,
+      "body_vertices_inside_hard_parts": 0,
+      "distance_mm": 131.90290529349303,
+      "distance_kind": "AABB_lower_bound",
+      "max_leg_length_error_mm": 2.2737367544323206e-13,
+      "minimum_human_mesh_z_mm": 1.10355882795767
+    },
+    {
+      "state": "09",
+      "pose": "kneel",
+      "screened_pairs": 0,
+      "body_vertices_inside_hard_parts": 0,
+      "distance_mm": 192.19694001412404,
+      "distance_kind": "AABB_lower_bound",
+      "max_leg_length_error_mm": 1.1368683772161603e-13,
+      "minimum_human_mesh_z_mm": 0.15956957213370515
+    },
+    {
+      "state": "10",
+      "pose": "stand",
+      "screened_pairs": 0,
+      "body_vertices_inside_hard_parts": 0,
+      "distance_mm": 928.2802746243773,
+      "distance_kind": "AABB_lower_bound",
+      "max_leg_length_error_mm": 5.684341886080802e-14,
+      "minimum_human_mesh_z_mm": 1.1362738188415733
+    }
+  ],
+  "pair_checks": [
+    {
+      "state": "00",
+      "body": "M_TORSO",
+      "equipment": "LAPTOP_BASE",
+      "sampled_vertex_min_distance_mm": 45.797488565097446,
+      "vertices_inside": 0
+    },
+    {
+      "state": "00",
+      "body": "M_TORSO",
+      "equipment": "RUBBER_RISER_1130_-177",
+      "sampled_vertex_min_distance_mm": 127.14202763985183,
+      "vertices_inside": 0
+    },
+    {
+      "state": "00",
+      "body": "M_TORSO",
+      "equipment": "RUBBER_RISER_1130_177",
+      "sampled_vertex_min_distance_mm": 127.00325349580604,
+      "vertices_inside": 0
+    },
+    {
+      "state": "00",
+      "body": "M_TORSO",
+      "equipment": "D_C1_CANTILEVER",
+      "sampled_vertex_min_distance_mm": 47.78375840902659,
+      "vertices_inside": 0
+    },
+    {
+      "state": "00",
+      "body": "M_TORSO",
+      "equipment": "T07_AL_PERFORATED_TRAY",
+      "sampled_vertex_min_distance_mm": 81.60490846987011,
+      "vertices_inside": 0
+    },
+    {
+      "state": "00",
+      "body": "M_FOREARM-1",
+      "equipment": "LAPTOP_BASE",
+      "sampled_vertex_min_distance_mm": 28.567604844393998,
+      "vertices_inside": 0
+    },
+    {
+      "state": "00",
+      "body": "M_FOREARM-1",
+      "equipment": "RUBBER_RISER_1130_-177",
+      "sampled_vertex_min_distance_mm": 47.95590843786562,
+      "vertices_inside": 0
+    },
+    {
+      "state": "00",
+      "body": "M_FOREARM-1",
+      "equipment": "D_C1_CANTILEVER",
+      "sampled_vertex_min_distance_mm": 79.07016455187278,
+      "vertices_inside": 0
+    },
+    {
+      "state": "00",
+      "body": "M_FOREARM-1",
+      "equipment": "T07_AL_PERFORATED_TRAY",
+      "sampled_vertex_min_distance_mm": 72.32797921452035,
+      "vertices_inside": 0
+    },
+    {
+      "state": "00",
+      "body": "M_FOREARM1",
+      "equipment": "LAPTOP_BASE",
+      "sampled_vertex_min_distance_mm": 28.56760484439488,
+      "vertices_inside": 0
+    },
+    {
+      "state": "00",
+      "body": "M_FOREARM1",
+      "equipment": "RUBBER_RISER_1130_177",
+      "sampled_vertex_min_distance_mm": 47.95246348795365,
+      "vertices_inside": 0
+    },
+    {
+      "state": "00",
+      "body": "M_FOREARM1",
+      "equipment": "D_C1_CANTILEVER",
+      "sampled_vertex_min_distance_mm": 79.07016455187437,
+      "vertices_inside": 0
+    },
+    {
+      "state": "00",
+      "body": "M_FOREARM1",
+      "equipment": "T07_AL_PERFORATED_TRAY",
+      "sampled_vertex_min_distance_mm": 72.32797921446247,
+      "vertices_inside": 0
+    },
+    {
+      "state": "01",
+      "body": "M_TORSO",
+      "equipment": "LAPTOP_BASE",
+      "sampled_vertex_min_distance_mm": 45.797488565097446,
+      "vertices_inside": 0
+    },
+    {
+      "state": "01",
+      "body": "M_TORSO",
+      "equipment": "RUBBER_RISER_1130_-177",
+      "sampled_vertex_min_distance_mm": 127.14202763985183,
+      "vertices_inside": 0
+    },
+    {
+      "state": "01",
+      "body": "M_TORSO",
+      "equipment": "RUBBER_RISER_1130_177",
+      "sampled_vertex_min_distance_mm": 127.00325349580604,
+      "vertices_inside": 0
+    },
+    {
+      "state": "01",
+      "body": "M_TORSO",
+      "equipment": "D_C1_CANTILEVER",
+      "sampled_vertex_min_distance_mm": 47.78375840902659,
+      "vertices_inside": 0
+    },
+    {
+      "state": "01",
+      "body": "M_TORSO",
+      "equipment": "T07_AL_PERFORATED_TRAY",
+      "sampled_vertex_min_distance_mm": 81.60490846987011,
+      "vertices_inside": 0
+    },
+    {
+      "state": "01",
+      "body": "M_FOREARM-1",
+      "equipment": "LAPTOP_BASE",
+      "sampled_vertex_min_distance_mm": 28.567604844393998,
+      "vertices_inside": 0
+    },
+    {
+      "state": "01",
+      "body": "M_FOREARM-1",
+      "equipment": "RUBBER_RISER_1130_-177",
+      "sampled_vertex_min_distance_mm": 47.95590843786562,
+      "vertices_inside": 0
+    },
+    {
+      "state": "01",
+      "body": "M_FOREARM-1",
+      "equipment": "D_C1_CANTILEVER",
+      "sampled_vertex_min_distance_mm": 79.07016455187278,
+      "vertices_inside": 0
+    },
+    {
+      "state": "01",
+      "body": "M_FOREARM-1",
+      "equipment": "T07_AL_PERFORATED_TRAY",
+      "sampled_vertex_min_distance_mm": 72.32797921452035,
+      "vertices_inside": 0
+    },
+    {
+      "state": "01",
+      "body": "M_FOREARM1",
+      "equipment": "LAPTOP_BASE",
+      "sampled_vertex_min_distance_mm": 28.56760484439488,
+      "vertices_inside": 0
+    },
+    {
+      "state": "01",
+      "body": "M_FOREARM1",
+      "equipment": "RUBBER_RISER_1130_177",
+      "sampled_vertex_min_distance_mm": 47.95246348795365,
+      "vertices_inside": 0
+    },
+    {
+      "state": "01",
+      "body": "M_FOREARM1",
+      "equipment": "D_C1_CANTILEVER",
+      "sampled_vertex_min_distance_mm": 79.07016455187437,
+      "vertices_inside": 0
+    },
+    {
+      "state": "01",
+      "body": "M_FOREARM1",
+      "equipment": "T07_AL_PERFORATED_TRAY",
+      "sampled_vertex_min_distance_mm": 72.32797921446247,
+      "vertices_inside": 0
+    },
+    {
+      "state": "02",
+      "body": "M_TORSO",
+      "equipment": "D_C1_CANTILEVER",
+      "sampled_vertex_min_distance_mm": 47.78375840902659,
+      "vertices_inside": 0
+    },
+    {
+      "state": "02",
+      "body": "M_TORSO",
+      "equipment": "T07_AL_PERFORATED_TRAY",
+      "sampled_vertex_min_distance_mm": 140.68216724931537,
+      "vertices_inside": 0
+    },
+    {
+      "state": "03",
+      "body": "M_TORSO",
+      "equipment": "D_C1_CANTILEVER",
+      "sampled_vertex_min_distance_mm": 47.78375840902659,
+      "vertices_inside": 0
+    },
+    {
+      "state": "03",
+      "body": "M_TORSO",
+      "equipment": "T07_AL_PERFORATED_TRAY",
+      "sampled_vertex_min_distance_mm": 140.68216724931537,
+      "vertices_inside": 0
+    },
+    {
+      "state": "04",
+      "body": "M_TORSO",
+      "equipment": "D_C1_CANTILEVER",
+      "sampled_vertex_min_distance_mm": 47.78375840902659,
+      "vertices_inside": 0
+    },
+    {
+      "state": "04",
+      "body": "M_TORSO",
+      "equipment": "T07_AL_PERFORATED_TRAY",
+      "sampled_vertex_min_distance_mm": 140.68216724931537,
+      "vertices_inside": 0
+    },
+    {
+      "state": "05",
+      "body": "M_TORSO",
+      "equipment": "D_C1_CANTILEVER",
+      "sampled_vertex_min_distance_mm": 47.78375840902659,
+      "vertices_inside": 0
+    },
+    {
+      "state": "05",
+      "body": "M_TORSO",
+      "equipment": "T07_AL_PERFORATED_TRAY",
+      "sampled_vertex_min_distance_mm": 140.68216724931537,
+      "vertices_inside": 0
+    },
+    {
+      "state": "06",
+      "body": "M_TORSO",
+      "equipment": "D_C1_CANTILEVER",
+      "sampled_vertex_min_distance_mm": 47.78375840902659,
+      "vertices_inside": 0
+    },
+    {
+      "state": "06",
+      "body": "M_TORSO",
+      "equipment": "T07_AL_PERFORATED_TRAY",
+      "sampled_vertex_min_distance_mm": 140.68216724931537,
+      "vertices_inside": 0
+    },
+    {
+      "state": "07",
+      "body": "M_TORSO",
+      "equipment": "D_C1_CANTILEVER",
+      "sampled_vertex_min_distance_mm": 15.150596808151624,
+      "vertices_inside": 0
+    },
+    {
+      "state": "07",
+      "body": "M_TORSO",
+      "equipment": "T07_AL_PERFORATED_TRAY",
+      "sampled_vertex_min_distance_mm": 56.21327364120526,
+      "vertices_inside": 0
+    },
+    {
+      "state": "07",
+      "body": "M_ARM-1",
+      "equipment": "LAPTOP_BASE",
+      "sampled_vertex_min_distance_mm": 15.636846247412729,
+      "vertices_inside": 0
+    },
+    {
+      "state": "07",
+      "body": "M_ARM-1",
+      "equipment": "T07_AL_PERFORATED_TRAY",
+      "sampled_vertex_min_distance_mm": 93.15485733001303,
+      "vertices_inside": 0
+    },
+    {
+      "state": "07",
+      "body": "M_FOREARM-1",
+      "equipment": "LAPTOP_BASE",
+      "sampled_vertex_min_distance_mm": 43.92922186149308,
+      "vertices_inside": 0
+    },
+    {
+      "state": "07",
+      "body": "M_FOREARM-1",
+      "equipment": "RUBBER_RISER_1130_177",
+      "sampled_vertex_min_distance_mm": 126.33517840691049,
+      "vertices_inside": 0
+    },
+    {
+      "state": "07",
+      "body": "M_FOREARM-1",
+      "equipment": "D_C1_CANTILEVER",
+      "sampled_vertex_min_distance_mm": 53.248050328957,
+      "vertices_inside": 0
+    },
+    {
+      "state": "07",
+      "body": "M_FOREARM-1",
+      "equipment": "T07_AL_PERFORATED_TRAY",
+      "sampled_vertex_min_distance_mm": 111.38932914919056,
+      "vertices_inside": 0
+    },
+    {
+      "state": "07",
+      "body": "M_THIGH-1",
+      "equipment": "D_C1_CANTILEVER",
+      "sampled_vertex_min_distance_mm": 97.02081045121015,
+      "vertices_inside": 0
+    },
+    {
+      "state": "07",
+      "body": "M_THIGH-1",
+      "equipment": "T07_AL_PERFORATED_TRAY",
+      "sampled_vertex_min_distance_mm": 136.466686411766,
+      "vertices_inside": 0
+    },
+    {
+      "state": "07",
+      "body": "M_THIGH1",
+      "equipment": "D_C1_CANTILEVER",
+      "sampled_vertex_min_distance_mm": 161.226117933823,
+      "vertices_inside": 0
+    },
+    {
+      "state": "07",
+      "body": "M_THIGH1",
+      "equipment": "T07_AL_PERFORATED_TRAY",
+      "sampled_vertex_min_distance_mm": 194.21499380238072,
+      "vertices_inside": 0
+    }
+  ],
+  "scope": "Discrete CAD-derived mesh vertices vs closed hard surfaces with AABB prefilter. Does not certify all triangle intersections or swept paths. Intentional hand-keyboard contacts excluded in seated pose. No cloth, granular or force simulation.",
+  "new_design_requirements": [
+    "E01 right side panel end-release seams Z05a/Z05b and closed filler liners",
+    "Left stowage ties for shoulder wrap",
+    "Z06 releasable left leg-cover edge; toe anchorage retained; guide for folds",
+    "Table slide lock and controlled cable service loop"
+  ],
+  "cloth_isometry_validated": false,
+  "continuous_collision_validation": false,
+  "physical_exit_tested": false
+}
