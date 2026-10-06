@@ -1,0 +1,19 @@
+{
+  "status": "REJECTED_PRELIMINARY_POSES",
+  "source_model_sha256": "24e9297daa3b5defa1f84e015e33c6ce3ce87777a7f79eac96e84dc9689d5d0a",
+  "scope": "Summary of the local preliminary vertex-containment screen. These are not the final poses and not a physical experiment.",
+  "findings": [
+    {"states": ["00", "01"], "body": "M_FOREARM-1", "equipment": "LAPTOP_BASE", "vertices_inside": 88, "sampled_vertex_distance_mm": 0.003352085166859652},
+    {"states": ["00", "01"], "body": "M_FOREARM1", "equipment": "LAPTOP_BASE", "vertices_inside": 87, "sampled_vertex_distance_mm": 0.0026790649263909675},
+    {"states": ["02", "03", "04", "05", "06"], "equipment": "D_C1_CANTILEVER", "body_vertices_inside_total_per_state": 58},
+    {"states": ["09"], "body": "M_SHIN-1", "equipment": "D_BASE_LONG_1", "vertices_inside": 10},
+    {"states": ["09"], "body": "M_SHIN-1", "equipment": "D_BASE_CROSS_1120", "vertices_inside": 1},
+    {"states": ["09"], "body": "M_FOOT-1", "equipment": "D_BASE_CROSS_1120", "vertices_inside": 4}
+  ],
+  "corrections": [
+    "Move seated wrists upward 55 mm and backward 30 mm; solve elbows without stretching links.",
+    "Place withdrawn hands over chest/abdomen, not through the front cantilever.",
+    "Move the half-kneeling pose farther right of the original base; record the resulting additional footprint, not just a positive clearance."
+  ],
+  "physical_fit_tested": false
+}
